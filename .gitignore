@@ -1,0 +1,9 @@
+# to exclude Obsidian's settings (including plugin and hotkey configurations)
+.obsidian/
+.trash/
+.DS_Store
+.vscode/
+.personal/
+
+
+megalinter-reports/
