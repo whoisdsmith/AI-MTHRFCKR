@@ -4,8 +4,6 @@
 
 ---
 
-
-
 **This repository contains a collection of AI models and tools that can process various data and create various outputs related to art and image.**
 
 ```
@@ -285,9 +283,9 @@ In this section, you will find AI tools and models for art and image processing.
 - **[Free](#free)**: A collection of free AI-powered art and image tools.
 - **[Generator](#generator)**: AI tools for generating images and art.
 - **[Image](#image)**: AI tools for processing and analyzing images.
-- **[Logo Generator](#logo generator)**: AI tools for generating logos.
+- **[Logo Generator](#logo_generator)**: AI tools for generating logos.
 - **[No Code Tools](#no code tools)**: AI tools for art and image processing that do not require code.
-- **Photo Editing**: AI tools for editing and enhancing photos.
+- **[Photo Editing](#photo editing)**: AI tools for editing and enhancing photos.
 - **Plugins & Extensions**: AI plugins and extensions for popular image editing software.
 - **Prompts**: AI-generated prompts for new art and image projects.
 - **Showcase**: A showcase of AI-generated art and images.
@@ -323,11 +321,12 @@ In this section, you will find AI tools and models for art and image processing.
 
 ## Apps
 
-- [ArtRoom AI](https://artroom.ai/download-app)
+
 - [Bigjpg](https://bigjpg.com/) - AI Super-Resolution Lossless Image Enlarging / Upscaling Tool Using Deep Convolutional Neural Networks
-- [Dream By WOMBO](https://dream.ai/)
+- [Dream](https://dream.ai/) - Artwork using the power of AI. 
 - [Starryai](https://starryai.com/) - AI Art Generator App - AI Art Maker
-- [Synth.run](https://www.synth.run/)
+- [Synth.run](https://www.synth.run/) - Transform Text Into Stunning Art In Seconds With Our Prompt-based Tool.
+
 
 ---
 
@@ -2682,6 +2681,7 @@ In this section, you will find all things related to software development using 
 - [AI Art & Picture Generator](https://appraven.net/apps/detail.php?appid=1660438833)
 - [AI Artwork](https://appraven.net/apps/detail.php?appid=1659982315) - AI Image Creator
 - [AI Assistant 4.0](https://appraven.net/apps/detail.php?appid=1664402132) - Chatbot
+- [AI Avatar Art Generator](https://apps.apple.com/us/app/ai-avatar-art-generator/id1660818202) - Art Generator
 - [AI Avatar](https://appraven.net/apps/detail.php?appid=1660818202) - Art Generator
 - [AI Avatar](https://appraven.net/apps/detail.php?appid=1661527169) - AI Art Generator
 - [AI Avatars](https://appraven.net/apps/detail.php?appid=1659210639) - AI Avatars
@@ -2711,6 +2711,7 @@ In this section, you will find all things related to software development using 
 - [Airtor AI Art Avatar Editor](https://appraven.net/apps/detail.php?appid=1660900985)
 - [AI Sign](https://appraven.net/apps/detail.php?appid=1663187476) - Sign Language
 - [AI Studio](https://appraven.net/apps/detail.php?appid=6444828039) - Art AI
+- [AI & Stuff](https://apps.apple.com/us/app/ai-stuff/id6444918261) - AI Art Generator
 - [AI Talks Back](https://appraven.net/apps/detail.php?appid=1660087840)
 - [AivatarAI Avatar Maker](https://appraven.net/apps/detail.php?appid=6444553717)
 - [AI Wallpapers Generator](https://appraven.net/apps/detail.php?appid=1662227892)
@@ -2731,6 +2732,7 @@ In this section, you will find all things related to software development using 
 - [ArtgoAI Art Generator](https://appraven.net/apps/detail.php?appid=6443880338)
 - [Artist.AI - AI Art Generator](https://appraven.net/apps/detail.php?appid=6443737787)
 - [Artist AI](https://appraven.net/apps/detail.php?appid=6443932537) - AI Art Generator
+- [Artist.ai](https://apps.apple.com/us/app/artist-ai-ai-art-generator/id6443737787) - AI Art Generator 
 - [Artist - AI Image Generator](https://appraven.net/apps/detail.php?appid=1662333649)
 - [Art Maker With AI](https://appraven.net/apps/detail.php?appid=1664040397) - AI Art Generator
 - [Artpix - AI Art Generator](https://appraven.net/apps/detail.php?appid=6443470415)
@@ -2768,6 +2770,7 @@ In this section, you will find all things related to software development using 
 - [Create AI Art Image Generator](https://appraven.net/apps/detail.php?appid=6444359928)
 - [Creator](https://appraven.net/apps/detail.php?appid=6444194055) - AI Generated Art
 - [Darwin・AI Art Generator・Paint](https://appraven.net/apps/detail.php?appid=1643135381)
+- [DARWIN](https://apps.apple.com/us/app/darwin-ai-art-generator-paint/id1643135381) - AI Art Generator
 - [Davinci - AI Avatar Art](https://appraven.net/apps/detail.php?appid=1630366866)
 - [Dawn AI - Avatar Generator](https://appraven.net/apps/detail.php?appid=1643890882)
 - [Dawn AI](https://appraven.net/apps/detail.php?appid=1660274271) - AI Generated Art
@@ -2802,11 +2805,13 @@ In this section, you will find all things related to software development using 
 - [Hereafter AI](https://appraven.net/apps/detail.php?appid=1626176069)
 - [Iface AI Face Swap App](https://appraven.net/apps/detail.php?appid=1471067972)
 - [ImagineAI Draw Art Generator](https://appraven.net/apps/detail.php?appid=1645517281)
+- [ImmaginAI](https://apps.apple.com/us/app/immaginai/id6443847303) - AI Art Generator
 - [Instasize Photo Editor AI](https://appraven.net/apps/detail.php?appid=576649830)
 - [Invesya - Dream Art Generator](https://appraven.net/apps/detail.php?appid=1629450103)
 - [InwordsReflect With Remy](https://appraven.net/apps/detail.php?appid=1484896648)
 - [Ipaint - AI Avatar Creator](https://appraven.net/apps/detail.php?appid=1662501030)
 - [Jasper AI - Chat AI Chatbot](https://appraven.net/apps/detail.php?appid=1664812190)
+- [Joyfusion](https://apps.apple.com/us/app/joyfusion-ai-generation/id1661652021) - AI Generation
 - [Katrina - AI Assistant](https://appraven.net/apps/detail.php?appid=1661495822)
 - [Kawaii - AI Image Generator](https://appraven.net/apps/detail.php?appid=6444872562)
 - [KeybotAI Keyboard](https://appraven.net/apps/detail.php?appid=1663671666)
@@ -2815,6 +2820,7 @@ In this section, you will find all things related to software development using 
 - [Lisa AI Art, Magic Avatar](https://appraven.net/apps/detail.php?appid=6443832829)
 - [Lobe | Machine Learning Made Easy](https://www.Lobe.Ai/)
 - [Luma AI](https://appraven.net/apps/detail.php?appid=1615849914)
+- [Luna AI](https://apps.apple.com/us/app/luna-ai-picture-art-generator/id6443476581) - AI Picture Art Generator
 - [Luna AI Picture Art Generator](https://appraven.net/apps/detail.php?appid=6443476581)
 - [MagicAI - AI Art Generator](https://appraven.net/apps/detail.php?appid=6444307607)
 - [Magic Art - AI Art Generator](https://appraven.net/apps/detail.php?appid=6444602479)
@@ -2850,6 +2856,7 @@ In this section, you will find all things related to software development using 
 - [Picma - AI Photo Enhancer](https://appraven.net/apps/detail.php?appid=1599103406)
 - [Picmo AI](https://appraven.net/apps/detail.php?appid=6443432646)
 - [Picsart AI Photo Editor](https://appraven.net/apps/detail.php?appid=587366035)
+- [Pim.ai](https://apps.apple.com/us/app/pim-ai/id1662078105) - Productivity AI
 - [PixAI](https://appraven.net/apps/detail.php?appid=6443815029)
 - [Pocket AI Gpt AI Writer](https://appraven.net/apps/detail.php?appid=1665203508)
 - [Pocket Assistant With AI](https://appraven.net/apps/detail.php?appid=1664241418)
@@ -2861,6 +2868,7 @@ In this section, you will find all things related to software development using 
 - [Recommendator](https://appraven.net/apps/detail.php?appid=1600056062)
 - [Reimage AI](https://appraven.net/apps/detail.php?appid=1641365018)
 - [Remini - AI Photo Enhancer](https://appraven.net/apps/detail.php?appid=1470373330)
+- [Remove Objects](https://apps.apple.com/us/app/remove-objects-retouch-ai/id1662352918) - Retouch AI 
 - [Repixel - AI Photo Enhancer](https://appraven.net/apps/detail.php?appid=1643863220)
 - [ReplAI](https://appraven.net/apps/detail.php?appid=1662898937)
 - [Replika - Virtual AI Friend](https://appraven.net/apps/detail.php?appid=1158555867)
@@ -2886,8 +2894,10 @@ In this section, you will find all things related to software development using 
 - [Type AI](https://appraven.net/apps/detail.php?appid=1659285044) - Write & Chat With AI
 - [Unselfie](https://appraven.net/apps/detail.php?appid=6444101854) - AI Portraits Maker
 - [Uranus](https://appraven.net/apps/detail.php?appid=6443562756) - AI Art Stable Generator
+- [Uranus](https://apps.apple.com/us/app/uranus-ai-art-stable-generator/id6443562756) - AI Art Stable Generator 
 - [Use For AI](https://appraven.net/apps/detail.php?appid=1661181256)
 - [Virtual Assistant](https://appraven.net/apps/detail.php?appid=1661312606) - AI Chatbot
+- [VoiceAI](https://apps.apple.com/us/app/voice-ai-voice-changer/id6444030605) - Voice Changer.
 - [Voi](https://appraven.net/apps/detail.php?appid=6444311111) - AI Avatar Portrait Maker
 - [Voilà](https://appraven.net/apps/detail.php?appid=1558421405) - AI Artist Cartoon Avatar
 - [Waifu Art AI](https://appraven.net/apps/detail.php?appid=6444585505) - Local Generator
@@ -2906,6 +2916,7 @@ In this section, you will find all things related to software development using 
 - [Writing Helper](https://appraven.net/apps/detail.php?appid=1662263175) - AI Chatbot
 - [Yume AI](https://appraven.net/apps/detail.php?appid=6444858226) - Custom Avatars
 
+
 ---
 
 ## Software
@@ -2916,6 +2927,7 @@ In this section, you will find all things related to software development using 
 - [NMKD Stable Diffusion GUI](https://nmkd.itch.io/t2i-gui) - AI Image Generator By N00MKRAD
 - [Softology](https://softology.pro/voc.htm) - Visions Of Chaos
 - [Topaz Video AI](https://www.topazlabs.com/video-enhance-ai/ref/1354)
+- [ArtRoom AI](https://artroom.ai/download-app) - Local GUI For Stable Diffusion. Make Beautiful AI Generated Art Without Touching A Single Line Of Code - Windows
 
 ---
 
