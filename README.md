@@ -233,49 +233,48 @@
 - [Starryai](https://starryai.com/) - AI Art Generator App - AI Art Maker
 - [Synth.run](https://www.synth.run/) - Transform Text Into Stunning Art In Seconds With Our Prompt-based Tool.
 
-
 ---
 
 ## Art
 
 - [NightCafe Creator](https://creator.nightcafe.studio/)- 🤖 🖼 AI Art Generator, AI Art Maker
-- [AI Art Apps Database](https://aiartapps.com/?ref=futurepedia)
-- [Al Picasso](https://aipicasso.studio.site/?ref=futurepedia)
-- [Aragon](https://www.aragon.ai/?ref=futurepedia) - Image Generation
+- [AI Art Apps Database](https://aiartapps.com/)
+- [Al Picasso](https://aipicasso.studio.site/)
+- [Aragon](https://www.aragon.ai/) - Image Generation
 - [Archillect - Archive](https://archillect.com/archive)
-- [Artbreeder](https://www.artbreeder.com/?ref=futurepedia)
-- [ArtHub](https://arthub.ai/?ref=futurepedia)
-- [Artroom AI](https://artroom.ai/download-app?ref=futurepedia)
+- [Artbreeder](https://www.artbreeder.com/)
+- [ArtHub](https://arthub.ai/)
+- [Artroom AI](https://artroom.ai/download-app)
 - [Artvee](https://artvee.com/)
-- [Astria](https://www.astria.ai/?ref=futurepedia)
+- [Astria](https://www.astria.ai/)
 - [Beautiful.ai](https://www.beautiful.ai/)
-- [Civitai](https://civitai.com/?ref=futurepedia)
-- [Clipdrop](https://clipdrop.co/?ref=futurepedia)
-- [Daft Art](https://daftart.ai/?ref=futurepedia)
+- [Civitai](https://civitai.com/)
+- [Clipdrop](https://clipdrop.co/)
+- [Daft Art](https://daftart.ai/)
 - [DALL·E 2](https://openai.com/dall-e-2)
-- [DaVinciFace](https://www.davinciface.com/?ref=futurepedia)
-- [DiffusionBee](https://diffusionbee.com/?ref=futurepedia)
-- [Diffusion Land](https://diffusion.land/?ref=futurepedia)
-- [Dreamlike.art](https://dreamlike.art/?ref=futurepedia)
-- [Dream Up (Deviant Art)](https://www.dreamup.com/?ref=futurepedia)
-- [Fy! Studio](https://www.iamfy.co/studio?ref=futurepedia)
-- [Lexica](https://lexica.art/?ref=futurepedia)
-- [Libraire](https://libraire.ai/?ref=futurepedia)
-- [Mage](https://www.mage.space/?ref=futurepedia)
-- [Midjourney](https://www.midjourney.com/home/?ref=futurepedia)
-- [Neural.love](https://neural.love/?ref=futurepedia) - Art Generator
-- [NightCafe Studio](https://creator.nightcafe.studio/?ref=futurepedia)
-- [Nijijourney](https://nijijourney.com/en/?ref=futurepedia)
-- [Openart](https://openart.ai/?ref=futurepedia)
-- [Phraser](https://phraser.tech/?ref=futurepedia)
-- [PicSo](https://picso.ai/?ref=futurepedia)
+- [DaVinciFace](https://www.davinciface.com/)
+- [DiffusionBee](https://diffusionbee.com/)
+- [Diffusion Land](https://diffusion.land/)
+- [Dreamlike.art](https://dreamlike.art/)
+- [Dream Up (Deviant Art)](https://www.dreamup.com/)
+- [Fy! Studio](https://www.iamfy.co/studio)
+- [Lexica](https://lexica.art/)
+- [Libraire](https://libraire.ai/)
+- [Mage](https://www.mage.space/)
+- [Midjourney](https://www.midjourney.com/home/)
+- [Neural.love](https://neural.love/) - Art Generator
+- [NightCafe Studio](https://creator.nightcafe.studio/)
+- [Nijijourney](https://nijijourney.com/en/)
+- [Openart](https://openart.ai/)
+- [Phraser](https://phraser.tech/)
+- [PicSo](https://picso.ai/)
 - [PicSo](https://picso.ai/) - Text To AI Art Maker
-- [Playground AI](https://playgroundai.com/?ref=futurepedia)
-- [Quasi](https://quasi.market/?ref=futurepedia)
+- [Playground AI](https://playgroundai.com/)
+- [Quasi](https://quasi.market/)
 - [Sumopaint X](https://paint.sumo.app/?lang=en)
-- [Super Prompt](https://superprompts.com/?ref=futurepedia)
-- [Vana Portrait](https://portrait.vana.com/?ref=futurepedia)
-- [Wombo](https://www.wombo.art/?ref=futurepedia)
+- [Super Prompt](https://superprompts.com/)
+- [Vana Portrait](https://portrait.vana.com/)
+- [Wombo](https://www.wombo.art/)
 
 ---
 
@@ -509,30 +508,30 @@
 
 ## Editing
 
-- [AI. Image Enlarger](https://imglarger.com/?ref=futurepedia)
-- [Al Picasso](https://aipicasso.studio.site/?ref=futurepedia)
-- [Astria](https://www.astria.ai/?ref=futurepedia)
-- [Befunky](https://www.befunky.com/?ref=futurepedia)
-- [Bg.Eraser](https://bgeraser.com/?ref=futurepedia)
-- [Bria](https://bria.ai/?ref=futurepedia)
-- [Erase.bg](https://www.erase.bg/?ref=futurepedia)
-- [Evoto AI](https://www.evoto.ai/?ref=futurepedia)
-- [Getimg.ai](https://getimg.ai/?ref=futurepedia)
-- [Green Screen AI](https://greenscreenai.com/?ref=futurepedia)
-- [Hama-Image Editing](https://www.hama.app/?ref=futurepedia)
-- [Let's Enhance](https://letsenhance.io/?ref=futurepedia)
-- [Magic Eraser](https://magiceraser.io/?ref=futurepedia)
-- [Nostalgia Photo](https://www.nostalgia.photo/?ref=futurepedia)
-- [Palette.fm](https://palette.fm/?ref=futurepedia)
-- [Perfectly Clear Video](https://eyeq.photos/automatic-ai-video-enhancement/?ref=futurepedia)
-- [Photoroom](https://www.photoroom.com/?ref=futurepedia)
-- [QuickTools By Picsart](https://tools.picsart.com/image//?ref=futurepedia)
-- [Radiant Photo](https://radiantimaginglabs.com/?ref=futurepedia)
-- [Remove.bg](https://www.remove.bg/?ref=futurepedia)
-- [RestorePhotos](https://www.restorephotos.io/?ref=futurepedia)
-- [RocketAI](https://rocketai.io/?ref=futurepedia)
-- [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai?ref=futurepedia)
-- [Visio Studio](https://visio.studio/?ref=futurepedia)
+- [AI. Image Enlarger](https://imglarger.com/)
+- [Al Picasso](https://aipicasso.studio.site/)
+- [Astria](https://www.astria.ai/)
+- [Befunky](https://www.befunky.com/)
+- [Bg.Eraser](https://bgeraser.com/)
+- [Bria](https://bria.ai/)
+- [Erase.bg](https://www.erase.bg/)
+- [Evoto AI](https://www.evoto.ai/)
+- [Getimg.ai](https://getimg.ai/)
+- [Green Screen AI](https://greenscreenai.com/)
+- [Hama-Image Editing](https://www.hama.app/)
+- [Let's Enhance](https://letsenhance.io/)
+- [Magic Eraser](https://magiceraser.io/)
+- [Nostalgia Photo](https://www.nostalgia.photo/)
+- [Palette.fm](https://palette.fm/)
+- [Perfectly Clear Video](https://eyeq.photos/automatic-ai-video-enhancement/)
+- [Photoroom](https://www.photoroom.com/)
+- [QuickTools By Picsart](https://tools.picsart.com/image//)
+- [Radiant Photo](https://radiantimaginglabs.com/)
+- [Remove.bg](https://www.remove.bg/)
+- [RestorePhotos](https://www.restorephotos.io/)
+- [RocketAI](https://rocketai.io/)
+- [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai)
+- [Visio Studio](https://visio.studio/)
 
 ---
 
@@ -763,7 +762,7 @@
 - [Designs AI](https://designs.ai/) - Creative work done effortlessly
 - [Brandmark](http://brandmark.io) - Brandmark Logo Maker - The Most Advanced Ai Logo Design Tool
 - [Looka](https://looka.grsm.io/jscfk35v34tn) - Free Logo Maker & Intelligent Brand Designer. Make A Logo And Build A Brand You Love With Looka.
-- [Make Logo AI](https://makelogo.ai/) - Makelogo. Ai Get The Perfect Logo For Your Startup. Generate Beautiful And Unique Logos For Your Startup, Powered By Artifical Intelligence.
+- [Make Logo AI](https://makelogo.ai/) - Makelogo. Ai Get The Perfect Logo For Your Startup. Generate Beautiful And Unique Logos For Your Startup, Powered By Artificial Intelligence.
 - [Namecheap](https://www.namecheap.com/logo-maker/app/new/) - Logo Maker
 - [Text To Book Cover](http://stockimg.ai) - Ai Image Generation For Teams - You Can Easily Generate Ai Logo, Ai Book Covers, Ai Posters And More - Stockimg Ai. AI Image Generation For Teams - You Can Easily Generate AI Logo, AI Book Covers, AI Posters And More - Stockimg AI.
 
@@ -1044,13 +1043,13 @@
 
 ## Music
 
-- [Amper](https://score.ampermusic.com/?ref=futurepedia)
-- [Beatoven.ai](https://www.beatoven.ai/?ref=futurepedia)
-- [Boomy](https://boomy.com/?ref=futurepedia)
-- [Daft Art](https://daftart.ai/?ref=futurepedia)
-- [Emergent Drums](https://audialab.com/?ref=futurepedia)
-- [Endel](https://endel.io/?ref=futurepedia)
-- [Harmonai](https://www.harmonai.org/?ref=futurepedia)
+- [Amper](https://score.ampermusic.com/)
+- [Beatoven.ai](https://www.beatoven.ai/)
+- [Boomy](https://boomy.com/)
+- [Daft Art](https://daftart.ai/)
+- [Emergent Drums](https://audialab.com/)
+- [Endel](https://endel.io/)
+- [Harmonai](https://www.harmonai.org/)
 - [LALAL. AI Voice Cleaner](http://www.lalal.ai/) - Extract Vocal, Accompaniment And Various Instruments From Any And Video. High-quality Stem Splitting Based On The World's #1 AI-powered Technology.
 - [Musico](http://www.musi-co.com) - Musico - Ai Generative Music. Musico Is An AI-driven Software Engine That Generates Music. It Can React To Gesture, Movement, Code Or Other Sound.
 - [Natural Language Playlist](https://www.naturallanguageplaylist.com/)
@@ -1078,68 +1077,68 @@
 
 **In this section, you will find AI tools and models related to business and commerce.**
 
-* **[Customer Support](#customer-support)**: AI tools for customer support, such as chatbots and virtual assistants.
-* **[Human Resources](#human-resources)**: AI models and tools for HR tasks, like resume screening and interview scheduling.
-* **[Reviews & Recommendations](#reviews-&-recommendations)**: AI tools for analyzing customer reviews and generating product recommendations.
-* **[Search Engine](#search-engine)**: AI-powered search engines to find information.
-* **[SEO](#seo)**: AI tools for optimizing websites for search engines, including keyword analysis, backlink analysis, etc.
-* **[Startup](#startup)**: AI tools and resources for startups, like financial modeling and marketing.
+- **[Customer Support](#customer-support)**: AI tools for customer support, such as chatbots and virtual assistants.
+- **[Human Resources](#human-resources)**: AI models and tools for HR tasks, like resume screening and interview scheduling.
+- **[Reviews & Recommendations](#reviews-&-recommendations)**: AI tools for analyzing customer reviews and generating product recommendations.
+- **[Search Engine](#search-engine)**: AI-powered search engines to find information.
+- **[SEO](#seo)**: AI tools for optimizing websites for search engines, including keyword analysis, backlink analysis, etc.
+- **[Startup](#startup)**: AI tools and resources for startups, like financial modeling and marketing.
 
 ## Customer Support
 
-- [Adobe Sensei](https://www.adobe.com/br/sensei.html?ref=futurepedia)
+- [Adobe Sensei](https://www.adobe.com/br/sensei.html)
 - [AI Answers By Cohere](http://cohere.io) Conversational Ai Platform For Customer Support - Cohere. AI-powered Support Assistance That Finds Answers From Previous Tickets.
 - [Bahasa](http://www.bahasa.ai) Bahasa. Ai - Chatbot Which Serves Customers Fully. Automation That Helps Your Business Serves Millions Of Happy Customers Fastlyâpowered By AI Specially Built For Bahasa Indonesia.
-- [BotDistrikt](https://www.botdistrikt.com/?ref=futurepedia)
-- [Cohere](https://cohere.io/?ref=futurepedia)
-- [Delve](https://www.delve.ai/?ref=futurepedia)
-- [Ebi.Ai](https://ebi.ai/?ref=futurepedia)
-- [Echowin](https://echo.win/?ref=futurepedia)
+- [BotDistrikt](https://www.botdistrikt.com/)
+- [Cohere](https://cohere.io/)
+- [Delve](https://www.delve.ai/)
+- [Ebi.Ai](https://ebi.ai/)
+- [Echowin](https://echo.win/)
 - [EddyAI](http://eddyai.com) Sell And Support Your Customers Automatically 24/7. Increase Sales And Reduce Support Costs.
-- [Forethought](https://forethought.ai/?ref=futurepedia)
-- [Harvey](https://hiverhq.com/harvey-ai-customer-support?ref=futurepedia)
-- [Kaizan](https://kaizan.ai/?ref=futurepedia)
-- [Kore.ai](https://kore.ai/?ref=futurepedia)
-- [Maya](https://maya.ai/?ref=futurepedia)
-- [Poly.ai](https://poly.ai/?ref=futurepedia)
-- [Puzzle](https://www.puzzlelabs.ai/?ref=futurepedia)
-- [Quickchat](https://www.quickchat.ai/?ref=futurepedia)
-- [Regie](https://www.regie.ai/?ref=futurepedia)
+- [Forethought](https://forethought.ai/)
+- [Harvey](https://hiverhq.com/harvey-ai-customer-support)
+- [Kaizan](https://kaizan.ai/)
+- [Kore.ai](https://kore.ai/)
+- [Maya](https://maya.ai/)
+- [Poly.ai](https://poly.ai/)
+- [Puzzle](https://www.puzzlelabs.ai/)
+- [Quickchat](https://www.quickchat.ai/)
+- [Regie](https://www.regie.ai/)
 - [ResolveAI](http://resolveai.co) Resolveai. Our AI Chatbots Are Designed To Understand Customer Issues And Provide Tailored, Accurate Responses In Real-time.
-- [Tiledesk](https://tiledesk.com/?ref=futurepedia)
-- [Typewise](https://www.typewise.app/?ref=futurepedia)
-- [Vee](https://vee.ai/en/?ref=futurepedia)
-- [Viable](https://www.askviable.com/?ref=futurepedia)
-- [Xokind](https://www.xokind.com/?ref=futurepedia)
+- [Tiledesk](https://tiledesk.com/)
+- [Typewise](https://www.typewise.app/)
+- [Vee](https://vee.ai/en/)
+- [Viable](https://www.askviable.com/)
+- [Xokind](https://www.xokind.com/)
 
 ---
 
 ## Human Resources
 
-- [AI Careers](https://aicareers.io/?ref=futurepedia)
-- [Autumn AI](https://www.getautumn.com/?ref=futurepedia)
+- [AI Careers](https://aicareers.io/)
+- [Autumn AI](https://www.getautumn.com/)
 - [Cover Letter AI](https://coverletterai.app/) Cover Letter Ai.
-- [Dost](https://getdost.com/?ref=futurepedia)
-- [Ferret](https://www.ferret.ai/?ref=futurepedia)
-- [GeniusReview](https://geniusreview.xyz/?ref=futurepedia)
+- [Dost](https://getdost.com/)
+- [Ferret](https://www.ferret.ai/)
+- [GeniusReview](https://geniusreview.xyz/)
 - [Hire Hoc](http://hirehoc.com) Hire Hoc - The Ai Powered Hiring Tool. Transform Your Organization With The Power Of AI-Assisted Recruiting.
 - [Hirex.ai](http://www.hirex.ai) Hirex. Ai. Welcome To Hirex.ai, A No-code AI Platform To Build Voice-based Bots That Conduct And Score Interviews At Scale. Get The Complete Suite Of Assessments Tools Like Coding Interviews, MCQ Tests, Hackathons, Video Interviews, And WhatsApp Chatbots All Under Single Dashboard.
 - [HireYaY](http://hireyay.com) Hireyay, A Hiring Platform For Startups. 92% Of Job Seekers Do Not Finish Their Online Application. With HireYaY, You Will Never Miss A Qualified Candidate Again.
-- [HireYaY](https://hireyay.com/?ref=futurepedia)
+- [HireYaY](https://hireyay.com/)
 - [JD Generator](http://hirequotient.com) Meet The Team - Hirequotient. HireQuotient' S Skill Assessment Platform Helps You Hire The Top 10% Of The Talent Pool In Half The Time.
-- [JobtitlesAI](https://jobtitlesai.com/?ref=futurepedia)
-- [Kore.ai](https://kore.ai/?ref=futurepedia)
+- [JobtitlesAI](https://jobtitlesai.com/)
+- [Kore.ai](https://kore.ai/)
 - [LazyApply](http://lazyapply.com) Automate Your Job Application Process. We Automatically Apply To All The Jobs On Platforms Like Linkedin, Indeed And Ziprecruiter.
-- [Moveworks](https://www.moveworks.com/?ref=futurepedia)
-- [Proposal Genie](https://www.proposalgenie.ai/?ref=futurepedia)
-- [Qatalog](https://qatalog.com/?ref=futurepedia)
+- [Moveworks](https://www.moveworks.com/)
+- [Proposal Genie](https://www.proposalgenie.ai/)
+- [Qatalog](https://qatalog.com/)
 - [Rankode](http://www.rankode.ai) Ai For Human Resources - Rankode. Recruiters, Everything You Need To Know About A Candidate's Programming Skills Is In Their GitHub. Evaluate Them Automatically With Rankode To Avoid Expensive Hiring Mistakes And Superboost Your Retention.
 - [Resume Worded](http://resumeworded.com) Improve Your Resume And Linkedin Profile. Designed By Top Recruiters, Our AI-powered Platform Instantly Gives You Tailored Feedback On Your Resume And LinkedIn Profile. Land 5x More Interviews, Opportunities And Job Offers.
-- [Resume Worded](https://resumeworded.com/index.php?ref=futurepedia)
+- [Resume Worded](https://resumeworded.com/index.php)
 - [Springworks](http://www.springworks.in) Hr Software Solutions For Growing Businesses. Springworks Builds Human Resources Software Solutions To Solve Challenges In Recruitment, Background Verification & Employee Engagement With Blockchain And AI.
-- [SwagAI](https://www.useslingshot.com/swagai/?ref=futurepedia)
-- [Upcat](https://upcat.app/?ref=futurepedia)
-- [Write Me A Cover Letter](https://writemeacoverletter.com/?ref=futurepedia)
+- [SwagAI](https://www.useslingshot.com/swagai/)
+- [Upcat](https://upcat.app/)
+- [Write Me A Cover Letter](https://writemeacoverletter.com/)
 
 ---
 
@@ -1156,110 +1155,110 @@
 ## Search Engine
 
 - [AI-Powered Search Engine - Lucidworks](https://lucidworks.com/ai-powered-search/)
-- [Algolia](https://www.algolia.com/?ref=futurepedia)
+- [Algolia](https://www.algolia.com/)
 - [Andi](https://andisearch.com/)
 - [Anypod](http://www.anypod.ai) Search Engines Built For Creators. We Make Your Content Searchable.
-- [ArtHub](https://arthub.ai/?ref=futurepedia)
-- [Bria](https://bria.ai/?ref=futurepedia)
-- [Casetext](https://casetext.com/?ref=futurepedia)
-- [ChatGPT Chrome Extension](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban?ref=futurepedia)
-- [ChatGPT](https://chat.openai.com/chat?ref=futurepedia)
-- [Civitai](https://civitai.com/?ref=futurepedia)
-- [Consensus](https://consensus.app/?ref=futurepedia)
+- [ArtHub](https://arthub.ai/)
+- [Bria](https://bria.ai/)
+- [Casetext](https://casetext.com/)
+- [ChatGPT Chrome Extension](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban)
+- [ChatGPT](https://chat.openai.com/chat)
+- [Civitai](https://civitai.com/)
+- [Consensus](https://consensus.app/)
 - [Context | AI-Powered Audio & Video Search Engine](https://addcontext.xyz/)
-- [Dreamsands](https://dreamsands.ai/?ref=futurepedia)
-- [Dream Up (Deviant Art)](https://www.dreamup.com/?ref=futurepedia)
-- [Enterpix](https://enterpix.app/?ref=futurepedia)
-- [Everypixel](https://www.everypixel.com/?ref=futurepedia)
-- [Explore AI](https://exploreai.vercel.app/?ref=futurepedia)
-- [Fireflies.ai](https://fireflies.ai/?ref=futurepedia)
-- [Generated Photos](https://generated.photos/?ref=futurepedia)
-- [Glean](https://www.glean.com/?ref=futurepedia)
+- [Dreamsands](https://dreamsands.ai/)
+- [Dream Up (Deviant Art)](https://www.dreamup.com/)
+- [Enterpix](https://enterpix.app/)
+- [Everypixel](https://www.everypixel.com/)
+- [Explore AI](https://exploreai.vercel.app/)
+- [Fireflies.ai](https://fireflies.ai/)
+- [Generated Photos](https://generated.photos/)
+- [Glean](https://www.glean.com/)
 - [Hello: Search Engine For Developers](https://beta.sayhello.so/)
-- [Imaiger](https://imaiger.com/?ref=futurepedia)
-- [Kailua Labs](https://app.kailualabs.com/image-search?ref=futurepedia)
-- [Krea](https://www.krea.ai/?ref=futurepedia)
+- [Imaiger](https://imaiger.com/)
+- [Kailua Labs](https://app.kailualabs.com/image-search)
+- [Krea](https://www.krea.ai/)
 - [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images)
 - [Lexii.ai](http://lexii.ai/) Lexii. Ai. Lexii.ai Is An AI Search Assistant That Answers Questions And Cites Sources.
-- [Libraire](https://libraire.ai/?ref=futurepedia)
-- [Looria](https://looria.com/?ref=futurepedia)
-- [Mage](https://www.mage.space/?ref=futurepedia)
-- [NeevaAI](https://neeva.com/?ref=futurepedia)
-- [Nuclia](https://nuclia.com/?ref=futurepedia)
-- [Nyx](https://nyx.gallery/?ref=futurepedia)
-- [One More AI](https://onemoreai.com/?ref=futurepedia)
+- [Libraire](https://libraire.ai/)
+- [Looria](https://looria.com/)
+- [Mage](https://www.mage.space/)
+- [NeevaAI](https://neeva.com/)
+- [Nuclia](https://nuclia.com/)
+- [Nyx](https://nyx.gallery/)
+- [One More AI](https://onemoreai.com/)
 - [OpenArt Photo Booth](http://openart.ai) Discover And Generate Ai Art - Openart. Search 10M+ Prompts, And Generate AI Art Via Stable Diffusion, DALL·E 2.
 - [Perplexity AI](http://www.perplexity.ai) Perplexity Ai.
 - [Phind: AI Search Engine](https://phind.com/)
-- [Playground AI](https://playgroundai.com/?ref=futurepedia)
-- [PromptBase](https://promptbase.com/?ref=futurepedia)
-- [PromptHero](https://prompthero.com/?ref=futurepedia)
-- [Rosebud](https://www.rosebud.ai/?ref=futurepedia)
+- [Playground AI](https://playgroundai.com/)
+- [PromptBase](https://promptbase.com/)
+- [PromptHero](https://prompthero.com/)
+- [Rosebud](https://www.rosebud.ai/)
 - [Search - Consensus - Evidence-Based Answers, Faster](https://consensus.app/search)
 - [Search](https://raindrop.io/whoisdsmith/search-29978203/sort=title&perpage=30&page=0)
-- [Shaped](https://www.shaped.ai/?ref=futurepedia)
+- [Shaped](https://www.shaped.ai/)
 - [Smarty Names](http://smartynames.com) Free Creative Domain Name Search By Ai Robots. Finding A Creative And Unique Domain That Is Still Available Is Easy With SmartyNames.com - Tell Us What You Do, And Our Robots Will Find The Domain That Is Just Right For You. Company Name Generator In One Click.
-- [Steno](https://steno.ai/?ref=futurepedia)
-- [Stock AI](https://www.stockai.com/?ref=futurepedia)
+- [Steno](https://steno.ai/)
+- [Stock AI](https://www.stockai.com/)
 - [StockGPT](https://www.askstockgpt.com/) Ai-Powered Search Engine. StockGPT Is An AI-powered Search Engine That Was Trained On All Of Tesla' S Quarterly Earnings Call Transcripts Dating Back To Q2 2011.
 - [Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool](https://writesonic.com/)
 - [You](http://you.com) The Ai Search Engine You Control.
-- [Zevi.ai](https://www.zevi.ai/?ref=futurepedia)
+- [Zevi.ai](https://www.zevi.ai/)
 
 ---
 
 ## SEO
 
-- [AI-Writer](https://ai-writer.com/?ref=futurepedia)
+- [AI-Writer](https://ai-writer.com/)
 - [ArticleForge](https://www.articleforge.com/?ref=f29ac7)
-- [BlogNLP](https://www.blognlp.com/?ref=futurepedia)
-- [BrameWork](https://bramework.com/?ref=futurepedia)
-- [Closers Copy](https://www.closerscopy.com/?ref=futurepedia)
-- [Compar](https://compar.ai/?ref=futurepedia)
+- [BlogNLP](https://www.blognlp.com/)
+- [BrameWork](https://bramework.com/)
+- [Closers Copy](https://www.closerscopy.com/)
+- [Compar](https://compar.ai/)
 - [Copymatic](https://copymatic.ai/?via=futurepedia)
-- [CTRify](https://www.ctrify.com/?ref=futurepedia)
-- [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg/related?ref=futurepedia)
-- [Eilla AI](https://eilla.ai/?ref=futurepedia)
-- [Genie AI](https://genieai-app.vercel.app/?ref=futurepedia)
-- [Growthbar](https://www.growthbarseo.com/?ref=futurepedia)
-- [Jenni](https://jenni.ai/?ref=futurepedia)
-- [Kafkai](https://kafkai.com/?ref=futurepedia)
-- [Katteb](https://katteb.com/en/?ref=futurepedia)
+- [CTRify](https://www.ctrify.com/)
+- [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg/related)
+- [Eilla AI](https://eilla.ai/)
+- [Genie AI](https://genieai-app.vercel.app/)
+- [Growthbar](https://www.growthbarseo.com/)
+- [Jenni](https://jenni.ai/)
+- [Kafkai](https://kafkai.com/)
+- [Katteb](https://katteb.com/en/)
 - [Keywrds.ai](http://Keywrds.ai)
-- [Letterdrop](https://letterdrop.com/?ref=futurepedia)
+- [Letterdrop](https://letterdrop.com/)
 - [LongShot](https://longshot.ai/?deal=futurepedia)
-- [Mentioned](https://www.mentioned.ai/?ref=futurepedia)
+- [Mentioned](https://www.mentioned.ai/)
 - [Moonbeam](https://gomoonbeam.com/?via=futurepedia-io)
-- [Neuronwriter](https://www.neuronwriter.com/?ref=futurepedia)
-- [Scalenut](https://www.scalenut.com/?ref=futurepedia)
-- [SEO GPT](https://seovendor.co/seo-gpt/?ref=futurepedia)
-- [Spinewriter](https://www.spinrewriter.com/?ref=futurepedia)
-- [Thundercontent](https://thundercontent.com/?ref=futurepedia)
-- [Topicmojo](https://topicmojo.com/?ref=futurepedia)
-- [Typli](https://typli.ai/?ref=futurepedia)
+- [Neuronwriter](https://www.neuronwriter.com/)
+- [Scalenut](https://www.scalenut.com/)
+- [SEO GPT](https://seovendor.co/seo-gpt/)
+- [Spinewriter](https://www.spinrewriter.com/)
+- [Thundercontent](https://thundercontent.com/)
+- [Topicmojo](https://topicmojo.com/)
+- [Typli](https://typli.ai/)
 - [Vidlq](https://vidiq.com/futurepedia)
 - [WordHero](https://wordhero.co/?via=futurepedia)
-- [Word Spinner](https://word-spinner.com/?ref=futurepedia)
-- [Writer](https://writer.com/?ref=futurepedia)
+- [Word Spinner](https://word-spinner.com/)
+- [Writer](https://writer.com/)
 - [Writesonic](https://writesonic.com/?via=futurepedia)
-- [Writey AI](https://writey.ai/?ref=futurepedia)
+- [Writey AI](https://writey.ai/)
 
 ---
 
 ## Startup
 
-- [Broadn](https://www.broadn.io/?ref=futurepedia)
-- [Durable](https://durable.co/?ref=futurepedia)
-- [Finta](https://www.trustfinta.com/?ref=futurepedia)
-- [Ideabuddy](https://ideabuddy.com/?ref=futurepedia)
-- [IdeasAI](https://ideasai.com/?ref=futurepedia)
-- [Namelix](https://namelix.com/?ref=futurepedia)
-- [Namewizard.ai](https://namewizard.ai/?ref=futurepedia)
-- [Paperade](https://www.paperade.co/?ref=futurepedia)
-- [Pitchgrade](https://pitchgrade.com/?ref=futurepedia)
-- [Rationale](https://rationale.jina.ai/?ref=futurepedia)
-- [Tome](https://beta.tome.app/?ref=futurepedia)
-- [Validator AI](https://www.validatorai.com/?ref=futurepedia)
+- [Broadn](https://www.broadn.io/)
+- [Durable](https://durable.co/)
+- [Finta](https://www.trustfinta.com/)
+- [Ideabuddy](https://ideabuddy.com/)
+- [IdeasAI](https://ideasai.com/)
+- [Namelix](https://namelix.com/)
+- [Namewizard.ai](https://namewizard.ai/)
+- [Paperade](https://www.paperade.co/)
+- [Pitchgrade](https://pitchgrade.com/)
+- [Rationale](https://rationale.jina.ai/)
+- [Tome](https://beta.tome.app/)
+- [Validator AI](https://www.validatorai.com/)
 
 ---
 
@@ -1267,9 +1266,9 @@
 
 **In this section, you will find AI tools and models for content generation.**
 
-* **[Content](#content)**: AI tools and models for generating content, such as articles and stories.
-* **[Creators Toolkit](#creators-toolkit)**: Tools and resources for content creators, including templates and design tools.
-* **[Social Media Assistant](#social-media-assistant)**: AI tools for managing social media accounts, like scheduling and content generation.
+- **[Content](#content)**: AI tools and models for generating content, such as articles and stories.
+- **[Creators Toolkit](#creators-toolkit)**: Tools and resources for content creators, including templates and design tools.
+- **[Social Media Assistant](#social-media-assistant)**: AI tools for managing social media accounts, like scheduling and content generation.
 
 ## Content
 
@@ -1325,25 +1324,25 @@
 ## Social Media Assistant
 
 - [Adcreative.ai](https://free-trial.adcreative.ai/yu6pljyh4s0k)
-- [AI Social Bio](https://aisocialbio.com/?ref=futurepedia)
-- [Audiolabs](https://www.audiolabs.io/?ref=futurepedia)
-- [Canva Text To Image](https://www.canva.com/your-apps/text-to-image?ref=futurepedia)
-- [Contentada](https://contenda.co/?ref=futurepedia)
+- [AI Social Bio](https://aisocialbio.com/)
+- [Audiolabs](https://www.audiolabs.io/)
+- [Canva Text To Image](https://www.canva.com/your-apps/text-to-image)
+- [Contentada](https://contenda.co/)
 - [CrawlQ.ai](https://crawlq.ai/?_get=futurepedia)
-- [Editby](https://www.editby.ai/?ref=futurepedia)
-- [FeedHive](https://www.feedhive.com/?ref=futurepedia)
-- [Graham AI](https://www.grahamai.co/?ref=futurepedia)
-- [InstaSalesAI](https://instasalesai.com/?ref=futurepedia)
-- [MagicThumbnails](https://magicthumbnails.com/?ref=futurepedia)
-- [Munch](https://www.getmunch.com/?ref=futurepedia)
-- [Ocoya](https://www.ocoya.net/?ref=futurepedia)
-- [Photor AI](https://photor.io/photoscore?ref=futurepedia)
-- [Predis](https://predis.ai/?ref=futurepedia)
-- [Repl AI](https://replai.so/?ref=futurepedia)
-- [SocialBu](https://socialbu.com/?ref=futurepedia)
-- [Spatial](https://www.spatial.ai/?ref=futurepedia)
-- [TweetEmote](https://tweetemote.com/?ref=futurepedia)
-- [Tweet Hunter](https://tweethunter.io/?ref=futurepedia)
+- [Editby](https://www.editby.ai/)
+- [FeedHive](https://www.feedhive.com/)
+- [Graham AI](https://www.grahamai.co/)
+- [InstaSalesAI](https://instasalesai.com/)
+- [MagicThumbnails](https://magicthumbnails.com/)
+- [Munch](https://www.getmunch.com/)
+- [Ocoya](https://www.ocoya.net/)
+- [Photor AI](https://photor.io/photoscore)
+- [Predis](https://predis.ai/)
+- [Repl AI](https://replai.so/)
+- [SocialBu](https://socialbu.com/)
+- [Spatial](https://www.spatial.ai/)
+- [TweetEmote](https://tweetemote.com/)
+- [Tweet Hunter](https://tweethunter.io/)
 - [Wordhero](https://wordhero.co/?via=futurepedia)
 
 ---
@@ -1352,9 +1351,9 @@
 
 **In this section, you will find AI tools and models related to data processing and analysis.**
 
-* **[Data](#data)**: AI tools and models for processing and analyzing data, including data visualization, data cleaning, etc.
-* **[Spreadsheets](#spreadsheets)**: AI-powered spreadsheets for analyzing and visualizing data.
-* **[SQL](#sql)**: AI tools for working with SQL databases, including SQL query generation and optimization.
+- **[Data](#data)**: AI tools and models for processing and analyzing data, including data visualization, data cleaning, etc.
+- **[Spreadsheets](#spreadsheets)**: AI-powered spreadsheets for analyzing and visualizing data.
+- **[SQL](#sql)**: AI tools for working with SQL databases, including SQL query generation and optimization.
 
 ## Data
 
@@ -1376,24 +1375,24 @@
 
 ## Spreadsheets
 
-- [Excel Formula Bot](https://excelformulabot.com/?ref=futurepedia)
-- [Goodlookup](https://www.goodlookup.com/?ref=futurepedia)
-- [Sheet+](https://sheetplus.ai/?ref=futurepedia)
-- [Sheet AI](https://www.sheetai.app/?ref=futurepedia)
-- [SheetGod](https://www.boloforms.com/sheetgod/?ref=futurepedia)
+- [Excel Formula Bot](https://excelformulabot.com/)
+- [Goodlookup](https://www.goodlookup.com/)
+- [Sheet+](https://sheetplus.ai/)
+- [Sheet AI](https://www.sheetai.app/)
+- [SheetGod](https://www.boloforms.com/sheetgod/)
 
 ---
 
 ## SQL
 
-- [Ai2sql](https://www.ai2sql.io/?ref=futurepedia)
-- [AI Data Sidekick](https://www.airops.com/?ref=futurepedia)
-- [AIHelperBot](https://aihelperbot.com/?ref=futurepedia)
-- [Avanty](https://avanty.app/?ref=futurepedia)
-- [Channel](https://www.usechannel.com/?ref=futurepedia)
-- [CodeSquire](https://codesquire.ai/?ref=futurepedia)
-- [Continual](https://continual.ai/?ref=futurepedia)
-- [Seek](https://www.seek.ai/?ref=futurepedia)
+- [Ai2sql](https://www.ai2sql.io/)
+- [AI Data Sidekick](https://www.airops.com/)
+- [AIHelperBot](https://aihelperbot.com/)
+- [Avanty](https://avanty.app/)
+- [Channel](https://www.usechannel.com/)
+- [CodeSquire](https://codesquire.ai/)
+- [Continual](https://continual.ai/)
+- [Seek](https://www.seek.ai/)
 
 ---
 
@@ -1401,9 +1400,9 @@
 
 **In this section, you will find AI tools and models for design and architecture.**
 
-* **[Architecture](#architecture)**: AI tools for architectural design, including building and interior design.
-* **[Assistant](#assistant)**: AI tools for assisting with design tasks, like color selection and design inspiration.
-* **[Web Design](#web-design)**: AI tools for web design, like website builders and design templates.
+- **[Architecture](#architecture)**: AI tools for architectural design, including building and interior design.
+- **[Assistant](#assistant)**: AI tools for assisting with design tasks, like color selection and design inspiration.
+- **[Web Design](#web-design)**: AI tools for web design, like website builders and design templates.
 
 ## Architecture
 
@@ -1411,42 +1410,42 @@
 - [Dimensions](http://www.dimensions.ink) Dimensions - Rapidly Create Visual Concepts With Ai. Imagine Being Able To Create Beautiful Interior Designs With Ease–that' S What Dimensions Offers
 - [Getfloorplan](http://getfloorplan.com) Creating 2D And 3D Floor Plans With Ai. Up To 30% Calls Increase Reported By Our Clients Using 2D, 3D Floor Plans And Virtual Tours
 - [Image Computer](http://image.computer) Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art. Use Our Powerful AI Technology To Generate Any Type Of Image You Can Think Of. In A Matter Of Seconds
-- [Interior AI](http://interiorai.com) Interior Ai: Interior Design Ideas Inspiration, And Virtual Staging App Using Artifical Intelligence. Get Interior Design Ideas Using Artificial Intelligence And Virtually Stage Interiors For Real Estate Listings With Different Interior Styles
+- [Interior AI](http://interiorai.com) Interior Ai: Interior Design Ideas Inspiration, And Virtual Staging App Using Artificial Intelligence. Get Interior Design Ideas Using Artificial Intelligence And Virtually Stage Interiors For Real Estate Listings With Different Interior Styles
 - [Makeit.ai](http://www.maket.ai) Generative Design - Architecture Design Software - Maket. Our Generative Design Software Enables Architects, Builders & Developers To Quickly Generate Thousands Of Architectural Plans Instantly
 
 ---
 
 ## Assistant
 
-- [AI2image](https://www.ai2image.com/?ref=futurepedia)
-- [AIGraphics](https://aigraphics.io/?ref=futurepedia)
-- [Autodraw](https://autodraw.com/?ref=futurepedia)
-- [Befunky](https://www.befunky.com/?ref=futurepedia)
-- [Booth AI](https://booth.ai/?ref=futurepedia)
-- [CandyIcons](https://www.candyicons.com/?ref=futurepedia)
-- [Clickable](https://www.clickable.so/?ref=futurepedia)
-- [Clipdrop](https://clipdrop.co/?ref=futurepedia)
-- [Designify](https://www.designify.com/?ref=futurepedia)
-- [Designs AI](https://designs.ai/?ref=futurepedia)
-- [Diagram](https://diagram.com/?ref=futurepedia)
-- [Dimensions](https://www.dimensions.ink/?ref=futurepedia)
-- [Flair AI](https://flair.ai/?ref=futurepedia)
-- [Hotpot.ai](https://hotpot.ai/?ref=futurepedia)
-- [IllostrationAI](https://www.illostration.com/?ref=futurepedia)
-- [Illustroke](https://illustroke.com/?ref=futurepedia)
-- [Magician (Figma)](https://magician.design/?ref=futurepedia)
-- [Microsoft Designer](https://designer.microsoft.com/?ref=futurepedia)
-- [Patterned AI](http://patterned.ai/?ref=futurepedia)
-- [Pattern Maker AI](https://patternmakerai.com/?ref=futurepedia)
-- [Photoroom](https://www.photoroom.com/?ref=futurepedia)
-- [Pictorial](https://pictorial.ai/?ref=futurepedia)
-- [Pinegraph](https://pinegraph.com/?ref=futurepedia)
-- [RocketAI](https://rocketai.io/?ref=futurepedia)
-- [Rosebud](https://www.rosebud.ai/?ref=futurepedia)
-- [StockImg AI](https://stockimg.ai/?ref=futurepedia)
-- [Uizard](https://uizard.io/?ref=futurepedia)
-- [Unbound](https://www.unboundcontent.ai/?ref=futurepedia)
-- [Vizcom](https://www.vizcom.ai/?ref=futurepedia)
+- [AI2image](https://www.ai2image.com/)
+- [AIGraphics](https://aigraphics.io/)
+- [Autodraw](https://autodraw.com/)
+- [Befunky](https://www.befunky.com/)
+- [Booth AI](https://booth.ai/)
+- [CandyIcons](https://www.candyicons.com/)
+- [Clickable](https://www.clickable.so/)
+- [Clipdrop](https://clipdrop.co/)
+- [Designify](https://www.designify.com/)
+- [Designs AI](https://designs.ai/)
+- [Diagram](https://diagram.com/)
+- [Dimensions](https://www.dimensions.ink/)
+- [Flair AI](https://flair.ai/)
+- [Hotpot.ai](https://hotpot.ai/)
+- [IllostrationAI](https://www.illostration.com/)
+- [Illustroke](https://illustroke.com/)
+- [Magician (Figma)](https://magician.design/)
+- [Microsoft Designer](https://designer.microsoft.com/)
+- [Patterned AI](http://patterned.ai/)
+- [Pattern Maker AI](https://patternmakerai.com/)
+- [Photoroom](https://www.photoroom.com/)
+- [Pictorial](https://pictorial.ai/)
+- [Pinegraph](https://pinegraph.com/)
+- [RocketAI](https://rocketai.io/)
+- [Rosebud](https://www.rosebud.ai/)
+- [StockImg AI](https://stockimg.ai/)
+- [Uizard](https://uizard.io/)
+- [Unbound](https://www.unboundcontent.ai/)
+- [Vizcom](https://www.vizcom.ai/)
 
 ---
 
@@ -1465,12 +1464,12 @@
 
 **In this section, you will find AI tools and models for software development and programming.**
 
-* **[Code](#code)**: AI tools and models for writing and analyzing code, like code completion and code optimization.
-* **[Code Assistant](#code-assistant)**: AI tools for assisting with coding tasks, like debugging and testing.
-* **[Database](#database)**: AI tools for working with databases, including database design and data modeling.
-* **[Developer Tools](#developer-tools)**: AI tools and resources for developers, like project management and collaboration.
-* **[Github](#github)**: AI tools for working with Github, including repository management and pull request analysis.
-* **[No Code](#no-code)**: AI tools for building applications without coding, for faster development and reduced complexity.
+- **[Code](#code)**: AI tools and models for writing and analyzing code, like code completion and code optimization.
+- **[Code Assistant](#code-assistant)**: AI tools for assisting with coding tasks, like debugging and testing.
+- **[Database](#database)**: AI tools for working with databases, including database design and data modeling.
+- **[Developer Tools](#developer-tools)**: AI tools and resources for developers, like project management and collaboration.
+- **[Github](#github)**: AI tools for working with Github, including repository management and pull request analysis.
+- **[No Code](#no-code)**: AI tools for building applications without coding, for faster development and reduced complexity.
 
 ## Code
 
@@ -1501,33 +1500,33 @@
 
 ## Code Assistant
 
-- [AI CLI](https://github.com/abhagsain/ai-cli?ref=futurepedia)
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/?ref=futurepedia)
-- [AskCodi](https://www.askcodi.com/?ref=futurepedia)
-- [AutoRegex](https://www.autoregex.xyz/?ref=futurepedia)
-- [BlackBox AI](https://www.useblackbox.io/?ref=futurepedia)
-- [Buildt](https://www.buildt.ai/?ref=futurepedia)
-- [Cheat Layer](https://cheatlayer.com/?ref=futurepedia)
+- [AI CLI](https://github.com/abhagsain/ai-cli)
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+- [AskCodi](https://www.askcodi.com/)
+- [AutoRegex](https://www.autoregex.xyz/)
+- [BlackBox AI](https://www.useblackbox.io/)
+- [Buildt](https://www.buildt.ai/)
+- [Cheat Layer](https://cheatlayer.com/)
 - [Clippy AI](https://marketplace.visualstudio.com/items?itemName=clippy-ai.clippy-ai&ref=futurepedia)
-- [CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist?ref=futurepedia)
-- [CodeGeeX](https://huggingface.co/spaces/THUDM/CodeGeeX?ref=futurepedia)
-- [Codeium](https://www.codeium.com/?ref=futurepedia)
-- [CodeSquire](https://codesquire.ai/?ref=futurepedia)
-- [Continual](https://continual.ai/?ref=futurepedia)
-- [Copilot](https://github.com/features/copilot?ref=futurepedia)
-- [Duino Code Generator](https://www.duinocodegenerator.com/?ref=futurepedia)
-- [Fig AI](https://fig.io/user-manual/ai?ref=futurepedia)
-- [Hey, Github!](https://githubnext.com/projects/hey-github?ref=futurepedia)
-- [Kodezi Ai](https://kodezi.com/?ref=futurepedia)
-- [Lookup](https://app.uselookup.com/?ref=futurepedia)
+- [CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist)
+- [CodeGeeX](https://huggingface.co/spaces/THUDM/CodeGeeX)
+- [Codeium](https://www.codeium.com/)
+- [CodeSquire](https://codesquire.ai/)
+- [Continual](https://continual.ai/)
+- [Copilot](https://github.com/features/copilot)
+- [Duino Code Generator](https://www.duinocodegenerator.com/)
+- [Fig AI](https://fig.io/user-manual/ai)
+- [Hey, Github!](https://githubnext.com/projects/hey-github)
+- [Kodezi Ai](https://kodezi.com/)
+- [Lookup](https://app.uselookup.com/)
 - [Maverick](https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick&ref=futurepedia)
-- [Mutable](https://mutable.ai/?ref=futurepedia)
-- [Programminghelper](https://www.programming-helper.com/?ref=futurepedia)
-- [Replit](https://replit.com/?ref=futurepedia)
-- [Spellbox](https://spellbox.app/?ref=futurepedia)
-- [Stenography](https://stenography.dev/?ref=futurepedia)
-- [Tabnine](https://www.tabnine.com/?ref=futurepedia)
-- [WhatTheDiff](https://whatthediff.ai/?ref=futurepedia)
+- [Mutable](https://mutable.ai/)
+- [Programminghelper](https://www.programming-helper.com/)
+- [Replit](https://replit.com/)
+- [Spellbox](https://spellbox.app/)
+- [Stenography](https://stenography.dev/)
+- [Tabnine](https://www.tabnine.com/)
+- [WhatTheDiff](https://whatthediff.ai/)
 
 ---
 
@@ -1562,40 +1561,40 @@
 
 ## Developer Tools
 
-- [AI CLI](https://github.com/abhagsain/ai-cli?ref=futurepedia)
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/?ref=futurepedia)
-- [Amper](https://score.ampermusic.com/?ref=futurepedia)
-- [AutoRegex](https://www.autoregex.xyz/?ref=futurepedia)
-- [Bria](https://bria.ai/?ref=futurepedia)
-- [Buildt](https://www.buildt.ai/?ref=futurepedia)
-- [Chatbotkit](https://chatbotkit.com/?ref=futurepedia)
-- [Convai](https://www.convai.com/?ref=futurepedia)
-- [CSM](https://csm.ai/?ref=futurepedia)
-- [Dust](https://dust.tt/?ref=futurepedia)
-- [GptDuck](https://www.gptduck.com/?ref=futurepedia)
-- [GPUX.AI](https://gpux.ai/?ref=futurepedia)
+- [AI CLI](https://github.com/abhagsain/ai-cli)
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+- [Amper](https://score.ampermusic.com/)
+- [AutoRegex](https://www.autoregex.xyz/)
+- [Bria](https://bria.ai/)
+- [Buildt](https://www.buildt.ai/)
+- [Chatbotkit](https://chatbotkit.com/)
+- [Convai](https://www.convai.com/)
+- [CSM](https://csm.ai/)
+- [Dust](https://dust.tt/)
+- [GptDuck](https://www.gptduck.com/)
+- [GPUX.AI](https://gpux.ai/)
 - [HTTPie AI](https://httpie.io/?utm_source=futurepedia)
-- [Lightning AI](https://lightning.ai/?ref=futurepedia)
-- [Liner.ai](https://liner.ai/?ref=futurepedia)
-- [Mintlify](https://mintlify.com/?ref=futurepedia)
-- [Moonbeam Exchange](https://moonbeam.ai/?ref=futurepedia)
-- [Nuclia](https://nuclia.com/?ref=futurepedia)
-- [Pipeline AI](https://www.pipeline.ai/?ref=futurepedia)
-- [PromptLayer](https://promptlayer.com/?ref=futurepedia)
-- [Retune](https://retune.so/?ref=futurepedia)
-- [Riku.ai](https://riku.ai/?ref=futurepedia)
-- [Rtutor](http://rtutor.ai/?ref=futurepedia)
-- [RunPod](https://www.runpod.io/?ref=futurepedia)
-- [Shaped](https://www.shaped.ai/?ref=futurepedia)
-- [Shumai(Meta)](https://github.com/facebookresearch/shumai?ref=futurepedia)
-- [Stable Diffusion](https://stability.ai/?ref=futurepedia)
-- [Stenography](https://stenography.dev/?ref=futurepedia)
-- [SyntheticAldata](https://syntheticaidata.com/?ref=futurepedia)
-- [Teachable Machine](https://teachablemachine.withgoogle.com/?ref=futurepedia)
-- [Textomap](https://www.textomap.com/?ref=futurepedia)
-- [Tinq.ai-NLP API](https://tinq.ai/?ref=futurepedia)
-- [Valyr](https://valyr.vercel.app/?ref=futurepedia)
-- [Whisper](https://github.com/openai/whisper?ref=futurepedia)
+- [Lightning AI](https://lightning.ai/)
+- [Liner.ai](https://liner.ai/)
+- [Mintlify](https://mintlify.com/)
+- [Moonbeam Exchange](https://moonbeam.ai/)
+- [Nuclia](https://nuclia.com/)
+- [Pipeline AI](https://www.pipeline.ai/)
+- [PromptLayer](https://promptlayer.com/)
+- [Retune](https://retune.so/)
+- [Riku.ai](https://riku.ai/)
+- [Rtutor](http://rtutor.ai/)
+- [RunPod](https://www.runpod.io/)
+- [Shaped](https://www.shaped.ai/)
+- [Shumai(Meta)](https://github.com/facebookresearch/shumai)
+- [Stable Diffusion](https://stability.ai/)
+- [Stenography](https://stenography.dev/)
+- [SyntheticAldata](https://syntheticaidata.com/)
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [Textomap](https://www.textomap.com/)
+- [Tinq.ai-NLP API](https://tinq.ai/)
+- [Valyr](https://valyr.vercel.app/)
+- [Whisper](https://github.com/openai/whisper)
 
 ---
 
@@ -1634,8 +1633,8 @@
 - [Deep Learning For Art, Aesthetics, And Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH) - MIT Course Available On Youtube
 - [Dive Into Deep Learning](https://d2l.ai/index.html) (Online, Free, Interactive)
 - [Generative Deep Learning](https://amzn.to/3FNr3ap): Teaching Machines To Paint, Write, Compose, And Play By David Foster [2019]
-- [Ml4a.net](https://ml4a.net/) - Online Textbook, Classes, And Learning Resources\  
-	Not Very Technical But Engaging And Inspiring View Of Many Ai Art Projects So Far.\  
+- [Ml4a.net](https://ml4a.net/) - Online Textbook, Classes, And Learning Resources\\\
+	Not Very Technical But Engaging And Inspiring View Of Many Ai Art Projects So Far.\\\
 	Really Enjoyed This And It's A Great Book! It's From 2019 So Doesn't Cover The Very Latest Like VQGAN, CLIP, Guided Diffusion Though.
 - [The Artist In The Machine](https://amzn.to/32I0kOm): The World Of AI-powered Creativity By Arthur I. Miller [2020]
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) - Really Nice Overview Of Stable Diffusion And The Pieces That Make It Up
@@ -1644,43 +1643,43 @@
 
 ## No Code
 
-- [10Web](https://10web.io/?ref=futurepedia)
-- [AI Surge Cloud](https://ai-surge.cloud/?ref=futurepedia)
-- [Axiom](https://axiom.ai/?ref=futurepedia)
-- [Bardeen AI](https://bardeen.ai/ai?ref=futurepedia)
-- [Brancher AI](https://www.brancher.ai/?ref=futurepedia)
+- [10Web](https://10web.io/)
+- [AI Surge Cloud](https://ai-surge.cloud/)
+- [Axiom](https://axiom.ai/)
+- [Bardeen AI](https://bardeen.ai/ai)
+- [Brancher AI](https://www.brancher.ai/)
 - [Browse AI](https://browse.ai/?via=futurepedia)
-- [Build AI](https://www.buildai.space/?ref=futurepedia)
-- [Chatbotkit](https://chatbotkit.com/?ref=futurepedia)
-- [Cogniflow](https://www.cogniflow.ai/?ref=futurepedia)
-- [Debuild](https://debuild.app/?ref=futurepedia)
-- [Durable AI](https://durable.ai/?ref=futurepedia)
-- [Durable](https://durable.co/?ref=futurepedia)
-- [Dust](https://dust.tt/?ref=futurepedia)
-- [Felvin](https://felvin.com/?ref=futurepedia)
-- [Kinetix](https://www.kinetix.tech/?ref=futurepedia)
-- [Lightning AI](https://lightning.ai/?ref=futurepedia)
-- [Liner.ai](https://liner.ai/?ref=futurepedia)
-- [Lobe](https://www.lobe.ai/?ref=futurepedia)
-- [Monitaur](https://monitaur.ai/?ref=futurepedia)
-- [Mutable](https://mutable.ai/?ref=futurepedia)
-- [Mutiny](https://www.mutinyhq.com/?ref=futurepedia)
-- [Nanonets](https://nanonets.com/?ref=futurepedia)
-- [Neon AI](https://neon.ai/?ref=futurepedia)
-- [Retune](https://retune.so/?ref=futurepedia)
-- [Riku.ai](https://riku.ai/?ref=futurepedia)
-- [Roboflow](https://roboflow.com/?ref=futurepedia)
-- [Robovision.ai](https://robovision.ai/product/platform/?ref=futurepedia)
-- [Seek](https://www.seek.ai/?ref=futurepedia)
-- [Sitekick](https://www.sitekick.ai/?ref=futurepedia)
+- [Build AI](https://www.buildai.space/)
+- [Chatbotkit](https://chatbotkit.com/)
+- [Cogniflow](https://www.cogniflow.ai/)
+- [Debuild](https://debuild.app/)
+- [Durable AI](https://durable.ai/)
+- [Durable](https://durable.co/)
+- [Dust](https://dust.tt/)
+- [Felvin](https://felvin.com/)
+- [Kinetix](https://www.kinetix.tech/)
+- [Lightning AI](https://lightning.ai/)
+- [Liner.ai](https://liner.ai/)
+- [Lobe](https://www.lobe.ai/)
+- [Monitaur](https://monitaur.ai/)
+- [Mutable](https://mutable.ai/)
+- [Mutiny](https://www.mutinyhq.com/)
+- [Nanonets](https://nanonets.com/)
+- [Neon AI](https://neon.ai/)
+- [Retune](https://retune.so/)
+- [Riku.ai](https://riku.ai/)
+- [Roboflow](https://roboflow.com/)
+- [Robovision.ai](https://robovision.ai/product/platform/)
+- [Seek](https://www.seek.ai/)
+- [Sitekick](https://www.sitekick.ai/)
 - [Softr Studio](https://softrplatformsgmbh.grsm.io/4a8exk97h4m7)
-- [Symanto Text Insights](https://www.symanto.com/get-in-touch/?ref=futurepedia)
-- [Teachable Machine](https://teachablemachine.withgoogle.com/?ref=futurepedia)
-- [Teleporthq](https://teleporthq.io/?ref=futurepedia)
-- [Tiledesk](https://tiledesk.com/?ref=futurepedia)
-- [Viable](https://www.askviable.com/?ref=futurepedia)
-- [VWO](https://vwo.com/testing//?ref=futurepedia)
-- [Zevi.ai](https://www.zevi.ai/?ref=futurepedia)
+- [Symanto Text Insights](https://www.symanto.com/get-in-touch/)
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [Teleporthq](https://teleporthq.io/)
+- [Tiledesk](https://tiledesk.com/)
+- [Viable](https://www.askviable.com/)
+- [VWO](https://vwo.com/testing//)
+- [Zevi.ai](https://www.zevi.ai/)
 
 ---
 
@@ -1688,110 +1687,110 @@
 
 **In this section, you will find resources and tools related to education and learning in the field of AI.**
 
-* **[Education and Learning](#education-and-learning)**: Resources and tutorials for learning AI concepts and technologies.
-* **[Learn Generative AI](#learn-generative-ai)**: Educational resources and tutorials for understanding and using generative AI models.
-* **[Research](#research)**: Tools and resources for AI research, like data sets, papers, and research reports.
+- **[Education and Learning](#education-and-learning)**: Resources and tutorials for learning AI concepts and technologies.
+- **[Learn Generative AI](#learn-generative-ai)**: Educational resources and tutorials for understanding and using generative AI models.
+- **[Research](#research)**: Tools and resources for AI research, like data sets, papers, and research reports.
 
 ## Education and Learning
 
 - [Botta](https://askbotta.com/) Having Trouble With A Topic? Meet Botta. Your Free, Personal Teaching Assistant. Ask Questions, Get Answers. Botta Makes Online Learning A Breeze.
-- [Caktus](https://www.caktus.ai/?ref=futurepedia)
-- [ELI5](https://explainlikeimfive.io/?ref=futurepedia)
-- [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream?ref=futurepedia)
+- [Caktus](https://www.caktus.ai/)
+- [ELI5](https://explainlikeimfive.io/)
+- [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream)
 - [Lorro](https://lorro.io/) Become A Fluent English Speaker For A Fraction Of A Cost. By Talking To An Ai Tutor.
-- [MindSmith](https://www.mindsmith.ai/?ref=futurepedia)
-- [Quizgecko](https://quizgecko.com/?ref=futurepedia)
+- [MindSmith](https://www.mindsmith.ai/)
+- [Quizgecko](https://quizgecko.com/)
 - [Replicate](http://replicate.com) Machine Learning Doesn&Apos; T Need To Be So Hard. Run Open-source Models With A Cloud API.
-- [Scholarcy](https://www.scholarcy.com/?ref=futurepedia)
+- [Scholarcy](https://www.scholarcy.com/)
 - [Speakingclubai](http://speakingclubai.com) Speaking Club Ai. Welcome To Speaking Club AI - The Ultimate Language Learning Tool For Anyone Looking To Improve Their Speaking Skills In A Foreign Language. With Speaking Club AI, You Can Practice Your Conversation Skills With A Personalized AI Language Partner Anytime, Anywhere.
-- [TutorAI](https://www.tutorai.me/?ref=futurepedia)
-- [Yip](https://yippity.io/?ref=futurepedia)
+- [TutorAI](https://www.tutorai.me/)
+- [Yip](https://yippity.io/)
 
 ---
 
 ## Research
 
-- [Adept](https://www.adept.ai/?ref=futurepedia)
-- [Consensus](https://consensus.app/?ref=futurepedia)
-- [Cradle](https://cradle.bio/?ref=futurepedia)
-- [Elicit](https://elicit.org/?ref=futurepedia)
-- [Galactica](https://galactica.org/?ref=futurepedia)
-- [Perplexity AI](https://www.perplexity.ai/?ref=futurepedia)
-- [Podcast](https://podcast.ai/?ref=futurepedia)
-- [Scholarcy](https://www.scholarcy.com/?ref=futurepedia)
-- [Scispace](https://typeset.io/?ref=futurepedia)
-- [Socratic By Google](https://socratic.org/?ref=futurepedia)
-- [Summate](https://summate.it/?ref=futurepedia)
-- [WolframAlpha](https://www.wolframalpha.com/?ref=futurepedia)
+- [Adept](https://www.adept.ai/)
+- [Consensus](https://consensus.app/)
+- [Cradle](https://cradle.bio/)
+- [Elicit](https://elicit.org/)
+- [Galactica](https://galactica.org/)
+- [Perplexity AI](https://www.perplexity.ai/)
+- [Podcast](https://podcast.ai/)
+- [Scholarcy](https://www.scholarcy.com/)
+- [Scispace](https://typeset.io/)
+- [Socratic By Google](https://socratic.org/)
+- [Summate](https://summate.it/)
+- [WolframAlpha](https://www.wolframalpha.com/)
 
 ---
 
-# AI-Fun
+[# Untitled](<# AI-Fun
 
 **In this section, you will find fun and entertaining AI applications and tools.**
 
-* **[Fun With AI](#fun-with-ai)**: Fun AI applications like games, animations, and art.
-* **[Gaming](#gaming)**: AI tools and models for game development, like game engines and AI-powered characters.
+- **[Fun With AI](#fun-with-ai)**: Fun AI applications like games, animations, and art.
+- **[Gaming](#gaming)**: AI tools and models for game development, like game engines and AI-powered characters.
 
 ## Fun With AI
 
 - [AI Pokemon Generator](http://nokemon.eloie.tech) Generate Fakemon Using Ai
-- [AI Time Machine](https://www.myheritage.com/ai-time-machine?ref=futurepedia)
-- [AnimeAI](https://www.animeai.lol/?ref=futurepedia)
-- [Anypod](https://www.anypod.ai/?ref=futurepedia)
+- [AI Time Machine](https://www.myheritage.com/ai-time-machine)
+- [AnimeAI](https://www.animeai.lol/)
+- [Anypod](https://www.anypod.ai/)
 - [Askmybook](http://askmybook.com) Ask My Book The Minimalist Entrepreneur. This Is An Experiment In Using AI To Make My Book's Content More Accessible. Ask A Question And AI'll Answer It In Real-time:.
-- [AskNow](https://www.asknow.ai/?ref=futurepedia)
+- [AskNow](https://www.asknow.ai/)
 - [Ask RBG](http://ask-rbg.ai) What Would Rbg (Probably) Say?. An AI Experiment Ask Justice Ruth Bader Ginsburg To Make A Decision About Any Question Your Heart Desires. The First AI Drop From AI21 Labs.
-- [AskThee](https://askthee.vercel.app/?ref=futurepedia)
-- [BlackInk](https://blackink.ai/?ref=futurepedia)
+- [AskThee](https://askthee.vercel.app/)
+- [BlackInk](https://blackink.ai/)
 - [Botify](http://botif.ai) Botify Ai. Fun Chat With Your Favorite Characters.
-- [Chai](https://chai.ml/?ref=futurepedia)
+- [Chai](https://chai.ml/)
 - [CharacterAI](http://beta.character.ai) Character. Ai Lets You Create Characters And Talk To Them. Characters Can Be Anything. Our Breakthrough AI Technology Can Bring All Of Your Ideas To Life.
-- [Character AI](https://beta.character.ai/?ref=futurepedia)
+- [Character AI](https://beta.character.ai/)
 - [ClipMatrix](https://colab.research.google.com/drive/1rT_NIYryAC1UNBsETm6XbgW3DWqIJnmf?usp=sharing) - Text Controlled 3D Mesh Deformation And Stylization
 - [CLIP-Mesh](https://colab.research.google.com/drive/15Fm4EhLlB20EugLUnTdhSJElvGVCU7Ys?usp=sharing) - Text To 3D Mesh With Texture And Normal Map (Still Pretty Simple And Mixed Results)
-- [Context](https://addcontext.xyz/?ref=futurepedia)
+- [Context](https://addcontext.xyz/)
 - [DreamFields](https://colab.research.google.com/drive/1u5-zA330gbNGKVfXMW5e3cmllbfafNNB?usp=sharing) - Latest Text To 3D ([Github](https://github.com/shengyu-meng/dreamfields-3D))
-- [ELI5](https://explainlikeimfive.io/?ref=futurepedia)
+- [ELI5](https://explainlikeimfive.io/)
 - [Excuses AI](http://excuses.ai) Excuse Generator. Use AI To Generate The Perfect Professional Excuse.
 - [EZ Charts](https://docs.google.com/document/d/1ORymHm0Te18qKiHnhcdgGp-WSt8ZkLZvow3raiu2DVU/edit) - Google Doc Visual Reference Guides For CLIP-Guided Diffusion (See What All The Parameters Do!)
-- [FakeYou](https://fakeyou.com/?ref=futurepedia)
-- [Find Your Next Book](https://www.findyournextbook.ai/?ref=futurepedia)
+- [FakeYou](https://fakeyou.com/)
+- [Find Your Next Book](https://www.findyournextbook.ai/)
 - Great Explanation Of VQGAN+CLIP - [Https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
 - [Guide To Install Disco Diffusion 5 On Windows With WSL](https://gist.github.com/MSFTserver/6212f85d79058a024b0e49f3d19a1115#file-wsl-disco-v5-tutorial-md) - Haven't Tried This Yet Challenge Is Pytorch3d
-- [HairstyleAI](https://www.hairstyleai.com/?ref=futurepedia)
-- [Hello History](https://www.hellohistory.ai/?ref=futurepedia)
+- [HairstyleAI](https://www.hairstyleai.com/)
+- [Hello History](https://www.hellohistory.ai/)
 - [Hitchhiker's Guide To The Latent Space](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit)  - A Guide That's Been Put Together With Lots Of Colab Notebooks Too
 - [ImageSorter](https://colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_ImageSorter.ipynb) By @Pharmapsychotic - Sort Images By Similarity (Nice For StyleGAN/FiLM Animated Loops)
 - [JAX CLIP Guided Diffusion 2.7 Guide](https://docs.google.com/document/d/11HWN5e57taWdpyZlW5s6gqzrwMsLlmOQivyJncOPPhE) - Google Doc From Huemin
 - [Jokelub](http://jokelub.com) Jokelub. Bring Humor Everywhere.
-- [Jokelub](https://jokelub.com/?ref=futurepedia)
-- [JustLearn](https://www.justlearn.com/?ref=futurepedia)
+- [Jokelub](https://jokelub.com/)
+- [JustLearn](https://www.justlearn.com/)
 - [Kanye Tweet Generator](http://www.kanyegenerator.com) Kanye Tweet Generation. Generate Kanye Tweets Using AI. Built By Ryan Doyle.
-- [MovieToEmoji](https://movietoemoji.netlify.app/?ref=futurepedia)
-- [Neural Canvas](https://neuralcanvas.io/?ref=futurepedia)
+- [MovieToEmoji](https://movietoemoji.netlify.app/)
+- [Neural Canvas](https://neuralcanvas.io/)
 - Nice [Overview Of Lots Of Different Optimization Algorithms](https://ruder.io/optimizing-gradient-descent/) SGD, Adam, RMSProp Etc And Their Differences (Also Covered In This [Lecture](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7))
-- [Nostalgia Photo](https://www.nostalgia.photo/?ref=futurepedia)
+- [Nostalgia Photo](https://www.nostalgia.photo/)
 - [PIFuHD Colab](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt) - Human Photo To 3D Mesh Of The Human
-- [PlaylistAI](https://www.playlistai.app/?ref=futurepedia)
-- [PolitePost](https://politepost.net/?ref=futurepedia)
-- [Reface AI](https://hey.reface.ai/?ref=futurepedia)
+- [PlaylistAI](https://www.playlistai.app/)
+- [PolitePost](https://politepost.net/)
+- [Reface AI](https://hey.reface.ai/)
 - [Resources For GAN Artists](https://docs.google.com/document/d/18BrtW9RzI9rRAAYnmxES59HOxeC_QH1_BT7VDcP-32E/mobilebasic) - Another Big Google Doc With Notebooks And Resources For AI Art
-- [RestorePhotos](https://www.restorephotos.io/?ref=futurepedia)
-- [Rosebud](https://www.rosebud.ai/?ref=futurepedia)
-- [Santa AI](https://www.santa.artflow.ai/?ref=futurepedia)
+- [RestorePhotos](https://www.restorephotos.io/)
+- [Rosebud](https://www.rosebud.ai/)
+- [Santa AI](https://www.santa.artflow.ai/)
 - [Silly Times](http://www.elbo.ai) A Simple Drawing App Using Ai. Have A Fun Time Drawing And See What Silly Thing We Make From Your Drawing. Magic Is Just Button Press Away!.
 - Stanford's Convolutional Neural Networks Class On YouTube - [Https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-- [Steno](https://steno.ai/?ref=futurepedia)
+- [Steno](https://steno.ai/)
 - [StoriesForKids](http://www.storiesforkids.ai) Storiesforkids. Ai Personalized Kid'S Books Using Ai. Turn Real-life Situations Into Fun Stories & Illustrations In Seconds.
-- [Supermeme.ai](https://supermeme.ai/?ref=futurepedia)
-- [Talk To Books](https://books.google.com/talktobooks/?ref=futurepedia)
-- [Tattoos AI](https://www.tattoosai.com/?ref=futurepedia)
+- [Supermeme.ai](https://supermeme.ai/)
+- [Talk To Books](https://books.google.com/talktobooks/)
+- [Tattoos AI](https://www.tattoosai.com/)
 - [Text2mesh](https://www.kaggle.com/code/neverix/text2mesh/notebook) - Kaggle Notebook For Text To 3D Mesh
 - [TextStyler](http://www.textstyler.org) Re-Write Anything In Fun Styles, Using Ai
-- [Tweet Emote](https://tweetemote.com/?ref=futurepedia)
-- [Unreal Meal](https://unrealmeal.ai/?ref=futurepedia)
-- [Voicemod](https://www.voicemod.net/?ref=futurepedia)
+- [Tweet Emote](https://tweetemote.com/)
+- [Unreal Meal](https://unrealmeal.ai/)
+- [Voicemod](https://www.voicemod.net/)
 - [Watermark Images](https://colab.research.google.com/drive/1OjKvOEYUOA8d1sMPL3hBVeCryGxZW-e2?usp=sharing) - Little Notebook To Add Text Watermark To Images
 - [Way Of The TTI Artist](https://docs.google.com/document/d/1EvkiHa12ButetruSBr82MJeomHfVRkvczB9-FgqtJ48/mobilebasic#) - Pytti Guide
 - [Zero-Shot Text-Guided Object Generation With Dream Fields](https://colab.research.google.com/drive/17GtPqdUCbG5CsmTnQFecPpoq_zpNKX7A?usp=sharing) - Text To 3D Render
@@ -1801,34 +1800,34 @@
 
 ## Gaming
 
-- [AI Careers](https://aicareers.io/?ref=futurepedia)
+- [AI Careers](https://aicareers.io/)
 - [AI Dungeon](http://play.aidungeon.io) Play And Create Ai-Generated Adventures With Infinite Possibilities
-- [AIDungeon](https://play.aidungeon.io/?ref=futurepedia)
-- [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/?ref=futurepedia)
+- [AIDungeon](https://play.aidungeon.io/)
+- [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/)
 - [Assetsai](http://www.assetsai.art) Ai-Powered, Unique & Curated Assets For Your Games
-- [Chai](https://chai.ml/?ref=futurepedia)
+- [Chai](https://chai.ml/)
 - [Charisma](https://charisma.ai/) Power Real-Time Digital Humans. For Games • Metaverses • VR • Education • TV & Film • Publishing And Beyond!.
 - [Chess AI](http://betafish.gavinong.com) Betafish. Js - Chess Ai
-- [EndlessVN](https://endlessvn.io/?ref=futurepedia)
-- [GGPredict](https://ggpredict.io/?ref=futurepedia)
-- [Hexagram](https://www.hexagram.io/?ref=futurepedia)
+- [EndlessVN](https://endlessvn.io/)
+- [GGPredict](https://ggpredict.io/)
+- [Hexagram](https://www.hexagram.io/)
 - [Hidden Door](https://www.hiddendoor.co/) Hello, Worlds!. A New Kind Of Social Roleplaying Experience, Powered By Narrative AI.
-- [In3D](https://in3d.io/?ref=futurepedia)
-- [Inworld](https://www.inworld.ai/?ref=futurepedia)
+- [In3D](https://in3d.io/)
+- [Inworld](https://www.inworld.ai/)
 - [IRMO](http://www.irmoai.com) Made For Creation. The Very Best In Ai Apps. Your Source For Mobile Entertainment & AI Art Creation.
 - [Latitude](https://latitude.io/) The Future Of Ai-Generated Games. We' Re Making AI A Tool Of Creativity And Freedom For Everyone.
-- [Leonardo.Ai](https://leonardo.ai/?ref=futurepedia)
-- [LitRPG Adventures](https://www.litrpgadventures.com/?ref=futurepedia)
-- [Luma AI](https://lumalabs.ai/?ref=futurepedia)
-- [Opus](https://opus.ai/?ref=futurepedia)
-- [PICLY: AI Generated Spot The Difference](https://www.picly.ai/?ref=futurepedia)
+- [Leonardo.Ai](https://leonardo.ai/)
+- [LitRPG Adventures](https://www.litrpgadventures.com/)
+- [Luma AI](https://lumalabs.ai/)
+- [Opus](https://opus.ai/)
+- [PICLY: AI Generated Spot The Difference](https://www.picly.ai/)
 - [Plailabs](https://plailabs.com/) Play With Ai. (Verb)–To Engage In Artificial Intelligence For The Purpose Of Enjoyment And Recreation With The Goal Of Growing An Ever-expanding Universe Of Gaming, Entertainment, Storytelling, And Technology.
-- [Playstrict](https://playstrict.com/?ref=futurepedia)
-- [Ready Player Me](https://readyplayer.me/?ref=futurepedia)
-- [Scenario](https://www.scenario.gg/?ref=futurepedia)
+- [Playstrict](https://playstrict.com/)
+- [Ready Player Me](https://readyplayer.me/)
+- [Scenario](https://www.scenario.gg/)
 - [Scenario](http://www.scenario.gg) Scenario. Unlock The Power Of AI-generated Gaming Assets With Scenario. Generate Engaging Content Quickly And Easily To Save Time And Spark Creativity.
-- [The Simulation](https://fablesimulation.com/?ref=futurepedia)
-- [TutorAI](https://www.tutorai.me/?ref=futurepedia)
+- [The Simulation](https://fablesimulation.com/)
+- [TutorAI](https://www.tutorai.me/)
 
 ---
 
@@ -1836,51 +1835,51 @@
 
 **In this section, AI tools and resources to help you monitor and improve your health and wellness.**
 
-* **[Health](#health)**: AI models and tools for managing health and wellness, like fitness trackers and personal health records.
-* **[Life Assistant](#life-assistant)**: AI tools for managing daily life tasks, like to-do lists and calendars.
-* **[Memory](#memory)**: AI tools to improve memory, such as memory games and mnemonics.
+- **[Health](#health)**: AI models and tools for managing health and wellness, like fitness trackers and personal health records.
+- **[Life Assistant](#life-assistant)**: AI tools for managing daily life tasks, like to-do lists and calendars.
+- **[Memory](#memory)**: AI tools to improve memory, such as memory games and mnemonics.
 
 ## Health
 
-- [Cradle](https://cradle.bio/?ref=futurepedia)
+- [Cradle](https://cradle.bio/)
 - [Getactyv](http://getactyv.com) Getactyv - Ai And Computer Vision Assisted Health And Fitness Platform
 - [Replika](http://replika.com) The Ai Companion Who Cares. Always Here To Listen And Talk. Always On Your Side. Join The Millions Growing With Their AI Friends Now!.
 - [Ubie AI Symptom Checker](http://ubiehealth.com) Check Symptoms & Find Causes By Ai. Check Symptoms & Find Causes By AI - Answer Quiz About Your Symptoms To Find Out Possible Causes, Types, Severity, And Treatment For Free By AI. Developed By Doctors.
-- [Whisper AI](https://whisper.ai/?ref=futurepedia)
+- [Whisper AI](https://whisper.ai/)
 
 ---
 
 ## Life Assistant
 
-- [AI Trip Planner](https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961?ref=futurepedia)
-- [Apple Books](https://www.apple.com/in/apple-books/?ref=futurepedia)
-- [BlackInk](https://blackink.ai/?ref=futurepedia)
-- [Caktus](https://www.caktus.ai/?ref=futurepedia)
-- [Circle Labs](https://circle.isyourshadowyou.com/Home.html?ref=futurepedia)
-- [Elektrif AI](https://www.elektrif.ai/?ref=futurepedia)
-- [Ferret](https://www.ferret.ai/?ref=futurepedia)
-- [Find Your Next Book](https://www.findyournextbook.ai/?ref=futurepedia)
-- [JustLearn](https://www.justlearn.com/?ref=futurepedia)
-- [Looria](https://looria.com/?ref=futurepedia)
-- [PlaylistAI](https://www.playlistai.app/?ref=futurepedia)
-- [Prodigy AI](https://ai.prodi.gg/?ref=futurepedia)
-- [Reggi](https://www.yfj.social/reggi-app?ref=futurepedia)
-- [Replika](https://replika.com/?ref=futurepedia)
-- [Resume Worded](https://resumeworded.com/index.php?ref=futurepedia)
-- [Rewind AI](https://www.rewind.ai/?ref=futurepedia)
-- [Thekeys](https://www.thekeys.ai/?ref=futurepedia)
-- [TinyWow](https://tinywow.com/?ref=futurepedia)
-- [Write Me A Cover Letter](https://writemeacoverletter.com/?ref=futurepedia)
+- [AI Trip Planner](https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961)
+- [Apple Books](https://www.apple.com/in/apple-books/)
+- [BlackInk](https://blackink.ai/)
+- [Caktus](https://www.caktus.ai/)
+- [Circle Labs](https://circle.isyourshadowyou.com/Home.html)
+- [Elektrif AI](https://www.elektrif.ai/)
+- [Ferret](https://www.ferret.ai/)
+- [Find Your Next Book](https://www.findyournextbook.ai/)
+- [JustLearn](https://www.justlearn.com/)
+- [Looria](https://looria.com/)
+- [PlaylistAI](https://www.playlistai.app/)
+- [Prodigy AI](https://ai.prodi.gg/)
+- [Reggi](https://www.yfj.social/reggi-app)
+- [Replika](https://replika.com/)
+- [Resume Worded](https://resumeworded.com/index.php)
+- [Rewind AI](https://www.rewind.ai/)
+- [Thekeys](https://www.thekeys.ai/)
+- [TinyWow](https://tinywow.com/)
+- [Write Me A Cover Letter](https://writemeacoverletter.com/)
 
 ---
 
 ## Memory
 
-- [Glasp](https://glasp.co/ai-writing?ref=futurepedia)
-- [Heyday](https://heyday.xyz/?ref=futurepedia)
-- [Mem.ai](https://mem.ai/?ref=futurepedia)
-- [Personal.ai](https://www.personal.ai/?ref=futurepedia)
-- [Rewind AI](https://www.rewind.ai/?ref=futurepedia)
+- [Glasp](https://glasp.co/ai-writing)
+- [Heyday](https://heyday.xyz/)
+- [Mem.ai](https://mem.ai/)
+- [Personal.ai](https://www.personal.ai/)
+- [Rewind AI](https://www.rewind.ai/)
 
 ---
 
@@ -1888,19 +1887,19 @@
 
 **In this section, you will find AI tools and resources that don't fit into the other categories.**
 
-* **[Fashion](#fashion)**: AI tools for the fashion industry, like fashion design and virtual fitting rooms.
-* **[Gift Ideas](#gift-ideas)**: AI tools for finding and selecting gifts, like gift recommendations and gift registries.
-* **[Legal](#legal)**: AI tools for the legal industry, like legal document automation and contract analysis.
-* **[Misc](#misc)**: Miscellaneous AI tools and resources.
-* **[Real Estate](#real-estate)**: AI tools for the real estate industry, like property listings and market analysis.
+- **[Fashion](#fashion)**: AI tools for the fashion industry, like fashion design and virtual fitting rooms.
+- **[Gift Ideas](#gift-ideas)**: AI tools for finding and selecting gifts, like gift recommendations and gift registries.
+- **[Legal](#legal)**: AI tools for the legal industry, like legal document automation and contract analysis.
+- **[Misc](#misc)**: Miscellaneous AI tools and resources.
+- **[Real Estate](#real-estate)**: AI tools for the real estate industry, like property listings and market analysis.
 
 ## Fashion
 
-- [Botika](https://botika.io/?ref=futurepedia)
-- [Cala](https://ca.la/?ref=futurepedia)
-- [FashionAdvisorAI](https://www.fashionadvisorai.com/?ref=futurepedia)
+- [Botika](https://botika.io/)
+- [Cala](https://ca.la/)
+- [FashionAdvisorAI](https://www.fashionadvisorai.com/)
 - [FashionAdvisorAI](http://www.fashionadvisorai.com) Fashionadvisor. Ai - Ask Questions & Get Answer'S From Fashionadvisor. Ai. FashionAdvisor Is An AI Based On GPT3 Which Will Answer All Your Fashion Related Questions Instantly For Free.
-- [VisualHound](https://visualhound.com/?ref=futurepedia)
+- [VisualHound](https://visualhound.com/)
 - [Visualhound](http://visualhound.com) Visualhound - Prototype Your Fashion Design Ideas With Ai. Visualize Your Product Designs Before Going To Production. Create Realistic-looking Product Images To Feed Your Moodboards And Boost Your Design Process.
 
 ---
@@ -1909,33 +1908,33 @@
 
 - [AIchristmascards](http://aichristmascards.com) Holiday Cards, Reimagined. Personalized AI Art Greetings Cards.
 - [AI Holiday Cards](http://aiholiday.cards) Ai Holiday Cards. AI Engine To Create AI Holiday Photorealistic Cards For Couples.
-- [Cool Gift Ideas](https://www.coolgiftideas.io/?ref=futurepedia)
+- [Cool Gift Ideas](https://www.coolgiftideas.io/)
 - [CoolGiftIdeas](http://www.coolgiftideas.io) Cool Gift Ideas - Ai-Powered Gift Suggestions
-- [Elf Help](https://www.elfhelp.ai/?ref=futurepedia)
+- [Elf Help](https://www.elfhelp.ai/)
 - [Elf Help](http://www.elfhelp.ai) Elf Help. Need Some Inspo For Your Holiday Gifting? Elf Help Is Your Ultimate Gift-giving Assistant, Offering Creative And Personalized Suggestions For Everyone On Your List.
 - [Fabled](http://fabled.ai) The Ultimate Ai Story Generator. Stories Created By You, Powered By AI. With A Single Sentence Fabled.ai Crafts Personal Illustrated Stories, Enriched By Stunning Images.
 - [Giftastic AI](http://giftastic.ai) Giftastic. Ai - Perfect Gift For Your Special One!. Personalised Gift Ideas For Every Occasion!.
-- [Giftastic.ai](https://giftastic.ai/?ref=futurepedia)
+- [Giftastic.ai](https://giftastic.ai/)
 - [GiftBot](http://www.getgift.help) Get Gift Help. Struggling To Figure Out What To Get Someone For The Holidays? GiftBot Asks You Questions To Help Recommend Gift Ideas!.
 - [Gift Genie](http://www.giftgenie.ai) Gift Genie Ai - Free Personalized Gift Ideas For Christmas, Birthdays, Holidays, Etc!. Gift Genie AI Is An AI-powered That Allows You To Find The Perfect Gift In Seconds With AI For Free. Jot Down A Brief Description Of Your Recipient, And Get A List Of Gifts Our AI Genie Believes Will Delight Them.
-- [Gifts Genie](https://gen.gifts/?ref=futurepedia)
-- [Lovelines](<http://lovelines.xyz>? Ref = Ai-collection) Lovelines. Xyz - Share Your Love With Custom Keepsakes Made By Ai. Create Custom Keepsakes For A Loved One Using AI That Are Optimized For Social Media. AI-generated Poems, Stories, Letters, And Song Lyrics.
-- [Santa AI](https://www.santa.artflow.ai/?ref=futurepedia)
-- [Suggest Gift](https://suggest.gift/?ref=futurepedia)
+- [Gifts Genie](https://gen.gifts/)
+- [Lovelines](%3Chttp://lovelines.xyz%3E? Ref = Ai-collection) Lovelines. Xyz - Share Your Love With Custom Keepsakes Made By Ai. Create Custom Keepsakes For A Loved One Using AI That Are Optimized For Social Media. AI-generated Poems, Stories, Letters, And Song Lyrics.
+- [Santa AI](https://www.santa.artflow.ai/)
+- [Suggest Gift](https://suggest.gift/)
 - [Text2present](http://text2present.com) Text2Present. Com - Creative Presents From Busy People. Allows You To Create Creative Customized Presents Using Artificial Intelligence For Your Friends, Family And Acquaintances Without Taking Your Precious Time. Simply Enter A Text Description Of What You Want To Gift And Let Our Artificial Intelligence Do The Rest.
 
 ---
 
 ## Legal
 
-- [Activazon](https://activazon.com/?ref=futurepedia)
+- [Activazon](https://activazon.com/)
 - [Analyzelaw](https://www.analyzelaw.com/)
-- [Casetext](https://casetext.com/?ref=futurepedia)
-- [Detangle.ai](https://detangle.ai/?ref=futurepedia)
+- [Casetext](https://casetext.com/)
+- [Detangle.ai](https://detangle.ai/)
 - [DoNotPay](https://donotpay.com/) The World'S First Robot Lawyer. Use AI To Make Legal Information Accessible To Everyone.
-- [Ferret](https://www.ferret.ai/?ref=futurepedia)
+- [Ferret](https://www.ferret.ai/)
 - [Harvey](https://harvey.ai/)
-- [Legal Robot](https://legalrobot.com/?ref=futurepedia)
+- [Legal Robot](https://legalrobot.com/)
 - [PatentPal](http://patentpal.com) Generative Ai For Intellectual Property. Automate Mechanical Writing In Your Patent Applications.
 - [Spellbook](https://www.spellbook.legal/) Draft Contracts 3X Faster With Ai. Spellbook Uses GPT-3 To Review And Suggest Language For Your Contracts, Right In Microsoft Word.
 
@@ -2240,7 +2239,7 @@
 - [Thumbsnap](http://art.thumbsnap.com) Ai Art Generator! Powered By Stable Diffusion - Thumbsnap - Free Photo & Video Hosting. ThumbSnap Free Photo And Video Sharing.
 - [Thundercontent](http://thundercontent.com) Write Articles With Ai-Assistant—Thundercontent. Thundercontent Uses Artificial Intelligence To Help You Write Unique Articles On Any Topic At The Speed Of Light. Scale Your Content Strategy. Overcome Writer's Block.
 - [Titan](http://www.compliancequarter.com.au) Expert Compliance Systems And Resources - Compliance Quarter. Regulatory Compliance Management System And Expertise For Energy, Financial Services And Other Regulated Industries. We Offer Expert Systems And Services To Take Regulatory Burden Off Your Shoulders.
-- [ToWords](http://www.towords.io) Towords Youtube To Words. Make Your Videos And Audio Come Alive With Written Words.
+- [ToWords](http://www.towords.io) Towards Youtube To Words. Make Your Videos And Audio Come Alive With Written Words.
 - [Torto.ai](http://torto.ai) Stock Market Made Simple
 - [Traq.ai](http://www.traq.ai)
 - [Tribescaler](http://tribescaler.com) Tribescaler
@@ -2303,11 +2302,11 @@
 
 ## Real Estate
 
-- [AI Room Planner](https://airoomplanner.com/?ref=futurepedia)
-- [CoolAlid](https://coolaiid.com/?ref=futurepedia)
-- [GetFloorPlan](https://getfloorplan.com/?ref=futurepedia)
-- [InteriorAI](https://interiorai.com/?ref=futurepedia)
-- [Maket](https://www.maket.ai/?ref=futurepedia)
+- [AI Room Planner](https://airoomplanner.com/)
+- [CoolAlid](https://coolaiid.com/)
+- [GetFloorPlan](https://getfloorplan.com/)
+- [InteriorAI](https://interiorai.com/)
+- [Maket](https://www.maket.ai/)
 
 ---
 
@@ -2315,14 +2314,14 @@
 
 **In this section, you will find AI tools and resources to help you be more productive in your work and personal life.**
 
-* **[Audio](#audio)**: A collection of AI models and tools for processing audio signals, performing tasks such as noise reduction, compression, etc.
-* **[Chat](#chat)**: AI-powered chat tools and resources, including chatbots and conversational AI.
-    * **[ChatGPT](#chatgpt)**: An AI-powered chatbot for assisting with questions and tasks.
-* **[Docs](#docs)**: AI tools for document processing, such as text recognition, summarization, and analysis.
-* **[Email Assistant](#email-assistant)**: AI tools to manage email, including filtering, summarization, and organization.
-* **[Productivity](#productivity)**: AI tools for boosting productivity, including time management, task management, and tracking.
-* **[Sales & Marketing](#sales-&-marketing)**: AI tools for sales and marketing, such as lead generation, customer segmentation, and analytics.
-* **[Summarizer](#summarizer)**: AI tools for text summarization, including news, document, and video summarization.
+- **[Audio](#audio)**: A collection of AI models and tools for processing audio signals, performing tasks such as noise reduction, compression, etc.
+- **[Chat](#chat)**: AI-powered chat tools and resources, including chatbots and conversational AI.
+	- **[ChatGPT](#chatgpt)**: An AI-powered chatbot for assisting with questions and tasks.
+- **[Docs](#docs)**: AI tools for document processing, such as text recognition, summarization, and analysis.
+- **[Email Assistant](#email-assistant)**: AI tools to manage email, including filtering, summarization, and organization.
+- **[Productivity](#productivity)**: AI tools for boosting productivity, including time management, task management, and tracking.
+- **[Sales & Marketing](#sales-&-marketing)**: AI tools for sales and marketing, such as lead generation, customer segmentation, and analytics.
+- **[Summarizer](#summarizer)**: AI tools for text summarization, including news, document, and video summarization.
 
 ## Chat
 
@@ -2386,43 +2385,43 @@
 
 ## Email Assistant
 
-- [ChatGPT Writer](https://chatgptwriter.ai/?ref=futurepedia)
-- [Creatext](https://www.creatext.ai/?ref=futurepedia)
+- [ChatGPT Writer](https://chatgptwriter.ai/)
+- [Creatext](https://www.creatext.ai/)
 - [DraftLab](http://draftlab.ai) Draftlab Ai Write Better Emails Faster With Ai. Fight Writer's Block And Achieve Inbox Zero. DraftLab Is An AI-powered Gmail Copilot That Generates High-quality Email Replies For You.
-- [DraftLab](https://draftlab.ai/?ref=futurepedia)
+- [DraftLab](https://draftlab.ai/)
 - [Ellie](http://ellieai.com) Ellie - Your Ai Email Assistant. Ellie Learns From Your Writing Style And Crafts Replies As If They Were Written By You.
-- [Ellie](https://ellieai.com/?ref=futurepedia)
+- [Ellie](https://ellieai.com/)
 - [EmailTriager](http://emailtriager.com) Emailtriager · Email On Autopilot. At EmailTriager, We Build Products That Do Work On Your Behalf.
-- [GETitOUT](https://getitout.io/?ref=futurepedia)
+- [GETitOUT](https://getitout.io/)
 - [HoppyCopy](https://www.hoppycopy.co/?via=futurepedia)
-- [Instantly](https://instantly.ai/?ref=futurepedia)
+- [Instantly](https://instantly.ai/)
 - [Intellimail](https://www.intellimail.xyz/) Your Personal Email Assistant. IntelliMail Is A Chrome Extension That Generates Your Emails - So You'll Never Have To Write One Again.
-- [Ipso AI](https://ipso.ai/?ref=futurepedia)
-- [Lavender](https://www.lavender.ai/?ref=futurepedia)
-- [Luna](https://getluna.dev/?ref=futurepedia)
-- [Magicreach](https://www.magicreach.ai/?ref=futurepedia)
-- [MateAI](https://www.mateai.io/?ref=futurepedia)
-- [Mentioned](https://www.mentioned.ai/?ref=futurepedia)
-- [Ortto](https://ortto.com/artificial-intelligence-marketing/?ref=futurepedia)
-- [Outplayhq](https://outplayhq.com/?ref=futurepedia)
-- [ParagraphAI](https://paragraphai.com/?ref=futurepedia)
-- [Pipl.ai](https://pipl.ai/?ref=futurepedia)
-- [PolitePost](https://politepost.net/?ref=futurepedia)
-- [Postaga](https://postaga.com/?ref=futurepedia)
-- [Quicklines](https://www.quicklines.ai/?ref=futurepedia)
+- [Ipso AI](https://ipso.ai/)
+- [Lavender](https://www.lavender.ai/)
+- [Luna](https://getluna.dev/)
+- [Magicreach](https://www.magicreach.ai/)
+- [MateAI](https://www.mateai.io/)
+- [Mentioned](https://www.mentioned.ai/)
+- [Ortto](https://ortto.com/artificial-intelligence-marketing/)
+- [Outplayhq](https://outplayhq.com/)
+- [ParagraphAI](https://paragraphai.com/)
+- [Pipl.ai](https://pipl.ai/)
+- [PolitePost](https://politepost.net/)
+- [Postaga](https://postaga.com/)
+- [Quicklines](https://www.quicklines.ai/)
 - [Quicklines](http://www.quicklines.ai) Quicklines Lifetime Access - Only $59. Quicklines Is Your New AI Powered Cold Outreach Assistant. We Help You Scale Your Cold Email Campaigns With Our In-depth Social Scraping And Natural Language First-line Writing Platform.
 - [Rapidreply](http://rapidreply.ai) Rapid Reply - Ai Email Assistant. Save 30 Minutes A Day Writing Emails.
 - [Recruiting Emails AI By Dover](http://recruitingemails.ai) Dover - Generate Customized Recruiting Emails
-- [Regie](https://www.regie.ai/?ref=futurepedia)
+- [Regie](https://www.regie.ai/)
 - [Remail](https://remail.ai/) Write Emails 10X Faster. Remail Is A Chrome Extension For Gmail That Uses Artificial Intelligence To Draft High Quality Email Replies In Seconds.
-- [Reply.io](https://reply.io/sales-email-assistant/?ref=futurepedia)
-- [Robin](https://www.hellorobin.ai/?ref=futurepedia)
+- [Reply.io](https://reply.io/sales-email-assistant/)
+- [Robin](https://www.hellorobin.ai/)
 - [Rytr](https://rytr.me/?via=futurepedia)
-- [Smartwriter](https://www.smartwriter.ai/?ref=futurepedia)
+- [Smartwriter](https://www.smartwriter.ai/)
 - [Smartwriter](<http://www.smartwriter.ai>? Via = Beth0) Generate 1000S Of Personalised Emails That Get You 8X More Replies Within Minutes Using Ai. Never Waste Time Researching Or Writing 'Personalised' Emails Again. Automate Your Entire Outreach Process. 40x Faster And 6x Cheaper Than Humans.
-- [SuperReply](https://superreply.co/?ref=futurepedia)
+- [SuperReply](https://superreply.co/)
 - [SuperReply](http://superreply.co) Upgrade Your Email Game. The Email Response Hack You've Been Waiting For - Easily Send Effective Replies With Tailored Responses Without Writing From Scratch.
-- [Warmer.ai](https://warmer.ai/?ref=futurepedia)
+- [Warmer.ai](https://warmer.ai/)
 - [Warmer. Ai](http://warmer.ai) Warmer. Ai - Ai Email Writer. Warmer Uses AI Email Personalization To Write Your Email Outreach. Increase Replies, Meetings And Sales With Dynamic Personalization.
 - [Wordhero](https://wordhero.co/?via=futurepedia)
 
@@ -2430,46 +2429,46 @@
 
 ## Productivity
 
-- [Adobe Sensei](https://www.adobe.com/br/sensei.html?ref=futurepedia)
-- [Albus](https://www.springworks.in/albus/?ref=futurepedia)
-- [Alfred](https://www.alfredsearch.com/?ref=futurepedia)
-- [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475?ref=futurepedia)
-- [ChatGPT Chrome Extension](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban?ref=futurepedia)
-- [ChatGPT](https://chat.openai.com/chat?ref=futurepedia)
-- [ChatGPT Writer](https://chatgptwriter.ai/?ref=futurepedia)
-- [Cogniflow](https://www.cogniflow.ai/?ref=futurepedia)
-- [DeepL](https://deepl.com/?ref=futurepedia)
-- [Enzyme](https://www.enzyme.com/?ref=futurepedia)
-- [Fireflies.ai](https://fireflies.ai/?ref=futurepedia)
-- [FlowGPT](https://flowgpt.com/?ref=futurepedia)
-- [Glean](https://www.glean.com/?ref=futurepedia)
-- [Ipso AI](https://ipso.ai/?ref=futurepedia)
-- [Krisp](https://krisp.ai/?ref=futurepedia)
-- [Maester.app](https://maester.app/?ref=futurepedia)
-- [Marketplan](https://marketplan.io/?ref=futurepedia)
-- [Mem.ai](https://mem.ai/?ref=futurepedia)
-- [Merlin](https://merlin.foyer.work/?ref=futurepedia)
-- [Nanonets](https://nanonets.com/?ref=futurepedia)
+- [Adobe Sensei](https://www.adobe.com/br/sensei.html)
+- [Albus](https://www.springworks.in/albus/)
+- [Alfred](https://www.alfredsearch.com/)
+- [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475)
+- [ChatGPT Chrome Extension](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban)
+- [ChatGPT](https://chat.openai.com/chat)
+- [ChatGPT Writer](https://chatgptwriter.ai/)
+- [Cogniflow](https://www.cogniflow.ai/)
+- [DeepL](https://deepl.com/)
+- [Enzyme](https://www.enzyme.com/)
+- [Fireflies.ai](https://fireflies.ai/)
+- [FlowGPT](https://flowgpt.com/)
+- [Glean](https://www.glean.com/)
+- [Ipso AI](https://ipso.ai/)
+- [Krisp](https://krisp.ai/)
+- [Maester.app](https://maester.app/)
+- [Marketplan](https://marketplan.io/)
+- [Mem.ai](https://mem.ai/)
+- [Merlin](https://merlin.foyer.work/)
+- [Nanonets](https://nanonets.com/)
 - [Notion AI](https://affiliate.notion.so/futurepedia)
-- [Noty.ai](https://noty.ai/?ref=futurepedia)
-- [Oracle](https://askoracle.app/?ref=futurepedia)
-- [Otter AI](https://otter.ai/?ref=futurepedia)
-- [Personal.ai](https://www.personal.ai/?ref=futurepedia)
-- [Puzzle](https://www.puzzlelabs.ai/?ref=futurepedia)
-- [Qatalog](https://qatalog.com/?ref=futurepedia)
-- [Rationale](https://rationale.jina.ai/?ref=futurepedia)
-- [Reclaim AI](https://reclaim.ai/?ref=futurepedia)
-- [Rewind AI](https://www.rewind.ai/?ref=futurepedia)
-- [Scale](https://scale.com/?ref=futurepedia)
-- [Slides AI](https://www.slidesai.io/?ref=futurepedia)
-- [SummerEyes](https://summereyes.ai/?ref=futurepedia)
-- [Supernormal](https://supernormal.com/?ref=futurepedia)
-- [Text Generator Plugin](https://text-gen.com/?ref=futurepedia)
-- [Texti](https://texti.app/?ref=futurepedia)
-- [TinyWow](https://tinywow.com/?ref=futurepedia)
-- [Typly](https://typly.app/?ref=futurepedia)
-- [Whisper Memos](https://whispermemos.com/?ref=futurepedia)
-- [Xembly](https://www.xembly.com/?ref=futurepedia)
+- [Noty.ai](https://noty.ai/)
+- [Oracle](https://askoracle.app/)
+- [Otter AI](https://otter.ai/)
+- [Personal.ai](https://www.personal.ai/)
+- [Puzzle](https://www.puzzlelabs.ai/)
+- [Qatalog](https://qatalog.com/)
+- [Rationale](https://rationale.jina.ai/)
+- [Reclaim AI](https://reclaim.ai/)
+- [Rewind AI](https://www.rewind.ai/)
+- [Scale](https://scale.com/)
+- [Slides AI](https://www.slidesai.io/)
+- [SummerEyes](https://summereyes.ai/)
+- [Supernormal](https://supernormal.com/)
+- [Text Generator Plugin](https://text-gen.com/)
+- [Texti](https://texti.app/)
+- [TinyWow](https://tinywow.com/)
+- [Typly](https://typly.app/)
+- [Whisper Memos](https://whispermemos.com/)
+- [Xembly](https://www.xembly.com/)
 
 ---
 
@@ -2478,68 +2477,68 @@
 - [Altera AI](http://www.altera.ai) A Better Way To Sell On Linkedin. Get More Leads And Close More Deals With Altera, The AI Sales Assistant That Generates Hyper Personalised Comments, Inmails And Posts On LinkedIn.
 - [Clickable](http://www.clickable.so) Generate Ads In Seconds With Ai. Beautiful, Brand-consistent, And Highly Converting Ads For All Marketing Channels. No Design Experience Needed.
 - [Copy.ai](<http://www.copy.ai>? Via = Beth0) Write Better Marketing Copy And Content With Ai. Say Goodbye' To The Blank Page For Good.
-- [Creatext](https://www.creatext.ai/?ref=futurepedia)
-- [Cresta](https://cresta.com/?ref=futurepedia)
+- [Creatext](https://www.creatext.ai/)
+- [Cresta](https://cresta.com/)
 - [Cuetap.com](https://cuetap.com/) Ai & Ci Powred Sales Battlecards. AI-powered Platform Provides Automagical Battlecards And Actionable Competitive Intelligence.
-- [Delve](https://www.delve.ai/?ref=futurepedia)
-- [GETitOUT](https://getitout.io/?ref=futurepedia)
+- [Delve](https://www.delve.ai/)
+- [GETitOUT](https://getitout.io/)
 - [GetResponse](http://www.getresponse.com) Getresponse - Professional Email Marketing For Everyone. Powerful, Simplified Tool To Send Emails, Create Pages, And Automate Your Marketing.
-- [Harvey](https://hiverhq.com/harvey-ai-customer-support?ref=futurepedia)
+- [Harvey](https://hiverhq.com/harvey-ai-customer-support)
 - [Hoppy Copy](http://www.hoppycopy.co) Hoppy Copy Ai Email Marketing Copywriting Platform. Save Countless Hours Writing. Use AI To Generate Powerful Copy For Hundreds Of Different Email Marketing Campaigns, Drips, Newsletters And More—in Seconds ⚡.
-- [Industrial Data Labs](https://industrialdatalabs.com/?ref=futurepedia)
-- [Infranodus](https://infranodus.com/?ref=futurepedia)
-- [Instantly](https://instantly.ai/?ref=futurepedia)
-- [Klaviyo SMS Assistant](https://www.klaviyo.com/product/whats-new/sms-assistant?ref=futurepedia)
-- [Lavender](https://www.lavender.ai/?ref=futurepedia)
-- [Luna](https://getluna.dev/?ref=futurepedia)
-- [MarbleFlows](https://app.marbleflows.com/ai-generator?ref=futurepedia)
+- [Industrial Data Labs](https://industrialdatalabs.com/)
+- [Infranodus](https://infranodus.com/)
+- [Instantly](https://instantly.ai/)
+- [Klaviyo SMS Assistant](https://www.klaviyo.com/product/whats-new/sms-assistant)
+- [Lavender](https://www.lavender.ai/)
+- [Luna](https://getluna.dev/)
+- [MarbleFlows](https://app.marbleflows.com/ai-generator)
 - [MarketingBlocks AI](http://marketingblocks.ai) Marketingblocks Ai. Human-like All-in-one AI Marketing Assistant That Creates Landing Pages, Promo Videos, Ads, Marketing Copy, Graphics, Emails, Voiceovers, Blog Posts, Art & More.
-- [Marketplan](https://marketplan.io/?ref=futurepedia)
-- [MateAI](https://www.mateai.io/?ref=futurepedia)
+- [Marketplan](https://marketplan.io/)
+- [MateAI](https://www.mateai.io/)
 - [Octie.ai](http://octie.ai) Octie. Ai - Your A. I. Ecommerce Marketing Assistant. Write Emails, Product Descriptions, And More, With A. I. Created By Octane AI.
-- [Omneky](https://www.omneky.com/?ref=futurepedia)
-- [Ortto](https://ortto.com/artificial-intelligence-marketing/?ref=futurepedia)
-- [Outplayhq](https://outplayhq.com/?ref=futurepedia)
-- [Pipl.ai](https://pipl.ai/?ref=futurepedia)
-- [Postaga](https://postaga.com/?ref=futurepedia)
-- [Quickchat](https://www.quickchat.ai/?ref=futurepedia)
-- [Quicklines](https://www.quicklines.ai/?ref=futurepedia)
-- [Regie](https://www.regie.ai/?ref=futurepedia)
-- [Reply.io](https://reply.io/sales-email-assistant/?ref=futurepedia)
-- [Robin](https://www.hellorobin.ai/?ref=futurepedia)
+- [Omneky](https://www.omneky.com/)
+- [Ortto](https://ortto.com/artificial-intelligence-marketing/)
+- [Outplayhq](https://outplayhq.com/)
+- [Pipl.ai](https://pipl.ai/)
+- [Postaga](https://postaga.com/)
+- [Quickchat](https://www.quickchat.ai/)
+- [Quicklines](https://www.quicklines.ai/)
+- [Regie](https://www.regie.ai/)
+- [Reply.io](https://reply.io/sales-email-assistant/)
+- [Robin](https://www.hellorobin.ai/)
 - [SaleWhale](http://salewhale.chat) Sale Whale - Ai-Powered Sales Rep Chatbot. We Provide Impossibly Good Sales Rep And Customer Support Chatbots, Using The World's Best Available AI Models. Learn How It Will Improve Your Business.
-- [Smartwriter](https://www.smartwriter.ai/?ref=futurepedia)
+- [Smartwriter](https://www.smartwriter.ai/)
 - [Speaq.ai](https://www.speaq.ai/) Ready Made Conversional Ai For Your Business. Our Mission Is To Revolutionize B2B Marketing And Customer Support With Artificial Intelligence. Effortlessly Schedule Meetings And Verify Attendance With AI. Streamline Your Survey Process With AI Conversational Calls.
-- [Typewise](https://www.typewise.app/?ref=futurepedia)
+- [Typewise](https://www.typewise.app/)
 - [Unbounce](http://unbounce.com) Smart Marketing Tools To Grow Your Business. Turn More Of Your Visitors Into Customers. Unbounce Is The AI-powered Landing Page Builder With Smart Features That Let You Create Beautiful, High-performing Marketing Campaigns In Just A Few Minutes.
-- [Usetwain](https://www.usetwain.com/?ref=futurepedia)
-- [Warmer.ai](https://warmer.ai/?ref=futurepedia)
-- [Waymark](https://waymark.com/?ref=futurepedia)
-- [Xokind](https://www.xokind.com/?ref=futurepedia)
+- [Usetwain](https://www.usetwain.com/)
+- [Warmer.ai](https://warmer.ai/)
+- [Waymark](https://waymark.com/)
+- [Xokind](https://www.xokind.com/)
 
 ---
 
 ## Summarizer
 
-- [Bearly](https://bearly.ai/?ref=futurepedia)
+- [Bearly](https://bearly.ai/)
 - [ExplainThis](https://explainthis.ai/)
-- [Genei](https://www.genei.io/?ref=futurepedia)
-- [GPT-Prompter](https://gptprompter.com/?ref=futurepedia)
+- [Genei](https://www.genei.io/)
+- [GPT-Prompter](https://gptprompter.com/)
 - [Iris.ai](http://Iris.ai)
 - [Noty.ai](http://Noty.ai)
-- [Otter AI](https://otter.ai/?ref=futurepedia)
-- [Penelope AI](https://penelope-ai.vercel.app/?ref=futurepedia)
-- [Summari](https://www.summari.com/?ref=futurepedia)
-- [Summarize Tech](https://www.summarize.tech/?ref=futurepedia)
-- [Summate](https://summate.it/?ref=futurepedia)
-- [SummerEyes](https://summereyes.ai/?ref=futurepedia)
+- [Otter AI](https://otter.ai/)
+- [Penelope AI](https://penelope-ai.vercel.app/)
+- [Summari](https://www.summari.com/)
+- [Summarize Tech](https://www.summarize.tech/)
+- [Summate](https://summate.it/)
+- [SummerEyes](https://summereyes.ai/)
 - [Symbl.ai](http://Symbl.ai)
-- [TheGist](https://www.thegist.ai/?ref=futurepedia)
-- [TLDR This](https://tldrthis.com/?ref=futurepedia)
-- [Upword](https://www.upword.ai/?ref=futurepedia)
-- [WordfixerBot](https://www.wordfixerbot.com/?ref=futurepedia)
-- [Wordtune](https://www.wordtune.com/?ref=futurepedia)
-- [Writely](https://www.writelyai.com/?ref=futurepedia)
+- [TheGist](https://www.thegist.ai/)
+- [TLDR This](https://tldrthis.com/)
+- [Upword](https://www.upword.ai/)
+- [WordfixerBot](https://www.wordfixerbot.com/)
+- [Wordtune](https://www.wordtune.com/)
+- [Writely](https://www.writelyai.com/)
 
 ---
 
@@ -2547,9 +2546,9 @@
 
 **In this section, you will find all things related to software development using AI technology.**
 
-* **[Apps](#apps)**: AI models and tools for developing and enhancing applications
-* **[iOS](#ios)**: AI models and tools specifically designed for iOS platforms.
-* **[Software](#software)**: AI models and tools for general software development and automation.
+- **[Apps](#apps)**: AI models and tools for developing and enhancing applications
+- **[iOS](#ios)**: AI models and tools specifically designed for iOS platforms.
+- **[Software](#software)**: AI models and tools for general software development and automation.
 
 ## Apps
 
@@ -2820,7 +2819,6 @@
 - [Writing Helper](https://appraven.net/apps/detail.php?appid=1662263175) - AI Chatbot
 - [Yume AI](https://appraven.net/apps/detail.php?appid=6444858226) - Custom Avatars
 
-
 ---
 
 ## Software
@@ -2839,8 +2837,8 @@
 
 **In this section, you will find all things related to text processing using AI technology.**
 
-* **[Text](#text)**: AI models and tools for processing, analyzing, and generating text.
-* **[Text To Speech](#text-to-speech)**: AI models and tools for speech synthesis and generation from written text.
+- **[Text](#text)**: AI models and tools for processing, analyzing, and generating text.
+- **[Text To Speech](#text-to-speech)**: AI models and tools for speech synthesis and generation from written text.
 
 ## Text
 
@@ -2916,18 +2914,18 @@
 
 ## Text To Speech
 
-- [Ad Auris](https://play.ad-auris.com/?ref=futurepedia)
-- [Aiva](https://www.aiva.ai/?ref=futurepedia)
-- [Apple Books](https://www.apple.com/in/apple-books/?ref=futurepedia)
+- [Ad Auris](https://play.ad-auris.com/)
+- [Aiva](https://www.aiva.ai/)
+- [Apple Books](https://www.apple.com/in/apple-books/)
 - [Article. Audio](http://article.audio) Convert Articles In Audio. Too Lazy To Read An Article? No Problem, Listen To It! Powered By Thundercontent.
-- [Ask My Book](https://askmybook.com/?ref=futurepedia)
-- [Audioread](https://audioread.com/?ref=futurepedia)
-- [Blubi.ai](https://blubi.ai/?ref=futurepedia)
-- [Convai](https://www.convai.com/?ref=futurepedia)
-- [Coqui](https://coqui.ai/?ref=futurepedia)
-- [Descript](https://www.descript.com/overdub?ref=futurepedia)
+- [Ask My Book](https://askmybook.com/)
+- [Audioread](https://audioread.com/)
+- [Blubi.ai](https://blubi.ai/)
+- [Convai](https://www.convai.com/)
+- [Coqui](https://coqui.ai/)
+- [Descript](https://www.descript.com/overdub)
 - [Eleven](https://beta.elevenlabs.io/) Prime Voice Ai. The Most Realistic And Versatile AI Speech Software, Ever. Eleven Brings The Most Compelling, Rich And Lifelike Voices To Creators And Publishers Seeking The Ultimate Tools For Storytelling.
-- [Fakeyou](https://fakeyou.com/?ref=futurepedia)
+- [Fakeyou](https://fakeyou.com/)
 - [Listnr 2.0](<https://www.listnr.tech/>? Gr_pk = V71a&gr_uid = YVDO) Ai Voice Generator - Text To Speech Converter - Listnr. Generate Realistic Text To Speech (TTS) Audio Using Our AI Voice Generator With The Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download In MP3 And WAV Formats.
 - [Listnr](https://www.listnr.tech/?gr_pk=vYP4&gr_uid=aRxw)
 - [Lovo](http://www.lovo.ai) Lovo Ai - Free Text To Speech Online With Natural Voices.
@@ -2935,19 +2933,19 @@
 - [Murf.ai](http://murf.ai) Go From Text To Speech With A Versatile Ai Voice Generator. AI Enabled, Real People's Voices. Make Studio-quality Voice Overs In Minutes. Use Murf' S Lifelike AI Voices For Podcasts, Videos, And All Your Professional Presentations.
 - [Murf AI](https://murf.ai/?lmref=Ooighw)
 - [Play.ht](http://play.ht) Ai Powered Text To Voice Generator. Generate Realistic Text To Speech (TTS) Audio Using Our Online AI Voice Generator And The Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download As MP3 And WAV Audio Files.
-- [Play.ht](https://www.play.ht/?ref=futurepedia)
-- [Replicastudios](https://www.replicastudios.com/?ref=futurepedia)
+- [Play.ht](https://www.play.ht/)
+- [Replicastudios](https://www.replicastudios.com/)
 - [Resemble](https://www.listnr.tech/?gr_pk=vYP4&gr_uid=aRxw)
 - [Speechelo](http://speechelo.com) Speechelo - Generate Voice From Text With Only 3 Clicks. The Most Realistic Souding Text To Audio Converter. We GUARANTEE No One Will Tell Your Voiceover Is A. I. Generated With A Text To Voice Tool.
 - [Speechify](http://speechify.com) The #1 Text To Speech Reader. Power Through Docs, Articles, PDFs, Email—anything You Read—by Listening With Our Leading Text-to-speech Reader.
 - [Speech-to-Speech](http://www.resemble.ai) Your Complete Generative Voice Ai Toolkit. Resemble' S AI Voice Generator Lets You Create Human–like Voice Overs In Seconds.
-- [Splashmusic](https://www.splashmusic.com/?ref=futurepedia)
-- [Symbl.ai](https://symbl.ai/?ref=futurepedia)
+- [Splashmusic](https://www.splashmusic.com/)
+- [Symbl.ai](https://symbl.ai/)
 - [Unreal Speech](http://unrealspeech.up.railway.app) Ultra Realistic Text-To-Speech Api. More Natural-sounding And Up To 4x Cheaper Than Amazon, Google And Microsoft.
 - [VERBATIK](http://verbatik.com) Ai Powered Text To Voice Generation. Generate Realistic Text To Speech (TTS) Audio Using Online AI Voice Generator And Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download As MP3 And WAV Audio Files.
 - [Wellsaid](http://wellsaidlabs.com) Convert Text To Voice In Real Time. With WellSaid, You And Your Team Can Create A Compelling Realistic AI Voice Over For All Your Digital Content.
-- [Wellsaidlabas](https://wellsaidlabs.com/?ref=futurepedia)
-- [Whisper](https://github.com/openai/whisper?ref=futurepedia)
+- [Wellsaidlabas](https://wellsaidlabs.com/)
+- [Whisper](https://github.com/openai/whisper)
 
 ---
 
@@ -2955,9 +2953,9 @@
 
 **In this section, you will find a collection of AI tools and utilities for a variety of use cases.**
 
-* **[Automation](#automation)**: AI models and tools for automating tasks and processes.
-* **[Tools](#tools)**: Various AI tools for various applications and industries.
-* **[Translation & Transcript](#translation-&-transcript)**: AI models and tools for translation and transcriptions.
+- **[Automation](#automation)**: AI models and tools for automating tasks and processes.
+- **[Tools](#tools)**: Various AI tools for various applications and industries.
+- **[Translation & Transcript](#translation-&-transcript)**: AI models and tools for translation and transcriptions.
 
 ## Automation
 
@@ -3103,29 +3101,29 @@
 
 ## Translation & Transcript
 
-- [AnyPod](https://www.anypod.ai/?ref=futurepedia)
-- [AssembleAI](https://www.assemblyai.com/?ref=futurepedia)
+- [AnyPod](https://www.anypod.ai/)
+- [AssembleAI](https://www.assemblyai.com/)
 - [Ava](http://www.ava.me) Professional & Ai-Based Captions For Deaf & Hoh - Ava
-- [Contentfries](https://www.contentfries.com/?ref=futurepedia)
-- [Context](https://addcontext.xyz/?ref=futurepedia)
+- [Contentfries](https://www.contentfries.com/)
+- [Context](https://addcontext.xyz/)
 - [Deciphr AI](http://www.deciphr.ai) Deciphr Ai. Powered By Deep AI, Deciphr Timestamps And Summarizes Your Entire Podcast Transcript For You. In Less Time Than It Takes To Make Coffee.
 - [DeepL](http://www.deepl.com) Deepl Translate The World'S Most Accurate Translator.
-- [Fireflies.ai](https://fireflies.ai/?ref=futurepedia)
-- [Free Subtitle AI](https://freesubtitles.ai/?ref=futurepedia)
+- [Fireflies.ai](https://fireflies.ai/)
+- [Free Subtitle AI](https://freesubtitles.ai/)
 - [Graphic AI](http://www.stork.ai) Ai Assisted Work Collaboration Platform For Teams. Stork Helps Teams Improve Communications And Productivity. It Is A Business Messenger For Hybrid & Remote Teams That Records And Transcribes All Meetings And Calls Automatically. Made For Asynchronous Post Pandemic World And Assisted By Artificial Intelligence.
-- [Noty.ai](https://noty.ai/?ref=futurepedia)
-- [Peech](https://www.peech-ai.com/?ref=futurepedia)
+- [Noty.ai](https://noty.ai/)
+- [Peech](https://www.peech-ai.com/)
 - [Rephrasely](<http://rephrasely.com>? Via = Beth0) The Free Rephrase Generator For All Languages!. Rephrasely Uses State-of-the-art AI To Produce Variations Of Your Text In More Than 100+ Languages For Each Of The Eighteen (12 Free And 6 Premium) Styles That We Offer. By Doing This, We Are Able To Offer More Value And Variety Than Any Other Service.
 - [Rythmex](<https://rythmex.com/>? Partner = 641&uuid = 49feba69-adf4-456c-a90e-a9f4f14372cb&page = Home) Convert Audio To Text With Rythmex Converter. Transcribe Audio To Text Easily, Quickly, And Effectively.
 - [Scribebuddy](http://secure.scribebuddy.com) Automatically Transcribe Any Audio, Video, Zoom Call, Google Meet, Podcast, Live Speech & More In Minutes.
-- [Steno](https://steno.ai/?ref=futurepedia)
-- [Supertranslate](https://www.supertranslate.ai/?ref=futurepedia)
+- [Steno](https://steno.ai/)
+- [Supertranslate](https://www.supertranslate.ai/)
 - [Supertranslate](http://www.supertranslate.ai) Supertranslate - Add Subtitles To Videos Automatically. Powered By OpenAI's Whisper, The World's Most Accurate Speech-to-text Engine!.
 - [Taption](http://www.taption.com) Automatically Generate Transcript, Translation And Subtitles - Taption
 - [TranslateVideo](http://www.translate.video) Translate. Video
-- [Type Studio](https://www.typestudio.co/tool/video-to-text/?ref=futurepedia)
+- [Type Studio](https://www.typestudio.co/tool/video-to-text/)
 - [Voicetapp](http://voicetapp.com) Voicetapp - Speech To Text Transcription. Get Accurate Transcriptions For Your AUDIO & VIDEO With The Latest Speech Rocognition Technology.
-- [Whisper Memos](https://whispermemos.com/?ref=futurepedia)
+- [Whisper Memos](https://whispermemos.com/)
 
 ---
 
@@ -3133,13 +3131,13 @@
 
 **In this section, you will find all things related to video processing using AI technology.**
 
-* **[Video](#video)**: AI models and tools for processing, analyzing, and generating video.
-* **[Video Animation](#video-animation)**: AI models and tools for generating and manipulating video animations.
-* **[Video Channels](#video-channels)**: AI models and tools for managing and optimizing video channels.
-* **[Video Editing](#video-editing)**: AI models and tools for video editing and post-production.
-* **[Video Generator](#video-generator)**: AI models and tools for video generation and creation.
-* **[Video Interpolation](#video-interpolation)**: AI models and tools for video interpolation and resizing.
-* **[Video Personalized](#video-personalized)**: AI models and tools for personalized video recommendations and content.
+- **[Video](#video)**: AI models and tools for processing, analyzing, and generating video.
+- **[Video Animation](#video-animation)**: AI models and tools for generating and manipulating video animations.
+- **[Video Channels](#video-channels)**: AI models and tools for managing and optimizing video channels.
+- **[Video Editing](#video-editing)**: AI models and tools for video editing and post-production.
+- **[Video Generator](#video-generator)**: AI models and tools for video generation and creation.
+- **[Video Interpolation](#video-interpolation)**: AI models and tools for video interpolation and resizing.
+- **[Video Personalized](#video-personalized)**: AI models and tools for personalized video recommendations and content.
 
 ## Video
 
@@ -3203,48 +3201,48 @@
 
 ## Video Editing
 
-- [Beatoven.ai](https://www.beatoven.ai/?ref=futurepedia)
-- [Colourlab](https://www.colourlab.ai/?ref=futurepedia)
-- [Contentfries](https://www.contentfries.com/?ref=futurepedia)
-- [Dubverse](https://dubverse.ai/?ref=futurepedia)
-- [Gling](https://www.gling.ai/?ref=futurepedia)
-- [Munch](https://www.getmunch.com/?ref=futurepedia)
-- [Papercup](https://www.papercup.com/?ref=futurepedia)
-- [Perfectly Clear Video](https://eyeq.photos/automatic-ai-video-enhancement/?ref=futurepedia)
+- [Beatoven.ai](https://www.beatoven.ai/)
+- [Colourlab](https://www.colourlab.ai/)
+- [Contentfries](https://www.contentfries.com/)
+- [Dubverse](https://dubverse.ai/)
+- [Gling](https://www.gling.ai/)
+- [Munch](https://www.getmunch.com/)
+- [Papercup](https://www.papercup.com/)
+- [Perfectly Clear Video](https://eyeq.photos/automatic-ai-video-enhancement/)
 - [Pictory](https://pictory.ai/?ref=vivek73)
-- [Runwayml](https://runwayml.com/?ref=futurepedia)
-- [Shuffll](https://shuffll.com/?ref=futurepedia)
-- [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai?ref=futurepedia)
-- [Type Studio](https://www.typestudio.co/tool/video-to-text/?ref=futurepedia)
-- [Unscreen.com](https://www.unscreen.com/?ref=futurepedia)
-- [Vidyo.ai](https://vidyo.ai/?ref=futurepedia)
+- [Runwayml](https://runwayml.com/)
+- [Shuffll](https://shuffll.com/)
+- [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai)
+- [Type Studio](https://www.typestudio.co/tool/video-to-text/)
+- [Unscreen.com](https://www.unscreen.com/)
+- [Vidyo.ai](https://vidyo.ai/)
 
 ---
 
 ## Video Generator
 
-- [Astria](https://www.astria.ai/?ref=futurepedia)
-- [Audiolabs](https://www.audiolabs.io/?ref=futurepedia)
-- [Colossyan](https://www.colossyan.com/?ref=futurepedia)
-- [Creative Reality Studio (D-ID)](https://studio.d-id.com/?ref=futurepedia)
-- [Designs AI](https://designs.ai/?ref=futurepedia)
-- [FILM](https://replicate.com/google-research/frame-interpolation?ref=futurepedia)
+- [Astria](https://www.astria.ai/)
+- [Audiolabs](https://www.audiolabs.io/)
+- [Colossyan](https://www.colossyan.com/)
+- [Creative Reality Studio (D-ID)](https://studio.d-id.com/)
+- [Designs AI](https://designs.ai/)
+- [FILM](https://replicate.com/google-research/frame-interpolation)
 - [Fliki](https://fliki.ai/?via=futurepedia)
-- [Hourone](https://hourone.ai/?ref=futurepedia)
-- [InVideo](https://invideo.io/?ref=futurepedia)
-- [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream?ref=futurepedia)
-- [Movio](https://www.movio.la/?ref=futurepedia)
-- [Opus](https://opus.ai/?ref=futurepedia)
-- [Peech](https://www.peech-ai.com/?ref=futurepedia)
-- [Pollinations](https://pollinations.ai/?ref=futurepedia)
-- [Pyttipanna](https://pyttipanna.xyz/?ref=futurepedia)
-- [Shuffll](https://shuffll.com/?ref=futurepedia)
-- [Steve AI](https://www.steve.ai/?ref=futurepedia)
-- [Synthesia](https://www.synthesia.io/?ref=futurepedia)
-- [Waymark](https://waymark.com/?ref=futurepedia)
-- [Wonder Dynamics](https://www.wonderdynamics.com/?ref=futurepedia)
-- [WowTo](https://wowto.ai/?ref=futurepedia)
-- [Xpression Camera](https://xpressioncamera.com/?ref=futurepedia)
+- [Hourone](https://hourone.ai/)
+- [InVideo](https://invideo.io/)
+- [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream)
+- [Movio](https://www.movio.la/)
+- [Opus](https://opus.ai/)
+- [Peech](https://www.peech-ai.com/)
+- [Pollinations](https://pollinations.ai/)
+- [Pyttipanna](https://pyttipanna.xyz/)
+- [Shuffll](https://shuffll.com/)
+- [Steve AI](https://www.steve.ai/)
+- [Synthesia](https://www.synthesia.io/)
+- [Waymark](https://waymark.com/)
+- [Wonder Dynamics](https://www.wonderdynamics.com/)
+- [WowTo](https://wowto.ai/)
+- [Xpression Camera](https://xpressioncamera.com/)
 
 ---
 
@@ -3271,14 +3269,14 @@
 
 ## Video Personalized
 
-- [Bhuman](https://www.bhuman.ai//?ref=futurepedia)
-- [Colossyan](https://www.colossyan.com/?ref=futurepedia)
-- [InVideo](https://invideo.io/?ref=futurepedia)
-- [Maverick](https://www.trymaverick.com/?ref=futurepedia)
-- [Rephrase](https://www.rephrase.ai/?ref=futurepedia)
-- [Tavus](https://www.tavus.io/?ref=futurepedia)
-- [Vidyo](https://vidyo.ai/?ref=futurepedia)
-- [Windsor](https://windsor.io/?ref=futurepedia)
+- [Bhuman](https://www.bhuman.ai//)
+- [Colossyan](https://www.colossyan.com/)
+- [InVideo](https://invideo.io/)
+- [Maverick](https://www.trymaverick.com/)
+- [Rephrase](https://www.rephrase.ai/)
+- [Tavus](https://www.tavus.io/)
+- [Vidyo](https://vidyo.ai/)
+- [Windsor](https://windsor.io/)
 
 ---
 
@@ -3286,12 +3284,12 @@
 
 **In this section, you will find all things related to writing and language processing using AI technology.**
 
-* **[Assistant](#assistant)**: AI models and tools for writing assistance and suggestions.
-* **[Copywriting](#copywriting)**: AI models and tools for copywriting and content creation.
-* **[General](#general)**: AI models and tools for general writing and language processing.
-* **[Paraphraser](#paraphraser)**: AI models and tools for paraphrasing and rewording text.
-* **[Story Teller](#story-teller)**: AI models and tools for story generation and storytelling.
-* **[Writing](#writing)**: AI models and tools for writing analysis and improvement.
+- **[Assistant](#assistant)**: AI models and tools for writing assistance and suggestions.
+- **[Copywriting](#copywriting)**: AI models and tools for copywriting and content creation.
+- **[General](#general)**: AI models and tools for general writing and language processing.
+- **[Paraphraser](#paraphraser)**: AI models and tools for paraphrasing and rewording text.
+- **[Story Teller](#story-teller)**: AI models and tools for story generation and storytelling.
+- **[Writing](#writing)**: AI models and tools for writing analysis and improvement.
 
 ## Assistant
 
@@ -3319,113 +3317,113 @@
 ## Copywriting
 
 - [Adcreative.ai](https://free-trial.adcreative.ai/yu6pljyh4s0k)
-- [Anyword](https://anyword.com/?ref=futurepedia)
+- [Anyword](https://anyword.com/)
 - [ArticleForge](https://www.articleforge.com/?ref=f29ac7)
-- [Bertha.ai](https://bertha.ai/?ref=futurepedia)
-- [Botowski](https://www.botowski.com/?ref=futurepedia)
-- [Closers Copy](https://www.closerscopy.com/?ref=futurepedia)
-- [Contents](https://contents.com/?ref=futurepedia)
+- [Bertha.ai](https://bertha.ai/)
+- [Botowski](https://www.botowski.com/)
+- [Closers Copy](https://www.closerscopy.com/)
+- [Contents](https://contents.com/)
 - [Copy.ai](https://www.copy.ai/?via=futurepedia)
 - [Copymatic](https://copymatic.ai/?via=futurepedia)
 - [CopyMonkey](https://copymonkey.ai/?via=futurepedia)
-- [Copysmith](https://copysmith.ai/?ref=futurepedia)
-- [Cowriter](https://cowriter.org/?ref=futurepedia)
-- [Creator AI](https://www.creaitor.ai/?ref=futurepedia)
-- [Daydrm.ai](https://texti.app/?ref=futurepedia)
-- [Digital First AI](https://digitalfirst.ai/?ref=futurepedia)
+- [Copysmith](https://copysmith.ai/)
+- [Cowriter](https://cowriter.org/)
+- [Creator AI](https://www.creaitor.ai/)
+- [Daydrm.ai](https://texti.app/)
+- [Digital First AI](https://digitalfirst.ai/)
 - [Easy-Peasy.AI](https://easy-peasy.ai/?via=futurepedia)
-- [Eilla AI](https://eilla.ai/?ref=futurepedia)
-- [Go Charlie](https://gocharlie.ai/?ref=futurepedia)
-- [HelloScribe](https://helloscribe.ai/?ref=futurepedia)
+- [Eilla AI](https://eilla.ai/)
+- [Go Charlie](https://gocharlie.ai/)
+- [HelloScribe](https://helloscribe.ai/)
 - [Hypotenuse Ai](https://hypotenuse.ai/?via=futurepedia&ref=futurepedia)
 - [Jasper](https://jasper.ai/?source=partner&fpr=futurepedia)
-- [Lek](https://lek.ai/?ref=futurepedia)
-- [Ocoya](https://www.ocoya.net/?ref=futurepedia)
-- [ParagraphAI](https://paragraphai.com/?ref=futurepedia)
-- [Peppertype.ai](https://www.peppertype.ai/?ref=futurepedia)
+- [Lek](https://lek.ai/)
+- [Ocoya](https://www.ocoya.net/)
+- [ParagraphAI](https://paragraphai.com/)
+- [Peppertype.ai](https://www.peppertype.ai/)
 - [Rytr](https://rytr.me/?via=futurepedia)
-- [Simplified](https://simplified.com/ai-writer/?ref=futurepedia)
-- [Texti](https://texti.app/?ref=futurepedia)
-- [Typli](https://typli.ai/?ref=futurepedia)
-- [Unbounce](https://unbounce.com/product/smart-copy//?ref=futurepedia)
-- [Unbound](https://www.unboundcontent.ai/?ref=futurepedia)
-- [VEG3](https://veg3.ai/?ref=futurepedia)
-- [WiziShop](https://wizishop.com/ai/?ref=futurepedia)
+- [Simplified](https://simplified.com/ai-writer/)
+- [Texti](https://texti.app/)
+- [Typli](https://typli.ai/)
+- [Unbounce](https://unbounce.com/product/smart-copy//)
+- [Unbound](https://www.unboundcontent.ai/)
+- [VEG3](https://veg3.ai/)
+- [WiziShop](https://wizishop.com/ai/)
 - [Writesonic](https://writesonic.com/?via=futurepedia)
 
 ---
 
 ## General
 
-- [AlDuh](https://aiduh.com/?ref=futurepedia)
-- [CaliberAI](https://caliberai.net/?ref=futurepedia)
-- [Compose](https://www.compose.ai/?ref=futurepedia)
-- [Corrector App](https://corrector.app/?ref=futurepedia)
-- [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg/related?ref=futurepedia)
-- [DREAM.page](https://dream.page/?ref=futurepedia)
-- [Elephas](https://elephas.app/?ref=futurepedia)
+- [AlDuh](https://aiduh.com/)
+- [CaliberAI](https://caliberai.net/)
+- [Compose](https://www.compose.ai/)
+- [Corrector App](https://corrector.app/)
+- [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg/related)
+- [DREAM.page](https://dream.page/)
+- [Elephas](https://elephas.app/)
 - [Frase](https://www.frase.io/tools/?via=futurepedia)
-- [Glasp](https://glasp.co/ai-writing?ref=futurepedia)
-- [Grammarly](https://app.grammarly.com/?ref=futurepedia)
-- [HandyPlugins](https://handyplugins.co/handywriter/?ref=futurepedia)
-- [HelloScribe](https://helloscribe.ai/?ref=futurepedia)
-- [LanguageTool](https://languagetool.org/?ref=futurepedia)
-- [Lex](https://lex.page/?ref=futurepedia)
-- [LuciaAI](https://luciaai.com/?ref=futurepedia)
-- [Maester.app](https://maester.app/?ref=futurepedia)
-- [Nichess](https://nichesss.com/?ref=futurepedia)
+- [Glasp](https://glasp.co/ai-writing)
+- [Grammarly](https://app.grammarly.com/)
+- [HandyPlugins](https://handyplugins.co/handywriter/)
+- [HelloScribe](https://helloscribe.ai/)
+- [LanguageTool](https://languagetool.org/)
+- [Lex](https://lex.page/)
+- [LuciaAI](https://luciaai.com/)
+- [Maester.app](https://maester.app/)
+- [Nichess](https://nichesss.com/)
 - [Notion AI](https://affiliate.notion.so/futurepedia)
-- [Othersideai](https://www.othersideai.com/?ref=futurepedia)
-- [ParagraphAI](https://paragraphai.com/?ref=futurepedia)
-- [Penelope AI](https://penelope-ai.vercel.app/?ref=futurepedia)
-- [Proposal Genie](https://www.proposalgenie.ai/?ref=futurepedia)
-- [Quasi](https://quasi.market/?ref=futurepedia)
-- [Redacta.me](https://www.redacta.me/?ref=futurepedia)
-- [SmartScribe](https://www.smartscribe.app/?ref=futurepedia)
-- [Sudowrite](https://www.sudowrite.com/?ref=futurepedia)
-- [Text Generator Plugin](https://text-gen.com/?ref=futurepedia)
-- [Tinq.ai-NLP API](https://tinq.ai/?ref=futurepedia)
-- [Typly](https://typly.app/?ref=futurepedia)
-- [Upcat](https://upcat.app/?ref=futurepedia)
-- [WebCopilot](https://www.webcopilot.co/?ref=futurepedia)
-- [WordAI](https://wordai.com/?ref=futurepedia)
-- [Wordtune](https://www.wordtune.com/?ref=futurepedia)
-- [Writely](https://www.writelyai.com/?ref=futurepedia)
-- [Writewithlaika](https://www.writewithlaika.com/?ref=futurepedia)
+- [Othersideai](https://www.othersideai.com/)
+- [ParagraphAI](https://paragraphai.com/)
+- [Penelope AI](https://penelope-ai.vercel.app/)
+- [Proposal Genie](https://www.proposalgenie.ai/)
+- [Quasi](https://quasi.market/)
+- [Redacta.me](https://www.redacta.me/)
+- [SmartScribe](https://www.smartscribe.app/)
+- [Sudowrite](https://www.sudowrite.com/)
+- [Text Generator Plugin](https://text-gen.com/)
+- [Tinq.ai-NLP API](https://tinq.ai/)
+- [Typly](https://typly.app/)
+- [Upcat](https://upcat.app/)
+- [WebCopilot](https://www.webcopilot.co/)
+- [WordAI](https://wordai.com/)
+- [Wordtune](https://www.wordtune.com/)
+- [Writely](https://www.writelyai.com/)
+- [Writewithlaika](https://www.writewithlaika.com/)
 
 ---
 
 ## Paraphraser
 
-- [Bearly](https://bearly.ai/?ref=futurepedia)
-- [Language Tool](https://languagetool.org/?ref=futurepedia)
-- [LuciaAI](https://luciaai.com/?ref=futurepedia)
-- [Paraphraser](https://paraphrasetool.com/?ref=futurepedia)
-- [Penelope AI](https://penelope-ai.vercel.app/?ref=futurepedia)
+- [Bearly](https://bearly.ai/)
+- [Language Tool](https://languagetool.org/)
+- [LuciaAI](https://luciaai.com/)
+- [Paraphraser](https://paraphrasetool.com/)
+- [Penelope AI](https://penelope-ai.vercel.app/)
 - [Quillbot Paraphraser](https://try.quillbot.com/futurepedia)
-- [Rephrasely](https://rephrasely.com/?ref=futurepedia)
-- [WordAI](https://wordai.com/?ref=futurepedia)
-- [WordfixerBot](https://www.wordfixerbot.com/?ref=futurepedia)
-- [Writely](https://www.writelyai.com/?ref=futurepedia)
+- [Rephrasely](https://rephrasely.com/)
+- [WordAI](https://wordai.com/)
+- [WordfixerBot](https://www.wordfixerbot.com/)
+- [Writely](https://www.writelyai.com/)
 
 ---
 
 ## Story Teller
 
-- [Artflow Ai](https://artflow.ai/?ref=futurepedia)
-- [BedtimeStory AI](https://www.bedtimestory.ai/?ref=futurepedia)
-- [EndlessVN](https://endlessvn.io/?ref=futurepedia)
-- [Fabled](https://fabled.ai/?ref=futurepedia)
-- [Neural Canvas](https://neuralcanvas.io/?ref=futurepedia)
-- [NovelAI](https://novelai.net/?ref=futurepedia)
-- [Once Upon A Bot](https://onceuponabot.com/?ref=futurepedia)
-- [Scene One](https://sceneone.app/?ref=futurepedia)
-- [StoriesForKids](https://www.storiesforkids.ai/?ref=futurepedia)
-- [Story Path](https://storypath.app/?ref=futurepedia)
-- [StoryWizard](https://www.storywizard.ai/?ref=futurepedia)
-- [Subtxt](https://subtxt.app/?ref=futurepedia)
-- [Tome](https://beta.tome.app/?ref=futurepedia)
-- [What On Earth?](https://www.whatonearth.xyz/?ref=futurepedia)
+- [Artflow Ai](https://artflow.ai/)
+- [BedtimeStory AI](https://www.bedtimestory.ai/)
+- [EndlessVN](https://endlessvn.io/)
+- [Fabled](https://fabled.ai/)
+- [Neural Canvas](https://neuralcanvas.io/)
+- [NovelAI](https://novelai.net/)
+- [Once Upon A Bot](https://onceuponabot.com/)
+- [Scene One](https://sceneone.app/)
+- [StoriesForKids](https://www.storiesforkids.ai/)
+- [Story Path](https://storypath.app/)
+- [StoryWizard](https://www.storywizard.ai/)
+- [Subtxt](https://subtxt.app/)
+- [Tome](https://beta.tome.app/)
+- [What On Earth?](https://www.whatonearth.xyz/)
 
 ---
 
