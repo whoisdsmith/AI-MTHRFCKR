@@ -203,26 +203,26 @@
 
 ## 3D & Animation
 
-- [CSM](https://csm.ai/?ref=futurepedia)
-- [DeepMotion](https://www.deepmotion.com/?ref=futurepedia)
-- [G3DAI {Jedi}](https://g3d.ai/?ref=futurepedia)
-- [GET3D (Nvidia)](https://nv-tlabs.github.io/GET3D/?ref=futurepedia)
-- [GetFloorPlan](https://getfloorplan.com/?ref=futurepedia)
-- [Imagine 3D](https://captures.lumalabs.ai/imagine?ref=futurepedia)
-- [Kaedim](http://www.kaedim3d.com) Magically Generate Custom3D Models In Minutes. Stop Losing Hours To Modeling Tools. Generate Stunning 3D Art With Nothing More Than An Image
-- [Kinetix](https://www.kinetix.tech/?ref=futurepedia)
-- [Leonardo.Ai](https://leonardo.ai/?ref=futurepedia)
-- [Lumalabs](https://captures.lumalabs.ai/imagine) Imagine 3D V1.2 (Alpha). An Early Experiment To Prototype And Create 3D With Text Access To Generation Is Gradually Expanding To Everyone On The Waitlist
-- [Masterpiece Studio](https://masterpiecestudio.com/?ref=futurepedia)
-- [Mirageml](https://www.mirageml.com/?ref=futurepedia)
-- [Pixela AI](https://pixela.ai/?ref=futurepedia)
-- [Plask](https://plask.ai/) Ai-Powered Mocap Animation Tool. Easily Extract Motion From Video Without Expensive Bodysuits Or Motions Work
-- [Poly](https://withpoly.com/?ref=futurepedia)
-- [Ponzu](https://www.ponzu.gg/?ref=futurepedia)
-- [PrometheanAI](https://www.prometheanai.com/?ref=futurepedia)
-- [Scenario](https://www.scenario.gg/?ref=futurepedia)
-- [TextureLab](http://www.texturelab.xyz) Instant And Unique 3D Textures For Your Next Game. Generate 3D Textures For Your Game In Seconds Thanks To AI
-- [The Simulation](https://fablesimulation.com/?ref=futurepedia)
+- [CSM](https://csm.ai/)
+- [DeepMotion](https://www.deepmotion.com/)
+- [G3DAI {Jedi}](https://g3d.ai/)
+- [GET3D (Nvidia)](https://nv-tlabs.github.io/GET3D/)
+- [GetFloorPlan](https://getfloorplan.com/)
+- [Imagine 3D](https://captures.lumalabs.ai/imagine)
+- [Kaedim](http://www.kaedim3d.com) - Magically Generate Custom3D Models In Minutes. Stop Losing Hours To Modeling Tools. Generate Stunning 3D Art With Nothing More Than An Image
+- [Kinetix](https://www.kinetix.tech/)
+- [Leonardo.AI](https://leonardo.ai/)
+- [Lumalabs](https://captures.lumalabs.ai/imagine) - Imagine 3D V1.2 (Alpha). An Early Experiment To Prototype And Create 3D With Text Access To Generation Is Gradually Expanding To Everyone On The Waitlist
+- [Masterpiece Studio](https://masterpiecestudio.com/)
+- [Mirageml](https://www.mirageml.com/)
+- [Pixela AI](https://pixela.ai/)
+- [Plask](https://plask.ai/) - AI-Powered Mocap Animation Tool. Easily Extract Motion From Video Without Expensive Bodysuits Or Motions Work
+- [Poly](https://withpoly.com/)
+- [Ponzu](https://www.ponzu.gg/)
+- [PrometheanAI](https://www.prometheanai.com/)
+- [Scenario](https://www.scenario.gg/)
+- [TextureLab](http://www.texturelab.xyz) - Instant And Unique 3D Textures For Your Next Game. Generate 3D Textures For Your Game In Seconds Thanks To AI
+- [The Simulation](https://fablesimulation.com/)
 
 ---
 
@@ -281,56 +281,56 @@
 
 ## Avatars
 
-- [AIprofilepic](http://aiprofilepic.art) Create Stunning Profile Pictures Using Ai - Aiprofilepic. Art. Create Your Perfect Avatars In Just A Few Clicks With Our Easy-to-use AI Technology.
-- [AI Profile Pictures](http://www.aiprofilepictures.com) Ai Profile Pictures. Now Available In Beta.
-- [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/?ref=futurepedia)
-- [AI Time Machine](https://www.myheritage.com/ai-time-machine?ref=futurepedia)
-- [AIVatar](http://aivatarapp.com) Aivatar - Magic Avatar Generator. Generate Magic Avatar Art From Your Photos.
-- [AnimeAI](https://www.animeai.lol/?ref=futurepedia)
-- [ARTI. PICS](http://www.arti.pics) Ai-Powered Avatar Maker. Arti. Pics Allows You To Upload A Few Photos Of Yourself And Generates More Than 200 Cool-looking Avatars In Different Styles.
-- [Autoportrait](http://autoportrait.co) Autoportrait - Create Ai Portraits. Browse Millions Of Styles Or Create Your Own, Generate AI Autoportraits.
-- [AvatarAI](http://avatarai.me) Create Your Own Photorealistic Ai Avatars. Choose From 112+ Different Styles To Transform Into.
-- [Avatarify](https://avatarify.art/?ref=futurepedia)
-- [Avatarize.club](http://avatarize.club) Create High Quality Ai-Generated Avatars. Professional Photos, Social Media DPs, Game Avatars, Dating Profile Photos, And More Powered By Stable Diffusion 2.1.
+- [AIprofilepic](http://aiprofilepic.art) - Create Stunning Profile Pictures Using Ai - Aiprofilepic. Art. Create Your Perfect Avatars In Just A Few Clicks With Our Easy-to-use AI Technology.
+- [AI Profile Pictures](http://www.aiprofilepictures.com) - Ai Profile Pictures. Now Available In Beta.
+- [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/)
+- [AI Time Machine](https://www.myheritage.com/ai-time-machine)
+- [AIVatar](http://aivatarapp.com) - Aivatar - Magic Avatar Generator. Generate Magic Avatar Art From Your Photos.
+- [AnimeAI](https://www.animeai.lol/)
+- [ARTI. PICS](http://www.arti.pics) - Ai-Powered Avatar Maker. Arti. Pics Allows You To Upload A Few Photos Of Yourself And Generates More Than 200 Cool-looking Avatars In Different Styles.
+- [Autoportrait](http://autoportrait.co) - Autoportrait - Create Ai Portraits. Browse Millions Of Styles Or Create Your Own, Generate AI Autoportraits.
+- [AvatarAI](http://avatarai.me) - Create Your Own Photorealistic Ai Avatars. Choose From 112+ Different Styles To Transform Into.
+- [Avatarify](https://avatarify.art/)
+- [Avatarize.club](http://avatarize.club) - Create High Quality Ai-Generated Avatars. Professional Photos, Social Media DPs, Game Avatars, Dating Profile Photos, And More Powered By Stable Diffusion 2.1.
 - [Beb.ai](http://Beb.ai)
-- [Character AI](https://beta.character.ai/?ref=futurepedia)
-- [Character.io](http://characterio.neeltron.repl.co) Free Tool To Generate Fresh Cartoon Characters. Generate A Random Set Of Characters Or Avatars With The Power Of GANs. Press Spacebar To Generate A New Set.
-- [Digirama](https://apps.apple.com/us/app/character-creator-digirama/id6444673721?ref=futurepedia)
-- [DreamPic](http://dreampic.ai) Dreampic. Ai. AI Generated Pictures Starring You.
-- [EpicAvatar](http://epic-avatar.com) Epic Avatar - Ai Profile Picture Generator. Make Your Own State-of-the-art AI Avatar Profile Pictures.
-- [Face Swapper](http://faceswapper.ai) Face Swapper Online. Swap Face From Photos And Videos Automatically. Free And Unlimited Photo Swapping.
-- [Gemsouls](https://www.mygemsouls.com/?ref=futurepedia)
-- [Hairgen](http://www.hairgen.ai) Preview Your Fue/Fut Hair Transplant Using Ai - Hairgen. Ai
-- [HairstyleAI](<http://www.hairstyleai.com>? Via = Beth0) Try Out New Hairstyles With Ai - Hairstyle Ai. Ready For A New Look? Upload You Photos And Let Artificial Intelligence Technology Generate New Hairstyles For You. Try It Out Today!.
-- [HeroPack](http://www.heropack.me) Heropack. Become A Hero With AI Generated Avatars Inspired By Your Favorite Video Games.
-- [In3D](https://in3d.io/?ref=futurepedia)
-- [Inworld](https://www.inworld.ai/?ref=futurepedia)
+- [Character AI](https://beta.character.ai/)
+- [Character.io](http://characterio.neeltron.repl.co) - Free Tool To Generate Fresh Cartoon Characters. Generate A Random Set Of Characters Or Avatars With The Power Of GANs. Press Spacebar To Generate A New Set.
+- [Digirama](https://apps.apple.com/us/app/character-creator-digirama/id6444673721)
+- [DreamPic](http://dreampic.ai) - Dreampic. Ai. AI Generated Pictures Starring You.
+- [EpicAvatar](http://epic-avatar.com) - Epic Avatar - Ai Profile Picture Generator. Make Your Own State-of-the-art AI Avatar Profile Pictures.
+- [Face Swapper](http://faceswapper.ai) - Face Swapper Online. Swap Face From Photos And Videos Automatically. Free And Unlimited Photo Swapping.
+- [Gemsouls](https://www.mygemsouls.com/)
+- [Hairgen](http://www.hairgen.ai) - Preview Your Fue/Fut Hair Transplant Using Ai - Hairgen. Ai
+- [Hairstyle AI](http://www.hairstyleai.com) - Try Out New Hairstyles With Ai - Hairstyle Ai. Ready For A New Look? Upload You Photos And Let Artificial Intelligence Technology Generate New Hairstyles For You. Try It Out Today!
+- [HeroPack](http://www.heropack.me) - Heropack. Become A Hero With AI Generated Avatars Inspired By Your Favorite Video Games.
+- [In3D](https://in3d.io/)
+- [Inworld](https://www.inworld.ai/)
 - [Lensa](https://play.google.com/store/apps/details?id=com.lensa.app&hl=en_IN&gl=US&ref=futurepedia)
-- [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream?ref=futurepedia)
-- [Magic AI Avatars](http://magicaiavatars.com) Get 200+ Custom Avatars Made By Artificial Intelligence.
-- [MagicPic](http://www.magicpic.ai) Magicpic - Ai Profile Picture Generator. Your Profile Picture Is The First Thing People See When They Look At Your Profile. We Use Artificial Intelligence To Generate An Magical Avatars Of You.
-- [NeuralStudio](https://neural.cam/studio/?ref=futurepedia)
-- [Passphoto](http://passphoto.ai) Create Your Passport Photo With Ai.
-- [PhotoAI](http://photoai.me) Photoai. Create AI-generated Images Of Yourself.
-- [PhotoLeaf](http://photoleaf.ai) Photoleaf Ai. Create Your AI-generated Social Media Pictures.
-- [Photoshot](http://photoshot.app) Your Ai Avatar Generator. Generate Avatars That Perfectly Capture Your Unique Style.
-- [PictoDream](https://pictodream.com/?ref=futurepedia)
-- [Pictureperfect](http://pictureperfect.ai) Ai Avatar Generator And Maker - Pictureperfect. Ai. Get Creative And Design Your Own Personalized Avatar With The Help Of AI Technology. Simply Upload A Photo And Our System Will Generate A Unique Avatar That Represents You. Share Your Picture Perfect Avatar With Friends And Family On Social Media And Let Your Creativity Shine!.
-- [PIXELVIBE](https://www.pixelvibe.com/) Ai Streamlined Creative Workflow. Create Presentations, Designs, Stock Photos, Instagram Promos, Product Photography, Vector Art, Animated Avatars.
-- [Pixificial](http://www.pixificial.com) Pixificial Create Your Ai Avatars, Ai Profiles For Free. Create Your AI Avatars, AI Profiles For Free.
-- [Posed](http://posed.ai) Posed. Upload Your Pictures And Let Our AI Create Stunning High-quality Portraits In A Wide Range Of Styles That Look Just Like You.
-- [ProfilePicture.ai](http://www.profilepicture.ai) Create Your Perfect Profile Picture With Ai. The #1 AI Profile Picture Maker And Generator Your Profile Picture Is The First Thing People See When They Look At Your Profile. We Use Artificial Intelligence To Generate An Magical Avatars Of You That Looks Perfect And Captures Who You Are. You Can Be Anything Or Anyone!.
-- [Profile Picture](http://profilepicture.me) Profile Picture Art
-- [Ready Player Me](https://readyplayer.me/?ref=futurepedia)
-- [Reface AI](https://hey.reface.ai/?ref=futurepedia)
-- [ReflectMe](http://reflectme.art) Reflectme. - Generate Your Ai Avatars!. See Yourself In A Way You Never Have Before! Generate Your AI Avatars, AI Photos, AI Photographies, Profile Pictures, LinkedIn Professional Profile Photos, Using Artificial Intelligence! Built On Stable Diffusion And Dreambooth.
-- [Stableboost](http://stableboost.ai) Create Personalized Images With Ai!. Upload A Few Photos Of Yourself, A Loved One, A Pet, A Product, Or A Style You Like, And We Will Automatically Train An AI Model To Generate Portraits Of You In Hundreds Of Different Styles.
-- [Theoasis](http://theoasis.com) Oasis Â Never Worry How You Look On Camera Again. Create A Photorealistic Avatar That You Can Use On Every Video Platform.
-- [Tokkingheads](http://www.tokkingheads.com) Bring Portraits To Life With Ai Magic. Instantly.
-- [Tryitonai](http://www.tryitonai.com) Stunning Professional Headshots & Portraits - Try It On Ai. Get Professional Studio Quality Headshots Generated In Less Than 24hrs! Perfect For LinkedIn, Social, Team And Dating Photos.
-- [Unrealme](https://unrealme.io/?ref=futurepedia)
-- [Vana Portrait](https://portrait.vana.com/?ref=futurepedia)
-- [Xpression Camera 2.0](http://xpressioncamera.com) Xpression Camera. Become Anyone On Zoom, Twitch, Or Any Streaming Video.
+- [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream)
+- [Magic AI Avatars](http://magicaiavatars.com) - Get 200+ Custom Avatars Made By Artificial Intelligence.
+- [MagicPic](http://www.magicpic.ai) - Magicpic - Ai Profile Picture Generator. Your Profile Picture Is The First Thing People See When They Look At Your Profile. We Use Artificial Intelligence To Generate An Magical Avatars Of You.
+- [NeuralStudio](https://neural.cam/studio/)
+- [Passphoto](http://passphoto.ai) - Create Your Passport Photo With Ai.
+- [PhotoAI](http://photoai.me) - Photoai. Create AI-generated Images Of Yourself.
+- [PhotoLeaf](http://photoleaf.ai) - Photoleaf Ai. Create Your AI-generated Social Media Pictures.
+- [Photoshot](http://photoshot.app) - Your Ai Avatar Generator. Generate Avatars That Perfectly Capture Your Unique Style.
+- [PictoDream](https://pictodream.com/)
+- [Pictureperfect](http://pictureperfect.ai) - Ai Avatar Generator And Maker - Pictureperfect. Ai. Get Creative And Design Your Own Personalized Avatar With The Help Of AI Technology. Simply Upload A Photo And Our System Will Generate A Unique Avatar That Represents You. Share Your Picture Perfect Avatar With Friends And Family On Social Media And Let Your Creativity Shine!.
+- [PIXELVIBE](https://www.pixelvibe.com/) - Ai Streamlined Creative Workflow. Create Presentations, Designs, Stock Photos, Instagram Promos, Product Photography, Vector Art, Animated Avatars.
+- [Pixificial](http://www.pixificial.com) - Pixificial Create Your Ai Avatars, Ai Profiles For Free. Create Your AI Avatars, AI Profiles For Free.
+- [Posed](http://posed.ai) - Posed. Upload Your Pictures And Let Our AI Create Stunning High-quality Portraits In A Wide Range Of Styles That Look Just Like You.
+- [ProfilePicture.ai](http://www.profilepicture.ai) - Create Your Perfect Profile Picture With Ai. The #1 AI Profile Picture Maker And Generator Your Profile Picture Is The First Thing People See When They Look At Your Profile. We Use Artificial Intelligence To Generate An Magical Avatars Of You That Looks Perfect And Captures Who You Are. You Can Be Anything Or Anyone!.
+- [Profile Picture](http://profilepicture.me) - Profile Picture Art
+- [Ready Player Me](https://readyplayer.me/)
+- [Reface AI](https://hey.reface.ai/)
+- [ReflectMe](http://reflectme.art) - Reflectme. - Generate Your Ai Avatars!. See Yourself In A Way You Never Have Before! Generate Your AI Avatars, AI Photos, AI Photographies, Profile Pictures, LinkedIn Professional Profile Photos, Using Artificial Intelligence! Built On Stable Diffusion And Dreambooth.
+- [Stableboost](http://stableboost.ai) - Create Personalized Images With Ai!. Upload A Few Photos Of Yourself, A Loved One, A Pet, A Product, Or A Style You Like, And We Will Automatically Train An AI Model To Generate Portraits Of You In Hundreds Of Different Styles.
+- [Theoasis](http://theoasis.com) - Oasis Â Never Worry How You Look On Camera Again. Create A Photorealistic Avatar That You Can Use On Every Video Platform.
+- [Tokkingheads](http://www.tokkingheads.com) - Bring Portraits To Life With Ai Magic. Instantly.
+- [Tryitonai](http://www.tryitonai.com) - Stunning Professional Headshots & Portraits - Try It On Ai. Get Professional Studio Quality Headshots Generated In Less Than 24hrs! Perfect For LinkedIn, Social, Team And Dating Photos.
+- [Unrealme](https://unrealme.io/)
+- [Vana Portrait](https://portrait.vana.com/)
+- [Xpression Camera 2.0](http://xpressioncamera.com) - Xpression Camera. Become Anyone On Zoom, Twitch, Or Any Streaming Video.
 
 ---
 
@@ -914,7 +914,7 @@
 - [Lucid Sonic Dreams](https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD?usp=sharing) - Animate Path Through StyleGAN Latent Space With Music ([Github](https://github.com/mikaelalafriz/lucid-sonic-dreams))
 - [Painting With StyleGAN](https://colab.research.google.com/github/jmoso13/Painting_with_StyleGAN/blob/main/Painting_with_StyleGAN.ipynb) By @Jmoso13 ([Tutorial](https://www.youtube.com/watch?v=pkYHMPoZrkg)) - Use VAE To Navigate And Animate!
 - [Structured Dreaming](https://colab.research.google.com/drive/1tf-xUjhYm0p4pQSyKD-jq6EAGl_L5Al0#scrollTo=XYNwvEy3HH49) - Styledreams With Helpers
-- [Structured Dreaming](https://colab.research.google.com/github/ekgren/StructuredDreaming/blob/main/colabs/Structured_Dreaming_Styledreams.ipynb) (CLIP+StyleGAN) By @ArYoMo ([Tweet](https://twitter.com/ArYoMo/status/1444398963571019783?s=20))
+- [Structured Dreaming](https://colab.research.google.com/github/ekgren/StructuredDreaming/blob/main/colabs/Structured_Dreaming_Styledreams.ipynb) - (CLIP+StyleGAN) By @ArYoMo ([Tweet](https://twitter.com/ArYoMo/status/1444398963571019783?s=20))
 - [StyleCLIP](https://colab.research.google.com/github/orpatashnik/StyleCLIP/blob/main/notebooks/StyleCLIP_global.ipynb#scrollTo=deFVuu4drKHp) - Text-drive Manipulation Of StyleGAN Imagery
 - [StyleGAN2-ADA](https://colab.research.google.com/github/dvschultz/stylegan2-ada-pytorch/blob/main/SG2_ADA_PyTorch.ipynb) - Train Your Own StyleGAN2 Model From An Image Set You Create
 - [StyleGAN 2 Awesome Pretrained Models](https://github.com/justinpinkney/awesome-pretrained-stylegan2) - BIG Collection Of Models
@@ -923,8 +923,8 @@
 - [StyleGAN3 + CLIP](https://colab.research.google.com/github/ouhenio/StyleGAN3-CLIP-notebook/blob/main/StyleGAN3%2BCLIP.ipynb) By @Nshepperd1 And @RiversHaveWings
 - [StyleGAN 3 Music Video Generation](https://colab.research.google.com/drive/1BXNHZBai-pXtP-ncliouXo_kUiG1Pq7M?usp=sharing) - ([Tweet](https://twitter.com/EarthML1/status/1449776224222523397?s=20&t=oPLA241CLsGzifdwWcFgWQ))
 - [StyleGAN 3 Training](https://colab.research.google.com/github/dvschultz/stylegan3/blob/main/SG3.ipynb) - Train A StyleGAN And Do Interpolation Video By @Dvsch (Currently Busted)
-- [StyleGAN-Humans + CLIP](https://colab.research.google.com/drive/1H-rGlKbILaZbDfTsrQqSxw2fH7y2elg6?usp=sharing) Modified By Diego Porres To Use StyleGAN3
-- [StyleGANXL + CLIP](https://colab.research.google.com/drive/1ZEnJE-EUnh-aCXJbu0kVhi8_Qdi2BV-S) By Eugenio Herrera And Rodrigo Mello
+- [StyleGAN-Humans + CLIP](https://colab.research.google.com/drive/1H-rGlKbILaZbDfTsrQqSxw2fH7y2elg6?usp=sharing) - Modified By Diego Porres To Use StyleGAN3
+- [StyleGANXL + CLIP](https://colab.research.google.com/drive/1ZEnJE-EUnh-aCXJbu0kVhi8_Qdi2BV-S) - By Eugenio Herrera And Rodrigo Mello
 
 ---
 
@@ -1028,17 +1028,17 @@
 
 ## Editing
 
-- [Adobe Podcast](http://podcast.adobe.com) Adobe Podcast - Ai Recording And Editing, All On The Web. An Tool For People With Stories To Tell.
-- [Altered](https://www.altered.ai/?ref=futurepedia)
-- [Assemblyai](http://www.assemblyai.com) #1 Api Platform For Ai Models. Automatically Convert And Video Files And Live Streams To Text With AssemblyAI's Speech-to-Text APIs. Do More With Intelligence - Summarization, Content Moderation, Topic Detection.
-- [Strip](https://www.strip.co.uk/?ref=futurepedia)
-- [Beatoven.ai](https://www.beatoven.ai/?ref=futurepedia)
-- [Cleanvoice AI](http://cleanvoice.ai) Get Rid Of Filler Words From Your Recordings. Cleanvoice Is An Artificial Intelligence Which Removes Filler Sounds, Stuttering And Mouth Sounds From Your Podcast Or Recording.
-- [Clip](http://www.clip.) Clip - Ai Search Engine. The Search Engine.
-- [Krisp](http://krisp.ai) World&Apos; S #1 Noise Cancelling App - Krisp. Krisp' S AI Removes Background Voices, Noises And Echo From All Your Calls, Giving You Peace Of Mind.
-- [Krisp](https://krisp.ai/?ref=futurepedia)
-- [Podcastle](https://podcastle.ai/?ref=futurepedia)
-- [Voicemod](https://www.voicemod.net/?ref=futurepedia)
+- [Adobe Podcast](http://podcast.adobe.com) - Adobe Podcast - AI Recording And Editing, All On The Web. An Tool For People With Stories To Tell.
+- [Altered](https://www.altered.ai/)
+- [Assemblyai](http://www.assemblyai.com) - #1 Api Platform For AI Models. Automatically Convert And Video Files And Live Streams To Text With AssemblyAI's Speech-to-Text APIs. Do More With Intelligence - Summarization, Content Moderation, Topic Detection.
+- [Strip](https://www.strip.co.uk/)
+- [Beatoven.ai](https://www.beatoven.ai/)
+- [Cleanvoice AI](http://cleanvoice.ai) - Get Rid Of Filler Words From Your Recordings. Cleanvoice Is An Artificial Intelligence Which Removes Filler Sounds, Stuttering And Mouth Sounds From Your Podcast Or Recording.
+- [Clip](http://www.clip.) - Clip - AI Search Engine. The Search Engine.
+- [Krisp](http://krisp.ai) - World&Apos; S #1 Noise Cancelling App - Krisp. Krisp' S AI Removes Background Voices, Noises And Echo From All Your Calls, Giving You Peace Of Mind.
+- [Krisp](https://krisp.ai/)
+- [Podcastle](https://podcastle.ai/)
+- [Voicemod](https://www.voicemod.net/)
 
 ---
 
@@ -1051,25 +1051,26 @@
 - [Emergent Drums](https://audialab.com/?ref=futurepedia)
 - [Endel](https://endel.io/?ref=futurepedia)
 - [Harmonai](https://www.harmonai.org/?ref=futurepedia)
-- [LALAL. AI Voice Cleaner](<http://www.lalal.ai/>? Fp_ref = Beth0) Extract Vocal, Accompaniment And Various Instruments From Any And Video. High-quality Stem Splitting Based On The World's #1 AI-powered Technology.
-- [Musico](http://www.musi-co.com) Musico - Ai Generative Music. Musico Is An AI-driven Software Engine That Generates Music. It Can React To Gesture, Movement, Code Or Other Sound.
-- [Natural Language Playlist](https://www.naturallanguageplaylist.com/?ref=futurepedia)
-- [Open Voice OS](https://openvoiceos.com/?ref=futurepedia)
-- [Pollinations](https://pollinations.ai/?ref=futurepedia)
-- [Pop2Piano](https://sweetcocoa.github.io/pop2piano_samples?ref=futurepedia)
-- [Quasi Music](https://quasi.market/radio/) Create Brand-New Beats. Unleash Your Inner Musician With Quasi's AI-powered Music Creation Tool. Create Never-before-heard Sounds And Remix Classic Artists With Ease.
-- [Riffusion](https://www.riffusion.com/?ref=futurepedia)
-- [Songtell](https://songtell.com/?ref=futurepedia)
-- [Sonify](https://www.sonify.io/?ref=futurepedia)- [Emergent Drums](<http://audialab.com>? Ref = Beth0) Generate Unique Drum Samples Using Artificial Intelligence. Use Our Breakthrough Plugin To Generate Endless Drum Samples, All Royalty-free.
-- [Soundful](https://soundful.com/?ref=futurepedia)
-- [Soundraw](http://soundraw.io) Stop Searching For The Song You Need. Create It. Royalty-free Music, AI Generated For You.
+- [LALAL. AI Voice Cleaner](http://www.lalal.ai/) - Extract Vocal, Accompaniment And Various Instruments From Any And Video. High-quality Stem Splitting Based On The World's #1 AI-powered Technology.
+- [Musico](http://www.musi-co.com) - Musico - Ai Generative Music. Musico Is An AI-driven Software Engine That Generates Music. It Can React To Gesture, Movement, Code Or Other Sound.
+- [Natural Language Playlist](https://www.naturallanguageplaylist.com/)
+- [Open Voice OS](https://openvoiceos.com/)
+- [Pollinations](https://pollinations.ai/)
+- [Pop2Piano](https://sweetcocoa.github.io/pop2piano_samples)
+- [Quasi Music](https://quasi.market/radio/) - Create Brand-New Beats. Unleash Your Inner Musician With Quasi's AI-powered Music Creation Tool. Create Never-before-heard Sounds And Remix Classic Artists With Ease.
+- [Riffusion](https://www.riffusion.com/)
+- [Songtell](https://songtell.com/)
+- [Sonify](https://www.sonify.io/)
+- [Emergent Drums](http://audialab.com) - Generate Unique Drum Samples Using Artificial Intelligence. Use Our Breakthrough Plugin To Generate Endless Drum Samples, All Royalty-free.
+- [Soundful](https://soundful.com/)
+- [Soundraw](http://soundraw.io) - Stop Searching For The Song You Need. Create It. Royalty-free Music, AI Generated For You.
 
 ---
 
 ## Speech
 
-- [Adobe Speech Enhancer](https://podcast.adobe.com/enhance) Enhance Voice Recordings For Free. Speech Enhancement Makes Voice Recordings Sound As If They Were Recorded In A Professional Studio.
-- [Lingostar](http://www.lingostar.ai) Lingostar - Real Conversations With Artificial Intelligence. Lingostar Is The AI Who Language Learners Can Speak To In English, Spanish, Or French. Reach Fluency With REAL Spoken Conversations For Free. No More Tutors - Chat With The Lingostar A. I. To Improve Your Pronunciation, Vocabulary, And Comprehension.
+- [Adobe Speech Enhancer](https://podcast.adobe.com/enhance) - Enhance Voice Recordings For Free. Speech Enhancement Makes Voice Recordings Sound As If They Were Recorded In A Professional Studio.
+- [Lingostar](http://www.lingostar.ai) - Lingostar - Real Conversations With Artificial Intelligence. Lingostar Is The AI Who Language Learners Can Speak To In English, Spanish, Or French. Reach Fluency With REAL Spoken Conversations For Free. No More Tutors - Chat With The Lingostar A. I. To Improve Your Pronunciation, Vocabulary, And Comprehension.
 
 ---
 
@@ -1144,11 +1145,11 @@
 
 ## Reviews & Recommendations
 
-- [AI Review Reply Assistant](http://www.mara-solutions.com) Respond To Reviews With Your Ai Review Reply Assistant. AI Review Reply Generator Reply 3x Faster To Every Customer Review With Individual Responses Written By Your Personal AI Assistant. No Templates Are Needed.
-- [Artreviewgenerator](http://artreviewgenerator.com) Art Review Generator. A Natural Language Processing Tool And Text Generator. It Takes A Set Of Words As A Prompt And Then Generates A Medium Length Set Of Sentences That Approximate The Training Data.
-- [Geniusreview](http://geniusreview.xyz) Geniusreview - 360° Ai Performance Reviews. Save Tons Of Hours By Using GeniusReview To Get Tailored Answers To Your Performance Review Questions.
-- [Reviewz](http://www.reviewz.ai) Discover All The Top Things Recommended By Ai
-- [Sona](http://www.readthistwice.com) Read This Twice - Books Worth Reading Twice. We Spend Countless Hours Scouring The Internet For The Best Book Recommendations From People You Admire. Our Database Is Constantly Growing, And Every Single Recommendation Has Been Verified For Authenticity And Includes A Link To The Source. Enjoy!.
+- [AI Review Reply Assistant](http://www.mara-solutions.com) - Respond To Reviews With Your AI Review Reply Assistant. AI Review Reply Generator Reply 3x Faster To Every Customer Review With Individual Responses Written By Your Personal AI Assistant. No Templates Are Needed.
+- [Artreviewgenerator](http://artreviewgenerator.com) - Art Review Generator. A Natural Language Processing Tool And Text Generator. It Takes A Set Of Words As A Prompt And Then Generates A Medium Length Set Of Sentences That Approximate The Training Data.
+- [Geniusreview](http://geniusreview.xyz) - Geniusreview - 360° AI Performance Reviews. Save Tons Of Hours By Using GeniusReview To Get Tailored Answers To Your Performance Review Questions.
+- [Reviewz](http://www.reviewz.ai) - Discover All The Top Things Recommended By AI
+- [Sona](http://www.readthistwice.com) - Read This Twice - Books Worth Reading Twice. We Spend Countless Hours Scouring The Internet For The Best Book Recommendations From People You Admire. Our Database Is Constantly Growing, And Every Single Recommendation Has Been Verified For Authenticity And Includes A Link To The Source. Enjoy!
 
 ---
 
