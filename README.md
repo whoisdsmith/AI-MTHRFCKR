@@ -409,98 +409,125 @@ ___
 
 ## Art
 
-- [NightCafe Creator](https://creator.nightcafe.studio/)- 🤖 🖼 AI Art Generator, AI Art Maker
-- [AI Art Apps Database](https://aiartapps.com/)
-- [Al Picasso](https://aipicasso.studio.site/)
+- [NightCafe Creator](https://creator.nightcafe.studio/) - 🤖 🖼 AI Art Generator, AI Art Maker
+- [AI Art Apps Database](https://aiartapps.com/) - A database of AI art apps
+- [Al Picasso](https://aipicasso.studio.site/) - AI-powered art generator
 - [Aragon](https://www.aragon.ai/) - Image Generation
-- [Archillect - Archive](https://archillect.com/archive)
-- [Artbreeder](https://www.artbreeder.com/)
-- [ArtHub](https://arthub.ai/)
-- [Artroom AI](https://artroom.ai/download-app)
-- [Artvee](https://artvee.com/)
-- [Astria](https://www.astria.ai/)
-- [Beautiful.ai](https://www.beautiful.ai/)
-- [Civitai](https://civitai.com/)
-- [Clipdrop](https://clipdrop.co/)
-- [Daft Art](https://daftart.ai/)
-- [DALL·E 2](https://openai.com/dall-e-2)
-- [DaVinciFace](https://www.davinciface.com/)
-- [DiffusionBee](https://diffusionbee.com/)
-- [Diffusion Land](https://diffusion.land/)
-- [Dreamlike.art](https://dreamlike.art/)
-- [Dream Up (Deviant Art)](https://www.dreamup.com/)
-- [Fy! Studio](https://www.iamfy.co/studio)
-- [Lexica](https://lexica.art/)
-- [Libraire](https://libraire.ai/)
-- [Mage](https://www.mage.space/)
-- [Midjourney](https://www.midjourney.com/home/)
+- [Archillect - Archive](https://archillect.com/archive) - AI-generated image archive
+- [Artbreeder](https://www.artbreeder.com/) - AI art creator
+- [ArtHub](https://arthub.ai/) - AI-generated art marketplace
+- [Artroom AI](https://artroom.ai/download-app) - AI-powered art creation app
+- [Artvee](https://artvee.com/) - AI-generated art and design platform
+- [Astria](https://www.astria.ai/) - AI-powered art and design platform
+- [Beautiful.ai](https://www.beautiful.ai/) - AI-powered presentation platform
+- [Civitai](https://civitai.com/) - AI-powered image generation and manipulation
+- [Clipdrop](https://clipdrop.co/) - AI-powered object transfer between videos and images.
+- [NightCafe Creator](https://creator.nightcafe.studio/) - 🤖 🖼 AI Art Generator, AI Art Maker
+- [AI Art Apps Database](https://aiartapps.com/) - A database of AI art apps
+- [Al Picasso](https://aipicasso.studio.site/) - AI-powered art generator
+- [Aragon](https://www.aragon.ai/) - Image Generation
+- [Archillect - Archive](https://archillect.com/archive) - AI-generated image archive
+- [Artbreeder](https://www.artbreeder.com/) - AI art creator
+- [ArtHub](https://arthub.ai/) - AI-generated art marketplace
+- [Artroom AI](https://artroom.ai/download-app) - AI-powered art creation app
+- [Artvee](https://artvee.com/) - AI-generated art and design platform
+- [Astria](https://www.astria.ai/) - AI-powered art and design platform
+- [Beautiful.ai](https://www.beautiful.ai/) - AI-powered presentation platform
+- [Civitai](https://civitai.com/) - AI-powered image generation and manipulation
+- [Clipdrop](https://clipdrop.co/) - AI-powered object transfer between videos and images.
+- [Daft Art](https://daftart.ai/) - AI-powered art and design platform
+- [DALL·E 2](https://openai.com/dall-e-2) - AI-powered image generation
+- [DaVinciFace](https://www.davinciface.com/) - AI-powered portrait creation
+- [DiffusionBee](https://diffusionbee.com/) - AI-powered image manipulation
+- [Diffusion Land](https://diffusion.land/) - AI-powered image generation and manipulation
+- [Dreamlike.art](https://dreamlike.art/) - AI-powered image creation and manipulation
+- [Dream Up (Deviant Art)](https://www.dreamup.com/) - AI-powered art marketplace
+- [Fy! Studio](https://www.iamfy.co/studio) - AI-powered art creation platform
+- [Lexica](https://lexica.art/) - AI-powered text-based art platform.
+- [Daft Art](https://daftart.ai/) - AI-powered art and design platform
+- [DALL·E 2](https://openai.com/dall-e-2) - AI-powered image generation
+- [DaVinciFace](https://www.davinciface.com/) - AI-powered portrait creation
+- [DiffusionBee](https://diffusionbee.com/) - AI-powered image manipulation
+- [Diffusion Land](https://diffusion.land/) - AI-powered image generation and manipulation
+- [Dreamlike.art](https://dreamlike.art/) - AI-powered image creation and manipulation
+- [Dream Up (Deviant Art)](https://www.dreamup.com/) - AI-powered art marketplace
+- [Fy! Studio](https://www.iamfy.co/studio) - AI-powered art creation platform
+- [Lexica](https://lexica.art/) - AI-powered text-based art platform.
+- [Libraire](https://libraire.ai/) - AI-powered text and image generation platform
+- [Mage](https://www.mage.space/) - AI-powered image generation and manipulation
+- [Midjourney](https://www.midjourney.com/home/) - AI-powered art and design platform
 - [Neural.love](https://neural.love/) - Art Generator
-- [NightCafe Studio](https://creator.nightcafe.studio/)
-- [Nijijourney](https://nijijourney.com/en/)
-- [Openart](https://openart.ai/)
-- [Phraser](https://phraser.tech/)
-- [PicSo](https://picso.ai/)
-- [PicSo](https://picso.ai/) - Text To AI Art Maker
-- [Playground AI](https://playgroundai.com/)
-- [Quasi](https://quasi.market/)
-- [Sumopaint X](https://paint.sumo.app/?lang=en)
-- [Super Prompt](https://superprompts.com/)
-- [Vana Portrait](https://portrait.vana.com/)
-- [Wombo](https://www.wombo.art/)
+- [NightCafe Studio](https://creator.nightcafe.studio/) - AI Art Generator, AI Art Maker
+- [Nijijourney](https://nijijourney.com/en/) - AI-powered art and design platform
+- [Openart](https://openart.ai/) - AI-powered art and design platform
+- [Phraser](https://phraser.tech/) - AI-powered text-based image generation
+- [PicSo](https://picso.ai/) - AI-powered image generation and manipulation
+- [Playground AI](https://playgroundai.com/) - AI-powered art and design platform
+- [Quasi](https://quasi.market/) - AI-powered art marketplace
+- [Sumopaint X](https://paint.sumo.app/?lang=en) - AI-powered image editing platform
+- [Super Prompt](https://superprompts.com/) - AI-powered creative writing platform
+- [Vana Portrait](https://portrait.vana.com/) - AI-powered portrait creation
+- [Wombo](https://www.wombo.art/) - AI-powered art and design platform.
+
 
 ---
 
 ## Avatars
 
-- [AIprofilepic](http://aiprofilepic.art) - Create Stunning Profile Pictures Using Ai - Aiprofilepic. Art. Create Your Perfect Avatars In Just A Few Clicks With Our Easy-to-use AI Technology.
-- [AI Profile Pictures](http://www.aiprofilepictures.com) - Ai Profile Pictures. Now Available In Beta.
-- [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/)
-- [AI Time Machine](https://www.myheritage.com/ai-time-machine)
-- [AIVatar](http://aivatarapp.com) - Aivatar - Magic Avatar Generator. Generate Magic Avatar Art From Your Photos.
-- [AnimeAI](https://www.animeai.lol/)
+- [AIprofilepic](http://aiprofilepic.art) - AI-powered profile picture creation
+- [AI Profile Pictures](http://www.aiprofilepictures.com) - AI-powered profile picture creation (in beta)
+- [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/) - AI-powered video game
+- [AI Time Machine](https://www.myheritage.com/ai-time-machine) - AI-powered time machine
+- [AIVatar](http://aivatarapp.com) - AI-powered avatar creation
+- [AnimeAI](https://www.animeai.lol/) - AI-powered anime creation.
 - [ARTI. PICS](http://www.arti.pics) - Ai-Powered Avatar Maker. Arti. Pics Allows You To Upload A Few Photos Of Yourself And Generates More Than 200 Cool-looking Avatars In Different Styles.
 - [Autoportrait](http://autoportrait.co) - Autoportrait - Create Ai Portraits. Browse Millions Of Styles Or Create Your Own, Generate AI Autoportraits.
 - [AvatarAI](http://avatarai.me) - Create Your Own Photorealistic Ai Avatars. Choose From 112+ Different Styles To Transform Into.
-- [Avatarify](https://avatarify.art/)
+- [Avatarify](https://avatarify.art/): A website for an AI-powered avatar creation tool.
 - [Avatarize.club](http://avatarize.club) - Create High Quality Ai-Generated Avatars. Professional Photos, Social Media DPs, Game Avatars, Dating Profile Photos, And More Powered By Stable Diffusion 2.1.
-- [Beb.ai](http://Beb.ai)
-- [Character AI](https://beta.character.ai/)
+- [Beb.ai](http://Beb.ai): A website for an AI-powered character creation tool.
+- [Character AI](https://beta.character.ai/): A platform for creating digital characters using AI technology.
 - [Character.io](http://characterio.neeltron.repl.co) - Free Tool To Generate Fresh Cartoon Characters. Generate A Random Set Of Characters Or Avatars With The Power Of GANs. Press Spacebar To Generate A New Set.
-- [Digirama](https://apps.apple.com/us/app/character-creator-digirama/id6444673721)
+- [Digirama](https://apps.apple.com/us/app/character-creator-digirama/id6444673721): An app available on the Apple App Store that allows users to create digital characters.
 - [DreamPic](http://dreampic.ai) - Dreampic. Ai. AI Generated Pictures Starring You.
+- [DRMMR](https://drmmr.com/) - Avatar Generator powered by AI technology. You can create photorealistic avatars with a few clicks using your photos as input.
 - [EpicAvatar](http://epic-avatar.com) - Epic Avatar - Ai Profile Picture Generator. Make Your Own State-of-the-art AI Avatar Profile Pictures.
+- [Faces.app](https://faces.app) - Create AI Avatars with different styles, hairstyles, and accessories.
 - [Face Swapper](http://faceswapper.ai) - Face Swapper Online. Swap Face From Photos And Videos Automatically. Free And Unlimited Photo Swapping.
-- [Gemsouls](https://www.mygemsouls.com/)
+- [G8 Avatar](https://g8avatar.com/) - AI-powered platform that generates realistic and high-quality avatars and portrait images.
+- [Gemsouls](https://www.mygemsouls.com/): A website for a virtual reality platform that uses AI-powered avatars.
+- [Generated Avatars](https://generated.photos/avatars) - Avatars generated with artificial intelligence. You can generate avatars in different styles, ethnicities, and genders.
 - [Hairgen](http://www.hairgen.ai) - Preview Your Fue/Fut Hair Transplant Using Ai - Hairgen. Ai
 - [Hairstyle AI](http://www.hairstyleai.com) - Try Out New Hairstyles With Ai - Hairstyle Ai. Ready For A New Look? Upload You Photos And Let Artificial Intelligence Technology Generate New Hairstyles For You. Try It Out Today!
 - [HeroPack](http://www.heropack.me) - Heropack. Become A Hero With AI Generated Avatars Inspired By Your Favorite Video Games.
-- [In3D](https://in3d.io/)
-- [Inworld](https://www.inworld.ai/)
-- [Lensa](https://play.google.com/store/apps/details?id=com.lensa.app&hl=en_IN&gl=US&ref=futurepedia)
-- [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream)
+- [In3D](https://in3d.io/): A website for an AI-powered avatar creation tool.
+- [Inworld](https://www.inworld.ai/): A virtual reality platform that uses AI-powered avatars.
+- [LamKiu](https://lamkiu.app/) - Create AI avatars in a few clicks using your photos. You can customize the avatars' styles, poses, and expressions.
+- [Lensa](https://play.google.com/store/apps/details?id=com.lensa.app&hl=en_IN&gl=US&ref=futurepedia): An app available on the Google Play Store that allows users to create digital characters.
+- [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream): A platform that allows users to host live streams with AI-powered virtual hosts.
 - [Magic AI Avatars](http://magicaiavatars.com) - Get 200+ Custom Avatars Made By Artificial Intelligence.
 - [MagicPic](http://www.magicpic.ai) - Magicpic - Ai Profile Picture Generator. Your Profile Picture Is The First Thing People See When They Look At Your Profile. We Use Artificial Intelligence To Generate An Magical Avatars Of You.
-- [NeuralStudio](https://neural.cam/studio/)
+- [NeuralStudio](https://neural.cam/studio/): A website for an AI-powered portrait creation tool.
 - [Passphoto](http://passphoto.ai) - Create Your Passport Photo With Ai.
 - [PhotoAI](http://photoai.me) - Photoai. Create AI-generated Images Of Yourself.
 - [PhotoLeaf](http://photoleaf.ai) - Photoleaf Ai. Create Your AI-generated Social Media Pictures.
 - [Photoshot](http://photoshot.app) - Your Ai Avatar Generator. Generate Avatars That Perfectly Capture Your Unique Style.
-- [PictoDream](https://pictodream.com/)
+- [PictoDream](https://pictodream.com/): A website for a virtual reality platform that uses AI-powered avatars.
 - [Pictureperfect](http://pictureperfect.ai) - Ai Avatar Generator And Maker - Pictureperfect. Ai. Get Creative And Design Your Own Personalized Avatar With The Help Of AI Technology. Simply Upload A Photo And Our System Will Generate A Unique Avatar That Represents You. Share Your Picture Perfect Avatar With Friends And Family On Social Media And Let Your Creativity Shine!.
 - [PIXELVIBE](https://www.pixelvibe.com/) - Ai Streamlined Creative Workflow. Create Presentations, Designs, Stock Photos, Instagram Promos, Product Photography, Vector Art, Animated Avatars.
 - [Pixificial](http://www.pixificial.com) - Pixificial Create Your Ai Avatars, Ai Profiles For Free. Create Your AI Avatars, AI Profiles For Free.
 - [Posed](http://posed.ai) - Posed. Upload Your Pictures And Let Our AI Create Stunning High-quality Portraits In A Wide Range Of Styles That Look Just Like You.
 - [ProfilePicture.ai](http://www.profilepicture.ai) - Create Your Perfect Profile Picture With Ai. The #1 AI Profile Picture Maker And Generator Your Profile Picture Is The First Thing People See When They Look At Your Profile. We Use Artificial Intelligence To Generate An Magical Avatars Of You That Looks Perfect And Captures Who You Are. You Can Be Anything Or Anyone!.
 - [Profile Picture](http://profilepicture.me) - Profile Picture Art
-- [Ready Player Me](https://readyplayer.me/)
-- [Reface AI](https://hey.reface.ai/)
+- [Ready Player Me](https://readyplayer.me/): A platform that allows users to create their own digital avatars.
+- [Reface AI](https://hey.reface.ai/): A website for an AI-powered face swap tool.
 - [ReflectMe](http://reflectme.art) - Reflectme. - Generate Your Ai Avatars!. See Yourself In A Way You Never Have Before! Generate Your AI Avatars, AI Photos, AI Photographies, Profile Pictures, LinkedIn Professional Profile Photos, Using Artificial Intelligence! Built On Stable Diffusion And Dreambooth.
 - [Stableboost](http://stableboost.ai) - Create Personalized Images With Ai!. Upload A Few Photos Of Yourself, A Loved One, A Pet, A Product, Or A Style You Like, And We Will Automatically Train An AI Model To Generate Portraits Of You In Hundreds Of Different Styles.
 - [Theoasis](http://theoasis.com) - Oasis Â Never Worry How You Look On Camera Again. Create A Photorealistic Avatar That You Can Use On Every Video Platform.
 - [Tokkingheads](http://www.tokkingheads.com) - Bring Portraits To Life With Ai Magic. Instantly.
 - [Tryitonai](http://www.tryitonai.com) - Stunning Professional Headshots & Portraits - Try It On Ai. Get Professional Studio Quality Headshots Generated In Less Than 24hrs! Perfect For LinkedIn, Social, Team And Dating Photos.
-- [Unrealme](https://unrealme.io/)
-- [Vana Portrait](https://portrait.vana.com/)
+- [Unrealme](https://unrealme.io/): A virtual reality platform that uses AI-powered avatars.
+- [Vana Portrait](https://portrait.vana.com/): A website for an AI-powered portrait creation tool.
 - [Xpression Camera 2.0](http://xpressioncamera.com) - Xpression Camera. Become Anyone On Zoom, Twitch, Or Any Streaming Video.
 
 ---
@@ -547,51 +574,52 @@ ___
 
 ## Editing
 
-- [AI. Image Enlarger](https://imglarger.com/)
-- [Al Picasso](https://aipicasso.studio.site/)
-- [Astria](https://www.astria.ai/)
-- [Befunky](https://www.befunky.com/)
-- [Bg.Eraser](https://bgeraser.com/)
-- [Bria](https://bria.ai/)
-- [Erase.bg](https://www.erase.bg/)
-- [Evoto AI](https://www.evoto.ai/)
-- [Getimg.ai](https://getimg.ai/)
-- [Green Screen AI](https://greenscreenai.com/)
-- [Hama-Image Editing](https://www.hama.app/)
-- [Let's Enhance](https://letsenhance.io/)
-- [Magic Eraser](https://magiceraser.io/)
-- [Nostalgia Photo](https://www.nostalgia.photo/)
-- [Palette.fm](https://palette.fm/)
-- [Perfectly Clear Video](https://eyeq.photos/automatic-ai-video-enhancement/)
-- [Photoroom](https://www.photoroom.com/)
-- [QuickTools By Picsart](https://tools.picsart.com/image//)
-- [Radiant Photo](https://radiantimaginglabs.com/)
-- [Remove.bg](https://www.remove.bg/)
-- [RestorePhotos](https://www.restorephotos.io/)
-- [RocketAI](https://rocketai.io/)
-- [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai)
-- [Visio Studio](https://visio.studio/)
+- [AI. Image Enlarger](https://imglarger.com/): A Website For An AI-powered Image Enlargement Tool.
+- [Al Picasso](https://aipicasso.studio.site/): A Website For An AI-powered Digital Art Creation Tool.
+- [Astria](https://www.astria.ai/): A Platform That Uses AI Technology To Help Businesses In The Real Estate Industry.
+- [Befunky](https://www.befunky.com/): A Website For A Photo Editing Tool That Offers Various Effects, Filters, And Graphic Design Options.
+- [Bg.Eraser](https://bgeraser.com/): A Website For An AI-powered Background Removal Tool.
+- [Bria](https://bria.ai/): A Platform That Uses AI Technology To Automate Repetitive Tasks In The Real Estate Industry.
+- [Erase.bg](https://www.erase.bg/): A Website For An AI-powered Background Removal Tool.
+- [Evoto AI](https://www.evoto.ai/): A Platform That Uses AI Technology To Automate Repetitive Tasks In The Real Estate Industry.
+- [Getimg.ai](https://getimg.ai/): A Website For An AI-powered Image Editing Tool.
+- [Green Screen AI](https://greenscreenai.com/): A Platform That Uses AI Technology To Automatically Remove Green Screens From Videos.
+- [Hama-Image Editing](https://www.hama.app/): A Website For An AI-powered Image Editing Tool.
+- [Let's Enhance](https://letsenhance.io/): A Website For An AI-powered Image Enhancement Tool.
+- [Magic Eraser](https://magiceraser.io/): A Website For An AI-powered Background Removal Tool.
+- [Nostalgia Photo](https://www.nostalgia.photo/): A Website For An AI-powered Photo Editing Tool That Adds A Vintage Effect To Images.
+- [Palette.fm](https://palette.fm/): A Website For A Color Scheme Generator Tool That Uses AI Technology.
+- [Perfectly Clear Video](https://eyeq.photos/automatic-ai-video-enhancement/): A Platform That Uses AI Technology To Automatically Enhance Videos.
+- [Photoroom](https://www.photoroom.com/): A Website For An AI-powered Photo Editing Tool That Offers Various Effects And Filters.
+- [QuickTools By Picsart](https://tools.picsart.com/image/): A Website For A Suite Of AI-powered Photo Editing Tools Offered By Picsart.
+- [Radiant Photo](https://radiantimaginglabs.com/): A Website For An AI-powered Photo Editing Tool That Offers Various Effects And Filters.
+- [Remove.bg](https://www.remove.bg/): A Website For An AI-powered Background Removal Tool.
+- [RestorePhotos](https://www.restorephotos.io/): A Website For An AI-powered Photo Restoration Tool.
+- [RocketAI](https://rocketai.io/): A Platform That Offers AI-powered Solutions For Businesses In Various Industries.
+- [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai): A Website For An AI-powered Photo Editing Tool That Offers Various Effects And Filters.
+- [Visio Studio](https://visio.studio/): A Platform That Uses AI Technology To Automate Repetitive Tasks In The Real Estate Industry.
+
 
 ---
 
 ## Free
 
-- [AI Art Generator](https://dreamlike.art/create)
-- [ArtBot](https://tinybots.net/artbot)
-- [Arthub.ai](https://arthub.ai/generate)
-- [Dezgo](https://dezgo.com/)
-- [DiffusionUI](https://diffusionui.com/b/stable_horde)
+- [AI Art Generator](https://dreamlike.art/create) - AI Art Generator Is A Website That Provides An AI-based Tool For Creating Unique Pieces Of Digital Art.
+- [ArtBot](https://tinybots.net/artbot) - ArtBot Is An AI-powered Art Generator That Creates Unique Pieces Of Art Based On User Inputs.
+- [Arthub.ai](https://arthub.ai/generate) - Arthub.ai Is An AI-powered Platform For Generating Digital Art Based On User Inputs And Algorithms.
+- [Dezgo](https://dezgo.com/) - Dezgo Is An AI-powered Platform For Creating Digital Art And Design.
+- [DiffusionUI](https://diffusionui.com/b/stable_horde) - DiffusionUI Is A Platform That Provides AI-powered Tools For UI Design And Creation.
 - [Embed.trydyno](https://embed.trydyno.com/) - Embed Prompt Box For Testing Like Code Sandbox
-- [Gaugan 2](http://imaginaire.cc/gaugan2)
-- [InstantArt](https://instantart.io/)
+- [Gaugan 2](http://imaginaire.cc/gaugan2) - Gaugan 2 Is A Website That Provides A Tool For Creating And Generating Digital Art.
+- [InstantArt](https://instantart.io/) - InstantArt Is An AI-powered Art Generator That Creates Unique Pieces Of Art Based On A Set Of Input Parameters.
 - [Mage.space](https://www.mage.space/) - Text-to-image, Free, Stable Diffusion 2.1
-- [Muse](https://lightning.ai/muse/view/null)
-- [OpenArt](https://openart.ai/)
-- [Pixray](https://replicate.com/dribnet/pixray-text2image)
-- [Playground AI](https://playgroundai.com/)
+- [Muse](https://lightning.ai/muse/view/null) - Muse Is A Tool That Uses AI To Generate Artistic Styles And Designs Based On User Inputs.
+- [OpenArt](https://openart.ai/) - OpenArt Is An AI-powered Platform That Generates Unique Pieces Of Art Using Machine Learning Algorithms.
+- [Pixray](https://replicate.com/dribnet/pixray-text2image) - Pixray Is An AI-based Tool That Converts Text Descriptions Into Images.
+- [Playground AI](https://playgroundai.com/) - Playground AI Is An Online Platform That Provides AI-powered Tools And Applications For Creative Tasks And Projects.
 - [Replicate.com](https://replicate.com/explore) - Playground For Open Source Models (Text-to-image, Image-to-text, Image-to-image, Speach-to-text)
-- [Stable-diffusion-high-resolution–Replicate](https://replicate.com/cjwbw/stable-diffusion-high-resolution)
-- [Stable UI](https://aqualxx.github.io/stable-ui/dashboard)
+- [Stable-diffusion-high-resolution–Replicate](https://replicate.com/cjwbw/stable-diffusion-high-resolution) - A high-resolution diffusion UI that is stable.
+- [Stable UI](https://aqualxx.github.io/stable-ui/dashboard) - Stable UI Is A Platform That Provides AI-powered Tools And Applications For UI Design And Creation.
 - [Supermeme.ai](https://www.supermeme.ai/) - Text-to-meme
 - [Tiyaro.ai](https://console.tiyaro.ai/explore) - AI Models As A Service (Free Tier 100k Inference API Credits)
 - [Wordtune](https://www.wordtune.com/) - Rewording, Rewriting, Writing
@@ -616,7 +644,6 @@ ___
 - [Apeture](https://lexica.art/aperture) - Create Images By Lexica
 - [Appiconai](http://appiconai.com) - App Icon AI
 - [Aragon](http://www.aragon.ai) - Aragon. Create Stunning Art & Images 10X Faster With AI
-- [Aragon](https://www.aragon.ai/) - Image Generation
 - [ArtBot.ai](http://artbot.ai) - Artbot. AI - Let AI Create Your Perfect Halloween Art
 - [Artbreeder](http://www.artbreeder.com) - Artbreeder
 - [Article2Image](http://www.stockai.com) - Free AI-Powered Stock Photos. Download AI-generated Stock Photos For Free, With The Click Of A Button. Use In Any Project Without Worry About Attribution
@@ -624,14 +651,13 @@ ___
 - [Artssy](https://www.artssy.co/) - Let Your Creativity Flow.
 - [Astria.ai](http://www.astria.ai) - Astria - Tailor-Made AI Image Generation. Create Custom Images Using AI
 - [Bg Eraser](http://bgeraser.com) - Bg Eraser - Magic Eraser For Picture Clean Up. Powerful AI Inpainting And Picture Clean Up Technology. Remove Unwanted Objects And Clean Up Pictures In Seconds
-- [BlueWillow]([BlueWillow](https://www.bluewillow.ai/))
-- [Booth AI]([Create Pro Quality Product Photography With AI | Booth.AI](https://booth.ai)/)
-- [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475)
-- [Canva Text To Image](https://www.canva.com/your-apps/text-to-image)
+- [BlueWillow](https://www.bluewillow.ai/): BlueWillow is an AI platform that provides businesses with data analytics and insights.
+- [Booth AI](https://booth.ai/): Booth AI is an AI-powered platform that helps businesses create professional quality product photography.
+- [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475): Bright Eye is a mobile app that uses AI to improve and correct the brightness of images.
+- [Canva Text To Image](https://www.canva.com/your-apps/text-to-image): Canva Text to Image is a feature on Canva that uses AI to convert text into an image design.
 - [Cartoonize](http://imagetocartoon.com) - Image To Cartoon. Best AI Cartoonizer Online For Free
-- [Craiyon](https://www.craiyon.com/)
+- [Craiyon](https://www.craiyon.com/): Craiyon is a creative AI platform that provides businesses with unique design and marketing solutions.
 - [DALL·E 2](https://openai.com/dall-e-2/) - Dall·E 2 Is A New AI System That Can Create Realistic Images And Art From A Description In Natural Language. DALL·E 2 Can Create Original, Realistic Images And Art From A Text Description. It Can Combine Concepts, Attributes, And Styles
-- [DallE-2](https://openai.com/dall-e-2/)
 - [DaVinciFace](http://www.davinciface.com) - AI Portrait - Davinci Face Made By Mathema. DaVinci Face Is A Software–based On The Most Innovative Artificial Intelligence Techniques, In Particular On GAN (Generative Adversarial Network) - To Create Leonardesque-style Portraits
 - [Deep Dream Generator](http://deepdreamgenerator.com) - Human AI Collaboration. Create Inspiring Visual Content In A Collaboration With Our AI Enabled Tools
 - [Deep Nostalgia](http://www.myheritage.ro) - Arbore Genealogic Gratuit, Genealogie ŞI Istoric De Familie - Myheritage
@@ -641,13 +667,13 @@ ___
 - [Drawanything](http://www.drawanything.app) - Draw Anything - Stable Diffusion Playground. Use AI To Create Novel Images In Minutes
 - [Draw Things](http://draw.nnc.ai) - Draw Things: AI-Assisted Image Generation
 - [Dreambooth](http://dream.ai) - High Quality Artwork In Seconds
-- [Dreamer](https://slashdreamer.com/)
+- [Dreamer](https://slashdreamer.com/): Dreamer is a platform that uses AI to help businesses automate and optimize various tasks.
 - [Dreamlike](http://dreamlike.art) - AI Art Generator, AI Art Maker - Dreamlike. Art
 - [Dreamspace.art](http://dreamspace.art) - Dreamspace. The Prompt Diagramming Tool
 - [DreamUp](http://www.dreamup.com) - Dreamup. The DeviantArt DreamUp™ AI-art Generator Lets You Create AI-art Safely And Fairly
 - [Dreamweaverai](http://www.dreamweaverai.com) - Custom AI Tees. Build The Tee Of Your Dreams With AI
-- [Eilla AI](https://eilla.ai/)
-- [Enterpix](https://enterpix.app/)
+- [Eilla AI](https://eilla.ai/): Eilla AI is an AI platform that provides businesses with data analytics and insights.
+- [Enterpix](https://enterpix.app/): Enterpix is a mobile app that uses AI to create custom stickers and emojis.
 - [Erase.bg](http://www.erase.bg) - Free Background Image Remover: Remove Bg From Hd Images Online - Erase. Bg. Make The Background Transparent For Images Of Humans, Animals, Or Objects. Download Images In High Resolution For Free For E-commerce And Personal Use. No Credit Card Needed
 - [Eye For AI](http://eyeforai.xyz) - Easy Text-To-Image Tools And Templates. Create Images From Text In Under A Minute
 - [Facet 2.0](http://facet.ai) - Facet: Image Creation, Reimagined. Harness The Power Of AI To Make The Creative Process Fast, Effective And Accessible. Experiment With Visual Directions, Automate Selections, And Collaborate--all On The Web
@@ -655,12 +681,11 @@ ___
 - [Flying Dog For Photoshop](http://www.flyingdog.de/sd/) - AI Superpower For Photos​Hop. Four Powerful AI Connectors: Three For Stable Diffusion And DALL-E 2. Use Your Own Stable Diffusion Server
 - [For The Wall](http://forthewall.art) - For The Wall - AI Generated Wall Art - Forthewall. Art. Create Your Own Unique And Personalized Art Prints With Forthewall.art! Our AI-powered Platform Lets You Generate Stunning Works Of Art From Scratch. Order Your One-of-a-kind Print Today And Transform Your Blank Walls Into Something Special. Try It Out Now At Forthewall.art!
 - [Generated Photos](http://generated.photos) - Generated Photos - Unique, Worry-Free Model Photos
-- [Getalpaca](https://www.getalpaca.io/)
+- [Getalpaca](https://www.getalpaca.io/): Getalpaca is a platform that uses AI to help businesses automate and optimize various tasks.
 - [Getimg.ai](http://getimg.ai) - Everything You Need To Create Images With AI - Getimg. AI. Magical AI Art Tools. Generate Original Images, Modify Existing Ones, Expand Pictures Beyond Its Original Borders, And More
-- [Getimg.ai](https://getimg.ai/)
-- [Go Charlie](https://gocharlie.ai/)
+- [Go Charlie](https://gocharlie.ai/): Go Charlie is an AI-powered platform that helps businesses automate and optimize various tasks.
 - [Green Screen AI](http://greenscreenai.com) - Change The Background Of Any Image With AI. Green Screen AI Is A Fun & Easy Way To Transform Your Pics Into Generative AI Art
-- [Hotpot.ai](https://hotpot.ai/)
+- [Hotpot.ai](https://hotpot.ai/): Hotpot.ai is an AI-powered platform that provides businesses with data analytics and insights.
 - [IllostrationAI](http://www.illostration.com) - Illostrationai. Create AI-generated Illustrations. In Seconds
 - [Imaginator](http://imaginator.developer-service.io) - Imaginator - Turn Your Text Into Images. Imagine Being Able To See Your Thoughts Come Alive In Front Of You. No Longer Just A Thought, An Image Now Becomes The Reality
 - [Imagine Me](http://imagineme.app) - Home - Imagine Me. Imagine Me Is The First Online Platform That Lets You Generate Stunning AI Art Of Yourself, With Just A Simple Line Of Text
@@ -674,7 +699,7 @@ ___
 - [Mage Space](http://www.mage.space) - Create Anything
 - [Neuralcanvas](http://neuralcanvas.io) - Neural Canvas - AI Comic Generator. Express Your Creativity With The Support Of AI - Create AI Generated Illustrations For Your Comics, Blogposts, E-book, Graphic Novels And More
 - [NightCafe](http://creator.nightcafe.studio) - AI Art Generator, AI Art Maker. AI Art Generator App. ✅ Fast ✅ Free ✅ Easy. Create Amazing Artworks Using Artificial Intelligence
-- [Nijijourney](https://nijijourney.com/en/)
+- [Nijijourney](https://nijijourney.com/en/): Nijijourney is a platform that provides businesses with travel solutions.
 - [Not Me Netlify](http://not-me.netlify.app) - Autoportrait - Create AI Portraits. Browse Millions Of Styles Or Create Your Own, Generate AI Autoportraits
 - [OddVibe](http://www.oddvibe.com) - Oddvibe: The Finest Collection Of Unnerving AI-Generated Images. Get Your Fix Of Creepy AI-generated Images. But Be Warned, You May Never Sleep Again
 - [Partly](http://www.partly.ai) - Mind-Blowing Art From Your Photos, By Partly AI. Transform Your Photos Into Works Of Art With The Help Of AI Magic!
@@ -682,7 +707,7 @@ ___
 - [PirateDiffusion](http://scum.co) - Describe Anything. Get Realistic HD Images, More Styles, No Restrictions
 - [Pixian](http://pixian.ai) - Remove Image Backgrounds, Free Hd, No Signup - Pixian. AI. Remove Image Backgrounds, Free HD, No Signup
 - [Playground](https://playgroundai.com/) - Playground AI - Online AI Image Creator. Playground AI Is A Free-to-use Online AI Image Creator. Use It To Create Art, Social Media Posts, Presentations, Posters, Videos, Logos And More
-- [Pollinations](https://pollinations.ai/)
+- [Pollinations](https://pollinations.ai/): Pollinations is an AI-powered platform that helps businesses create and optimize digital advertisements.
 - [Postedby](http://postedby.ai) - Postcards By AI, Delivered!. Postedby.ai Allows Users To Create Personalized Postcards Using Advanced AI Technology X:
 - [Prompt Art](http://promptart.labml.ai) - Stable Diffusion Playground
 - [Quasi](http://quasi.market) - We Make Creating With AI Easy. Unlock With The Power Of AI And Easily Create Stunning Content Of All Types With A Simple-to-use Platform
@@ -690,7 +715,7 @@ ___
 - [Removal.ai](http://removal.ai) - Background Remover - Create Transparent Background. Remove Background Online From Image Using Background Remover. Create Transparent Background - Download High-resolution Instantly & Free
 - [Remove.bg](http://www.remove.bg) - Remove Background From Image–Remove. Bg. Remove Image Backgrounds Automatically In 5 Seconds With Just One Click. Don't Spend Hours Manually Picking Pixels. Upload Your Photo Now & See The Magic
 - [Renderflux](http://www.renderflux.com) - Renderflux - Design With AI. Start Creating Beautiful Art In Seconds. Don't Worry About The Technical Stuff, We've Got You Covered
-- [RocketAI](https://rocketai.io/)
+- [RocketAI](https://rocketai.io/): RocketAI is an AI platform that provides businesses with data analytics and insights.
 - [Roll Art Die](http://www.roll-art-die.com) - Stablediffusion On Your Apple Silicon Devices. Generate AI Artworks Using Only Text. Make Your Dream Artworks Into Reality. No Cloud Subscription Required
 - [RunDiffusion](http://rundiffusion.com) - Rundiffusion - Stable Diffusion Workspace In 3 Minutes. No Code To Fiddle With, Nothing To Install. Get A Private Stable Diffusion Workspace In Very Little Time. Start Creating AI Generated Art In A Little As 3 Minutes
 - [Seek Art](http://seek.art) - Create Astounding AI Art. Explore, Collect, And Share. No Cost To Start. Free Credits Every Day
@@ -702,17 +727,18 @@ ___
 - [Snowpixel](http://snowpixel.app) - Turn Your Prompt Into Artwork. You + AI = Art. Get 20+ AI Generated Images For Each Prompt, Upload Existing Images For Even More On-brand Illustrations, And Animate Them
 - [Soreal. AI Studio](http://www.soreal.ai) - The Easiest Way To Get Started With AI Image Generation. Type Anything You Want To See. Get Custom AI Images In Seconds
 - [StableCog](http://stablecog.com) - Stablecog. Free, Easy To Use, Multilingual And Open-source AI Image Generator Using Stable Diffusion
-- [Stable Diffusion](https://stability.ai/)
-- [Stable Horde](https://stablehorde.net/)
+- [Stable Diffusion](https://stability.ai/): Stable Diffusion is an AI platform that provides businesses with data analytics and insights.
+- [Stable Horde](https://stablehorde.net/): Stable Horde is a platform that provides businesses with solutions for managing and analyzing data.
 - [StarByFace](http://starbyface.com) - Celebrity Look Alike Face-Recognition App - Celebs Like Me. What Celebrity Do I Look Like? Try To Find Out! Celebrity Look Alike Face-recognition System. Find Your Doppelganger
 - [Starryai](http://starryai.com) - Starryai - AI Art Generator App - AI Art Maker. Simply Enter A Prompt And Our AI Transforms Your Words Into Works Of Art
-- [Stock AI](https://www.stockai.com/)
+- [Stock AI](https://www.stockai.com/): Stock AI is a platform that uses AI to help businesses make informed stock market predictions.
 - [Stylized](http://www.stylized.ai) - The Better Way To Take Product Photos. From Phone To Catalog In 30 Seconds
 - [TattosAI](http://www.tattoosai.com) - AI-Powered Tattoo Artist - Tattoosai. If You Have An Idea For A Tattoo But Can't Find The Right Design, Let Our AI Generate One Within Seconds. It Lets You Create The Perfect Design Based On What You Like, And It Will Give You Unlimited Options So That There's Something For Everyone
 - [Vizcom AI](http://www.vizcom.ai) - Vizcom AI: The AI Creative Design Tool. See Your Drawings And Ideas Come To Life In Seconds, Not Hours
 - [Xno.ai](https://xno.ai) - Text-to-image AI
 - [Zazow](http://www.zazow.com) - Zazow:: Algorithmic Generative Art. Create Your Own Artwork By Using Computer Generated Algorithms. Learn About Generative Or Algorithmic Art
 - [Zoomscape](http://zoomscape.ai) - Zoomscape. AI. Create Stunning Zoom Backgrounds With AI
+
 
 ---
 
