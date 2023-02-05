@@ -2080,68 +2080,68 @@ ___
 
 ## Developer Tools
 
-- [AI CLI](https://github.com/abhagsain/ai-cli)
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
-- [Amper](https://score.ampermusic.com/)
-- [AutoRegex](https://www.autoregex.xyz/)
-- [Bria](https://bria.ai/)
-- [Buildt](https://www.buildt.ai/)
-- [Chatbotkit](https://chatbotkit.com/)
-- [Convai](https://www.convai.com/)
-- [CSM](https://csm.ai/)
-- [Dust](https://dust.tt/)
-- [GptDuck](https://www.gptduck.com/)
-- [GPUX.AI](https://gpux.ai/)
-- [HTTPie AI](https://httpie.io/?utm_source=futurepedia)
-- [Lightning AI](https://lightning.ai/)
-- [Liner.ai](https://liner.ai/)
-- [Mintlify](https://mintlify.com/)
-- [Moonbeam Exchange](https://moonbeam.ai/)
-- [Nuclia](https://nuclia.com/)
-- [Pipeline AI](https://www.pipeline.ai/)
-- [PromptLayer](https://promptlayer.com/)
-- [Retune](https://retune.so/)
-- [Riku.ai](https://riku.ai/)
-- [Rtutor](http://rtutor.ai/)
-- [RunPod](https://www.runpod.io/)
-- [Shaped](https://www.shaped.ai/)
-- [Shumai(Meta)](https://github.com/facebookresearch/shumai)
-- [Stable Diffusion](https://stability.ai/)
-- [Stenography](https://stenography.dev/)
-- [SyntheticAldata](https://syntheticaidata.com/)
-- [Teachable Machine](https://teachablemachine.withgoogle.com/)
-- [Textomap](https://www.textomap.com/)
-- [Tinq.ai-NLP API](https://tinq.ai/)
-- [Valyr](https://valyr.vercel.app/)
-- [Whisper](https://github.com/openai/whisper)
+- [AI CLI](https://github.com/abhagsain/ai-cli) - AI CLI Is A Command-line Interface For Various AI Services, It Allows You To Access Pre-trained Models And Perform Tasks Like Image Classification And Sentiment Analysis.
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Amazon CodeWhisperer Is A Tool To Help You Identify Security Vulnerabilities In Your Code. It Uses AI Algorithms To Analyze Your Code And Flag Potential Issues.
+- [Amper](https://score.ampermusic.com/) - Amper Is An AI-powered Music Composer And Producer. It Allows You To Create Custom Music Tracks Using An Intuitive Drag-and-drop Interface.
+- [AutoRegex](https://www.autoregex.xyz/) - AutoRegex Is A Tool For Generating Regular Expressions. It Uses Machine Learning Algorithms To Analyze Your Sample Text And Generate A Regular Expression That Matches It.
+- [Bria](https://bria.ai/) - Bria Is A Virtual Employee For Businesses. It Uses AI Algorithms To Automate Tasks Such As Customer Service, Lead Generation, And Appointment Scheduling.
+- [Buildt](https://www.buildt.ai/) - Buildt Is A Cloud-based AI Development Platform. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [Chatbotkit](https://chatbotkit.com/) - Chatbotkit Is A Platform For Building Chatbots. It Provides A Suite Of Tools For Building Conversational AI Applications, Including A Drag-and-drop Interface, Pre-built Templates, And Integration With Popular Messaging Platforms.
+- [Convai](https://www.convai.com/) - Convai Is A Platform For Building Conversational AI Applications. It Provides A Suite Of Tools For Building Chatbots, Including A Drag-and-drop Interface, Pre-built Templates, And Integration With Popular Messaging Platforms.
+- [CSM](https://csm.ai/) - CSM Is A Customer Service Management Platform That Uses AI Algorithms To Automate Tasks Such As Customer Service And Support.
+- [Dust](https://dust.tt/) - Dust Is A Tool For Creating And Hosting AI-powered Websites. It Provides A Suite Of Tools For Building And Deploying Websites, Including A Drag-and-drop Interface, Pre-built Templates, And Integration With Popular Hosting Platforms.
+- [GptDuck](https://www.gptduck.com/) - GptDuck Is A Platform For Building Conversational AI Applications. It Provides A Suite Of Tools For Building Chatbots, Including A Drag-and-drop Interface, Pre-built Templates, And Integration With Popular Messaging Platforms.
+- [GPUX.AI](https://gpux.ai/) - GPUX.AI Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [HTTPie AI](https://httpie.io/?utm_source=futurepedia) - HTTPie Is A Command-line HTTP Client That Makes It Easy To Make HTTP Requests.
+- [Lightning AI](https://lightning.ai/) - Lightning AI Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [Liner.ai](https://liner.ai/) - Liner.ai Is A Platform For Building AI-powered Chatbots. It Provides A Suite Of Tools For Building Conversational AI Applications, Including A Drag-and-drop Interface, Pre-built Templates, And Integration With Popular Messaging Platforms.
+- [Mintlify](https://mintlify.com/) - Mintlify Is A Platform For Building AI-powered Websites. It Provides A Suite Of Tools For Building And Deploying Websites, Including A Drag-and-drop Interface, Pre-built Templates, And Integration With Popular Hosting Platforms.
+- [Moonbeam Exchange](https://moonbeam.ai/) - Moonbeam Exchange Is A Decentralized Exchange Platform That Allows You To Trade Cryptocurrencies And Other Digital Assets.
+- [Nuclia](https://nuclia.com/) - Nuclia Is A Platform For Building Cloud-based AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [Pipeline AI](https://www.pipeline.ai/) - Pipeline AI Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [PromptLayer](https://promptlayer.com/) - PromptLayer Is A Platform For Building Conversational AI Applications. It Provides A Suite Of Tools For Building Chatbots, Including A Drag-and-drop Interface, Pre-built Templates, And Integration With Popular Messaging Platforms.
+- [Retune](https://retune.so/) - Retune Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [Riku.ai](https://riku.ai/) - Riku.ai Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [Rtutor](http://rtutor.ai/) - Rtutor Is A Platform For Building Educational AI Applications. It Provides A Suite Of Tools For Building And Deploying Educational Chatbots And Interactive Tutorials.
+- [RunPod](https://www.runpod.io/) - RunPod Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [Shaped](https://www.shaped.ai/) - Shaped Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [Shumai (Meta)](https://github.com/facebookresearch/shumai) - Shumai Is A Platform For Building AI Models. It Is An Open-source Library That Provides Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [Stable Diffusion](https://stability.ai/) - Stable Diffusion Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [Stenography](https://stenography.dev/) - Stenography Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [SyntheticAl Data](https://syntheticaidata.com/) - SyntheticAl Data Is A Platform For Generating Synthetic Data. It Provides Tools For Generating Data That Can Be Used For Machine Learning And AI Applications, Including Data For Training And Testing Models.
+- [Teachable Machine](https://teachablemachine.withgoogle.com/) - Teachable Machine Is A Platform For Building AI Models. It Provides A Simple And Intuitive Interface For Building And Training Machine Learning Models, Without Requiring Any Prior Knowledge Of Programming Or Machine Learning.
+- [Textomap](https://www.textomap.com/) - Textomap Is A Platform For Visualizing And Exploring Text Data. It Provides Tools For Visualizing Text Data, Including Word Clouds, Network Graphs, And Interactive Maps.
+- [Tinq.ai-NLP API](https://tinq.ai/) - Tinq.ai Is An NLP API. It Provides A Suite Of NLP Tools, Including Text Analysis, Sentiment Analysis, And Topic Modeling.
+- [Valyr](https://valyr.vercel.app/) - Valyr Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
+- [Whisper](https://github.com/openai/whisper) - Whisper Is An Open-source Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
 
 ---
 
 ## Github
 
 - [Awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompts Directory
-- [Awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
+- [Awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2) - A Curated List Of Pretrained StyleGAN2 Models.
 - [ChaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A Node-based Image Processing And AI Upscaling GUI That Makes It Easy To Chain Together Complex Processing Tasks.
-- [ChaiNNer](https://github.com/joeyballentine/chaiNNer)
+- [ChaiNNer](https://github.com/joeyballentine/chaiNNer) - A Deep Neural Network Framework Built On Top Of PyTorch.
 - [Chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js Client For The Unofficial ChatGPT API.
-- [CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption)
-- [Cloob-latent-diffusion](https://github.com/JD-P/cloob-latent-diffusion)
-- [Cupscale](https://github.com/n00mkrad/cupscale)
-- [Dalle-mini](https://github.com/borisdayma/dalle-mini)
-- [DiscoDiffusion-Warp](https://github.com/Sxela/DiscoDiffusion-Warp)
-- [Dreamfields-3D](https://github.com/shengyu-meng/dreamfields-3D)
+- [CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption) - Code To Generate Captions From Text Prefixes Using The CLIP Model.
+- [Cloob-latent-diffusion](https://github.com/JD-P/cloob-latent-diffusion) - A Tool For Exploring The Latent Space Of StyleGAN Models.
+- [Cupscale](https://github.com/n00mkrad/cupscale) - A Tool For Improving The Resolution Of Images Using Deep Learning.
+- [Dalle-mini](https://github.com/borisdayma/dalle-mini) - A Tool For Generating Mini Videos From A Single Image.
+- [DiscoDiffusion-Warp](https://github.com/Sxela/DiscoDiffusion-Warp) - A Tool For Visualizing And Manipulating The Latent Space Of Generative Models.
+- [Dreamfields-3D](https://github.com/shengyu-meng/dreamfields-3D) - A Tool For Generating 3D Scenes From 2D Images Using Deep Learning.
 - [Examples Chatbot Template](https://github.com/vercel/examples/tree/main/solutions/ai-chatgpt) - Chat Bot Template
-- [Fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion)
-- [Frame-interpolation](https://github.com/google-research/frame-interpolation)
-- [Glid-3](https://github.com/Jack000/glid-3)
+- [Fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - A Fast And Stable Algorithm For Exploring The Latent Space Of Generative Models.
+- [Frame-interpolation](https://github.com/google-research/frame-interpolation) - Code For Improving The Frame Rate Of Videos Using Deep Learning.
+- [Glid-3](https://github.com/Jack000/glid-3) - A Tool For Generating 3D Scenes From 2D Images Using Deep Learning.
 - [Langchain](https://github.com/hwchase17/langchain) - Chaining Prompts, Multi-model Logic, "LLMs Through Composability"
 - [Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Docs - Communicating With Artificial Intelligence
-- [Lucid-sonic-dreams](https://github.com/mikaelalafriz/lucid-sonic-dreams)
+- [Lucid-sonic-dreams](https://github.com/mikaelalafriz/lucid-sonic-dreams) - A Tool For Exploring The Latent Space Of Generative Models Using Music.
 - [Natbot](https://github.com/nat/natbot) - GitHub's CEO Bot Project To Drive A Browser
 - [Openai-fetch](https://github.com/rileytomasek/openai-fetch) - OpenAI Client Powered By Fetch, Works On Vercel Edge, Workers, Size ~5kb Vs. Openai-node ~180kb
-- [Rudalle-aspect-ratio](https://github.com/shonenkov-AI/rudalle-aspect-ratio)
-- [VQGAN-CLIP-animations](https://github.com/chigozienri/VQGAN-CLIP-animations)
-- [Waifu2x](https://github.com/nagadomi/waifu2x)
+- [Rudalle-aspect-ratio](https://github.com/shonenkov-AI/rudalle-aspect-ratio) - A Tool For Changing The Aspect Ratio Of Images And Videos Using Deep Learning.
+- [VQGAN-CLIP-animations](https://github.com/chigozienri/VQGAN-CLIP-animations) - Code For Generating Animations From Text Using The VQ-VAE-2 And CLIP Models.
+- [Waifu2x](https://github.com/nagadomi/waifu2x) - A Tool For Improving The Resolution Of Images Using Deep Learning.
 - [Yt-semantic-search](https://github.com/transitive-bullshit/yt-semantic-search) - OpenAI-powered Semantic Search For Any YouTube Playlist
 
 ---
