@@ -1482,14 +1482,14 @@ ___
 
 ## Tools
 
-- [Everything You Need To Create Images With AI | Getimg.ai](https://getimg.ai/)
-- [Face Generator–Generate Faces Online Using AI](https://generated.photos/face-generator?ref=aiartapps.com)
-- [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
-- [Nightmareai/latent-sr](https://replicate.com/nightmareai/latent-sr)
-- [Plask: AI-powered Mocap Animation Tool](https://plask.ai/)
-- [Pollinations](https://pollinations.ai/)
-- [Stable Diffusion V2 CFG Scale Comparison](https://proximacentaurib.notion.site/Stable-Diffusion-V2-CFG-Scale-Comparison-a7d98b8b8a9c4e6e9cbb0ba3282a9b38)
-- [SwinIR](https://huggingface.co/spaces/akhaliq/SwinIR)
+- [Everything You Need To Create Images With AI | Getimg.ai](https://getimg.ai/): Getimg.ai Is A Platform That Provides Tools For Creating Images Using AI.
+- [Face Generator–Generate Faces Online Using AI](https://generated.photos/face-generator?ref=aiartapps.com): The Face Generator Is An Online Tool That Uses AI To Generate Human Faces.
+- [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai): Gigapixel AI Is A Software That Uses AI To Enhance And Resize Images While Preserving Quality.
+- [Nightmareai/latent-sr](https://replicate.com/nightmareai/latent-sr): Latent-sr Is A Machine Learning Model That Aims To Improve Single Image Super-resolution.
+- [Plask: AI-powered Mocap Animation Tool](https://plask.ai/): Plask Is An AI-powered Tool For Creating Motion Capture Animations.
+- [Pollinations](https://pollinations.ai/): Pollinations Is A Platform For Exploring The Relationship Between Plants And Pollinators Using AI.
+- [Stable Diffusion V2 CFG Scale Comparison](https://proximacentaurib.notion.site/Stable-Diffusion-V2-CFG-Scale-Comparison-a7d98b8b8a9c4e6e9cbb0ba3282a9b38): This Is A Comparison Of The Stable Diffusion V2 Configuration Scales.
+- [SwinIR](https://huggingface.co/spaces/akhaliq/SwinIR): SwinIR Is A Transformer-based Deep Learning Model For Information Retrieval.
 
 ---
 
@@ -1504,74 +1504,70 @@ ___
 
 ## Audio
 
-- [43% Transcribed - Undefined](https://freesubtitles.ai/)
-- [Aflorithmic](https://www.aflorithmic.ai/)
-- [Ai](https://x-minus.pro/ai)
-- [AI Text To Speech | AI Voice Overs | WellSaid Labs](https://wellsaidlabs.com/)
-- [AI Voice Generator And Voice Cloning For Text To Speech - Resemble AI](https://www.resemble.ai/)
-- [Aiva.ai](https://aiva.ai/)
-- [Altered](https://www.altered.ai/)
-- [Ampermusic.com](https://www.ampermusic.com/)
-- [Article  - Convert Articles To](https://article./)
-- [To Keyframe String](https://www.chigozie.co.uk/-keyframe-generator)
-- [Strip - The Best Online Vocal Isolator For Free](https://www.strip.co.uk/)
-- [Boomy - Make Instant Music With Artificial Intelligence](https://boomy.com/)
-- [Clip.](https://www.clip./)
-- [Coqui](https://coqui.ai/)
-- [Create Ai Voice Overs](https://createaivoiceovers.com/)
-- [Cyanite.ai - AI For Music Tagging And Similarity Search](https://cyanite.ai/)
-- [Dadabots](https://dadabots.com/)
-- [Echo](https://lightning.ai/echo/view/home)
-- [Experience Your Sound | WZRD](https://wzrd.ai/)
-- [FakeYou. Deep Fake Text To Speech.](https://fakeyou.com/)
-- [Filmbook](https://www.filmbook.xyz/)
-- [Free Text To Song And AI Music Generator By Voicemod](https://www.voicemod.net/text-to-song)
-- [Freeae](https://www.lalal.ai/)
-- [Harmonai.org](https://www.harmonai.org/)
-- [LOVO AI | Free Text To Speech Online With Natural Voices](https://www.lovo.ai/)
-- [MazMazika, The Ultimate Music Planet](https://mazmazika.com/vocalremover)
-- [Moises.ai](https://moises.ai/)
-- [Mubert.com/render/pricing](https://mubert.com/render/pricing?via=pharmapsychotic)
-- [Murf AI](https://murf.ai/)
-- [Nuclia](https://nuclia.cloud/at/mthrfckr/mthrfckr)
-- [Openai.com/blog/jukebox](https://openai.com/blog/jukebox)
-- [Otter.ai](https://otter.ai/home?f=home)
-- [Pattern Radio: Whale Songs](https://patternradio.withgoogle.com/)
-- [Personal - Parrot AI](https://app.parrot.ai/workspaces/personal?referrer=https%3A%2F%2Fapp.parrot.ai%2Flogout)
-- [Play.ht](https://play.ht/)
-- [Rev](https://www.rev.com/services/automated-transcription-subscription?utm_source=google_ads&utm_medium=search&utm_campaign=autotc_nb_search_us_exact&utm_term=free%20%20transcription&utm_content=&hsa_acc=6717615125&hsa_cam=14588754129&hsa_grp=125900088614&hsa_ad=615938638518&hsa_src=g&hsa_tgt=kwd-302312730227&hsa_kw=free%20%20transcription&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAwJWdBhCYARIsAJc4idBoZqwDPKqjn8G3sCMYB6j2dN8GL-HXHGlRHr_joG5BTJ8BXGudtA0aAkMyEALw_wcB)
-- [Rev Max Automated Transcription Subscriptions | Rev](https://www.rev.com/services/automated-transcription-subscription?gclid=Cj0KCQiAwJWdBhCYARIsAJc4idBoZqwDPKqjn8G3sCMYB6j2dN8GL-HXHGlRHr_joG5BTJ8BXGudtA0aAkMyEALw_wcB&hsa_acc=6717615125&hsa_ad=615938638518&hsa_cam=14588754129&hsa_grp=125900088614&hsa_kw=free++transcription&hsa_mt=e&hsa_net=adwords&hsa_src=g&hsa_tgt=kwd-302312730227&hsa_ver=3)
-- [Rewind](https://www.rewind.ai/)
-- [Riffusion • Spectrogram To Music - A Hugging Face Space By Fffiloni](https://huggingface.co/spaces/fffiloni/spectrogram-to-music)
-- [Riffusion.com](https://www.riffusion.com/)
-- [Songtell - Your Song Meaning Teller](https://www.songtell.com/)
-- [Soundraw](https://soundraw.io/)
-- [Splash | Bringing The Joy Of Music Making To Everyone](https://www.splashmusic.com/)
-- [Streams](https://musi-co.com/listen/streams)
-- [Text To Speech Online: Generate Realistic TTS Voiceovers | MURF](https://murf.ai/text-to-speech)
-- [The Infinite Conversation](https://infiniteconversation.com/)
-- [Transcribe Like A Boss • Proust](https://proust.app/)
-- [Twitter.com/EarthML1/status/1449776224222523397](https://twitter.com/EarthML1/status/1449776224222523397?s=20&t=oPLA241CLsGzifdwWcFgWQ)
-- [Uberduck - Make Cool Stuff With AI And Text To Speech](https://app.uberduck.ai/speak#mode=tts-basic&voice=zwf)
-- [Uberduck.ai/speak](https://uberduck.ai/speak)
-- [Vienna Scribe](https://vienna.earth/meta/scribe)
-- [Voicemod](https://www.voicemod.net/)
+- [Aflorithmic](https://www.aflorithmic.ai/): A Website For Creating Custom Music Using AI Technology.
+- [Ai](https://x-minus.pro/ai): A Website Offering AI Services For Various Industries.
+- [Aiva.ai](https://aiva.ai/): A Website Offering AI-powered Music Composition Services.
+- [Altered](https://www.altered.ai/): A Website Offering AI-powered Image And Video Manipulation Services.
+- [Ampermusic.com](https://www.ampermusic.com/): A Website Offering AI-powered Music Composition Services.
+- [Article](https://article./): A Website For Converting Articles To Various Formats Using AI Technology.
+- [Boomy](https://boomy.com/): A Website For Creating Music Using AI Technology.
+- [Clip.](https://www.clip./): A Website Offering AI-powered Video Editing Services.
+- [Coqui](https://coqui.ai/): A Website Offering AI-powered Voice-over Services.
+- [Create Ai Voice Overs](https://createaivoiceovers.com/): A Website Offering AI-powered Voice-over Services.
+- [CyaniteAI](https://cyanite.ai/): A Website Offering AI-powered Music Tagging And Similarity Search Services.
+- [Dadabots](https://dadabots.com/): A Website Offering AI-generated Music And Audio.
+- [EarthML1](https://twitter.com/EarthML1/status/1449776224222523397?s=20&t=oPLA241CLsGzifdwWcFgWQ) - A Twitter Status Update By EarthML1.
+- [Echo](https://lightning.ai/echo/view/home): A Website Offering AI-powered Voice-over Services.
+- [FakeYou.](https://fakeyou.com/): A Website Offering AI-powered Deep Fake Text-to-speech Services.
+- [Filmbook](https://www.filmbook.xyz/): A Website Offering AI-powered Movie Recommendation Services.
+- [Freeae](https://www.lalal.ai/): A Website Offering AI-powered Music Composition Services.
+- [Free Subtitles](https://freesubtitles.ai/): A Website For Subtitle Creation Using AI Technology.
+- [Harmonai.org](https://www.harmonai.org/): A Website Offering AI-powered Music Generation Services.
+- [Jukebox](https://openai.com/blog/jukebox) - A Blog Post About OpenAI's AI Music Generator, Jukebox.
+- [LOVO AI](https://www.lovo.ai/): A Website Offering A Free Online Text-to-speech Service Using AI Technology.
+- [MazMazika](https://mazmazika.com/vocalremover) - A Music Platform That Offers Vocal Remover Services.
+- [Moises.ai](https://moises.ai/) - A Website For An AI Tool That Offers Personalized Language Learning Experiences.
+- [Mubert](https://mubert.com/render/pricing?via=pharmapsychotic) - A Website That Provides Information On Mubert's AI Music Generation Services.
+- [MURF](https://murf.ai/text-to-speech) - A Text-To-Speech Tool Provided By MURF, Which Generates Realistic TTS Voiceovers.
+- [Nuclia](https://nuclia.cloud/at/mthrfckr/mthrfckr) - A Website For A Cloud-based AI Platform That Offers Various Services.
+- [Otter.ai](https://otter.ai/home?f=home) - A Website For An AI-powered Transcription Tool.
+- [Parrot AI](https://app.parrot.ai/workspaces/personal?referrer=https%3A%2F%2Fapp.parrot.ai%2Flogout) - A Website For A Personal Workspace Offered By Parrot AI, An AI-powered Tool For Data Analysis And Organization.
+- [Pattern Radio](https://patternradio.withgoogle.com/) - A Website For A Radio Station That Plays Music Generated By AI, Inspired By Whale Songs.
+- [Play.ht](https://play.ht/) - A Website For A Platform That Offers Various Music-related Services.
+- [Proust](https://proust.app/) - An App That Offers Fast And Accurate Transcription Services.
+- [Resemble AI](https://www.resemble.ai/): A Website Offering AI-powered Voice Generation And Cloning Services For Text-to-speech.
+- [Rev](https://www.rev.com) - A Website For A Company That Offers Automated Transcription Services.
+- [Rewind](https://www.rewind.ai/) - Rewind Is A Platform That Provides Audio And Video Editing Services.
+- [Riffusion](https://www.riffusion.com/) - Riffusion Is A Platform For Music Creation And Exploration Through Its Various Tools And Services.
+- [Songtell](https://www.songtell.com/) - Songtell Is A Platform That Provides Information And Meaning About Songs Through Its Analysis And Database.
+- [Soundraw](https://soundraw.io/) - Soundraw Is A Platform For Royalty-free Sound Effects And Music Production.
+- [Splash](https://www.splashmusic.com/) - Splash Is A Platform That Provides Music Making And Creation Tools For People Of All Levels Of Experience.
+- [Streams](https://musi-co.com/listen/streams) - Streams Is A Platform For Discovering And Listening To New Music.
+- [Strip](https://www.strip.co.uk/): A Website Offering A Vocal Isolator Using AI Technology.
+- [The Infinite Conversation](https://infiniteconversation.com/) - A Website Focused On AI Language Processing And Generation.
+- [To Keyframe String](https://www.chigozie.co.uk/-keyframe-generator): A Website Offering A Keyframe Generator Using AI Technology.
+- [Uberduck](https://app.uberduck.ai/speak#mode=tts-basic&voice=zwf) - A Website That Offers A Platform To Create Cool Stuff With AI And Text-To-Speech Technology.
+- [Vienna Scribe](https://vienna.earth/meta/scribe) - A Tool That Allows Users To Transcribe Audio And Video Content In Real-time.
+- [Voicemod](https://www.voicemod.net/) - A Real-time Voice Changer And Soundboard Software That Provides A Wide Range Of Voice Effects For Gaming, Streaming, And Other Online Activities.
+- [Voicemod](https://www.voicemod.net/text-to-song): A Website Offering An AI-powered Text-to-song Generator.
+- [Well Said Labs](https://wellsaidlabs.com/): A Website Offering AI-powered Text-to-speech And Voice-over Services.
+- [WZRD](https://wzrd.ai/): A Website Offering AI-powered Sound Design Services.
+
 
 ---
 
 ## Editing
 
 - [Adobe Podcast](http://podcast.adobe.com) - Adobe Podcast - AI Recording And Editing, All On The Web. An Tool For People With Stories To Tell.
-- [Altered](https://www.altered.ai/)
+- [Altered](https://www.altered.ai/): Altered Is A Platform That Helps You Generate Text In Real-time, By Using Deep Learning Models Trained On A Large Corpus Of Data.
 - [Assemblyai](http://www.assemblyai.com) - #1 Api Platform For AI Models. Automatically Convert And Video Files And Live Streams To Text With AssemblyAI's Speech-to-Text APIs. Do More With Intelligence - Summarization, Content Moderation, Topic Detection.
-- [Strip](https://www.strip.co.uk/)
-- [Beatoven.ai](https://www.beatoven.ai/)
+- [Beatoven.ai](https://www.beatoven.ai/): Beatoven Is An AI-powered Music Production Platform That Provides Beat-making, Production And Sound Design Services.
 - [Cleanvoice AI](http://cleanvoice.ai) - Get Rid Of Filler Words From Your Recordings. Cleanvoice Is An Artificial Intelligence Which Removes Filler Sounds, Stuttering And Mouth Sounds From Your Podcast Or Recording.
 - [Clip](http://www.clip.) - Clip - AI Search Engine. The Search Engine.
-- [Krisp](http://krisp.ai) - World&Apos; S #1 Noise Cancelling App - Krisp. Krisp' S AI Removes Background Voices, Noises And Echo From All Your Calls, Giving You Peace Of Mind.
-- [Krisp](https://krisp.ai/)
-- [Podcastle](https://podcastle.ai/)
-- [Voicemod](https://www.voicemod.net/)
+- [Krisp](https://krisp.ai/): Krisp Is An AI-powered Noise Cancelling Solution That Removes Background Noise In Real-time During Voice And Video Calls.
+- [Podcastle](https://podcastle.ai/): Podcastle Is An AI-powered Platform That Helps You Create High-quality Podcasts, With Features Such As Voice-to-text Transcription, Voice Modification, And Sound Effects.
+- [Strip](https://www.strip.co.uk/): Strip Is A Digital Payments Platform That Offers Payment Solutions For Individuals And Businesses, With Features Such As A Debit Card, An Online Dashboard, And Instant Notifications.
+- [Voicemod](https://www.voicemod.net/): Voicemod Is A Software That Allows You To Change Your Voice In Real-time, With Options Such As A Robot, A Girl, Or A Troll.
 
 ---
 
