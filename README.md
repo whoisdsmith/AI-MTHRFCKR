@@ -375,26 +375,26 @@ ___
 
 ## 3D & Animation
 
-- [CSM](https://csm.ai/)
-- [DeepMotion](https://www.deepmotion.com/)
-- [G3DAI {Jedi}](https://g3d.ai/)
-- [GET3D (Nvidia)](https://nv-tlabs.github.io/GET3D/)
-- [GetFloorPlan](https://getfloorplan.com/)
-- [Imagine 3D](https://captures.lumalabs.ai/imagine)
+- [CSM](https://csm.ai/): CSM is an AI platform that automates the creation and management of customer service interactions.
+- [DeepMotion](https://www.deepmotion.com/): DeepMotion is a company that provides AI-powered character animation technology for video games and virtual reality applications.
+- [G3DAI {Jedi}](https://g3d.ai/): G3DAI (Jedi) is a cloud-based platform for game development that enables game developers to easily create 3D animations, physics simulations, and other interactive elements.
+- [GET3D (Nvidia)](https://nv-tlabs.github.io/GET3D/): GET3D is a research project from Nvidia that aims to generate 3D models from single images using deep learning techniques.
+- [GetFloorPlan](https://getfloorplan.com/): GetFloorPlan is a website that provides interactive floor plan visualization and virtual staging tools for real estate professionals.
+- [Imagine 3D](https://captures.lumalabs.ai/imagine): Imagine 3D is a platform for creating 3D models from 2D images using artificial intelligence.
 - [Kaedim](http://www.kaedim3d.com) - Magically Generate Custom3D Models In Minutes. Stop Losing Hours To Modeling Tools. Generate Stunning 3D Art With Nothing More Than An Image
-- [Kinetix](https://www.kinetix.tech/)
-- [Leonardo.AI](https://leonardo.ai/)
-- [Lumalabs](https://captures.lumalabs.ai/imagine) - Imagine 3D V1.2 (Alpha). An Early Experiment To Prototype And Create 3D With Text Access To Generation Is Gradually Expanding To Everyone On The Waitlist
-- [Masterpiece Studio](https://masterpiecestudio.com/)
-- [Mirageml](https://www.mirageml.com/)
-- [Pixela AI](https://pixela.ai/)
-- [Plask](https://plask.ai/) - AI-Powered Mocap Animation Tool. Easily Extract Motion From Video Without Expensive Bodysuits Or Motions Work
-- [Poly](https://withpoly.com/)
-- [Ponzu](https://www.ponzu.gg/)
-- [PrometheanAI](https://www.prometheanai.com/)
-- [Scenario](https://www.scenario.gg/)
-- [TextureLab](http://www.texturelab.xyz) - Instant And Unique 3D Textures For Your Next Game. Generate 3D Textures For Your Game In Seconds Thanks To AI
-- [The Simulation](https://fablesimulation.com/)
+- [Kinetix](https://www.kinetix.tech/): A technology company focused on improving human performance through advanced software solutions.
+- [Leonardo.AI](https://leonardo.ai/): An AI platform for creative problem solving.
+- [Lumalabs](https://captures.lumalabs.ai/imagine): Imagine 3D V1.2 (Alpha) is an early experiment to prototype and create 3D with text access to generation, gradually expanding to everyone on the waitlist.
+- [Masterpiece Studio](https://masterpiecestudio.com/): A platform for creating, curating and sharing 3D models.
+- [Mirageml](https://www.mirageml.com/): A platform for creating and training machine learning models.
+- [Pixela AI](https://pixela.ai/): An AI-powered solution for digital content creation.
+- [Plask](https://plask.ai/): An AI-powered mocap animation tool that easily extracts motion from video without the need for expensive bodysuits or motion work.
+- [Poly](https://withpoly.com/): A platform for discovering and showcasing 3D assets.
+- [Ponzu](https://www.ponzu.gg/): An AI-powered content discovery platform.
+- [PrometheanAI](https://www.prometheanai.com/): An AI platform for advanced data analytics and visualization.
+- [Scenario](https://www.scenario.gg/): An AI platform for video game development.
+- [TextureLab](http://www.texturelab.xyz): A tool for generating instant and unique 3D textures for use in games, thanks to AI technology.
+- [The Simulation](https://fablesimulation.com/): A platform for creating and running virtual simulations.
 
 ---
 
