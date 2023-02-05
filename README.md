@@ -1216,81 +1216,80 @@ ___
 
 ## Image
 
-- [💬 🖌️](Https://www.prosepainter.com/)
-- [AI Art Generator | Dreamlike.art](https://dreamlike.art/)
-- [AI Generated Art Prints–NightCafe Creator](https://nightcafe.studio/)
-- [AI Generated Artwork Inspired By Current Events](https://prompt.press/)
-- [AI Image Upscaler - Enlarge & Enhance Your Photos For Free - Upscale.media](https://upscale.media/)
-- [Aiart.dev](https://aiart.dev/)
-- [Alpaca - Humans 🤝 AI Models For Image Generation](https://www.getalpaca.io/)
-- [Amazing AI—Sindre Sorhus](https://sindresorhus.com/amazing-ai?ref=theresanaiforthat)
-- [Aragon](https://www.aragon.ai/)
-- [Artbreeder](https://artbreeder.com/)
-- [ARTSIO](https://artsio.xyz/)
-- [Astria - Tailor-made AI Image Generation](https://www.astria.ai/)
-- [Best AI Image Quality Enhancer–Try It For Free–Upscale Images In Batch | Neural.love](https://neural.love/image-upscale)
-- [Beta Signup Form—Stability AI](https://stability.ai/beta-signup-form)
-- [BLIP - A Hugging Face Space By Salesforce](https://huggingface.co/spaces/Salesforce/BLIP)
-- [Browse - Artbreeder](https://www.artbreeder.com/browse)
-- [Civitai](https://civitai.com/)
-- [CLIP Interrogator - A Hugging Face Space By Pharma](https://huggingface.co/spaces/pharma/CLIP-Interrogator)
-- [Collage - Artbreeder](https://www.artbreeder.com/beta/collage)
-- [Conjure.art](https://www.conjure.art/)
-- [Craiyon, Formerly DALL-E Mini](https://www.craiyon.com/)
-- [DALL·E Mini By Craiyon.com On Hugging Face](https://huggingface.co/spaces/dalle-mini/dalle-mini)
-- [Ddmm](https://ddmm.ai/)
-- [Desync](https://www.desync.art/)
-- [Diffusion Land - Generate Images With AI](https://www.diffusion.land/)
-- [Dimensions - Rapidly Create Visual Concepts With AI](https://www.dimensions.ink/)
-- [Drawanyone](https://drawanyone.ai/)
-- [Dreamsands - Discover AI-created Visuals.](https://dreamsands.ai/)
-- [DreamStudio](https://beta.dreamstudio.ai/dream)
-- [Enterpix | AI Art Search Engine](https://enterpix.app/)
-- [Generate Custom AI Avatar - Photoshot](https://photoshot.app/)
-- [GhostlyStock](https://www.ghostlystock.com/)
-- [Https://www.phase.art](https://www.phase.art/)
-- [Image Computer](https://image.computer/)
-- [ImageColorizer | Old Photo Restoration And Enhancement](https://imagecolorizer.com/)
-- [Imagen](https://imagen.research.google/)
-- [Immagin](https://immag.in/)
-- [Interior AI Free: Interior Design Ideas And Virtual Staging App Using Artifical Intelligence](https://interiorai.com/)
-- [Kive](https://kive.ai/mthrfckr/upload?new=false&sessionId=176b86d5-8c10-4a57-9c56-0c27566a8045&withTeam=false&workspaceId=cW0U6DMuehylzCyu6zMA)
-- [Lama-cleaner](https://github.com/Sanster/lama-cleaner?ref=ai2045_com)
-- [Lexica](https://lexica.art/)
-- [Libraire](https://libraire.ai/)
-- [MakeGirlsMoe - Create Anime Characters With A.I.!](https://make.girls.moe/#/)
-- [Midjourney](https://www.midjourney.com/home?callbackUrl=%2Fapp%2F)
-- [Nebula 41](https://nebula41.io/)
-- [Nyx.gallery](https://nyx.gallery/)
-- [Ostagram](https://www.ostagram.me/static_pages/lenta?last_days=1000&locale=en)
-- [Ostagram.me](https://www.ostagram.me/)
-- [Palette.fm](https://palette.fm/)
-- [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/)
-- [Patience - AI Art With Stable Diffusion](https://www.patience.ai/create)
-- [Pharmapsychotic/clip-interrogator](https://replicate.com/pharmapsychotic/clip-interrogator)
-- [Photosonic AI Art Generator | Create Unique Images With AI](https://photosonic.writesonic.com/)
-- [Phraser—The Collaborative Creative AI Tool](https://phraser.tech/builder)
-- [Pixelmind - AI-powered Art & Minting To NFTs](https://beta.pixelmind.ai/)
-- [Pixelz AI Art Generator](https://pixelz.ai/)
-- [Playform - AI Art Generator - Playform](https://www.playform.io/)
-- [Portrait | Vana](https://portrait.vana.com/)
-- [Re.Art - AI Image Creator](https://reart.devvinay.in/)
-- [Rudalle - A Hugging Face Space By Multimodalart](https://huggingface.co/spaces/multimodalart/rudalle)
-- [Same.energy](https://same.energy/)
-- [SceneryAI - AI-powered Image Editing](https://sceneryai.com/dashboard)
-- [Seek.art](https://seek.art/)
-- [Sefirot AI Studio](https://studio.sefirot.io/generate)
-- [Simulai: Machine Generated Art And Stock Photos](https://www.simulai.co/?ref=theresanaiforthat)
-- [Snowpixel | AI For Content Creators](https://snowpixel.app/)
-- [SOREAL - AI Studio | Cloud Hosted Stable Diffusion 1.5 & Dreambooth Studio](https://www.soreal.ai/)
-- [STABLE-DIFFUSION](https://raindrop.io/whoisdsmith/stable-diffusion-29670757/sort=title&perpage=30&page=0)
-- [Swag Ai](https://swag-ai.com/)
-- [Synth](https://app.synth.run/#/home)
-- [Trending Dreams | Deep Dream Generator](https://deepdreamgenerator.com/)
-- [Uncensored OpenAI](http://adultopenai.pythonanywhere.com/)
-- [Upscayl](https://github.com/upscayl/upscayl)
-- [WaifuXL](https://waifuxl.com/)
-- [Zazow :: Algorithmic Generative Art](https://www.zazow.com/)
+- [💬 🖌️ ProsePainter](https://www.prosepainter.com/): A website that allows users to paint with prose, or create an image from text.
+- [Aiart.dev](https://aiart.dev/): A platform that showcases AI-generated artwork and allows users to create their own.
+- [Alpaca](https://www.getalpaca.io/): A website that allows users to generate images using human and AI models.
+- [Amazing AI—Sindre Sorhus](https://sindresorhus.com/amazing-ai?ref=theresanaiforthat): A collection of AI projects created by Sindre Sorhus.
+- [Aragon](https://www.aragon.ai/): An AI-powered platform that provides custom solutions for businesses.
+- [Artbreeder Browse](https://www.artbreeder.com/browse): A section of Artbreeder's website that allows users to browse and discover AI-generated artwork.
+- [Artbreeder Collage](https://www.artbreeder.com/beta/collage): A section of Artbreeder's website that allows users to create collages using AI-generated artwork.
+- [Artbreeder](https://artbreeder.com/): A website that allows users to breed images using AI.
+- [ARTSIO](https://artsio.xyz/): A platform that creates and showcases AI-generated artwork.
+- [Astria](https://www.astria.ai/): A platform that provides tailor-made AI image generation solutions.
+- [BLIP - A Hugging Face Space By Salesforce](https://huggingface.co/spaces/Salesforce/BLIP): A platform powered by Salesforce that provides a space for Hugging Face models.
+- [Civitai](https://civitai.com/): An AI-powered platform that provides custom solutions for businesses.
+- [CLIP Interrogator - A Hugging Face Space By Pharma](https://huggingface.co/spaces/pharma/CLIP-Interrogator): A platform powered by Pharma that provides a space for Hugging Face models.
+- [Conjure.art](https://www.conjure.art/): A platform that allows users to create and explore AI-generated artwork.
+- [Craiyon](https://www.craiyon.com/): A platform that provides AI-generated images, formerly known as DALL-E Mini.
+- [DALL·E Mini by Craiyon on Hugging Face](https://huggingface.co/spaces/dalle-mini/dalle-mini): A platform that provides AI-generated images by Craiyon on Hugging Face.
+- [Ddmm](https://ddmm.ai/): An AI-powered platform for creating visual content.
+- [Desync](https://www.desync.art/): A platform for exploring and discovering AI-generated artwork.
+- [Diffusion Land](https://www.diffusion.land/): A platform for generating images with AI.
+- [Dimensions](https://www.dimensions.ink/): A platform that allows users to rapidly create visual concepts with AI.
+- [Drawanyone](https://drawanyone.ai/): A platform that allows users to draw images with AI assistance.
+- [Dreamlike.art](https://dreamlike.art/): An AI-powered art generator that creates dreamlike and abstract artwork.
+- [Dreamsands](https://dreamsands.ai/): A platform for discovering AI-created visuals.
+- [DreamStudio](https://beta.dreamstudio.ai/dream): A platform for creating and exploring AI-generated artwork.
+- [Enterpix](https://enterpix.app/): An AI art search engine.
+- [GhostlyStock](https://www.ghostlystock.com/): A website offering stock photos and illustrations.
+- [ImageColorizer](https://imagecolorizer.com/): A website offering photo restoration and enhancement services using AI.
+- [Image Computer](https://image.computer/): A website for computer image processing
+- [Imagen](https://imagen.research.google/): A Google Research project for large scale multimedia analysis.
+- [Immagin](https://immag.in/): A website offering image recognition and analysis services using AI.
+- [Interior AI](https://interiorai.com/): A free app for interior design ideas and virtual staging using AI.
+- [Kive](https://kive.ai/mthrfckr/upload?new=false&sessionId=176b86d5-8c10-4a57-9c56-0c27566a8045&withTeam=false&workspaceId=cW0U6DMuehylzCyu6zMA): A URL for a specific workspace on Kive AI, a platform for data and project management.
+- [Lama-cleaner](https://github.com/Sanster/lama-cleaner?ref=ai2045_com): A GitHub repository for a tool to clean up disk space.
+- [Lexica](https://lexica.art/): A website offering services related to lexical analysis and word processing using AI.
+- [Libraire](https://libraire.ai/): A website for a virtual library management system using AI.
+- [MakeGirlsMoe](https://make.girls.moe/#/): A website for creating anime characters using AI.
+- [Midjourney](https://www.midjourney.com/home?callbackUrl=%2Fapp%2F) - A website that offers a platform for people to take virtual trips.
+- [Nebula 41](https://nebula41.io/) - A website that provides information on Nebula 41, a platform for building and deploying secure and scalable applications on the web.
+- [Neural.love](https://neural.love/image-upscale): An AI image quality enhancer that offers a free trial for batch image upscaling.
+- [NightCafe Creator](https://nightcafe.studio/): An AI-generated art print website inspired by the works of Vincent van Gogh.
+- [Nyx.gallery](https://nyx.gallery/) - A website that showcases art and photography.
+- [Ostagram](https://www.ostagram.me/static_pages/lenta?last_days=1000&locale=en) - A social media platform for sharing and discovering photos and videos.
+- [Palette.fm](https://palette.fm/) - A platform that provides access to thousands of music playlists.
+- [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/) - A research project that focuses on developing a machine learning model for generating images based on text descriptions.
+- [Patience - AI Art With Stable Diffusion](https://www.patience.ai/create) - A website that allows users to create art using artificial intelligence.
+- [Pharmapsychotic/clip-interrogator](https://replicate.com/pharmapsychotic/clip-interrogator) - A website that provides information on a software tool for analyzing video content.
+- [Phase](https://www.phase.art/): A website showcasing digital art.
+- [Photoshot](https://photoshot.app/): A platform for generating custom AI avatars.
+- [Photosonic AI Art Generator | Create Unique Images With AI](https://photosonic.writesonic.com/) - A website that allows users to create unique images using artificial intelligence.
+- [Phraser—The Collaborative Creative AI Tool](https://phraser.tech/builder) - A website that offers a collaborative creative AI tool.
+- [Pixelmind - AI-powered Art & Minting To NFTs](https://beta.pixelmind.ai/) - A platform that allows users to create, sell and trade unique digital assets.
+- [Pixelz AI Art Generator](https://pixelz.ai/) - A website that allows users to create unique digital art using artificial intelligence.
+- [Playform - AI Art Generator - Playform](https://www.playform.io/) - A platform for creating and exploring AI-generated art.
+- [Portrait | Vana](https://portrait.vana.com/) - A website that offers portrait editing tools and services.
+- [Prompt.press](https://prompt.press/): An AI-generated artwork website that takes inspiration from current events.
+- [Re.Art - AI Image Creator](https://reart.devvinay.in/) - A website that allows users to create images using artificial intelligence.
+- [Rudalle - A Hugging Face Space By Multimodalart](https://huggingface.co/spaces/multimodalart/rudalle) - A website that provides information on a machine learning model for generating art.
+- [Same.energy](https://same.energy/) - A social media platform for creating and sharing short-form content.
+- [SceneryAI - AI-powered Image Editing](https://sceneryai.com/dashboard) - A platform for editing and enhancing images using artificial intelligence.
+- [Seek.art](https://seek.art/) - A website that provides access to unique and rare works of art.
+- [Sefirot AI Studio](https://studio.sefirot.io/generate) - A platform for creating and exploring AI-generated art.
+- [Simulai: Machine Generated Art And Stock Photos](https://www.simulai.co/?ref=theresanaiforthat) - A website that provides machine generated art and stock photos.
+- [Snowpixel | AI For Content Creators](https://snowpixel.app/) - A platform that provides tools and services for content creation.
+- [SOREAL - AI Studio | Cloud Hosted Stable Diffusion 1.5 & Dreambooth Studio](https://www.soreal.ai/) - A cloud-hosted platform for creating and exploring AI-generated art.
+- [Stability AI Beta Signup Form](https://stability.ai/beta-signup-form): A form to sign up for the beta version of Stability.ai, an AI-powered platform.
+- [STABLE-DIFFUSION](https://raindrop.io/whoisdsmith/stable-diffusion-29670757/sort=title&perpage=30&page=0) - A website that provides information on the stable-diffusion technology.
+- [Swag Ai](https://swag-ai.com/) - A platform for creating and sharing AI-generated art.
+- [Synth](https://app.synth.run/#/home) - A platform for exploring and creating music with artificial intelligence.
+- [Trending Dreams | Deep Dream Generator](https://deepdreamgenerator.com/) - A website that provides access to deep dream generators.
+- [Uncensored OpenAI](http://adultopenai.pythonanywhere.com/) - A website that provides uncensored content generated by OpenAI.
+- [Upscale.media](https://upscale.media/): A free AI image upscaler that enhances and enlarges photos.
+- [Upscayl](https://github.com/upscayl/upscayl) - A platform for creating and exploring AI-generated art.
+- [WaifuXL](https://waifuxl.com/) - A website that provides access to AI-generated anime characters.
+- [Zazow :: Algorithmic Generative Art](https://www.zazow.com/) - A platform for exploring and creating AI-generated art.
 
 ---
 
