@@ -378,27 +378,27 @@ ___
 - [3D Object Generation](https://colab.research.google.com/drive/1FcQibnjfp4mpn_WJiQlVBRJMkhSMZqbU): This Is A Google Colaboratory Notebook That Demonstrates How To Generate 3D Objects Using Generative Adversarial Networks (GANs).
 - [3D Photo Inpainting ARGS Gist](https://colab.research.google.com/gist/asears/67bdf99b4d88edd56f512242b46708b7/3d–photo–inpainting–args.ipynb): This Is A Google Colaboratory Gist That Provides Code To Perform 3D Photo Inpainting Using An ARGS-based Approach.
 - [3D Photo Inpainting With ARGS](https://colab.research.google.com/drive/1706ToQrkIZshRSJSHvZ1RuCiM__YX3Bz): This Is A Google Colaboratory Notebook That Demonstrates How To Perform 3D Photo Inpainting Using An ARGS (Attribute-Regularized Generative Adversarial Networks) Based Approach.
-- [CSM](https://csm.ai/): CSM is an AI platform that automates the creation and management of customer service interactions.
-- [DeepMotion](https://www.deepmotion.com/): DeepMotion is a company that provides AI-powered character animation technology for video games and virtual reality applications.
-- [G3DAI {Jedi}](https://g3d.ai/): G3DAI (Jedi) is a cloud-based platform for game development that enables game developers to easily create 3D animations, physics simulations, and other interactive elements.
-- [GET3D (Nvidia)](https://nv-tlabs.github.io/GET3D/): GET3D is a research project from Nvidia that aims to generate 3D models from single images using deep learning techniques.
-- [GetFloorPlan](https://getfloorplan.com/): GetFloorPlan is a website that provides interactive floor plan visualization and virtual staging tools for real estate professionals.
-- [Imagine 3D](https://captures.lumalabs.ai/imagine): Imagine 3D is a platform for creating 3D models from 2D images using artificial intelligence.
+- [CSM](https://csm.ai/): CSM Is An AI Platform That Automates The Creation And Management Of Customer Service Interactions.
+- [DeepMotion](https://www.deepmotion.com/): DeepMotion Is A Company That Provides AI-powered Character Animation Technology For Video Games And Virtual Reality Applications.
+- [G3DAI {Jedi}](https://g3d.ai/): G3DAI (Jedi) Is A Cloud-based Platform For Game Development That Enables Game Developers To Easily Create 3D Animations, Physics Simulations, And Other Interactive Elements.
+- [GET3D (Nvidia)](https://nv-tlabs.github.io/GET3D/): GET3D Is A Research Project From Nvidia That Aims To Generate 3D Models From Single Images Using Deep Learning Techniques.
+- [GetFloorPlan](https://getfloorplan.com/): GetFloorPlan Is A Website That Provides Interactive Floor Plan Visualization And Virtual Staging Tools For Real Estate Professionals.
+- [Imagine 3D](https://captures.lumalabs.ai/imagine): Imagine 3D Is A Platform For Creating 3D Models From 2D Images Using Artificial Intelligence.
 - [Kaedim](http://www.kaedim3d.com) - Magically Generate Custom3D Models In Minutes. Stop Losing Hours To Modeling Tools. Generate Stunning 3D Art With Nothing More Than An Image
-- [Kinetix](https://www.kinetix.tech/): A technology company focused on improving human performance through advanced software solutions.
-- [Leonardo.AI](https://leonardo.ai/): An AI platform for creative problem solving.
-- [Lumalabs](https://captures.lumalabs.ai/imagine): Imagine 3D V1.2 (Alpha) is an early experiment to prototype and create 3D with text access to generation, gradually expanding to everyone on the waitlist.
-- [Masterpiece Studio](https://masterpiecestudio.com/): A platform for creating, curating and sharing 3D models.
-- [Mirageml](https://www.mirageml.com/): A platform for creating and training machine learning models.
-- [Pixela AI](https://pixela.ai/): An AI-powered solution for digital content creation.
-- [Plask](https://plask.ai/): An AI-powered mocap animation tool that easily extracts motion from video without the need for expensive bodysuits or motion work.
-- [Poly](https://withpoly.com/): A platform for discovering and showcasing 3D assets.
-- [Ponzu](https://www.ponzu.gg/): An AI-powered content discovery platform.
-- [PrometheanAI](https://www.prometheanai.com/): An AI platform for advanced data analytics and visualization.
-- [Scenario](https://www.scenario.gg/): An AI platform for video game development.
+- [Kinetix](https://www.kinetix.tech/): A Technology Company Focused On Improving Human Performance Through Advanced Software Solutions.
+- [Leonardo.AI](https://leonardo.ai/): An AI Platform For Creative Problem Solving.
+- [Lumalabs](https://captures.lumalabs.ai/imagine): Imagine 3D V1.2 (Alpha) Is An Early Experiment To Prototype And Create 3D With Text Access To Generation, Gradually Expanding To Everyone On The Waitlist.
+- [Masterpiece Studio](https://masterpiecestudio.com/): A Platform For Creating, Curating And Sharing 3D Models.
+- [Mirageml](https://www.mirageml.com/): A Platform For Creating And Training Machine Learning Models.
+- [Pixela AI](https://pixela.ai/): An AI-powered Solution For Digital Content Creation.
+- [Plask](https://plask.ai/): An AI-powered Mocap Animation Tool That Easily Extracts Motion From Video Without The Need For Expensive Bodysuits Or Motion Work.
+- [Poly](https://withpoly.com/): A Platform For Discovering And Showcasing 3D Assets.
+- [Ponzu](https://www.ponzu.gg/): An AI-powered Content Discovery Platform.
+- [PrometheanAI](https://www.prometheanai.com/): An AI Platform For Advanced Data Analytics And Visualization.
+- [Scenario](https://www.scenario.gg/): An AI Platform For Video Game Development.
 - [Semantic View Synthesis](https://colab.research.google.com/drive/1iT5PfK7zl1quAOwC227GfBjieFMVHjI5): This Is A Google Colaboratory Notebook That Demonstrates How To Generate New Views Of An Object Using Semantic Information.
-- [TextureLab](http://www.texturelab.xyz): A tool for generating instant and unique 3D textures for use in games, thanks to AI technology.
-- [The Simulation](https://fablesimulation.com/): A platform for creating and running virtual simulations.
+- [TextureLab](http://www.texturelab.xyz): A Tool For Generating Instant And Unique 3D Textures For Use In Games, Thanks To AI Technology.
+- [The Simulation](https://fablesimulation.com/): A Platform For Creating And Running Virtual Simulations.
 
 
 ## 3D Human Reconstruction And Motion Capture
@@ -435,64 +435,64 @@ ___
 ## Art
 
 - [NightCafe Creator](https://creator.nightcafe.studio/) - 🤖 🖼 AI Art Generator, AI Art Maker
-- [AI Art Apps Database](https://aiartapps.com/) - A database of AI art apps
-- [Al Picasso](https://aipicasso.studio.site/) - AI-powered art generator
+- [AI Art Apps Database](https://aiartapps.com/) - A Database Of AI Art Apps
+- [Al Picasso](https://aipicasso.studio.site/) - AI-powered Art Generator
 - [Aragon](https://www.aragon.ai/) - Image Generation
-- [Archillect - Archive](https://archillect.com/archive) - AI-generated image archive
-- [Artbreeder](https://www.artbreeder.com/) - AI art creator
-- [ArtHub](https://arthub.ai/) - AI-generated art marketplace
-- [Artroom AI](https://artroom.ai/download-app) - AI-powered art creation app
-- [Artvee](https://artvee.com/) - AI-generated art and design platform
-- [Astria](https://www.astria.ai/) - AI-powered art and design platform
-- [Beautiful.ai](https://www.beautiful.ai/) - AI-powered presentation platform
-- [Civitai](https://civitai.com/) - AI-powered image generation and manipulation
-- [Clipdrop](https://clipdrop.co/) - AI-powered object transfer between videos and images.
+- [Archillect - Archive](https://archillect.com/archive) - AI-generated Image Archive
+- [Artbreeder](https://www.artbreeder.com/) - AI Art Creator
+- [ArtHub](https://arthub.ai/) - AI-generated Art Marketplace
+- [Artroom AI](https://artroom.ai/download-app) - AI-powered Art Creation App
+- [Artvee](https://artvee.com/) - AI-generated Art And Design Platform
+- [Astria](https://www.astria.ai/) - AI-powered Art And Design Platform
+- [Beautiful.ai](https://www.beautiful.ai/) - AI-powered Presentation Platform
+- [Civitai](https://civitai.com/) - AI-powered Image Generation And Manipulation
+- [Clipdrop](https://clipdrop.co/) - AI-powered Object Transfer Between Videos And Images.
 - [NightCafe Creator](https://creator.nightcafe.studio/) - 🤖 🖼 AI Art Generator, AI Art Maker
-- [AI Art Apps Database](https://aiartapps.com/) - A database of AI art apps
-- [Al Picasso](https://aipicasso.studio.site/) - AI-powered art generator
+- [AI Art Apps Database](https://aiartapps.com/) - A Database Of AI Art Apps
+- [Al Picasso](https://aipicasso.studio.site/) - AI-powered Art Generator
 - [Aragon](https://www.aragon.ai/) - Image Generation
-- [Archillect - Archive](https://archillect.com/archive) - AI-generated image archive
-- [Artbreeder](https://www.artbreeder.com/) - AI art creator
-- [ArtHub](https://arthub.ai/) - AI-generated art marketplace
-- [Artroom AI](https://artroom.ai/download-app) - AI-powered art creation app
-- [Artvee](https://artvee.com/) - AI-generated art and design platform
-- [Astria](https://www.astria.ai/) - AI-powered art and design platform
-- [Beautiful.ai](https://www.beautiful.ai/) - AI-powered presentation platform
-- [Civitai](https://civitai.com/) - AI-powered image generation and manipulation
-- [Clipdrop](https://clipdrop.co/) - AI-powered object transfer between videos and images.
-- [Daft Art](https://daftart.ai/) - AI-powered art and design platform
-- [DALL·E 2](https://openai.com/dall-e-2) - AI-powered image generation
-- [DaVinciFace](https://www.davinciface.com/) - AI-powered portrait creation
-- [DiffusionBee](https://diffusionbee.com/) - AI-powered image manipulation
-- [Diffusion Land](https://diffusion.land/) - AI-powered image generation and manipulation
-- [Dreamlike.art](https://dreamlike.art/) - AI-powered image creation and manipulation
-- [Dream Up (Deviant Art)](https://www.dreamup.com/) - AI-powered art marketplace
-- [Fy! Studio](https://www.iamfy.co/studio) - AI-powered art creation platform
-- [Lexica](https://lexica.art/) - AI-powered text-based art platform.
-- [Daft Art](https://daftart.ai/) - AI-powered art and design platform
-- [DALL·E 2](https://openai.com/dall-e-2) - AI-powered image generation
-- [DaVinciFace](https://www.davinciface.com/) - AI-powered portrait creation
-- [DiffusionBee](https://diffusionbee.com/) - AI-powered image manipulation
-- [Diffusion Land](https://diffusion.land/) - AI-powered image generation and manipulation
-- [Dreamlike.art](https://dreamlike.art/) - AI-powered image creation and manipulation
-- [Dream Up (Deviant Art)](https://www.dreamup.com/) - AI-powered art marketplace
-- [Fy! Studio](https://www.iamfy.co/studio) - AI-powered art creation platform
-- [Lexica](https://lexica.art/) - AI-powered text-based art platform.
-- [Libraire](https://libraire.ai/) - AI-powered text and image generation platform
-- [Mage](https://www.mage.space/) - AI-powered image generation and manipulation
-- [Midjourney](https://www.midjourney.com/home/) - AI-powered art and design platform
+- [Archillect - Archive](https://archillect.com/archive) - AI-generated Image Archive
+- [Artbreeder](https://www.artbreeder.com/) - AI Art Creator
+- [ArtHub](https://arthub.ai/) - AI-generated Art Marketplace
+- [Artroom AI](https://artroom.ai/download-app) - AI-powered Art Creation App
+- [Artvee](https://artvee.com/) - AI-generated Art And Design Platform
+- [Astria](https://www.astria.ai/) - AI-powered Art And Design Platform
+- [Beautiful.ai](https://www.beautiful.ai/) - AI-powered Presentation Platform
+- [Civitai](https://civitai.com/) - AI-powered Image Generation And Manipulation
+- [Clipdrop](https://clipdrop.co/) - AI-powered Object Transfer Between Videos And Images.
+- [Daft Art](https://daftart.ai/) - AI-powered Art And Design Platform
+- [DALL·E 2](https://openai.com/dall-e-2) - AI-powered Image Generation
+- [DaVinciFace](https://www.davinciface.com/) - AI-powered Portrait Creation
+- [DiffusionBee](https://diffusionbee.com/) - AI-powered Image Manipulation
+- [Diffusion Land](https://diffusion.land/) - AI-powered Image Generation And Manipulation
+- [Dreamlike.art](https://dreamlike.art/) - AI-powered Image Creation And Manipulation
+- [Dream Up (Deviant Art)](https://www.dreamup.com/) - AI-powered Art Marketplace
+- [Fy! Studio](https://www.iamfy.co/studio) - AI-powered Art Creation Platform
+- [Lexica](https://lexica.art/) - AI-powered Text-based Art Platform.
+- [Daft Art](https://daftart.ai/) - AI-powered Art And Design Platform
+- [DALL·E 2](https://openai.com/dall-e-2) - AI-powered Image Generation
+- [DaVinciFace](https://www.davinciface.com/) - AI-powered Portrait Creation
+- [DiffusionBee](https://diffusionbee.com/) - AI-powered Image Manipulation
+- [Diffusion Land](https://diffusion.land/) - AI-powered Image Generation And Manipulation
+- [Dreamlike.art](https://dreamlike.art/) - AI-powered Image Creation And Manipulation
+- [Dream Up (Deviant Art)](https://www.dreamup.com/) - AI-powered Art Marketplace
+- [Fy! Studio](https://www.iamfy.co/studio) - AI-powered Art Creation Platform
+- [Lexica](https://lexica.art/) - AI-powered Text-based Art Platform.
+- [Libraire](https://libraire.ai/) - AI-powered Text And Image Generation Platform
+- [Mage](https://www.mage.space/) - AI-powered Image Generation And Manipulation
+- [Midjourney](https://www.midjourney.com/home/) - AI-powered Art And Design Platform
 - [Neural.love](https://neural.love/) - Art Generator
 - [NightCafe Studio](https://creator.nightcafe.studio/) - AI Art Generator, AI Art Maker
-- [Nijijourney](https://nijijourney.com/en/) - AI-powered art and design platform
-- [Openart](https://openart.ai/) - AI-powered art and design platform
-- [Phraser](https://phraser.tech/) - AI-powered text-based image generation
-- [PicSo](https://picso.ai/) - AI-powered image generation and manipulation
-- [Playground AI](https://playgroundai.com/) - AI-powered art and design platform
-- [Quasi](https://quasi.market/) - AI-powered art marketplace
-- [Sumopaint X](https://paint.sumo.app/?lang=en) - AI-powered image editing platform
-- [Super Prompt](https://superprompts.com/) - AI-powered creative writing platform
-- [Vana Portrait](https://portrait.vana.com/) - AI-powered portrait creation
-- [Wombo](https://www.wombo.art/) - AI-powered art and design platform.
+- [Nijijourney](https://nijijourney.com/en/) - AI-powered Art And Design Platform
+- [Openart](https://openart.ai/) - AI-powered Art And Design Platform
+- [Phraser](https://phraser.tech/) - AI-powered Text-based Image Generation
+- [PicSo](https://picso.ai/) - AI-powered Image Generation And Manipulation
+- [Playground AI](https://playgroundai.com/) - AI-powered Art And Design Platform
+- [Quasi](https://quasi.market/) - AI-powered Art Marketplace
+- [Sumopaint X](https://paint.sumo.app/?lang=en) - AI-powered Image Editing Platform
+- [Super Prompt](https://superprompts.com/) - AI-powered Creative Writing Platform
+- [Vana Portrait](https://portrait.vana.com/) - AI-powered Portrait Creation
+- [Wombo](https://www.wombo.art/) - AI-powered Art And Design Platform.
 
 
 ---
@@ -508,60 +508,60 @@ ___
 
 ## Avatars
 
-- [AIprofilepic](http://aiprofilepic.art) - AI-powered profile picture creation
-- [AI Profile Pictures](http://www.aiprofilepictures.com) - AI-powered profile picture creation (in beta)
-- [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/) - AI-powered video game
-- [AI Time Machine](https://www.myheritage.com/ai-time-machine) - AI-powered time machine
-- [AIVatar](http://aivatarapp.com) - AI-powered avatar creation
-- [AnimeAI](https://www.animeai.lol/) - AI-powered anime creation.
+- [AIprofilepic](http://aiprofilepic.art) - AI-powered Profile Picture Creation
+- [AI Profile Pictures](http://www.aiprofilepictures.com) - AI-powered Profile Picture Creation (In Beta)
+- [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/) - AI-powered Video Game
+- [AI Time Machine](https://www.myheritage.com/ai-time-machine) - AI-powered Time Machine
+- [AIVatar](http://aivatarapp.com) - AI-powered Avatar Creation
+- [AnimeAI](https://www.animeai.lol/) - AI-powered Anime Creation.
 - [ARTI. PICS](http://www.arti.pics) - Ai-Powered Avatar Maker. Arti. Pics Allows You To Upload A Few Photos Of Yourself And Generates More Than 200 Cool-looking Avatars In Different Styles.
 - [Autoportrait](http://autoportrait.co) - Autoportrait - Create Ai Portraits. Browse Millions Of Styles Or Create Your Own, Generate AI Autoportraits.
 - [AvatarAI](http://avatarai.me) - Create Your Own Photorealistic Ai Avatars. Choose From 112+ Different Styles To Transform Into.
-- [Avatarify](https://avatarify.art/): A website for an AI-powered avatar creation tool.
+- [Avatarify](https://avatarify.art/): A Website For An AI-powered Avatar Creation Tool.
 - [Avatarize.club](http://avatarize.club) - Create High Quality Ai-Generated Avatars. Professional Photos, Social Media DPs, Game Avatars, Dating Profile Photos, And More Powered By Stable Diffusion 2.1.
-- [Beb.ai](http://Beb.ai): A website for an AI-powered character creation tool.
-- [Character AI](https://beta.character.ai/): A platform for creating digital characters using AI technology.
+- [Beb.ai](http://Beb.ai): A Website For An AI-powered Character Creation Tool.
+- [Character AI](https://beta.character.ai/): A Platform For Creating Digital Characters Using AI Technology.
 - [Character.io](http://characterio.neeltron.repl.co) - Free Tool To Generate Fresh Cartoon Characters. Generate A Random Set Of Characters Or Avatars With The Power Of GANs. Press Spacebar To Generate A New Set.
-- [Digirama](https://apps.apple.com/us/app/character-creator-digirama/id6444673721): An app available on the Apple App Store that allows users to create digital characters.
+- [Digirama](https://apps.apple.com/us/app/character-creator-digirama/id6444673721): An App Available On The Apple App Store That Allows Users To Create Digital Characters.
 - [DreamPic](http://dreampic.ai) - Dreampic. Ai. AI Generated Pictures Starring You.
-- [DRMMR](https://drmmr.com/) - Avatar Generator powered by AI technology. You can create photorealistic avatars with a few clicks using your photos as input.
+- [DRMMR](https://drmmr.com/) - Avatar Generator Powered By AI Technology. You Can Create Photorealistic Avatars With A Few Clicks Using Your Photos As Input.
 - [EpicAvatar](http://epic-avatar.com) - Epic Avatar - Ai Profile Picture Generator. Make Your Own State-of-the-art AI Avatar Profile Pictures.
-- [Faces.app](https://faces.app) - Create AI Avatars with different styles, hairstyles, and accessories.
+- [Faces.app](https://faces.app) - Create AI Avatars With Different Styles, Hairstyles, And Accessories.
 - [Face Swapper](http://faceswapper.ai) - Face Swapper Online. Swap Face From Photos And Videos Automatically. Free And Unlimited Photo Swapping.
-- [G8 Avatar](https://g8avatar.com/) - AI-powered platform that generates realistic and high-quality avatars and portrait images.
-- [Gemsouls](https://www.mygemsouls.com/): A website for a virtual reality platform that uses AI-powered avatars.
-- [Generated Avatars](https://generated.photos/avatars) - Avatars generated with artificial intelligence. You can generate avatars in different styles, ethnicities, and genders.
+- [G8 Avatar](https://g8avatar.com/) - AI-powered Platform That Generates Realistic And High-quality Avatars And Portrait Images.
+- [Gemsouls](https://www.mygemsouls.com/): A Website For A Virtual Reality Platform That Uses AI-powered Avatars.
+- [Generated Avatars](https://generated.photos/avatars) - Avatars Generated With Artificial Intelligence. You Can Generate Avatars In Different Styles, Ethnicities, And Genders.
 - [Hairgen](http://www.hairgen.ai) - Preview Your Fue/Fut Hair Transplant Using Ai - Hairgen. Ai
 - [Hairstyle AI](http://www.hairstyleai.com) - Try Out New Hairstyles With Ai - Hairstyle Ai. Ready For A New Look? Upload You Photos And Let Artificial Intelligence Technology Generate New Hairstyles For You. Try It Out Today!
 - [HeroPack](http://www.heropack.me) - Heropack. Become A Hero With AI Generated Avatars Inspired By Your Favorite Video Games.
-- [In3D](https://in3d.io/): A website for an AI-powered avatar creation tool.
-- [Inworld](https://www.inworld.ai/): A virtual reality platform that uses AI-powered avatars.
-- [LamKiu](https://lamkiu.app/) - Create AI avatars in a few clicks using your photos. You can customize the avatars' styles, poses, and expressions.
-- [Lensa](https://play.google.com/store/apps/details?id=com.lensa.app&hl=en_IN&gl=US&ref=futurepedia): An app available on the Google Play Store that allows users to create digital characters.
-- [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream): A platform that allows users to host live streams with AI-powered virtual hosts.
+- [In3D](https://in3d.io/): A Website For An AI-powered Avatar Creation Tool.
+- [Inworld](https://www.inworld.ai/): A Virtual Reality Platform That Uses AI-powered Avatars.
+- [LamKiu](https://lamkiu.app/) - Create AI Avatars In A Few Clicks Using Your Photos. You Can Customize The Avatars' Styles, Poses, And Expressions.
+- [Lensa](https://play.google.com/store/apps/details?id=com.lensa.app&hl=en_IN&gl=US&ref=futurepedia): An App Available On The Google Play Store That Allows Users To Create Digital Characters.
+- [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream): A Platform That Allows Users To Host Live Streams With AI-powered Virtual Hosts.
 - [Magic AI Avatars](http://magicaiavatars.com) - Get 200+ Custom Avatars Made By Artificial Intelligence.
 - [MagicPic](http://www.magicpic.ai) - Magicpic - Ai Profile Picture Generator. Your Profile Picture Is The First Thing People See When They Look At Your Profile. We Use Artificial Intelligence To Generate An Magical Avatars Of You.
-- [NeuralStudio](https://neural.cam/studio/): A website for an AI-powered portrait creation tool.
+- [NeuralStudio](https://neural.cam/studio/): A Website For An AI-powered Portrait Creation Tool.
 - [Passphoto](http://passphoto.ai) - Create Your Passport Photo With Ai.
 - [PhotoAI](http://photoai.me) - Photoai. Create AI-generated Images Of Yourself.
 - [PhotoLeaf](http://photoleaf.ai) - Photoleaf Ai. Create Your AI-generated Social Media Pictures.
 - [Photoshot](http://photoshot.app) - Your Ai Avatar Generator. Generate Avatars That Perfectly Capture Your Unique Style.
-- [PictoDream](https://pictodream.com/): A website for a virtual reality platform that uses AI-powered avatars.
+- [PictoDream](https://pictodream.com/): A Website For A Virtual Reality Platform That Uses AI-powered Avatars.
 - [Pictureperfect](http://pictureperfect.ai) - Ai Avatar Generator And Maker - Pictureperfect. Ai. Get Creative And Design Your Own Personalized Avatar With The Help Of AI Technology. Simply Upload A Photo And Our System Will Generate A Unique Avatar That Represents You. Share Your Picture Perfect Avatar With Friends And Family On Social Media And Let Your Creativity Shine!.
 - [PIXELVIBE](https://www.pixelvibe.com/) - Ai Streamlined Creative Workflow. Create Presentations, Designs, Stock Photos, Instagram Promos, Product Photography, Vector Art, Animated Avatars.
 - [Pixificial](http://www.pixificial.com) - Pixificial Create Your Ai Avatars, Ai Profiles For Free. Create Your AI Avatars, AI Profiles For Free.
 - [Posed](http://posed.ai) - Posed. Upload Your Pictures And Let Our AI Create Stunning High-quality Portraits In A Wide Range Of Styles That Look Just Like You.
 - [ProfilePicture.ai](http://www.profilepicture.ai) - Create Your Perfect Profile Picture With Ai. The #1 AI Profile Picture Maker And Generator Your Profile Picture Is The First Thing People See When They Look At Your Profile. We Use Artificial Intelligence To Generate An Magical Avatars Of You That Looks Perfect And Captures Who You Are. You Can Be Anything Or Anyone!.
 - [Profile Picture](http://profilepicture.me) - Profile Picture Art
-- [Ready Player Me](https://readyplayer.me/): A platform that allows users to create their own digital avatars.
-- [Reface AI](https://hey.reface.ai/): A website for an AI-powered face swap tool.
+- [Ready Player Me](https://readyplayer.me/): A Platform That Allows Users To Create Their Own Digital Avatars.
+- [Reface AI](https://hey.reface.ai/): A Website For An AI-powered Face Swap Tool.
 - [ReflectMe](http://reflectme.art) - Reflectme. - Generate Your Ai Avatars!. See Yourself In A Way You Never Have Before! Generate Your AI Avatars, AI Photos, AI Photographies, Profile Pictures, LinkedIn Professional Profile Photos, Using Artificial Intelligence! Built On Stable Diffusion And Dreambooth.
 - [Stableboost](http://stableboost.ai) - Create Personalized Images With Ai!. Upload A Few Photos Of Yourself, A Loved One, A Pet, A Product, Or A Style You Like, And We Will Automatically Train An AI Model To Generate Portraits Of You In Hundreds Of Different Styles.
 - [Theoasis](http://theoasis.com) - Oasis Â Never Worry How You Look On Camera Again. Create A Photorealistic Avatar That You Can Use On Every Video Platform.
 - [Tokkingheads](http://www.tokkingheads.com) - Bring Portraits To Life With Ai Magic. Instantly.
 - [Tryitonai](http://www.tryitonai.com) - Stunning Professional Headshots & Portraits - Try It On Ai. Get Professional Studio Quality Headshots Generated In Less Than 24hrs! Perfect For LinkedIn, Social, Team And Dating Photos.
-- [Unrealme](https://unrealme.io/): A virtual reality platform that uses AI-powered avatars.
-- [Vana Portrait](https://portrait.vana.com/): A website for an AI-powered portrait creation tool.
+- [Unrealme](https://unrealme.io/): A Virtual Reality Platform That Uses AI-powered Avatars.
+- [Vana Portrait](https://portrait.vana.com/): A Website For An AI-powered Portrait Creation Tool.
 - [Xpression Camera 2.0](http://xpressioncamera.com) - Xpression Camera. Become Anyone On Zoom, Twitch, Or Any Streaming Video.
 
 ---
@@ -621,38 +621,38 @@ ___
 ## Collab
 
 
-- [🦜 Prompt Parrot V2.5](https://colab.research.google.com/drive/1GtyVgVCwnDfRvfsHbeU0AlG-SgQn1p8e?usp=sharing) - This URL is for a Google Colab notebook that provides the code for "Prompt Parrot V2.5".
-- [3D Ken Burns](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY) - This URL is for a Google Colab notebook that provides the code for "3D Ken Burns".
-- [Antarctic-Captions](https://colab.research.google.com/drive/1FwGEVKXvmpeMvAYqGr4z7Nt3llaZz-F8) - This URL is for a Google Colab notebook that provides the code for "Antarctic-Captions".
-- [Client.ipynb - Colaboratory](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) - This URL is for a Google Colab notebook that provides the code for "Client.ipynb" within the "dalle-flow" GitHub repository.
-- [CLIP Guided Deep Image Prior](https://colab.research.google.com/drive/1_oqIK8A67EgtJDdfsuJojc5ukNzirdle) - This URL is for a Google Colab notebook that provides the code for "CLIP Guided Deep Image Prior".
-- [CLIP Guided Diffusion HQ 512x512 Uncond_Fast Dango233](https://colab.research.google.com/drive/14xBm1aSxQLbq26-jmDJi8I1HJ4ti5ybt) - This URL is for a Google Colab notebook that provides the code for "CLIP Guided Diffusion HQ 512x512 Uncond_Fast Dango233".
-- [CLIP-Mesh](https://colab.research.google.com/drive/15Fm4EhLlB20EugLUnTdhSJElvGVCU7Ys?usp=sharing) - This URL is for a Google Colab notebook that provides the code for "CLIP-Mesh".
-*   [DALL·E Mini - Inference Pipeline.ipynb - Colaboratory](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)*   This is a Colaboratory notebook that showcases the inference pipeline for DALL·E Mini, an image generation model.
-*   [Disco Diffusion V3](https://colab.research.google.com/drive/1bItz4NdhAPHg5-u87KcH-MmJZjK-XqHN)*   This is a Colaboratory notebook that showcases version 3 of Disco Diffusion, a generative model.
-*   [Disco Diffusion V4 - Now With Zooming And Chigozienri Keyframing](https://colab.research.google.com/drive/1DHvr-DSNtlpvf0HgI0QmCLSe_PtShzPH?usp=sharing)*   This is a Colaboratory notebook that showcases version 4 of Disco Diffusion, a generative model with new features for zooming and keyframing.
-*   [Disco Diffusion V5.2 - Dynamic Prompting](https://colab.research.google.com/drive/1D-PX1x0rKY3c5jL8L215n_PyjzF4dJn_?usp=sharing)*   This is a Colaboratory notebook that showcases version 5.2 of Disco Diffusion, a generative model with new dynamic prompting feature.
-*   [GLIDE](https://colab.research.google.com/drive/13lvp0yPfM4adWlPv73dtX57A0H5A6PWn?usp=sharing)*   This is a Colaboratory notebook for GLIDE, a generative model.
-*   [Journey To The BAOAB-limit: Finding Effective MCMC Samplers For Score-based Models](https://colab.research.google.com/drive/17kesyBVqubV_Zzchf2XoR-7MHk5jxTuo?usp=sharing)*   This is a Colaboratory notebook that explores the journey to finding effective Markov Chain Monte Carlo (MCMC) samplers for score-based models using the BAOAB method.
-*   [Liminal Diffusion Beta](https://colab.research.google.com/drive/11Bs4wCs9R84DVAwDb3MkvDAd8V_Mw1e6)*   This is a Colaboratory notebook that showcases the beta version of Liminal Diffusion, a generative model.
-*   [Looking Glass V1.3](https://colab.research.google.com/drive/15vFLeepkSTr1qd4xs31g9kMEiwkWP0sh)*   This is a Colaboratory notebook that showcases version 1.3 of Looking Glass, a generative model.
-- [Looking Glass V1.5](https://colab.research.google.com/drive/1gr0dSCcFH_hYjbAPuThwAxbA1T8DD1Od?usp=sharing) - This is a version 1.5 of the "Looking Glass" tool.
-- [Mad-libbed Prompt Generator](https://colab.research.google.com/drive/1gGwD0zDvyx0OnJU4KLjE8HrwnTlzI2rS) - This is a tool to generate "mad-libbed" prompts.
-- [MindsEye Beta](https://colab.research.google.com/drive/1cg0LZ5OfN9LAIB37Xq49as0fSJxcKtC5) - This is a beta version of the "MindsEye" tool.
-- [Mse Regularized Modified](https://colab.research.google.com/drive/1gFn9u3oPOgsNzJWEFmdK-N9h_y65b8fj) - This is a modified version of the "MSE Regularized" tool.
-- [Nshepperd's JAX CLIP Guided Diffusion V2.3](https://colab.research.google.com/drive/12Bod44YVIXYRh39WRqp0kNz8OUBNFk9Z?usp=sharing) - This is version 2.3 of Nshepperd's "JAX CLIP Guided Diffusion" tool.
-- [Nshepperd's JAX CLIP Guided Diffusion V2.6](https://colab.research.google.com/drive/1fW_tPEX7iD3xZK3VBDQ_Y2WnfdSzpacM?usp=sharing) - This is version 2.6 of Nshepperd's "JAX CLIP Guided Diffusion" tool.
-- [Personality CLIP](https://colab.research.google.com/drive/171GirNbCVc-ScyBynI3Uy2fgYcmW3BB9?usp=sharing) - This is a tool for "Personality CLIP".
-- [PIFuHD Demo](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt) - This is a demo for the "PIFuHD" tool.
-- [QoL Tweaks Nshepperd's JAX CLIP Guided Diffusion V2.6? WIP](https://colab.research.google.com/drive/12ecr18kOuzE5I6wLm5BwQXBznLDXut4z#scrollTo=DiQ-zsUVZAo4) - A Google Colab notebook for Quality of Life Tweaks to Nshepperd's JAX CLIP Guided Diffusion, version 2.6 (Work In Progress)
-- [SD GUITard By Daswer123 - Colaboratory](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing) - A Google Colab notebook for SD GUITard by Daswer123.
-- [Simple Stable](https://colab.research.google.com/drive/1BRvQ6sseZxDDOv_b-ngVR0UdRG8P0Qd4?usp=sharing) - A Google Colab notebook for Simple Stable.
-- [Stable Diffusion AI Notebook](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - A Google Colab notebook for Stable Diffusion AI.
-- [Stable Diffusion Interpolation V2.2](https://colab.research.google.com/drive/1EHZtFjQoRr-bns1It5mTcOVyZzZD9bBc?usp=sharing) - A Google Colab notebook for Stable Diffusion Interpolation, version 2.2.
-- [StableDiffusionUI-Voldemort V1.3.ipynb - Colaboratory](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - A Google Colab notebook for StableDiffusionUI-Voldemort, version 1.3.
-- [StyleGAN-Humans + CLIP 🖼️](Https://colab.research.google.com/drive/1H-rGlKbILaZbDfTsrQqSxw2fH7y2elg6?usp=sharing) - A Google Colab notebook for StyleGAN-Humans + CLIP.
-- [StyleGAN3](https://colab.research.google.com/drive/1BXNHZBai-pXtP-ncliouXo_kUiG1Pq7M?usp=sharing) - A Google Colab notebook for StyleGAN3.
-- [SuperRes Diffusion: Batch Upscaling & Super Resolution With Latent-Diffusion](https://colab.research.google.com/drive/19euI_7GAgbvMoZsuPj9SZseDeuFnwBj8) - A Google Colab notebook for SuperRes Diffusion, a tool for batc.  upscaling and super resolution with latent-diffusion.
+- [🦜 Prompt Parrot V2.5](https://colab.research.google.com/drive/1GtyVgVCwnDfRvfsHbeU0AlG-SgQn1p8e?usp=sharing) - This URL Is For A Google Colab Notebook That Provides The Code For "Prompt Parrot V2.5".
+- [3D Ken Burns](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY) - This URL Is For A Google Colab Notebook That Provides The Code For "3D Ken Burns".
+- [Antarctic-Captions](https://colab.research.google.com/drive/1FwGEVKXvmpeMvAYqGr4z7Nt3llaZz-F8) - This URL Is For A Google Colab Notebook That Provides The Code For "Antarctic-Captions".
+- [Client.ipynb - Colaboratory](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) - This URL Is For A Google Colab Notebook That Provides The Code For "Client.ipynb" Within The "Dalle-flow" GitHub Repository.
+- [CLIP Guided Deep Image Prior](https://colab.research.google.com/drive/1_oqIK8A67EgtJDdfsuJojc5ukNzirdle) - This URL Is For A Google Colab Notebook That Provides The Code For "CLIP Guided Deep Image Prior".
+- [CLIP Guided Diffusion HQ 512x512 Uncond_Fast Dango233](https://colab.research.google.com/drive/14xBm1aSxQLbq26-jmDJi8I1HJ4ti5ybt) - This URL Is For A Google Colab Notebook That Provides The Code For "CLIP Guided Diffusion HQ 512x512 Uncond_Fast Dango233".
+- [CLIP-Mesh](https://colab.research.google.com/drive/15Fm4EhLlB20EugLUnTdhSJElvGVCU7Ys?usp=sharing) - This URL Is For A Google Colab Notebook That Provides The Code For "CLIP-Mesh".
+*   [DALL·E Mini - Inference Pipeline.ipynb - Colaboratory](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)*   This Is A Colaboratory Notebook That Showcases The Inference Pipeline For DALL·E Mini, An Image Generation Model.
+*   [Disco Diffusion V3](https://colab.research.google.com/drive/1bItz4NdhAPHg5-u87KcH-MmJZjK-XqHN)*   This Is A Colaboratory Notebook That Showcases Version 3 Of Disco Diffusion, A Generative Model.
+*   [Disco Diffusion V4 - Now With Zooming And Chigozienri Keyframing](https://colab.research.google.com/drive/1DHvr-DSNtlpvf0HgI0QmCLSe_PtShzPH?usp=sharing)*   This Is A Colaboratory Notebook That Showcases Version 4 Of Disco Diffusion, A Generative Model With New Features For Zooming And Keyframing.
+*   [Disco Diffusion V5.2 - Dynamic Prompting](https://colab.research.google.com/drive/1D-PX1x0rKY3c5jL8L215n_PyjzF4dJn_?usp=sharing)*   This Is A Colaboratory Notebook That Showcases Version 5.2 Of Disco Diffusion, A Generative Model With New Dynamic Prompting Feature.
+*   [GLIDE](https://colab.research.google.com/drive/13lvp0yPfM4adWlPv73dtX57A0H5A6PWn?usp=sharing)*   This Is A Colaboratory Notebook For GLIDE, A Generative Model.
+*   [Journey To The BAOAB-limit: Finding Effective MCMC Samplers For Score-based Models](https://colab.research.google.com/drive/17kesyBVqubV_Zzchf2XoR-7MHk5jxTuo?usp=sharing)*   This Is A Colaboratory Notebook That Explores The Journey To Finding Effective Markov Chain Monte Carlo (MCMC) Samplers For Score-based Models Using The BAOAB Method.
+*   [Liminal Diffusion Beta](https://colab.research.google.com/drive/11Bs4wCs9R84DVAwDb3MkvDAd8V_Mw1e6)*   This Is A Colaboratory Notebook That Showcases The Beta Version Of Liminal Diffusion, A Generative Model.
+*   [Looking Glass V1.3](https://colab.research.google.com/drive/15vFLeepkSTr1qd4xs31g9kMEiwkWP0sh)*   This Is A Colaboratory Notebook That Showcases Version 1.3 Of Looking Glass, A Generative Model.
+- [Looking Glass V1.5](https://colab.research.google.com/drive/1gr0dSCcFH_hYjbAPuThwAxbA1T8DD1Od?usp=sharing) - This Is A Version 1.5 Of The "Looking Glass" Tool.
+- [Mad-libbed Prompt Generator](https://colab.research.google.com/drive/1gGwD0zDvyx0OnJU4KLjE8HrwnTlzI2rS) - This Is A Tool To Generate "Mad-libbed" Prompts.
+- [MindsEye Beta](https://colab.research.google.com/drive/1cg0LZ5OfN9LAIB37Xq49as0fSJxcKtC5) - This Is A Beta Version Of The "MindsEye" Tool.
+- [Mse Regularized Modified](https://colab.research.google.com/drive/1gFn9u3oPOgsNzJWEFmdK-N9h_y65b8fj) - This Is A Modified Version Of The "MSE Regularized" Tool.
+- [Nshepperd's JAX CLIP Guided Diffusion V2.3](https://colab.research.google.com/drive/12Bod44YVIXYRh39WRqp0kNz8OUBNFk9Z?usp=sharing) - This Is Version 2.3 Of Nshepperd's "JAX CLIP Guided Diffusion" Tool.
+- [Nshepperd's JAX CLIP Guided Diffusion V2.6](https://colab.research.google.com/drive/1fW_tPEX7iD3xZK3VBDQ_Y2WnfdSzpacM?usp=sharing) - This Is Version 2.6 Of Nshepperd's "JAX CLIP Guided Diffusion" Tool.
+- [Personality CLIP](https://colab.research.google.com/drive/171GirNbCVc-ScyBynI3Uy2fgYcmW3BB9?usp=sharing) - This Is A Tool For "Personality CLIP".
+- [PIFuHD Demo](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt) - This Is A Demo For The "PIFuHD" Tool.
+- [QoL Tweaks Nshepperd's JAX CLIP Guided Diffusion V2.6? WIP](https://colab.research.google.com/drive/12ecr18kOuzE5I6wLm5BwQXBznLDXut4z#scrollTo=DiQ-zsUVZAo4) - A Google Colab Notebook For Quality Of Life Tweaks To Nshepperd's JAX CLIP Guided Diffusion, Version 2.6 (Work In Progress)
+- [SD GUITard By Daswer123 - Colaboratory](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing) - A Google Colab Notebook For SD GUITard By Daswer123.
+- [Simple Stable](https://colab.research.google.com/drive/1BRvQ6sseZxDDOv_b-ngVR0UdRG8P0Qd4?usp=sharing) - A Google Colab Notebook For Simple Stable.
+- [Stable Diffusion AI Notebook](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - A Google Colab Notebook For Stable Diffusion AI.
+- [Stable Diffusion Interpolation V2.2](https://colab.research.google.com/drive/1EHZtFjQoRr-bns1It5mTcOVyZzZD9bBc?usp=sharing) - A Google Colab Notebook For Stable Diffusion Interpolation, Version 2.2.
+- [StableDiffusionUI-Voldemort V1.3.ipynb - Colaboratory](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - A Google Colab Notebook For StableDiffusionUI-Voldemort, Version 1.3.
+- [StyleGAN-Humans + CLIP 🖼️](Https://colab.research.google.com/drive/1H-rGlKbILaZbDfTsrQqSxw2fH7y2elg6?usp=sharing) - A Google Colab Notebook For StyleGAN-Humans + CLIP.
+- [StyleGAN3](https://colab.research.google.com/drive/1BXNHZBai-pXtP-ncliouXo_kUiG1Pq7M?usp=sharing) - A Google Colab Notebook For StyleGAN3.
+- [SuperRes Diffusion: Batch Upscaling & Super Resolution With Latent-Diffusion](https://colab.research.google.com/drive/19euI_7GAgbvMoZsuPj9SZseDeuFnwBj8) - A Google Colab Notebook For SuperRes Diffusion, A Tool For Batc.  Upscaling And Super Resolution With Latent-diffusion.
 
 
 ---
@@ -778,7 +778,7 @@ ___
 - [Pixray](https://replicate.com/dribnet/pixray-text2image) - Pixray Is An AI-based Tool That Converts Text Descriptions Into Images.
 - [Playground AI](https://playgroundai.com/) - Playground AI Is An Online Platform That Provides AI-powered Tools And Applications For Creative Tasks And Projects.
 - [Replicate.com](https://replicate.com/explore) - Playground For Open Source Models (Text-to-image, Image-to-text, Image-to-image, Speach-to-text)
-- [Stable-diffusion-high-resolution–Replicate](https://replicate.com/cjwbw/stable-diffusion-high-resolution) - A high-resolution diffusion UI that is stable.
+- [Stable-diffusion-high-resolution–Replicate](https://replicate.com/cjwbw/stable-diffusion-high-resolution) - A High-resolution Diffusion UI That Is Stable.
 - [Stable UI](https://aqualxx.github.io/stable-ui/dashboard) - Stable UI Is A Platform That Provides AI-powered Tools And Applications For UI Design And Creation.
 - [Supermeme.ai](https://www.supermeme.ai/) - Text-to-meme
 - [Tiyaro.ai](https://console.tiyaro.ai/explore) - AI Models As A Service (Free Tier 100k Inference API Credits)
@@ -821,12 +821,12 @@ ___
 - [Artssy](https://www.artssy.co/) - Let Your Creativity Flow.
 - [Astria.ai](http://www.astria.ai) - Astria - Tailor-Made AI Image Generation. Create Custom Images Using AI
 - [Bg Eraser](http://bgeraser.com) - Bg Eraser - Magic Eraser For Picture Clean Up. Powerful AI Inpainting And Picture Clean Up Technology. Remove Unwanted Objects And Clean Up Pictures In Seconds
-- [BlueWillow](https://www.bluewillow.ai/): BlueWillow is an AI platform that provides businesses with data analytics and insights.
-- [Booth AI](https://booth.ai/): Booth AI is an AI-powered platform that helps businesses create professional quality product photography.
-- [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475): Bright Eye is a mobile app that uses AI to improve and correct the brightness of images.
-- [Canva Text To Image](https://www.canva.com/your-apps/text-to-image): Canva Text to Image is a feature on Canva that uses AI to convert text into an image design.
+- [BlueWillow](https://www.bluewillow.ai/): BlueWillow Is An AI Platform That Provides Businesses With Data Analytics And Insights.
+- [Booth AI](https://booth.ai/): Booth AI Is An AI-powered Platform That Helps Businesses Create Professional Quality Product Photography.
+- [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475): Bright Eye Is A Mobile App That Uses AI To Improve And Correct The Brightness Of Images.
+- [Canva Text To Image](https://www.canva.com/your-apps/text-to-image): Canva Text To Image Is A Feature On Canva That Uses AI To Convert Text Into An Image Design.
 - [Cartoonize](http://imagetocartoon.com) - Image To Cartoon. Best AI Cartoonizer Online For Free
-- [Craiyon](https://www.craiyon.com/): Craiyon is a creative AI platform that provides businesses with unique design and marketing solutions.
+- [Craiyon](https://www.craiyon.com/): Craiyon Is A Creative AI Platform That Provides Businesses With Unique Design And Marketing Solutions.
 - [DALL·E 2](https://openai.com/dall-e-2/) - Dall·E 2 Is A New AI System That Can Create Realistic Images And Art From A Description In Natural Language. DALL·E 2 Can Create Original, Realistic Images And Art From A Text Description. It Can Combine Concepts, Attributes, And Styles
 - [DaVinciFace](http://www.davinciface.com) - AI Portrait - Davinci Face Made By Mathema. DaVinci Face Is A Software–based On The Most Innovative Artificial Intelligence Techniques, In Particular On GAN (Generative Adversarial Network) - To Create Leonardesque-style Portraits
 - [Deep Dream Generator](http://deepdreamgenerator.com) - Human AI Collaboration. Create Inspiring Visual Content In A Collaboration With Our AI Enabled Tools
@@ -837,13 +837,13 @@ ___
 - [Drawanything](http://www.drawanything.app) - Draw Anything - Stable Diffusion Playground. Use AI To Create Novel Images In Minutes
 - [Draw Things](http://draw.nnc.ai) - Draw Things: AI-Assisted Image Generation
 - [Dreambooth](http://dream.ai) - High Quality Artwork In Seconds
-- [Dreamer](https://slashdreamer.com/): Dreamer is a platform that uses AI to help businesses automate and optimize various tasks.
+- [Dreamer](https://slashdreamer.com/): Dreamer Is A Platform That Uses AI To Help Businesses Automate And Optimize Various Tasks.
 - [Dreamlike](http://dreamlike.art) - AI Art Generator, AI Art Maker - Dreamlike. Art
 - [Dreamspace.art](http://dreamspace.art) - Dreamspace. The Prompt Diagramming Tool
 - [DreamUp](http://www.dreamup.com) - Dreamup. The DeviantArt DreamUp™ AI-art Generator Lets You Create AI-art Safely And Fairly
 - [Dreamweaverai](http://www.dreamweaverai.com) - Custom AI Tees. Build The Tee Of Your Dreams With AI
-- [Eilla AI](https://eilla.ai/): Eilla AI is an AI platform that provides businesses with data analytics and insights.
-- [Enterpix](https://enterpix.app/): Enterpix is a mobile app that uses AI to create custom stickers and emojis.
+- [Eilla AI](https://eilla.ai/): Eilla AI Is An AI Platform That Provides Businesses With Data Analytics And Insights.
+- [Enterpix](https://enterpix.app/): Enterpix Is A Mobile App That Uses AI To Create Custom Stickers And Emojis.
 - [Erase.bg](http://www.erase.bg) - Free Background Image Remover: Remove Bg From Hd Images Online - Erase. Bg. Make The Background Transparent For Images Of Humans, Animals, Or Objects. Download Images In High Resolution For Free For E-commerce And Personal Use. No Credit Card Needed
 - [Eye For AI](http://eyeforai.xyz) - Easy Text-To-Image Tools And Templates. Create Images From Text In Under A Minute
 - [Facet 2.0](http://facet.ai) - Facet: Image Creation, Reimagined. Harness The Power Of AI To Make The Creative Process Fast, Effective And Accessible. Experiment With Visual Directions, Automate Selections, And Collaborate--all On The Web
@@ -851,11 +851,11 @@ ___
 - [Flying Dog For Photoshop](http://www.flyingdog.de/sd/) - AI Superpower For Photos​Hop. Four Powerful AI Connectors: Three For Stable Diffusion And DALL-E 2. Use Your Own Stable Diffusion Server
 - [For The Wall](http://forthewall.art) - For The Wall - AI Generated Wall Art - Forthewall. Art. Create Your Own Unique And Personalized Art Prints With Forthewall.art! Our AI-powered Platform Lets You Generate Stunning Works Of Art From Scratch. Order Your One-of-a-kind Print Today And Transform Your Blank Walls Into Something Special. Try It Out Now At Forthewall.art!
 - [Generated Photos](http://generated.photos) - Generated Photos - Unique, Worry-Free Model Photos
-- [Getalpaca](https://www.getalpaca.io/): Getalpaca is a platform that uses AI to help businesses automate and optimize various tasks.
+- [Getalpaca](https://www.getalpaca.io/): Getalpaca Is A Platform That Uses AI To Help Businesses Automate And Optimize Various Tasks.
 - [Getimg.ai](http://getimg.ai) - Everything You Need To Create Images With AI - Getimg. AI. Magical AI Art Tools. Generate Original Images, Modify Existing Ones, Expand Pictures Beyond Its Original Borders, And More
-- [Go Charlie](https://gocharlie.ai/): Go Charlie is an AI-powered platform that helps businesses automate and optimize various tasks.
+- [Go Charlie](https://gocharlie.ai/): Go Charlie Is An AI-powered Platform That Helps Businesses Automate And Optimize Various Tasks.
 - [Green Screen AI](http://greenscreenai.com) - Change The Background Of Any Image With AI. Green Screen AI Is A Fun & Easy Way To Transform Your Pics Into Generative AI Art
-- [Hotpot.ai](https://hotpot.ai/): Hotpot.ai is an AI-powered platform that provides businesses with data analytics and insights.
+- [Hotpot.ai](https://hotpot.ai/): Hotpot.ai Is An AI-powered Platform That Provides Businesses With Data Analytics And Insights.
 - [IllostrationAI](http://www.illostration.com) - Illostrationai. Create AI-generated Illustrations. In Seconds
 - [Imaginator](http://imaginator.developer-service.io) - Imaginator - Turn Your Text Into Images. Imagine Being Able To See Your Thoughts Come Alive In Front Of You. No Longer Just A Thought, An Image Now Becomes The Reality
 - [Imagine Me](http://imagineme.app) - Home - Imagine Me. Imagine Me Is The First Online Platform That Lets You Generate Stunning AI Art Of Yourself, With Just A Simple Line Of Text
@@ -869,7 +869,7 @@ ___
 - [Mage Space](http://www.mage.space) - Create Anything
 - [Neuralcanvas](http://neuralcanvas.io) - Neural Canvas - AI Comic Generator. Express Your Creativity With The Support Of AI - Create AI Generated Illustrations For Your Comics, Blogposts, E-book, Graphic Novels And More
 - [NightCafe](http://creator.nightcafe.studio) - AI Art Generator, AI Art Maker. AI Art Generator App. ✅ Fast ✅ Free ✅ Easy. Create Amazing Artworks Using Artificial Intelligence
-- [Nijijourney](https://nijijourney.com/en/): Nijijourney is a platform that provides businesses with travel solutions.
+- [Nijijourney](https://nijijourney.com/en/): Nijijourney Is A Platform That Provides Businesses With Travel Solutions.
 - [Not Me Netlify](http://not-me.netlify.app) - Autoportrait - Create AI Portraits. Browse Millions Of Styles Or Create Your Own, Generate AI Autoportraits
 - [OddVibe](http://www.oddvibe.com) - Oddvibe: The Finest Collection Of Unnerving AI-Generated Images. Get Your Fix Of Creepy AI-generated Images. But Be Warned, You May Never Sleep Again
 - [Partly](http://www.partly.ai) - Mind-Blowing Art From Your Photos, By Partly AI. Transform Your Photos Into Works Of Art With The Help Of AI Magic!
@@ -877,7 +877,7 @@ ___
 - [PirateDiffusion](http://scum.co) - Describe Anything. Get Realistic HD Images, More Styles, No Restrictions
 - [Pixian](http://pixian.ai) - Remove Image Backgrounds, Free Hd, No Signup - Pixian. AI. Remove Image Backgrounds, Free HD, No Signup
 - [Playground](https://playgroundai.com/) - Playground AI - Online AI Image Creator. Playground AI Is A Free-to-use Online AI Image Creator. Use It To Create Art, Social Media Posts, Presentations, Posters, Videos, Logos And More
-- [Pollinations](https://pollinations.ai/): Pollinations is an AI-powered platform that helps businesses create and optimize digital advertisements.
+- [Pollinations](https://pollinations.ai/): Pollinations Is An AI-powered Platform That Helps Businesses Create And Optimize Digital Advertisements.
 - [Postedby](http://postedby.ai) - Postcards By AI, Delivered!. Postedby.ai Allows Users To Create Personalized Postcards Using Advanced AI Technology X:
 - [Prompt Art](http://promptart.labml.ai) - Stable Diffusion Playground
 - [Quasi](http://quasi.market) - We Make Creating With AI Easy. Unlock With The Power Of AI And Easily Create Stunning Content Of All Types With A Simple-to-use Platform
@@ -885,7 +885,7 @@ ___
 - [Removal.ai](http://removal.ai) - Background Remover - Create Transparent Background. Remove Background Online From Image Using Background Remover. Create Transparent Background - Download High-resolution Instantly & Free
 - [Remove.bg](http://www.remove.bg) - Remove Background From Image–Remove. Bg. Remove Image Backgrounds Automatically In 5 Seconds With Just One Click. Don't Spend Hours Manually Picking Pixels. Upload Your Photo Now & See The Magic
 - [Renderflux](http://www.renderflux.com) - Renderflux - Design With AI. Start Creating Beautiful Art In Seconds. Don't Worry About The Technical Stuff, We've Got You Covered
-- [RocketAI](https://rocketai.io/): RocketAI is an AI platform that provides businesses with data analytics and insights.
+- [RocketAI](https://rocketai.io/): RocketAI Is An AI Platform That Provides Businesses With Data Analytics And Insights.
 - [Roll Art Die](http://www.roll-art-die.com) - Stablediffusion On Your Apple Silicon Devices. Generate AI Artworks Using Only Text. Make Your Dream Artworks Into Reality. No Cloud Subscription Required
 - [RunDiffusion](http://rundiffusion.com) - Rundiffusion - Stable Diffusion Workspace In 3 Minutes. No Code To Fiddle With, Nothing To Install. Get A Private Stable Diffusion Workspace In Very Little Time. Start Creating AI Generated Art In A Little As 3 Minutes
 - [Seek Art](http://seek.art) - Create Astounding AI Art. Explore, Collect, And Share. No Cost To Start. Free Credits Every Day
@@ -897,11 +897,11 @@ ___
 - [Snowpixel](http://snowpixel.app) - Turn Your Prompt Into Artwork. You + AI = Art. Get 20+ AI Generated Images For Each Prompt, Upload Existing Images For Even More On-brand Illustrations, And Animate Them
 - [Soreal. AI Studio](http://www.soreal.ai) - The Easiest Way To Get Started With AI Image Generation. Type Anything You Want To See. Get Custom AI Images In Seconds
 - [StableCog](http://stablecog.com) - Stablecog. Free, Easy To Use, Multilingual And Open-source AI Image Generator Using Stable Diffusion
-- [Stable Diffusion](https://stability.ai/): Stable Diffusion is an AI platform that provides businesses with data analytics and insights.
-- [Stable Horde](https://stablehorde.net/): Stable Horde is a platform that provides businesses with solutions for managing and analyzing data.
+- [Stable Diffusion](https://stability.ai/): Stable Diffusion Is An AI Platform That Provides Businesses With Data Analytics And Insights.
+- [Stable Horde](https://stablehorde.net/): Stable Horde Is A Platform That Provides Businesses With Solutions For Managing And Analyzing Data.
 - [StarByFace](http://starbyface.com) - Celebrity Look Alike Face-Recognition App - Celebs Like Me. What Celebrity Do I Look Like? Try To Find Out! Celebrity Look Alike Face-recognition System. Find Your Doppelganger
 - [Starryai](http://starryai.com) - Starryai - AI Art Generator App - AI Art Maker. Simply Enter A Prompt And Our AI Transforms Your Words Into Works Of Art
-- [Stock AI](https://www.stockai.com/): Stock AI is a platform that uses AI to help businesses make informed stock market predictions.
+- [Stock AI](https://www.stockai.com/): Stock AI Is A Platform That Uses AI To Help Businesses Make Informed Stock Market Predictions.
 - [Stylized](http://www.stylized.ai) - The Better Way To Take Product Photos. From Phone To Catalog In 30 Seconds
 - [TattosAI](http://www.tattoosai.com) - AI-Powered Tattoo Artist - Tattoosai. If You Have An Idea For A Tattoo But Can't Find The Right Design, Let Our AI Generate One Within Seconds. It Lets You Create The Perfect Design Based On What You Like, And It Will Give You Unlimited Options So That There's Something For Everyone
 - [Vizcom AI](http://www.vizcom.ai) - Vizcom AI: The AI Creative Design Tool. See Your Drawings And Ideas Come To Life In Seconds, Not Hours
@@ -1209,80 +1209,80 @@ ___
 
 ## Image
 
-- [💬 🖌️ ProsePainter](https://www.prosepainter.com/): A website that allows users to paint with prose, or create an image from text.
-- [Aiart.dev](https://aiart.dev/): A platform that showcases AI-generated artwork and allows users to create their own.
-- [Alpaca](https://www.getalpaca.io/): A website that allows users to generate images using human and AI models.
-- [Amazing AI—Sindre Sorhus](https://sindresorhus.com/amazing-ai?ref=theresanaiforthat): A collection of AI projects created by Sindre Sorhus.
-- [Aragon](https://www.aragon.ai/): An AI-powered platform that provides custom solutions for businesses.
-- [Artbreeder Browse](https://www.artbreeder.com/browse): A section of Artbreeder's website that allows users to browse and discover AI-generated artwork.
-- [Artbreeder Collage](https://www.artbreeder.com/beta/collage): A section of Artbreeder's website that allows users to create collages using AI-generated artwork.
-- [Artbreeder](https://artbreeder.com/): A website that allows users to breed images using AI.
-- [ARTSIO](https://artsio.xyz/): A platform that creates and showcases AI-generated artwork.
-- [Astria](https://www.astria.ai/): A platform that provides tailor-made AI image generation solutions.
-- [BLIP - A Hugging Face Space By Salesforce](https://huggingface.co/spaces/Salesforce/BLIP): A platform powered by Salesforce that provides a space for Hugging Face models.
-- [Civitai](https://civitai.com/): An AI-powered platform that provides custom solutions for businesses.
-- [CLIP Interrogator - A Hugging Face Space By Pharma](https://huggingface.co/spaces/pharma/CLIP-Interrogator): A platform powered by Pharma that provides a space for Hugging Face models.
-- [Conjure.art](https://www.conjure.art/): A platform that allows users to create and explore AI-generated artwork.
-- [Craiyon](https://www.craiyon.com/): A platform that provides AI-generated images, formerly known as DALL-E Mini.
-- [DALL·E Mini by Craiyon on Hugging Face](https://huggingface.co/spaces/dalle-mini/dalle-mini): A platform that provides AI-generated images by Craiyon on Hugging Face.
-- [Ddmm](https://ddmm.ai/): An AI-powered platform for creating visual content.
-- [Desync](https://www.desync.art/): A platform for exploring and discovering AI-generated artwork.
-- [Diffusion Land](https://www.diffusion.land/): A platform for generating images with AI.
-- [Dimensions](https://www.dimensions.ink/): A platform that allows users to rapidly create visual concepts with AI.
-- [Drawanyone](https://drawanyone.ai/): A platform that allows users to draw images with AI assistance.
-- [Dreamlike.art](https://dreamlike.art/): An AI-powered art generator that creates dreamlike and abstract artwork.
-- [Dreamsands](https://dreamsands.ai/): A platform for discovering AI-created visuals.
-- [DreamStudio](https://beta.dreamstudio.ai/dream): A platform for creating and exploring AI-generated artwork.
-- [Enterpix](https://enterpix.app/): An AI art search engine.
-- [GhostlyStock](https://www.ghostlystock.com/): A website offering stock photos and illustrations.
-- [ImageColorizer](https://imagecolorizer.com/): A website offering photo restoration and enhancement services using AI.
-- [Image Computer](https://image.computer/): A website for computer image processing
-- [Imagen](https://imagen.research.google/): A Google Research project for large scale multimedia analysis.
-- [Immagin](https://immag.in/): A website offering image recognition and analysis services using AI.
-- [Interior AI](https://interiorai.com/): A free app for interior design ideas and virtual staging using AI.
-- [Kive](https://kive.ai/mthrfckr/upload?new=false&sessionId=176b86d5-8c10-4a57-9c56-0c27566a8045&withTeam=false&workspaceId=cW0U6DMuehylzCyu6zMA): A URL for a specific workspace on Kive AI, a platform for data and project management.
-- [Lama-cleaner](https://github.com/Sanster/lama-cleaner?ref=ai2045_com): A GitHub repository for a tool to clean up disk space.
-- [Lexica](https://lexica.art/): A website offering services related to lexical analysis and word processing using AI.
-- [Libraire](https://libraire.ai/): A website for a virtual library management system using AI.
-- [MakeGirlsMoe](https://make.girls.moe/#/): A website for creating anime characters using AI.
-- [Midjourney](https://www.midjourney.com/home?callbackUrl=%2Fapp%2F) - A website that offers a platform for people to take virtual trips.
-- [Nebula 41](https://nebula41.io/) - A website that provides information on Nebula 41, a platform for building and deploying secure and scalable applications on the web.
-- [Neural.love](https://neural.love/image-upscale): An AI image quality enhancer that offers a free trial for batch image upscaling.
-- [NightCafe Creator](https://nightcafe.studio/): An AI-generated art print website inspired by the works of Vincent van Gogh.
-- [Nyx.gallery](https://nyx.gallery/) - A website that showcases art and photography.
-- [Ostagram](https://www.ostagram.me/static_pages/lenta?last_days=1000&locale=en) - A social media platform for sharing and discovering photos and videos.
-- [Palette.fm](https://palette.fm/) - A platform that provides access to thousands of music playlists.
-- [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/) - A research project that focuses on developing a machine learning model for generating images based on text descriptions.
-- [Patience - AI Art With Stable Diffusion](https://www.patience.ai/create) - A website that allows users to create art using artificial intelligence.
-- [Pharmapsychotic/clip-interrogator](https://replicate.com/pharmapsychotic/clip-interrogator) - A website that provides information on a software tool for analyzing video content.
-- [Phase](https://www.phase.art/): A website showcasing digital art.
-- [Photoshot](https://photoshot.app/): A platform for generating custom AI avatars.
-- [Photosonic AI Art Generator | Create Unique Images With AI](https://photosonic.writesonic.com/) - A website that allows users to create unique images using artificial intelligence.
-- [Phraser—The Collaborative Creative AI Tool](https://phraser.tech/builder) - A website that offers a collaborative creative AI tool.
-- [Pixelmind - AI-powered Art & Minting To NFTs](https://beta.pixelmind.ai/) - A platform that allows users to create, sell and trade unique digital assets.
-- [Pixelz AI Art Generator](https://pixelz.ai/) - A website that allows users to create unique digital art using artificial intelligence.
-- [Playform - AI Art Generator - Playform](https://www.playform.io/) - A platform for creating and exploring AI-generated art.
-- [Portrait | Vana](https://portrait.vana.com/) - A website that offers portrait editing tools and services.
-- [Prompt.press](https://prompt.press/): An AI-generated artwork website that takes inspiration from current events.
-- [Re.Art - AI Image Creator](https://reart.devvinay.in/) - A website that allows users to create images using artificial intelligence.
-- [Rudalle - A Hugging Face Space By Multimodalart](https://huggingface.co/spaces/multimodalart/rudalle) - A website that provides information on a machine learning model for generating art.
-- [Same.energy](https://same.energy/) - A social media platform for creating and sharing short-form content.
-- [SceneryAI - AI-powered Image Editing](https://sceneryai.com/dashboard) - A platform for editing and enhancing images using artificial intelligence.
-- [Seek.art](https://seek.art/) - A website that provides access to unique and rare works of art.
-- [Sefirot AI Studio](https://studio.sefirot.io/generate) - A platform for creating and exploring AI-generated art.
-- [Simulai: Machine Generated Art And Stock Photos](https://www.simulai.co/?ref=theresanaiforthat) - A website that provides machine generated art and stock photos.
-- [Snowpixel | AI For Content Creators](https://snowpixel.app/) - A platform that provides tools and services for content creation.
-- [SOREAL - AI Studio | Cloud Hosted Stable Diffusion 1.5 & Dreambooth Studio](https://www.soreal.ai/) - A cloud-hosted platform for creating and exploring AI-generated art.
-- [Stability AI Beta Signup Form](https://stability.ai/beta-signup-form): A form to sign up for the beta version of Stability.ai, an AI-powered platform.
-- [STABLE-DIFFUSION](https://raindrop.io/whoisdsmith/stable-diffusion-29670757/sort=title&perpage=30&page=0) - A website that provides information on the stable-diffusion technology.
-- [Swag Ai](https://swag-ai.com/) - A platform for creating and sharing AI-generated art.
-- [Synth](https://app.synth.run/#/home) - A platform for exploring and creating music with artificial intelligence.
-- [Trending Dreams | Deep Dream Generator](https://deepdreamgenerator.com/) - A website that provides access to deep dream generators.
-- [Uncensored OpenAI](http://adultopenai.pythonanywhere.com/) - A website that provides uncensored content generated by OpenAI.
-- [Upscale.media](https://upscale.media/): A free AI image upscaler that enhances and enlarges photos.
-- [Upscayl](https://github.com/upscayl/upscayl) - A platform for creating and exploring AI-generated art.
-- [WaifuXL](https://waifuxl.com/) - A website that provides access to AI-generated anime characters.
-- [Zazow :: Algorithmic Generative Art](https://www.zazow.com/) - A platform for exploring and creating AI-generated art.
+- [💬 🖌️ ProsePainter](https://www.prosepainter.com/): A Website That Allows Users To Paint With Prose, Or Create An Image From Text.
+- [Aiart.dev](https://aiart.dev/): A Platform That Showcases AI-generated Artwork And Allows Users To Create Their Own.
+- [Alpaca](https://www.getalpaca.io/): A Website That Allows Users To Generate Images Using Human And AI Models.
+- [Amazing AI—Sindre Sorhus](https://sindresorhus.com/amazing-ai?ref=theresanaiforthat): A Collection Of AI Projects Created By Sindre Sorhus.
+- [Aragon](https://www.aragon.ai/): An AI-powered Platform That Provides Custom Solutions For Businesses.
+- [Artbreeder Browse](https://www.artbreeder.com/browse): A Section Of Artbreeder's Website That Allows Users To Browse And Discover AI-generated Artwork.
+- [Artbreeder Collage](https://www.artbreeder.com/beta/collage): A Section Of Artbreeder's Website That Allows Users To Create Collages Using AI-generated Artwork.
+- [Artbreeder](https://artbreeder.com/): A Website That Allows Users To Breed Images Using AI.
+- [ARTSIO](https://artsio.xyz/): A Platform That Creates And Showcases AI-generated Artwork.
+- [Astria](https://www.astria.ai/): A Platform That Provides Tailor-made AI Image Generation Solutions.
+- [BLIP - A Hugging Face Space By Salesforce](https://huggingface.co/spaces/Salesforce/BLIP): A Platform Powered By Salesforce That Provides A Space For Hugging Face Models.
+- [Civitai](https://civitai.com/): An AI-powered Platform That Provides Custom Solutions For Businesses.
+- [CLIP Interrogator - A Hugging Face Space By Pharma](https://huggingface.co/spaces/pharma/CLIP-Interrogator): A Platform Powered By Pharma That Provides A Space For Hugging Face Models.
+- [Conjure.art](https://www.conjure.art/): A Platform That Allows Users To Create And Explore AI-generated Artwork.
+- [Craiyon](https://www.craiyon.com/): A Platform That Provides AI-generated Images, Formerly Known As DALL-E Mini.
+- [DALL·E Mini By Craiyon On Hugging Face](https://huggingface.co/spaces/dalle-mini/dalle-mini): A Platform That Provides AI-generated Images By Craiyon On Hugging Face.
+- [Ddmm](https://ddmm.ai/): An AI-powered Platform For Creating Visual Content.
+- [Desync](https://www.desync.art/): A Platform For Exploring And Discovering AI-generated Artwork.
+- [Diffusion Land](https://www.diffusion.land/): A Platform For Generating Images With AI.
+- [Dimensions](https://www.dimensions.ink/): A Platform That Allows Users To Rapidly Create Visual Concepts With AI.
+- [Drawanyone](https://drawanyone.ai/): A Platform That Allows Users To Draw Images With AI Assistance.
+- [Dreamlike.art](https://dreamlike.art/): An AI-powered Art Generator That Creates Dreamlike And Abstract Artwork.
+- [Dreamsands](https://dreamsands.ai/): A Platform For Discovering AI-created Visuals.
+- [DreamStudio](https://beta.dreamstudio.ai/dream): A Platform For Creating And Exploring AI-generated Artwork.
+- [Enterpix](https://enterpix.app/): An AI Art Search Engine.
+- [GhostlyStock](https://www.ghostlystock.com/): A Website Offering Stock Photos And Illustrations.
+- [ImageColorizer](https://imagecolorizer.com/): A Website Offering Photo Restoration And Enhancement Services Using AI.
+- [Image Computer](https://image.computer/): A Website For Computer Image Processing
+- [Imagen](https://imagen.research.google/): A Google Research Project For Large Scale Multimedia Analysis.
+- [Immagin](https://immag.in/): A Website Offering Image Recognition And Analysis Services Using AI.
+- [Interior AI](https://interiorai.com/): A Free App For Interior Design Ideas And Virtual Staging Using AI.
+- [Kive](https://kive.ai/mthrfckr/upload?new=false&sessionId=176b86d5-8c10-4a57-9c56-0c27566a8045&withTeam=false&workspaceId=cW0U6DMuehylzCyu6zMA): A URL For A Specific Workspace On Kive AI, A Platform For Data And Project Management.
+- [Lama-cleaner](https://github.com/Sanster/lama-cleaner?ref=ai2045_com): A GitHub Repository For A Tool To Clean Up Disk Space.
+- [Lexica](https://lexica.art/): A Website Offering Services Related To Lexical Analysis And Word Processing Using AI.
+- [Libraire](https://libraire.ai/): A Website For A Virtual Library Management System Using AI.
+- [MakeGirlsMoe](https://make.girls.moe/#/): A Website For Creating Anime Characters Using AI.
+- [Midjourney](https://www.midjourney.com/home?callbackUrl=%2Fapp%2F) - A Website That Offers A Platform For People To Take Virtual Trips.
+- [Nebula 41](https://nebula41.io/) - A Website That Provides Information On Nebula 41, A Platform For Building And Deploying Secure And Scalable Applications On The Web.
+- [Neural.love](https://neural.love/image-upscale): An AI Image Quality Enhancer That Offers A Free Trial For Batch Image Upscaling.
+- [NightCafe Creator](https://nightcafe.studio/): An AI-generated Art Print Website Inspired By The Works Of Vincent Van Gogh.
+- [Nyx.gallery](https://nyx.gallery/) - A Website That Showcases Art And Photography.
+- [Ostagram](https://www.ostagram.me/static_pages/lenta?last_days=1000&locale=en) - A Social Media Platform For Sharing And Discovering Photos And Videos.
+- [Palette.fm](https://palette.fm/) - A Platform That Provides Access To Thousands Of Music Playlists.
+- [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/) - A Research Project That Focuses On Developing A Machine Learning Model For Generating Images Based On Text Descriptions.
+- [Patience - AI Art With Stable Diffusion](https://www.patience.ai/create) - A Website That Allows Users To Create Art Using Artificial Intelligence.
+- [Pharmapsychotic/clip-interrogator](https://replicate.com/pharmapsychotic/clip-interrogator) - A Website That Provides Information On A Software Tool For Analyzing Video Content.
+- [Phase](https://www.phase.art/): A Website Showcasing Digital Art.
+- [Photoshot](https://photoshot.app/): A Platform For Generating Custom AI Avatars.
+- [Photosonic AI Art Generator | Create Unique Images With AI](https://photosonic.writesonic.com/) - A Website That Allows Users To Create Unique Images Using Artificial Intelligence.
+- [Phraser—The Collaborative Creative AI Tool](https://phraser.tech/builder) - A Website That Offers A Collaborative Creative AI Tool.
+- [Pixelmind - AI-powered Art & Minting To NFTs](https://beta.pixelmind.ai/) - A Platform That Allows Users To Create, Sell And Trade Unique Digital Assets.
+- [Pixelz AI Art Generator](https://pixelz.ai/) - A Website That Allows Users To Create Unique Digital Art Using Artificial Intelligence.
+- [Playform - AI Art Generator - Playform](https://www.playform.io/) - A Platform For Creating And Exploring AI-generated Art.
+- [Portrait | Vana](https://portrait.vana.com/) - A Website That Offers Portrait Editing Tools And Services.
+- [Prompt.press](https://prompt.press/): An AI-generated Artwork Website That Takes Inspiration From Current Events.
+- [Re.Art - AI Image Creator](https://reart.devvinay.in/) - A Website That Allows Users To Create Images Using Artificial Intelligence.
+- [Rudalle - A Hugging Face Space By Multimodalart](https://huggingface.co/spaces/multimodalart/rudalle) - A Website That Provides Information On A Machine Learning Model For Generating Art.
+- [Same.energy](https://same.energy/) - A Social Media Platform For Creating And Sharing Short-form Content.
+- [SceneryAI - AI-powered Image Editing](https://sceneryai.com/dashboard) - A Platform For Editing And Enhancing Images Using Artificial Intelligence.
+- [Seek.art](https://seek.art/) - A Website That Provides Access To Unique And Rare Works Of Art.
+- [Sefirot AI Studio](https://studio.sefirot.io/generate) - A Platform For Creating And Exploring AI-generated Art.
+- [Simulai: Machine Generated Art And Stock Photos](https://www.simulai.co/?ref=theresanaiforthat) - A Website That Provides Machine Generated Art And Stock Photos.
+- [Snowpixel | AI For Content Creators](https://snowpixel.app/) - A Platform That Provides Tools And Services For Content Creation.
+- [SOREAL - AI Studio | Cloud Hosted Stable Diffusion 1.5 & Dreambooth Studio](https://www.soreal.ai/) - A Cloud-hosted Platform For Creating And Exploring AI-generated Art.
+- [Stability AI Beta Signup Form](https://stability.ai/beta-signup-form): A Form To Sign Up For The Beta Version Of Stability.ai, An AI-powered Platform.
+- [STABLE-DIFFUSION](https://raindrop.io/whoisdsmith/stable-diffusion-29670757/sort=title&perpage=30&page=0) - A Website That Provides Information On The Stable-diffusion Technology.
+- [Swag Ai](https://swag-ai.com/) - A Platform For Creating And Sharing AI-generated Art.
+- [Synth](https://app.synth.run/#/home) - A Platform For Exploring And Creating Music With Artificial Intelligence.
+- [Trending Dreams | Deep Dream Generator](https://deepdreamgenerator.com/) - A Website That Provides Access To Deep Dream Generators.
+- [Uncensored OpenAI](http://adultopenai.pythonanywhere.com/) - A Website That Provides Uncensored Content Generated By OpenAI.
+- [Upscale.media](https://upscale.media/): A Free AI Image Upscaler That Enhances And Enlarges Photos.
+- [Upscayl](https://github.com/upscayl/upscayl) - A Platform For Creating And Exploring AI-generated Art.
+- [WaifuXL](https://waifuxl.com/) - A Website That Provides Access To AI-generated Anime Characters.
+- [Zazow :: Algorithmic Generative Art](https://www.zazow.com/) - A Platform For Exploring And Creating AI-generated Art.
 
 ---
 
@@ -1365,24 +1365,24 @@ ___
 
 ## Prompts
 
-- [CLIP Interrogator 2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - An AI model that generates short answers to questions in natural language.
-- [Home | DiffusionDB](https://poloclub.github.io/diffusiondb/) - A platform that helps to easily visualize and explore high-dimensional data through diffusion maps.
-- [Midjourney Prompt Generators/](https://osvik.github.io/prompt-generators/) - A website that offers different prompt generators for creativity and inspiration.
-- [Prompter Guide](https://prompterguide.com/) - A guide that provides tips and tricks on how to use teleprompters effectively.
-- [PromptExtend](https://www.promptextend.com/) - A platform that provides creative writing prompts and inspiration for writers, artists, and other creative minds.
-- [Prompt Generator For Stable Diffusion](https://www.thomas.io/stable-diffusion-prompt-generator) - A prompt generator that helps to generate creative ideas for writing and other artistic endeavors.
-- [PromptHero](https://prompthero.com/) - A platform that provides creative prompts and inspiration for writers, artists, and other creative minds.
-- [Prompt Hunt](https://www.prompthunt.com/) - A platform that provides creative prompts and inspiration for writers, artists, and other creative minds.
-- [Promptist](https://huggingface.co/spaces/microsoft/Promptist) - An AI model that generates writing prompts in natural language.
-- [PromptLocker](https://www.promptlocker.com/) - A platform that provides a library of writing prompts for writers, artists, and other creative minds.
-- [Promptmakr](https://promptmakr.com/) - A platform that provides creative prompts and inspiration for writers, artists, and other creative minds.
-- [Prompt.Noonshot](https://prompt.noonshot.com/) - Midjourney Prompt Wizard - A website that offers a prompt generator for creativity and inspiration.
-- [PromptoMANIA](https://promptomania.com/) - A platform that provides creative prompts and inspiration for writers, artists, and other creative minds.
-- [Prompts Database](https://stablediffusionweb.com/prompts) - A database of creative writing prompts for writers, artists, and other creative minds.
-- [Public Prompts](https://publicprompts.art/) - A platform that provides a library of public writing prompts for writers, artists, and other creative minds.
-- [Simple Prompt Generator V0.3](https://wine-ineff.github.io/Simple_Prompt_Generator/) - A simple prompt generator for writing and other creative endeavors.
-- [Stable Diffusion Prompt Book](https://openart.ai/promptbook) - A platform that provides a library of creative prompts and inspiration for writers, artists, and other creative minds.
-- [Super Prompts](https://superprompts.com/) - A platform that provides creative prompts and inspiration for writers, artists, and other creative minds.
+- [CLIP Interrogator 2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - An AI Model That Generates Short Answers To Questions In Natural Language.
+- [Home | DiffusionDB](https://poloclub.github.io/diffusiondb/) - A Platform That Helps To Easily Visualize And Explore High-dimensional Data Through Diffusion Maps.
+- [Midjourney Prompt Generators/](https://osvik.github.io/prompt-generators/) - A Website That Offers Different Prompt Generators For Creativity And Inspiration.
+- [Prompter Guide](https://prompterguide.com/) - A Guide That Provides Tips And Tricks On How To Use Teleprompters Effectively.
+- [PromptExtend](https://www.promptextend.com/) - A Platform That Provides Creative Writing Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+- [Prompt Generator For Stable Diffusion](https://www.thomas.io/stable-diffusion-prompt-generator) - A Prompt Generator That Helps To Generate Creative Ideas For Writing And Other Artistic Endeavors.
+- [PromptHero](https://prompthero.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+- [Prompt Hunt](https://www.prompthunt.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+- [Promptist](https://huggingface.co/spaces/microsoft/Promptist) - An AI Model That Generates Writing Prompts In Natural Language.
+- [PromptLocker](https://www.promptlocker.com/) - A Platform That Provides A Library Of Writing Prompts For Writers, Artists, And Other Creative Minds.
+- [Promptmakr](https://promptmakr.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+- [Prompt.Noonshot](https://prompt.noonshot.com/) - Midjourney Prompt Wizard - A Website That Offers A Prompt Generator For Creativity And Inspiration.
+- [PromptoMANIA](https://promptomania.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+- [Prompts Database](https://stablediffusionweb.com/prompts) - A Database Of Creative Writing Prompts For Writers, Artists, And Other Creative Minds.
+- [Public Prompts](https://publicprompts.art/) - A Platform That Provides A Library Of Public Writing Prompts For Writers, Artists, And Other Creative Minds.
+- [Simple Prompt Generator V0.3](https://wine-ineff.github.io/Simple_Prompt_Generator/) - A Simple Prompt Generator For Writing And Other Creative Endeavors.
+- [Stable Diffusion Prompt Book](https://openart.ai/promptbook) - A Platform That Provides A Library Of Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+- [Super Prompts](https://superprompts.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
 
 ---
 
