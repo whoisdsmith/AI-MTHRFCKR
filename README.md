@@ -910,7 +910,7 @@
 
 ## StyleGAN
 
-- [Lucid Sonic Dreams](https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD?usp=sharing) - Animate Path Through StyleGAN Latent Space With Music ([Github](https://github.com/mikaelalafriz/lucid-sonic-dreams))
+- [Lucid Sonic Dreams](https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD?usp=sharing) - Animate Path Through StyleGAN Latent Space With Music [Github](https://github.com/mikaelalafriz/lucid-sonic-dreams)
 - [Painting With StyleGAN](https://colab.research.google.com/github/jmoso13/Painting_with_StyleGAN/blob/main/Painting_with_StyleGAN.ipynb) By @Jmoso13 ([Tutorial](https://www.youtube.com/watch?v=pkYHMPoZrkg)) - Use VAE To Navigate And Animate!
 - [Structured Dreaming](https://colab.research.google.com/drive/1tf-xUjhYm0p4pQSyKD-jq6EAGl_L5Al0#scrollTo=XYNwvEy3HH49) - Styledreams With Helpers
 - [Structured Dreaming](https://colab.research.google.com/github/ekgren/StructuredDreaming/blob/main/colabs/Structured_Dreaming_Styledreams.ipynb) - (CLIP+StyleGAN) By @ArYoMo ([Tweet](https://twitter.com/ArYoMo/status/1444398963571019783?s=20))
@@ -1117,25 +1117,25 @@
 
 - [AI Careers](https://aicareers.io/)
 - [Autumn AI](https://www.getautumn.com/)
-- [Cover Letter AI](https://coverletterai.app/) Cover Letter Ai.
+- [Cover Letter AI](https://coverletterai.app/) - Cover Letter AI.
 - [Dost](https://getdost.com/)
 - [Ferret](https://www.ferret.ai/)
 - [GeniusReview](https://geniusreview.xyz/)
-- [Hire Hoc](http://hirehoc.com) Hire Hoc - The Ai Powered Hiring Tool. Transform Your Organization With The Power Of AI-Assisted Recruiting.
-- [Hirex.ai](http://www.hirex.ai) Hirex. Ai. Welcome To Hirex.ai, A No-code AI Platform To Build Voice-based Bots That Conduct And Score Interviews At Scale. Get The Complete Suite Of Assessments Tools Like Coding Interviews, MCQ Tests, Hackathons, Video Interviews, And WhatsApp Chatbots All Under Single Dashboard.
-- [HireYaY](http://hireyay.com) Hireyay, A Hiring Platform For Startups. 92% Of Job Seekers Do Not Finish Their Online Application. With HireYaY, You Will Never Miss A Qualified Candidate Again.
+- [Hire Hoc](http://hirehoc.com) - Hire Hoc - The AI Powered Hiring Tool. Transform Your Organization With The Power Of AI-Assisted Recruiting.
+- [Hirex.ai](http://www.hirex.ai) - Hirex. AI. Welcome To Hirex.ai, A No-code AI Platform To Build Voice-based Bots That Conduct And Score Interviews At Scale. Get The Complete Suite Of Assessments Tools Like Coding Interviews, MCQ Tests, Hackathons, Video Interviews, And WhatsApp Chatbots All Under Single Dashboard.
+- [HireYaY](http://hireyay.com) - Hireyay, A Hiring Platform For Startups. 92% Of Job Seekers Do Not Finish Their Online Application. With HireYaY, You Will Never Miss A Qualified Candidate Again.
 - [HireYaY](https://hireyay.com/)
-- [JD Generator](http://hirequotient.com) Meet The Team - Hirequotient. HireQuotient' S Skill Assessment Platform Helps You Hire The Top 10% Of The Talent Pool In Half The Time.
+- [JD Generator](http://hirequotient.com) - Meet The Team - Hirequotient. HireQuotient' S Skill Assessment Platform Helps You Hire The Top 10% Of The Talent Pool In Half The Time.
 - [JobtitlesAI](https://jobtitlesai.com/)
 - [Kore.ai](https://kore.ai/)
-- [LazyApply](http://lazyapply.com) Automate Your Job Application Process. We Automatically Apply To All The Jobs On Platforms Like Linkedin, Indeed And Ziprecruiter.
+- [LazyApply](http://lazyapply.com) - Automate Your Job Application Process. We Automatically Apply To All The Jobs On Platforms Like Linkedin, Indeed And Ziprecruiter.
 - [Moveworks](https://www.moveworks.com/)
 - [Proposal Genie](https://www.proposalgenie.ai/)
 - [Qatalog](https://qatalog.com/)
-- [Rankode](http://www.rankode.ai) Ai For Human Resources - Rankode. Recruiters, Everything You Need To Know About A Candidate's Programming Skills Is In Their GitHub. Evaluate Them Automatically With Rankode To Avoid Expensive Hiring Mistakes And Superboost Your Retention.
-- [Resume Worded](http://resumeworded.com) Improve Your Resume And Linkedin Profile. Designed By Top Recruiters, Our AI-powered Platform Instantly Gives You Tailored Feedback On Your Resume And LinkedIn Profile. Land 5x More Interviews, Opportunities And Job Offers.
+- [Rankode](http://www.rankode.ai) - AI For Human Resources - Rankode. Recruiters, Everything You Need To Know About A Candidate's Programming Skills Is In Their GitHub. Evaluate Them Automatically With Rankode To Avoid Expensive Hiring Mistakes And Superboost Your Retention.
+- [Resume Worded](http://resumeworded.com) - Improve Your Resume And Linkedin Profile. Designed By Top Recruiters, Our AI-powered Platform Instantly Gives You Tailored Feedback On Your Resume And LinkedIn Profile. Land 5x More Interviews, Opportunities And Job Offers.
 - [Resume Worded](https://resumeworded.com/index.php)
-- [Springworks](http://www.springworks.in) Hr Software Solutions For Growing Businesses. Springworks Builds Human Resources Software Solutions To Solve Challenges In Recruitment, Background Verification & Employee Engagement With Blockchain And AI.
+- [Springworks](http://www.springworks.in) - Hr Software Solutions For Growing Businesses. Springworks Builds Human Resources Software Solutions To Solve Challenges In Recruitment, Background Verification & Employee Engagement With Blockchain And AI.
 - [SwagAI](https://www.useslingshot.com/swagai/)
 - [Upcat](https://upcat.app/)
 - [Write Me A Cover Letter](https://writemeacoverletter.com/)
@@ -1157,7 +1157,7 @@
 - [AI-Powered Search Engine - Lucidworks](https://lucidworks.com/ai-powered-search/)
 - [Algolia](https://www.algolia.com/)
 - [Andi](https://andisearch.com/)
-- [Anypod](http://www.anypod.ai) Search Engines Built For Creators. We Make Your Content Searchable.
+- [Anypod](http://www.anypod.ai) - Search Engines Built For Creators. We Make Your Content Searchable.
 - [ArtHub](https://arthub.ai/)
 - [Bria](https://bria.ai/)
 - [Casetext](https://casetext.com/)
@@ -1179,7 +1179,7 @@
 - [Kailua Labs](https://app.kailualabs.com/image-search)
 - [Krea](https://www.krea.ai/)
 - [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images)
-- [Lexii.ai](http://lexii.ai/) Lexii. Ai. Lexii.ai Is An AI Search Assistant That Answers Questions And Cites Sources.
+- [Lexii.ai](http://lexii.ai/) - Lexii. AI. Lexii.ai Is An AI Search Assistant That Answers Questions And Cites Sources.
 - [Libraire](https://libraire.ai/)
 - [Looria](https://looria.com/)
 - [Mage](https://www.mage.space/)
@@ -1187,8 +1187,8 @@
 - [Nuclia](https://nuclia.com/)
 - [Nyx](https://nyx.gallery/)
 - [One More AI](https://onemoreai.com/)
-- [OpenArt Photo Booth](http://openart.ai) Discover And Generate Ai Art - Openart. Search 10M+ Prompts, And Generate AI Art Via Stable Diffusion, DALL·E 2.
-- [Perplexity AI](http://www.perplexity.ai) Perplexity Ai.
+- [OpenArt Photo Booth](http://openart.ai) - Discover And Generate AI Art - Openart. Search 10M+ Prompts, And Generate AI Art Via Stable Diffusion, DALL·E 2.
+- [Perplexity AI](http://www.perplexity.ai) - Perplexity AI.
 - [Phind: AI Search Engine](https://phind.com/)
 - [Playground AI](https://playgroundai.com/)
 - [PromptBase](https://promptbase.com/)
@@ -1197,12 +1197,12 @@
 - [Search - Consensus - Evidence-Based Answers, Faster](https://consensus.app/search)
 - [Search](https://raindrop.io/whoisdsmith/search-29978203/sort=title&perpage=30&page=0)
 - [Shaped](https://www.shaped.ai/)
-- [Smarty Names](http://smartynames.com) Free Creative Domain Name Search By Ai Robots. Finding A Creative And Unique Domain That Is Still Available Is Easy With SmartyNames.com - Tell Us What You Do, And Our Robots Will Find The Domain That Is Just Right For You. Company Name Generator In One Click.
+- [Smarty Names](http://smartynames.com) - Free Creative Domain Name Search By AI Robots. Finding A Creative And Unique Domain That Is Still Available Is Easy With SmartyNames.com - Tell Us What You Do, And Our Robots Will Find The Domain That Is Just Right For You. Company Name Generator In One Click.
 - [Steno](https://steno.ai/)
 - [Stock AI](https://www.stockai.com/)
-- [StockGPT](https://www.askstockgpt.com/) Ai-Powered Search Engine. StockGPT Is An AI-powered Search Engine That Was Trained On All Of Tesla' S Quarterly Earnings Call Transcripts Dating Back To Q2 2011.
+- [StockGPT](https://www.askstockgpt.com/) - AI-Powered Search Engine. StockGPT Is An AI-powered Search Engine That Was Trained On All Of Tesla' S Quarterly Earnings Call Transcripts Dating Back To Q2 2011.
 - [Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool](https://writesonic.com/)
-- [You](http://you.com) The Ai Search Engine You Control.
+- [You](http://you.com) - The AI Search Engine You Control.
 - [Zevi.ai](https://www.zevi.ai/)
 
 ---
@@ -1272,52 +1272,52 @@
 
 ## Content
 
-- [ArticleForge](<https://www.articleforge.com/>? Ref = E99368) High Quality, Ai Content Generator - Article Forge. Using Advanced Artificial Intelligence And Deep Learning, Article Forge Writes Completely Unique, SEO Optimized, High-quality, Long Form Articles With The Click Of A Button.
-- [Content Brief Generator](<http://www.dashword.com>? Via = Beth0) Seo Content Optimization Software - Dashword. Dashword Is The #1 Content Optimization Software For SEO Teams. Create Relevant Content For Your Readers And Grow Your Organic Traffic.
-- [Contentedge](http://www.contentedge.com) Advanced Ai Content Generation & Seo Copywriting Software. Skip The Creative Burnout And Generate High-ranking Content In As Little As 15 Seconds.
-- [CopyMonkey](<http://copymonkey.ai>? Via = Beth0) Your Ai-Powered Amazon Listing Optimization Expert. CopyMonkey Generates And Optimizes Amazon Listings In Seconds. AI Helps Place All Of The Important Keywords In Your Amazon Listing To Get You Ranking Organically On The First Page.
-- [Creator AI](<https://www.creaitor.ai/>? Ref = Beth0) Let The Ai Create For You. Creaitor Will Help You Write Content In A More Powerful, Emotionally Expressive Way.
-- [Ctrify](http://www.ctrify.com) First Ai-Powered Seo Action Platform. Create Websites That Rank On Google By Just Giving One Keyword To Our Artificial Intelligence.
-- [Embolden](http://embolden.co) Use Ai To Power Your Ecommerce Writing. Embolden Uses AI To Help You Write Everything From Emails To Product Descriptions For Your Ecommerce Business.
-- [Enwrite](http://enwrite.co) The Ai Tool That Aims To Help Writers Save Time - Not Replace Them. An AI Helper Specialized In SEO-optimized Content Creation. Enwrite Helps You Write Better Content Faster.
-- [Frase.io (First Month - 60% Discount)](<http://www.frase.io/>? Via = Beth0) Frase - Best Seo Content Optimization Tool & Ai Writer. Frase AI Helps You Research, Write, And Optimize High-quality SEO Content In Minutes Instead Of Hours.
-- [H-supertools AI Writer](https://h-supertools.com/ai/ai-writer) Ai Writer Generate Content For Free!. Generate Blog Sections & Paragraphs In Seconds With This Powerful Free AI Writer.
-- [Hypotenuse.ai](http://www.hypotenuse.ai) Let Ai Write Your Content In Seconds. Without Writer&Apos; S Block. Provide A Few Keywords, And We' Ll Instantly Turn Them Into Full-length Articles And Marketing Content, Using Our World-class AI With A Vast Knowledge Of The World.
-- [Intelligent Paraphraser](<https://aiseo.ai/>? Fpr = Beth0) Aiseo - Ai Writing Assistant, Ai Copywriting & Content Generator. Get Writing Superpowers With Artificial Intelligence. We At AISEO Will Help You Convert Your Thoughts To Blogs And Can Write For You At The Click Of A Button.
-- [Jasper.ai](http://www.jasper.ai) Jasper - Ai Copywriter - Ai Content Generator For Teams. Jasper Is The AI Content Generator That Helps You And Your Team Break Through Creative Blocks To Create Amazing, Original Content 10X Faster.
-- [Kafkai](http://kafkai.com) Unique And Readable Ai Content Generator. Kafkai Is An AI Writer Assistant That Helps You Create Unique SEO-friendly Articles For Cents Instead Of Dollars.
-- [Katteb](http://katteb.com) Write Fact-Checked Content. Katteb AI Makes It Fast & Easy To Create Content For Your Blog And Online Store.
-- [LAIKA](http://www.writewithlaika.com) Personalised Artificial Intelligence For Writers. We Make The Boring Parts Of Writing Exciting. LAIKA Is A Creative Partner That You Train To Write Like You (Or Anyone You Want). Made For Creative Writers, Game Writers, And All Other Fiction Fabricators.
-- [Lek](http://lek.ai) Lek. Ai - The Ultimate Content Creator Toolkit Powered By Ai. Write Anything For Everything. The Fastest And Easiest Way To Create Content And Copy.
-- [Lex](http://lex.page) Unlock Your Best Writing
-- [LongShot AI](<http://www.longshot.ai>? Deal = Beth0) Create Content That Humans And Search Engines Love Using Artificial Intelligence. LongShot Is An AI Writing Assistant That Helps You Go From Idea To SEO Content In Minutes. Use Creative Power Of AI With Features Like Real Time Content, Fact Check, Semantic SEO, Custom AI, & More!.
-- [Neuraltext](<https://neuraltext.com>? Via = Beth0) Neuraltext - Ai Writer And Seo Platform. Automate Your Content Operations. The All-in-one Content Marketing And SEO Platform That Saves You Time And Money.
-- [Quattr](https://www.quattr.com/) Quattr Is Your Growth Hq. The Enterprise SEO Platform Built With Powerful AI And GSC Data As The Foundation.
-- [Summari](http://www.summari.com) Improve The Reading Experience On Your Site. Upgrade Links Into Short, Informative Previews Using Our World-class AI Summarization Technology.
-- [Taskade](http://www.taskade.com) Taskade - Ai Outliner & Mind Map - Ai Outlining And Mind Mapping For Teams. Taskade Is The First Collaborative AI Writer And Outliner For Teams With Built-in Task Management And Video Chat. Create Mind Maps, Task Lists, And Take Structured Notes In Real-time With Your Team.
-- [Typli](http://typli.ai) Typli. Ai - Ai Writer & Seo Writing Assistant. The Most Intuitive A. I Content Tool Which Combines AI Writing And An SEO Assistant.
-- [Word Spinner](http://word-spinner.com) Word Spinner The Best Free Article Rewriter And Paraphrase Tool Online.
-- [WordAI](http://wordai.com) Ai Text Rewriter - Wordai. Use Artificial Intelligence To Cut Turnaround Time, Extend Your Budget, And Create More High-quality Content That Google And Readers Will Love.
-- [WordHero](<http://wordhero.co>? Via = Beth0) Generate Ai-Powered Content - In 1 Click. With WordHero's AI Technology, You Can Create Original Blog Posts, Social Media Content, Emails, And More - In Just Seconds.
-- [Wordkraft](http://wordkraft.ai) Create High-Quality Content Instantly With Ai. Wordkraft AI Content Writer Is A Revolutionary Tool Powered By GPT-3 The Most Advance Artificial Intelligence Technology To Generate Well-written, Keyword-optimized Content For Your Blog, Website Or Marketing Needs.
-- [Wordplay](http://wordplay.ai) Create Long-Form Content In Seconds. The #1 AI Content Generator Built For SEO & Content Publishers.
-- [Writesonic](http://writesonic.com) Writesonic - Best Ai Writer, Copywriting & Paraphrasing Tool. Create SEO-optimized And Plagiarism-free Contentfor Your Blogs, Ads, Emails, And Website 10X Faster.
-- [Writey AI](http://writey.ai) Yes—An A. I That Writes Original, Researched Blog Posts In Minutes. First True Free Plagiarism A. I With Original And Researched Content, Check Writey A. I In Action.
-- [Unbound](<https://www.unboundcontent.ai/auth>? Affiliate = Aff_z0krz31) Automate Content Creation For Your Small Business. Leverage All The Best AI Generation Tools In One Place Designed To Automate Content Creation For Small Business, Online Shops And Creators.
-- [Vlog2blog](<https://vlog2blog.uwu.ai/>? Ref = Beth0) Instantly Convert Your Youtube Content Into Engaging Blog Articles. Boost Your SEO And Brand Presence.
+- [ArticleForge](https://www.articleforge.com) - High Quality, AI Content Generator - Article Forge. Using Advanced Artificial Intelligence And Deep Learning, Article Forge Writes Completely Unique, SEO Optimized, High-quality, Long Form Articles With The Click Of A Button.
+- [Content Brief Generator](http://www.dashword.com) - Seo Content Optimization Software - Dashword. Dashword Is The #1 Content Optimization Software For SEO Teams. Create Relevant Content For Your Readers And Grow Your Organic Traffic.
+- [Contentedge](http://www.contentedge.com) - Advanced AI Content Generation & Seo Copywriting Software. Skip The Creative Burnout And Generate High-ranking Content In As Little As 15 Seconds.
+- [CopyMonkey](http://copymonkey.ai) - Your AI-Powered Amazon Listing Optimization Expert. CopyMonkey Generates And Optimizes Amazon Listings In Seconds. AI Helps Place All Of The Important Keywords In Your Amazon Listing To Get You Ranking Organically On The First Page.
+- [Creator AI](https://www.creaitor.ai/) - Let The AI Create For You. Creaitor Will Help You Write Content In A More Powerful, Emotionally Expressive Way.
+- [Ctrify](http://www.ctrify.com) - First AI-Powered Seo Action Platform. Create Websites That Rank On Google By Just Giving One Keyword To Our Artificial Intelligence.
+- [Embolden](http://embolden.Com) - Use AI To Power Your Ecommerce Writing. Embolden Uses AI To Help You Write Everything From Emails To Product Descriptions For Your Ecommerce Business.
+- [Enwrite](http://enwrite.Com) - The AI Tool That AIms To Help Writers Save Time - Not Replace Them. An AI Helper Specialized In SEO-optimized Content Creation. Enwrite Helps You Write Better Content Faster.
+- [Frase.io (First Month - 60% Discount)](http://www.frase.io/) - Frase - Best Seo Content Optimization Tool & AI Writer. Frase AI Helps You Research, Write, And Optimize High-quality SEO Content In Minutes Instead Of Hours.
+- [H-supertools AI Writer](https://h-supertools.com/ai/ai-writer) - AI Writer Generate Content For Free!. Generate Blog Sections & Paragraphs In Seconds With This Powerful Free AI Writer.
+- [Hypotenuse.ai](http://www.hypotenuse.ai) - Let AI Write Your Content In Seconds. Without Writer&Apos; S Block. Provide A Few Keywords, And We' Ll Instantly Turn Them Into Full-length Articles And Marketing Content, Using Our World-class AI With A Vast Knowledge Of The World.
+- [Intelligent Paraphraser](https://aiseo.ai/ Fpr = Beth0) - AIseo - AI Writing Assistant, AI Copywriting & Content Generator. Get Writing Superpowers With Artificial Intelligence. We At AISEO Will Help You Convert Your Thoughts To Blogs And Can Write For You At The Click Of A Button.
+- [Jasper.ai](http://www.jasper.ai) - Jasper - AI Copywriter - AI Content Generator For Teams. Jasper Is The AI Content Generator That Helps You And Your Team Break Through Creative Blocks To Create Amazing, Original Content 10X Faster.
+- [Kafkai](http://kafkai.com) - Unique And Readable AI Content Generator. Kafkai Is An AI Writer Assistant That Helps You Create Unique SEO-friendly Articles For Cents Instead Of Dollars.
+- [Katteb](http://katteb.com) - Write Fact-Checked Content. Katteb AI Makes It Fast & Easy To Create Content For Your Blog And Online Store.
+- [LAIKA](http://www.writewithlaika.com) - Personalised Artificial Intelligence For Writers. We Make The Boring Parts Of Writing Exciting. LAIKA Is A Creative Partner That You Train To Write Like You (Or Anyone You Want). Made For Creative Writers, Game Writers, And All Other Fiction Fabricators.
+- [Lek](http://lek.ai) - Lek. AI - The Ultimate Content Creator Toolkit Powered By AI. Write Anything For Everything. The Fastest And Easiest Way To Create Content And Copy.
+- [Lex](http://lex.page) - Unlock Your Best Writing
+- [LongShot AI](http://www.longshot.ai Deal = Beth0) - Create Content That Humans And Search Engines Love Using Artificial Intelligence. LongShot Is An AI Writing Assistant That Helps You Go From Idea To SEO Content In Minutes. Use Creative Power Of AI With Features Like Real Time Content, Fact Check, Semantic SEO, Custom AI, & More!.
+- [Neuraltext](https://neuraltext.com) - Neuraltext - AI Writer And Seo Platform. Automate Your Content Operations. The All-in-one Content Marketing And SEO Platform That Saves You Time And Money.
+- [Quattr](https://www.quattr.com/) - Quattr Is Your Growth Hq. The Enterprise SEO Platform Built With Powerful AI And GSC Data As The Foundation.
+- [Summari](http://www.summari.com) - Improve The Reading Experience On Your Site. Upgrade Links Into Short, Informative Previews Using Our World-class AI Summarization Technology.
+- [Taskade](http://www.taskade.com) - Taskade - AI Outliner & Mind Map - AI Outlining And Mind Mapping For Teams. Taskade Is The First Collaborative AI Writer And Outliner For Teams With Built-in Task Management And Video Chat. Create Mind Maps, Task Lists, And Take Structured Notes In Real-time With Your Team.
+- [Typli](http://typli.ai) - Typli. AI - AI Writer & Seo Writing Assistant. The Most Intuitive A. I Content Tool Which Combines AI Writing And An SEO Assistant.
+- [Word Spinner](http://word-spinner.com) - Word Spinner The Best Free Article Rewriter And Paraphrase Tool Online.
+- [WordAI](http://wordai.com) - AI Text Rewriter - Wordai. Use Artificial Intelligence To Cut Turnaround Time, Extend Your Budget, And Create More High-quality Content That Google And Readers Will Love.
+- [WordHero](http://wordhero.com) - Generate AI-Powered Content - In 1 Click. With WordHero's AI Technology, You Can Create Original Blog Posts, Social Media Content, Emails, And More - In Just Seconds.
+- [Wordkraft](http://wordkraft.ai) - Create High-Quality Content Instantly With AI. Wordkraft AI Content Writer Is A Revolutionary Tool Powered By GPT-3 The Most Advance Artificial Intelligence Technology To Generate Well-written, Keyword-optimized Content For Your Blog, Website Or Marketing Needs.
+- [Wordplay](http://wordplay.ai) - Create Long-Form Content In Seconds. The #1 AI Content Generator Built For SEO & Content Publishers.
+- [Writesonic](http://writesonic.com) - Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool. Create SEO-optimized And Plagiarism-free Contentfor Your Blogs, Ads, Emails, And Website 10X Faster.
+- [Writey AI](http://writey.ai) - Yes—An A. I That Writes Original, Researched Blog Posts In Minutes. First True Free Plagiarism A. I With Original And Researched Content, Check Writey A. I In Action.
+- [Unbound](https://www.unboundcontent.ai/) - Automate Content Creation For Your Small Business. Leverage All The Best AI Generation Tools In One Place Designed To Automate Content Creation For Small Business, Online Shops And Creators.
+- [Vlog2blog](https://vlog2blog.uwu.ai/) - Instantly Convert Your Youtube Content Into Engaging Blog Articles. Boost Your SEO And Brand Presence.
 
 ---
 
 ## Creators Toolkit
 
-- [Clipdrop](http://clipdrop.co) Create Stunning Visuals In Seconds. The Ultimate Ecosystem Of Apps, Plugins & Resources For All Creators, Powered By Artificial Intelligence.
-- [Cutout Pro](http://www.cutout.pro) Cutout. Pro - Ai Photo Editing - Visual Content Generation Platform, Best For Image And Video Design. All-in-one Visual Design Platform Containing AI Photo And Video Editing Tools. Automatic Process For Background Remove, Image Restoration, Graphic Design, And Content Generation.
-- [Descript](<http://www.descript.com>? Lmref = Xru03g) There&Apos; S A New Way To Make Video And Podcasts. A Good Way. Descript Is The Simple, Powerful, And Fun Way To Edit.
-- [Fermat](http://fermat.ws) Creativity Augmented For Content Creation. Unleash Your Creativity With AI On A Collaborative Canvas.
-- [Hotpot](http://hotpot.ai) Hotpot. Ai. Hotpot.ai Helps You Create Amazing Graphics, Pictures, And Text. AI Tools Like AI Art Generator Spark Creativity And Automate Drudgery While Easy-to-edit Templates Empower Anyone To Create Device Mockups, Social Media Posts, Marketing Images, App Icons, And Other Work Graphics.
-- [Lightricks](http://www.lightricks.com) Home To Creators Everywhere. Experience The Magic Of Creating With The Best Tools And Services For Creators Facetune 2, Videoleap, Linkinbio & Photoleap. Check It Out Now!.
-- [Media.io](<https://www.media.io/>? Ref = Beth0) Online Video, Audio, Image Creativity Platform Powered By Ai. Simplicity. Diversity. Flexibility.
-- [Runway](http://runwayml.com) Runway - Next-Generation Creation Suite - Everything You Need To Make Content, Fast. Discover Advanced Video Editing Capabilities To Take Your Creations To The Next Level.
+- [Clipdrop](http://clipdrop.co) - Create Stunning Visuals In Seconds. The Ultimate Ecosystem Of Apps, Plugins & Resources For All Creators, Powered By Artificial Intelligence.
+- [Cutout Pro](http://www.cutout.pro) - Cutout. Pro - AI Photo Editing - Visual Content Generation Platform, Best For Image And Video Design. All-in-one Visual Design Platform Containing AI Photo And Video Editing Tools. Automatic Process For Background Remove, Image Restoration, Graphic Design, And Content Generation.
+- [Descript](http://www.descript.com) - There&Apos; S A New Way To Make Video And Podcasts. A Good Way. Descript Is The Simple, Powerful, And Fun Way To Edit.
+- [Fermat](http://fermat.ws) - Creativity Augmented For Content Creation. Unleash Your Creativity With AI On A Collaborative Canvas.
+- [Hotpot](http://hotpot.ai) - Hotpot. AI. Hotpot.ai Helps You Create Amazing Graphics, Pictures, And Text. AI Tools Like AI Art Generator Spark Creativity And Automate Drudgery While Easy-to-edit Templates Empower Anyone To Create Device Mockups, Social Media Posts, Marketing Images, App Icons, And Other Work Graphics.
+- [Lightricks](http://www.lightricks.com) - Home To Creators Everywhere. Experience The Magic Of Creating With The Best Tools And Services For Creators Facetune 2, Videoleap, Linkinbio & Photoleap. Check It Out Now!.
+- [Media.io](https://www.media.io/) - Online Video, Audio, Image Creativity Platform Powered By AI. Simplicity. Diversity. Flexibility.
+- [Runway](http://runwayml.com) - Runway - Next-Generation Creation Suite - Everything You Need To Make Content, Fast. Discover Advanced Video Editing Capabilities To Take Your Creations To The Next Level.
 
 ---
 
@@ -1406,12 +1406,12 @@
 
 ## Architecture
 
-- [AI Room Planner](http://airoomplanner.com) Interior Design By Ai. Get Hundreds Of Interior Design Ideas For Your Room - Free With No Limit
-- [Dimensions](http://www.dimensions.ink) Dimensions - Rapidly Create Visual Concepts With Ai. Imagine Being Able To Create Beautiful Interior Designs With Ease–that' S What Dimensions Offers
-- [Getfloorplan](http://getfloorplan.com) Creating 2D And 3D Floor Plans With Ai. Up To 30% Calls Increase Reported By Our Clients Using 2D, 3D Floor Plans And Virtual Tours
-- [Image Computer](http://image.computer) Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art. Use Our Powerful AI Technology To Generate Any Type Of Image You Can Think Of. In A Matter Of Seconds
-- [Interior AI](http://interiorai.com) Interior Ai: Interior Design Ideas Inspiration, And Virtual Staging App Using Artificial Intelligence. Get Interior Design Ideas Using Artificial Intelligence And Virtually Stage Interiors For Real Estate Listings With Different Interior Styles
-- [Makeit.ai](http://www.maket.ai) Generative Design - Architecture Design Software - Maket. Our Generative Design Software Enables Architects, Builders & Developers To Quickly Generate Thousands Of Architectural Plans Instantly
+- [AI Room Planner](http://airoomplanner.com) - Interior Design By AI. Get Hundreds Of Interior Design Ideas For Your Room - Free With No Limit
+- [Dimensions](http://www.dimensions.ink) - Dimensions - Rapidly Create Visual Concepts With AI. Imagine Being Able To Create Beautiful Interior Designs With Ease–that's What Dimensions Offers
+- [Getfloorplan](http://getfloorplan.com) - Creating 2D And 3D Floor Plans With AI. Up To 30% Calls Increase Reported By Our Clients Using 2D, 3D Floor Plans And Virtual Tours
+- [Image Computer](http://image.computer) - Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art. Use Our Powerful AI Technology To Generate Any Type Of Image You Can Think Of. In A Matter Of Seconds
+- [Interior AI](http://interiorai.com) - Interior AI: Interior Design Ideas Inspiration, And Virtual Staging App Using Artificial Intelligence. Get Interior Design Ideas Using Artificial Intelligence And Virtually Stage Interiors For Real Estate Listings With Different Interior Styles
+- [Makeit.ai](http://www.maket.ai) - Generative Design - Architecture Design Software - Maket. Our Generative Design Software Enables Architects, Builders & Developers To Quickly Generate Thousands Of Architectural Plans Instantly
 
 ---
 
@@ -1451,12 +1451,12 @@
 
 ## Web Design
 
-- [ChatBA](https://www.chatba.com/) Chatbcg Generative Ai For Slides. Instantly Create Slide Decks Using ChatBCG.
-- [Durable](http://durable.co) Durable Ai Website Builder And Service Business Software
-- [Magician](http://magician.design) Magician For Figma. A Magical Design Tool For Figma Powered By AI.
-- [Piggy](https://piggy.to/magic) Mobile Content Creator. Creating Stunning Content On Your Phone Just Got Easy.
-- [SlidesAI](https://www.slidesai.io/) Create Presentation Slides With Ai In Seconds. Say Goodbye To Tedious, Manual Slides Creation. Let The AI Write The Outline And Presentation Content For You. With Our Tool, You Can Easily Create Professional, Engaging Slides From Any Text In No Time.
-- [Tome](http://beta.tome.app) Generative Storytelling Has Arrived. Unlock Your Best Work With Tome's AI-powered Storytelling Format.
+- [ChatBA](https://www.chatba.com/) - Chatbcg Generative AI For Slides. Instantly Create Slide Decks Using ChatBCG.
+- [Durable](http://durable.co) - Durable AI Website Builder And Service Business Software
+- [Magician](http://magician.design) - Magician For Figma. A Magical Design Tool For Figma Powered By AI.
+- [Piggy](https://piggy.to/magic) - Mobile Content Creator. Creating Stunning Content On Your Phone Just Got Easy.
+- [SlidesAI](https://www.slidesai.io/) - Create Presentation Slides With AI In Seconds. Say Goodbye To Tedious, Manual Slides Creation. Let The AI Write The Outline And Presentation Content For You. With Our Tool, You Can Easily Create Professional, Engaging Slides From Any Text In No Time.
+- [Tome](http://beta.tome.app) - Generative Storytelling Has Arrived. Unlock Your Best Work With Tome's AI-powered Storytelling Format.
 
 ---
 
@@ -1532,30 +1532,30 @@
 
 ## Database
 
-- [AI Docstrings](https://trelent.com) Write Docstrings Automatically. Trelent Uses AI To Write Helpful Docstrings For Your Functions Instantly.
-- [Adrenaline](https://useadrenaline.com/) Stop Plugging Your Errors Into Stackoverflow. Adrenaline Is A Debugging Assistant Powered By The OpenAI Codex. It Can Fix And Explain Your Broken Code In Seconds.
-- [Ask Command](http://askcommand.com) Ask Command—Ai-Powered Developer Assistant. A Tiny App To Remind You About Those Commands You Always Forget. Powered By AI.
-- [Channel](http://www.usechannel.com) Channel. Connect Your Database, Ask A Question, Get An Answer.
-- [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist) Codeassist Is An Ai Assistant / Chatbot / Copilot For Programming - Jetbrains Marketplace. It Generates, Changes, Completes The Code And Answers Questions.
-- [CodeGPT](http://www.codegpt.co/) Ai Inside Your Ide. Improve Your Code With Code GPT AI.
-- [CodeWP](<https://codewp.ai/>? Cwpref = 9) Codewp - Ai Wordpress Code Generator & Assistant. CodeWP Is A WordPress Code Generator That Uses AI And Specialized Models For WordPress, Woo And Others To Help You Build Better & Quicker.
-- [Codeball](http://codeball.ai) Codeball Â Ai Powered Code Review. Codeball Finds Bugs In Your Pull Requests, Lets You Ship Faster And With Higher Confidence.
-- [Codecleaningbot](http://www.codecleaningbot.com) Code Cleaning Bot. Code Cleaning AI Bot Fixes Common Code Quality And Security Issues. Like Deleting Unused And Unreachable Code, Fix SQL Injection, Etc.
-- [Codeium](http://www.codeium.com) Codeium - The Modern Coding Superpower. Fast AI-based Code Acceleration And Free Alternative To Github Copilot.
-- [Datamaker](http://www.datamaker.dev) Ai Powered Webflow Code & Copy Tools For Designers. If You Are A Webflow Designer Or Webflow Developer Then You Need To See These Tools. Use AI To Create Code And Copy To Solve Your Webflow Problems.
-- [Decile](http://decile.app) Get The Data You Need By Asking. Build A Data-led Organisation With The Power Of AI.
-- [Explain An Error](http://explain.whybug.com) Explain By Whybug. Let AI Explain To You Why Your Code Is Buggy And How To Fix It.
-- [ExplainDev](http://explain.dev) Explaindev - Code Explainer That Answers Your Questions In Context. ExplainDev Helps You To Be More Confident And Independent With Others' Code. Get Code Explanations And Direct Answers To Your Questions Via Chrome And VS Code Extensions Powered By AI.
-- [Ghostwriter](http://replit.com) Replit The Collaborative Browser Based Ide. Run Code Live In Your Browser. Write And Run Code In 50+ Languages Online With Replit, A Powerful IDE, Compiler, & Interpreter.
-- [Github Copilot](http://github.com/features/copilot) Your Ai Pair Programmer. GitHub Copilot Uses The OpenAI Codex To Suggest Code And Entire Functions In Real-time, Right From Your Editor.
-- [Mutable.ai](http://mutable.ai) Mutableai. Ai Accelerated Software Development. Build Fast With Production Quality Using AI.
-- [Programminghelper](http://www.programming-helper.com) Home. Generate Code With AI Just By Typing A Text Description. AI Will Create The Code For You. A Tool That Helps You With A Wide Range Of Tasks. All In One Place.
-- [QueryGenie](http://sqlgenie-co.web.app) Write Db Queries Faster!. Generate Database Queries From Plain-english Description Using AI.
-- [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai) Tldr–Explain Code In Plain English. TLDR Is An IDE Plugin That Leverages AI To Explain Code In Plain English.
-- [Tabnine](http://www.tabnine.com) Ai Assistant For Software Developers - Tabnine. Whether You' Re Part Of A Team, Or A Developer Working On Your Own, Tabnine Will Help You Write Code Faster–all In Your Favorite IDE.
-- [Tensai](http://airtable.com/shrhYf24UkDMr2gPl) Tensai - Conversational Ui For Your Codebase.
-- [Whatthediff](http://whatthediff.ai) What-The-Diff–Ai-Powered Code Review Assistant. The AI Powered GitHub App That Explains The Changes Within Your Pull Requests In Plain English.
-- [Aidev.codes](https://aidev.codes/) Ai Dev Codes For You. Create Simple Apps And Demos Just By Entering Specifications—a New Type Of AI Prompt Engineering.
+- [AI Docstrings](https://trelent.com) - Write Docstrings Automatically. Trelent Uses AI To Write Helpful Docstrings For Your Functions Instantly.
+- [Adrenaline](https://useadrenaline.com/) - Stop Plugging Your Errors Into Stackoverflow. Adrenaline Is A Debugging Assistant Powered By The OpenAI Codex. It Can Fix And Explain Your Broken Code In Seconds.
+- [Ask Command](http://askcommand.com) - Ask Command—AI-Powered Developer Assistant. A Tiny App To Remind You About Those Commands You Always Forget. Powered By AI.
+- [Channel](http://www.usechannel.com) - Channel. Connect Your Database, Ask A Question, Get An Answer.
+- [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist) - Codeassist Is An AI Assistant / Chatbot / Copilot For Programming - Jetbrains Marketplace. It Generates, Changes, Completes The Code And Answers Questions.
+- [CodeGPT](http://www.codegpt.co/) - AI Inside Your Ide. Improve Your Code With Code GPT AI.
+- [CodeWP](<https://codewp.ai/>? Cwpref = 9) - Codewp - AI Wordpress Code Generator & Assistant. CodeWP Is A WordPress Code Generator That Uses AI And Specialized Models For WordPress, Woo And Others To Help You Build Better & Quicker.
+- [Codeball](http://codeball.ai) - Codeball Â AI Powered Code Review. Codeball Finds Bugs In Your Pull Requests, Lets You Ship Faster And With Higher Confidence.
+- [Codecleaningbot](http://www.codecleaningbot.com) - Code Cleaning Bot. Code Cleaning AI Bot Fixes Common Code Quality And Security Issues. Like Deleting Unused And Unreachable Code, Fix SQL Injection, Etc.
+- [Codeium](http://www.codeium.com) - Codeium - The Modern Coding Superpower. Fast AI-based Code Acceleration And Free Alternative To Github Copilot.
+- [Datamaker](http://www.datamaker.dev) - AI Powered Webflow Code & Copy Tools For Designers. If You Are A Webflow Designer Or Webflow Developer Then You Need To See These Tools. Use AI To Create Code And Copy To Solve Your Webflow Problems.
+- [Decile](http://decile.app) - Get The Data You Need By Asking. Build A Data-led Organisation With The Power Of AI.
+- [Explain An Error](http://explain.whybug.com) - Explain By Whybug. Let AI Explain To You Why Your Code Is Buggy And How To Fix It.
+- [ExplainDev](http://explain.dev) - Explaindev - Code Explainer That Answers Your Questions In Context. ExplainDev Helps You To Be More Confident And Independent With Others' Code. Get Code Explanations And Direct Answers To Your Questions Via Chrome And VS Code Extensions Powered By AI.
+- [Ghostwriter](http://replit.com) - Replit The Collaborative Browser Based Ide. Run Code Live In Your Browser. Write And Run Code In 50+ Languages Online With Replit, A Powerful IDE, Compiler, & Interpreter.
+- [Github Copilot](http://github.com/features/copilot) - Your AI Pair Programmer. GitHub Copilot Uses The OpenAI Codex To Suggest Code And Entire Functions In Real-time, Right From Your Editor.
+- [Mutable.ai](http://mutable.ai) - Mutableai. AI Accelerated Software Development. Build Fast With Production Quality Using AI.
+- [Programminghelper](http://www.programming-helper.com) - Home. Generate Code With AI Just By Typing A Text Description. AI Will Create The Code For You. A Tool That Helps You With A Wide Range Of Tasks. All In One Place.
+- [QueryGenie](http://sqlgenie-co.web.app) - Write Db Queries Faster!. Generate Database Queries From Plain-english Description Using AI.
+- [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai) - Tldr–Explain Code In Plain English. TLDR Is An IDE Plugin That Leverages AI To Explain Code In Plain English.
+- [Tabnine](http://www.tabnine.com) - AI Assistant For Software Developers - Tabnine. Whether You' Re Part Of A Team, Or A Developer Working On Your Own, Tabnine Will Help You Write Code Faster–all In Your Favorite IDE.
+- [Tensai](http://airtable.com/shrhYf24UkDMr2gPl) - Tensai - Conversational Ui For Your Codebase.
+- [Whatthediff](http://whatthediff.ai) - What-The-Diff–AI-Powered Code Review Assistant. The AI Powered GitHub App That Explains The Changes Within Your Pull Requests In Plain English.
+- [AIdev.codes](https://aidev.codes/) - AI Dev Codes For You. Create Simple Apps And Demos Just By Entering Specifications—a New Type Of AI Prompt Engineering.
 
 ---
 
@@ -1631,12 +1631,12 @@
 
 - AIAIART - Really Nice Ongoing [Youtube Series](https://www.youtube.com/playlist?list=PL23FjyM69j910zCdDFVWcjSIKHbSB7NE8) And Discussion In Its [Discord](https://discord.com/invite/aq3kv4Mtcd)
 - [Deep Learning For Art, Aesthetics, And Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH) - MIT Course Available On Youtube
-- [Dive Into Deep Learning](https://d2l.ai/index.html) (Online, Free, Interactive)
-- [Generative Deep Learning](https://amzn.to/3FNr3ap): Teaching Machines To Paint, Write, Compose, And Play By David Foster [2019]
+- [Dive Into Deep Learning](https://d2l.ai/index.html) - (Online, Free, Interactive)
+- [Generative Deep Learning](https://amzn.to/3FNr3ap) - Teaching Machines To Paint, Write, Compose, And Play By David Foster [2019]
 - [Ml4a.net](https://ml4a.net/) - Online Textbook, Classes, And Learning Resources\\\
 	Not Very Technical But Engaging And Inspiring View Of Many Ai Art Projects So Far.\\\
 	Really Enjoyed This And It's A Great Book! It's From 2019 So Doesn't Cover The Very Latest Like VQGAN, CLIP, Guided Diffusion Though.
-- [The Artist In The Machine](https://amzn.to/32I0kOm): The World Of AI-powered Creativity By Arthur I. Miller [2020]
+- [The Artist In The Machine](https://amzn.to/32I0kOm) - The World Of AI-powered Creativity By Arthur I. Miller [2020]
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) - Really Nice Overview Of Stable Diffusion And The Pieces That Make It Up
 
 ---
@@ -1693,16 +1693,16 @@
 
 ## Education and Learning
 
-- [Botta](https://askbotta.com/) Having Trouble With A Topic? Meet Botta. Your Free, Personal Teaching Assistant. Ask Questions, Get Answers. Botta Makes Online Learning A Breeze.
+- [Botta](https://askbotta.com/) - Having Trouble With A Topic? Meet Botta. Your Free, Personal Teaching Assistant. Ask Questions, Get Answers. Botta Makes Online Learning A Breeze.
 - [Caktus](https://www.caktus.ai/)
 - [ELI5](https://explainlikeimfive.io/)
 - [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream)
-- [Lorro](https://lorro.io/) Become A Fluent English Speaker For A Fraction Of A Cost. By Talking To An Ai Tutor.
+- [Lorro](https://lorro.io/) - Become A Fluent English Speaker For A Fraction Of A Cost. By Talking To An AI Tutor.
 - [MindSmith](https://www.mindsmith.ai/)
 - [Quizgecko](https://quizgecko.com/)
-- [Replicate](http://replicate.com) Machine Learning Doesn&Apos; T Need To Be So Hard. Run Open-source Models With A Cloud API.
+- [Replicate](http://replicate.com) - Machine Learning Doesn&Apos; T Need To Be So Hard. Run Open-source Models With A Cloud API.
 - [Scholarcy](https://www.scholarcy.com/)
-- [Speakingclubai](http://speakingclubai.com) Speaking Club Ai. Welcome To Speaking Club AI - The Ultimate Language Learning Tool For Anyone Looking To Improve Their Speaking Skills In A Foreign Language. With Speaking Club AI, You Can Practice Your Conversation Skills With A Personalized AI Language Partner Anytime, Anywhere.
+- [Speakingclubai](http://speakingclubai.com) - Speaking Club AI. Welcome To Speaking Club AI - The Ultimate Language Learning Tool For Anyone Looking To Improve Their Speaking Skills In A Foreign Language. With Speaking Club AI, You Can Practice Your Conversation Skills With A Personalized AI Language Partner Anytime, Anywhere.
 - [TutorAI](https://www.tutorai.me/)
 - [Yip](https://yippity.io/)
 
@@ -1801,31 +1801,29 @@
 ## Gaming
 
 - [AI Careers](https://aicareers.io/)
-- [AI Dungeon](http://play.aidungeon.io) Play And Create Ai-Generated Adventures With Infinite Possibilities
-- [AIDungeon](https://play.aidungeon.io/)
+- [AI Dungeon](http://play.aidungeon.io) - Play And Create AI-Generated Adventures With Infinite Possibilities
 - [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/)
-- [Assetsai](http://www.assetsai.art) Ai-Powered, Unique & Curated Assets For Your Games
+- [Assetsai](http://www.assetsai.art) - AI-Powered, Unique & Curated Assets For Your Games
 - [Chai](https://chai.ml/)
-- [Charisma](https://charisma.ai/) Power Real-Time Digital Humans. For Games • Metaverses • VR • Education • TV & Film • Publishing And Beyond!.
-- [Chess AI](http://betafish.gavinong.com) Betafish. Js - Chess Ai
+- [Charisma](https://charisma.ai/) - Power Real-Time Digital Humans. For Games • Metaverses • VR • Education • TV & Film • Publishing And Beyond!.
+- [Chess AI](http://betafish.gavinong.com) - Betafish. Js - Chess AI
 - [EndlessVN](https://endlessvn.io/)
 - [GGPredict](https://ggpredict.io/)
 - [Hexagram](https://www.hexagram.io/)
-- [Hidden Door](https://www.hiddendoor.co/) Hello, Worlds!. A New Kind Of Social Roleplaying Experience, Powered By Narrative AI.
+- [Hidden Door](https://www.hiddendoor.co/) - Hello, Worlds!. A New Kind Of Social Roleplaying Experience, Powered By Narrative AI.
 - [In3D](https://in3d.io/)
 - [Inworld](https://www.inworld.ai/)
-- [IRMO](http://www.irmoai.com) Made For Creation. The Very Best In Ai Apps. Your Source For Mobile Entertainment & AI Art Creation.
-- [Latitude](https://latitude.io/) The Future Of Ai-Generated Games. We' Re Making AI A Tool Of Creativity And Freedom For Everyone.
-- [Leonardo.Ai](https://leonardo.ai/)
+- [IRMO](http://www.irmoai.com) - Made For Creation. The Very Best In AI Apps. Your Source For Mobile Entertainment & AI Art Creation.
+- [Latitude](https://latitude.io/) - The Future Of AI-Generated Games. We' Re Making AI A Tool Of Creativity And Freedom For Everyone.
+- [Leonardo.AI](https://leonardo.ai/)
 - [LitRPG Adventures](https://www.litrpgadventures.com/)
 - [Luma AI](https://lumalabs.ai/)
 - [Opus](https://opus.ai/)
 - [PICLY: AI Generated Spot The Difference](https://www.picly.ai/)
-- [Plailabs](https://plailabs.com/) Play With Ai. (Verb)–To Engage In Artificial Intelligence For The Purpose Of Enjoyment And Recreation With The Goal Of Growing An Ever-expanding Universe Of Gaming, Entertainment, Storytelling, And Technology.
+- [Plailabs](https://plailabs.com/) - Play With AI. (Verb)–To Engage In Artificial Intelligence For The Purpose Of Enjoyment And Recreation With The Goal Of Growing An Ever-expanding Universe Of Gaming, Entertainment, Storytelling, And Technology.
 - [Playstrict](https://playstrict.com/)
 - [Ready Player Me](https://readyplayer.me/)
-- [Scenario](https://www.scenario.gg/)
-- [Scenario](http://www.scenario.gg) Scenario. Unlock The Power Of AI-generated Gaming Assets With Scenario. Generate Engaging Content Quickly And Easily To Save Time And Spark Creativity.
+- [Scenario](http://www.scenario.gg) - Scenario. Unlock The Power Of AI-generated Gaming Assets With Scenario. Generate Engaging Content Quickly And Easily To Save Time And Spark Creativity.
 - [The Simulation](https://fablesimulation.com/)
 - [TutorAI](https://www.tutorai.me/)
 
@@ -1842,9 +1840,9 @@
 ## Health
 
 - [Cradle](https://cradle.bio/)
-- [Getactyv](http://getactyv.com) Getactyv - Ai And Computer Vision Assisted Health And Fitness Platform
-- [Replika](http://replika.com) The Ai Companion Who Cares. Always Here To Listen And Talk. Always On Your Side. Join The Millions Growing With Their AI Friends Now!.
-- [Ubie AI Symptom Checker](http://ubiehealth.com) Check Symptoms & Find Causes By Ai. Check Symptoms & Find Causes By AI - Answer Quiz About Your Symptoms To Find Out Possible Causes, Types, Severity, And Treatment For Free By AI. Developed By Doctors.
+- [Getactyv](http://getactyv.com) - Getactyv - AI And Computer Vision Assisted Health And Fitness Platform
+- [Replika](http://replika.com) - The AI Companion Who Cares. Always Here To Listen And Talk. Always On Your Side. Join The Millions Growing With Their AI Friends Now!.
+- [Ubie AI Symptom Checker](http://ubiehealth.com) - Check Symptoms & Find Causes By AI. Check Symptoms & Find Causes By AI - Answer Quiz About Your Symptoms To Find Out Possible Causes, Types, Severity, And Treatment For Free By AI. Developed By Doctors.
 - [Whisper AI](https://whisper.ai/)
 
 ---
@@ -1897,31 +1895,26 @@
 
 - [Botika](https://botika.io/)
 - [Cala](https://ca.la/)
-- [FashionAdvisorAI](https://www.fashionadvisorai.com/)
-- [FashionAdvisorAI](http://www.fashionadvisorai.com) Fashionadvisor. Ai - Ask Questions & Get Answer'S From Fashionadvisor. Ai. FashionAdvisor Is An AI Based On GPT3 Which Will Answer All Your Fashion Related Questions Instantly For Free.
-- [VisualHound](https://visualhound.com/)
-- [Visualhound](http://visualhound.com) Visualhound - Prototype Your Fashion Design Ideas With Ai. Visualize Your Product Designs Before Going To Production. Create Realistic-looking Product Images To Feed Your Moodboards And Boost Your Design Process.
+- [FashionAdvisorAI](http://www.fashionadvisorai.com) - Fashionadvisor. AI - Ask Questions & Get Answer'S From Fashionadvisor. AI. FashionAdvisor Is An AI Based On GPT3 Which Will Answer All Your Fashion Related Questions Instantly For Free.
+- [Visualhound](http://visualhound.com) - Visualhound - Prototype Your Fashion Design Ideas With AI. Visualize Your Product Designs Before Going To Production. Create Realistic-looking Product Images To Feed Your Moodboards And Boost Your Design Process.
 
 ---
 
 ## Gift Ideas
 
-- [AIchristmascards](http://aichristmascards.com) Holiday Cards, Reimagined. Personalized AI Art Greetings Cards.
-- [AI Holiday Cards](http://aiholiday.cards) Ai Holiday Cards. AI Engine To Create AI Holiday Photorealistic Cards For Couples.
-- [Cool Gift Ideas](https://www.coolgiftideas.io/)
-- [CoolGiftIdeas](http://www.coolgiftideas.io) Cool Gift Ideas - Ai-Powered Gift Suggestions
-- [Elf Help](https://www.elfhelp.ai/)
-- [Elf Help](http://www.elfhelp.ai) Elf Help. Need Some Inspo For Your Holiday Gifting? Elf Help Is Your Ultimate Gift-giving Assistant, Offering Creative And Personalized Suggestions For Everyone On Your List.
-- [Fabled](http://fabled.ai) The Ultimate Ai Story Generator. Stories Created By You, Powered By AI. With A Single Sentence Fabled.ai Crafts Personal Illustrated Stories, Enriched By Stunning Images.
-- [Giftastic AI](http://giftastic.ai) Giftastic. Ai - Perfect Gift For Your Special One!. Personalised Gift Ideas For Every Occasion!.
-- [Giftastic.ai](https://giftastic.ai/)
-- [GiftBot](http://www.getgift.help) Get Gift Help. Struggling To Figure Out What To Get Someone For The Holidays? GiftBot Asks You Questions To Help Recommend Gift Ideas!.
-- [Gift Genie](http://www.giftgenie.ai) Gift Genie Ai - Free Personalized Gift Ideas For Christmas, Birthdays, Holidays, Etc!. Gift Genie AI Is An AI-powered That Allows You To Find The Perfect Gift In Seconds With AI For Free. Jot Down A Brief Description Of Your Recipient, And Get A List Of Gifts Our AI Genie Believes Will Delight Them.
+- [AIchristmascards](http://aichristmascards.com) - Holiday Cards, Reimagined. Personalized AI Art Greetings Cards.
+- [AI Holiday Cards](http://aiholiday.cards) - AI Holiday Cards. AI Engine To Create AI Holiday Photorealistic Cards For Couples.
+- [CoolGiftIdeas](http://www.coolgiftideas.io) - Cool Gift Ideas - AI-Powered Gift Suggestions
+- [Elf Help](http://www.elfhelp.ai) - Elf Help. Need Some Inspo For Your Holiday Gifting? Elf Help Is Your Ultimate Gift-giving Assistant, Offering Creative And Personalized Suggestions For Everyone On Your List.
+- [Fabled](http://fabled.ai) - The Ultimate AI Story Generator. Stories Created By You, Powered By AI. With A Single Sentence Fabled.ai Crafts Personal Illustrated Stories, Enriched By Stunning Images.
+- [Giftastic AI](http://giftastic.ai) - Giftastic. AI - Perfect Gift For Your Special One!. Personalised Gift Ideas For Every Occasion!.
+- [GiftBot](http://www.getgift.help) - Get Gift Help. Struggling To Figure Out What To Get Someone For The Holidays? GiftBot Asks You Questions To Help Recommend Gift Ideas!.
+- [Gift Genie](http://www.giftgenie.ai) - Gift Genie AI - Free Personalized Gift Ideas For Christmas, Birthdays, Holidays, Etc!. Gift Genie AI Is An AI-powered That Allows You To Find The Perfect Gift In Seconds With AI For Free. Jot Down A Brief Description Of Your Recipient, And Get A List Of Gifts Our AI Genie Believes Will Delight Them.
 - [Gifts Genie](https://gen.gifts/)
-- [Lovelines](%3Chttp://lovelines.xyz%3E? Ref = Ai-collection) Lovelines. Xyz - Share Your Love With Custom Keepsakes Made By Ai. Create Custom Keepsakes For A Loved One Using AI That Are Optimized For Social Media. AI-generated Poems, Stories, Letters, And Song Lyrics.
+- [Lovelines](http://lovelines.xyz) - Share Your Love With Custom Keepsakes Made By AI. Create Custom Keepsakes For A Loved One Using AI That Are Optimized For Social Media. AI-generated Poems, Stories, Letters, And Song Lyrics.
 - [Santa AI](https://www.santa.artflow.ai/)
 - [Suggest Gift](https://suggest.gift/)
-- [Text2present](http://text2present.com) Text2Present. Com - Creative Presents From Busy People. Allows You To Create Creative Customized Presents Using Artificial Intelligence For Your Friends, Family And Acquaintances Without Taking Your Precious Time. Simply Enter A Text Description Of What You Want To Gift And Let Our Artificial Intelligence Do The Rest.
+- [Text2present](http://text2present.com) - Text2Present. Com - Creative Presents From Busy People. Allows You To Create Creative Customized Presents Using Artificial Intelligence For Your Friends, Family And Acquaintances Without Taking Your Precious Time. Simply Enter A Text Description Of What You Want To Gift And Let Our Artificial Intelligence Do The Rest.
 
 ---
 
@@ -1931,372 +1924,372 @@
 - [Analyzelaw](https://www.analyzelaw.com/)
 - [Casetext](https://casetext.com/)
 - [Detangle.ai](https://detangle.ai/)
-- [DoNotPay](https://donotpay.com/) The World'S First Robot Lawyer. Use AI To Make Legal Information Accessible To Everyone.
+- [DoNotPay](https://donotpay.com/) - The World'S First Robot Lawyer. Use AI To Make Legal Information Accessible To Everyone.
 - [Ferret](https://www.ferret.ai/)
 - [Harvey](https://harvey.ai/)
 - [Legal Robot](https://legalrobot.com/)
-- [PatentPal](http://patentpal.com) Generative Ai For Intellectual Property. Automate Mechanical Writing In Your Patent Applications.
-- [Spellbook](https://www.spellbook.legal/) Draft Contracts 3X Faster With Ai. Spellbook Uses GPT-3 To Review And Suggest Language For Your Contracts, Right In Microsoft Word.
+- [PatentPal](http://patentpal.com) - Generative Ai For Intellectual Property. Automate Mechanical Writing In Your Patent Applications.
+- [Spellbook](https://www.spellbook.legal/) - Draft Contracts 3X Faster With Ai. Spellbook Uses GPT-3 To Review And Suggest Language For Your Contracts, Right In Microsoft Word.
 
 ---
 
 ## Misc
 
-- [1Case](http://1case.io) Custom Phone Cases Made By Ai. Find Your 1 Of A Kind Case In Seconds.
-- [AI Car Diagnosis](http://cardiagnosis.softr.app) Car Diagnosis Ai. Get Real-time Diagnostics And Insights Into Your Car' S Performance With Our Cutting-edge Tool.
-- [AI Content Generator](http://yep.so) Yep. So - From Idea To Signups In 15 Minutes
-- [AI Data Sidekick](http://www.airops.com) Airops - Data Unlocked. 10X Faster With Ai
-- [AI Image Upscaler](http://www.upscale.media) Ai Image Upscaler - Enlarge & Enhance Your Photos For Free. Upscale Your Image To 2x Or 4x Without Losing Any Textures Or Details With Our AI Tool. Use Our Super-resolution Tool And Bring New Life To Your Images.
-- [AI Lyrics Generator](http://theselyricsdonotexist.com) Artificial Intelligence Songwriter–These Lyrics Do Not Exist. Generate Your Own Song Lyrics For Any Topic, Also Choose Lyrics Genre And Lyrics Mood.
-- [AI Paraphrasing Tool](http://contentbot.ai) Contentbot - Ai Writer - Ai Content For Founders And Content Marketers
-- [AI Pickup Lines Generator](http://www.aipickuplines.com) Ai Pickup Lines
+- [1Case](http://1case.io) - Custom Phone Cases Made By Ai. Find Your 1 Of A Kind Case In Seconds.
+- [AI Car Diagnosis](http://cardiagnosis.softr.app) - Car Diagnosis Ai. Get Real-time Diagnostics And Insights Into Your Car' S Performance With Our Cutting-edge Tool.
+- [AI Content Generator](http://yep.so) - Yep. So - From Idea To Signups In 15 Minutes
+- [AI Data Sidekick](http://www.airops.com) - Airops - Data Unlocked. 10X Faster With Ai
+- [AI Image Upscaler](http://www.upscale.media) - AI Image Upscaler - Enlarge & Enhance Your Photos For Free. Upscale Your Image To 2x Or 4x Without Losing Any Textures Or Details With Our AI Tool. Use Our Super-resolution Tool And Bring New Life To Your Images.
+- [AI Lyrics Generator](http://theselyricsdonotexist.com) - Artificial Intelligence Songwriter–These Lyrics Do Not Exist. Generate Your Own Song Lyrics For Any Topic, Also Choose Lyrics Genre And Lyrics Mood.
+- [AI Paraphrasing Tool](http://contentbot.ai) - Contentbot - AI Writer - AI Content For Founders And Content Marketers
+- [AI Pickup Lines Generator](http://www.aipickuplines.com) - AI Pickup Lines
 - [AI Project Description Generator](http://www.welovenocode.com)
-- [AI Prompt Generator](http://fictionio.gumroad.com) Fiction
-- [AI Query](http://www.aiquery.co) Ai Query - Generate Sql Queries With Ai In Seconds. Use Simple English And Let AI Do The Heavy Lifting For You. With AI Query Anyone Can Create Efficient SQL Queries, Without Even Knowing A Thing About It.
-- [AI Recipe Generator](http://ai-recipes.softr.app) Ai Recipe Generator
-- [AI Rental Cover Letter](http://sharehouse.app) 🏡 Sharehouse - Free Housemate Finder. Connect With Sharehouses, Housemates Or Flatmates. Freely List & Advertise Your Room, House, Or Flat.
-- [AI Resume Editor](http://www.rezi.ai) Rezi - The Leading Ai Resume Builder Trusted By 352, 894 Users
-- [AI SQL BOT](http://aihelperbot.com) Ai Sql Query Builder Easiest Way To Build Sql Queries Without Prior Sql Knowledge - Sql Query Builder Using Ai
-- [AI Social Bio](http://aisocialbio.com) Ai Social Bio
-- [AI Social Media Post Writerby Socialblu](http://socialbu.com) Socialbu - Social Media Management And Automation. SocialBu Is The Perfect Solution To Improve Your Social Media Presence And Maximize Your Results. Publish, Respond, Analyze, And Automate - All From Within SocialBu.
-- [AI Sports Prediction](http://sportsprediction.ai) Ai Sports Betting Predictions - Sports Prediction Ai
-- [AI TWO](http://aitwo.co/) Aitwo. Co - The Ai-Powered All-In-One Design Platform
-- [AI Trip Planner](http://www.buildai.space) Build Ai
-- [AI Writer By Picsart](http://tools.picsart.com) Edit Images, Videos & Documents For Free - Quicktools By Picsart. Creating Transparent Backgrounds For Your Images, Trimming Videos, And Converting File Types - Do It All With Quicktools.
-- [AI Movie Club](http://www.ai-movie.club) Ai-Movie Club. AI-MOVIE CLUB Is A Social Network That Create Movies With Artificial Intelligence!.
-- [AIArt](http://aiart.dev) Aiart. Dev
-- [ARTSIO](http://artsio.xyz) Artsio
-- [Adobe Mic Check](https://podcast.adobe.com/miccheck) Check Your Mic For Free. Get Advice On How To Improve Your Microphone Setup. We' Ll Make Sure You Sound Podcast-ready.
-- [Adobe Podcast](http://www.magictools.online) 276 Ai Tools
-- [Aiappideas](http://www.aiappideas.com) Ai App Ideas.
-- [Aida](http://www.bookmark.com) Spend Time Running Your Business, Not Your Website. Let Our Ai Powered Website Builder Get Your Business Online In Minutes.
-- [Aiva](http://aiva.ai) Aiva - The Ai Composing Emotional Soundtrack Music
-- [Albus](https://www.springworks.in/albus/) Albus - Chatgpt Now On Slack. Albus Uses Natural Language Processing Technology To Help You Find Answers To All Your Questions Without Leaving Slack. Have The Power Of ChatGPT Now Right Inside Your Workspace!.
-- [Alfred](http://www.alfredsearch.com) Alfred - Gpt Chat On Mobile
-- [Amadeus Code](http://amadeuscode.com) 株式会社Amadeus Code - 公式企業サイト. 企業情報、採用情報、投資家情報、ニュースなど、Amadeus Codeの企業情報全般を提供する公式企業サイトです。.
-- [Amper AI](http://www.ampermusic.com) Ai Music Composition Tools For Content Creators. Amper Is An AI Music Composition Company That Develops Tools For Content Creators Of All Kinds. Learn About Our New Enterprise Platform, Score, As Well As Our Creator API.
-- [Andisearch](http://andisearch.com) Andi - Search For The Next Generation
-- [Ansy](http://ansy.ai) Ansy. Ai - Gpt-3 For Your Discord Server. GPT-3 Powered Discord Bot That Answers Questions From Your Discord Community Members Based On Chat History.
-- [Artflow](http://artflow.ai) Artflow
-- [Artistator](http://artistator.com) Generate Artist Names Of Your Favourite Music Genres.
-- [Artroom](http://artroom.ai) Artroom Ai
-- [Ask Poppy](http://www.poppylist.com) Poppylist - Be The Parent You Want To Be. You Know Your Lifestyle. We Know The Products. Let's Build Your Baby Registry Together.
-- [Aspen](http://www.getaspenai.com) Aspen
-- [Athena](http://www.apac.ai) Apac Ai Account Portal
-- [Atlas Navi](http://www.atlasnavi.com) Atlasnavi. Com
-- [Auto Draw](http://www.autodraw.com) Autodraw. Fast Drawing For Everyone. AutoDraw Pairs Machine Learning With Drawings From Talented Artists To Help You Draw Stuff Fast.
-- [AutoPredict](http://autopredict.co.uk) Autopredict - Predict How Long Your Car Will Last. AutoPredict Uses State Of The Art AI To Predict How Long A UK Car Is Likely To Last.
-- [Avtrs](http://www.avtrs.ai) Avtrs. Ai
-- [BRIA](http://commercial.bria.ai/) Create Images And Video At Scale - Bria
-- [B^ DISCOVER](http://bdiscover.kakaobrain.com) B^ Discover - Home. You Will Have A New Experience Of Discovering Your Story In Images.
-- [BaruaAI](http://baruaai.com) Brian Gacheru
-- [Baseten](http://app.baseten.co) Baseten - Mlops Platform For Startups. Baseten Is A Serverless Backend For Building ML-powered Applications. Build Apps With Auto-scaling, GPU Access, CRON Jobs, And Serverless Functions.
-- [Beb AI](http://beb.ai) Beb. Ai. The Possibilities Are Limitless, Beb.
+- [AI Prompt Generator](http://fictionio.gumroad.com) - Fiction
+- [AI Query](http://www.aiquery.co) - AI Query - Generate Sql Queries With AI In Seconds. Use Simple English And Let AI Do The Heavy Lifting For You. With AI Query Anyone Can Create Efficient SQL Queries, Without Even Knowing A Thing About It.
+- [AI Recipe Generator](http://ai-recipes.softr.app) - AI Recipe Generator
+- [AI Rental Cover Letter](http://sharehouse.app) - 🏡 Sharehouse - Free Housemate Finder. Connect With Sharehouses, Housemates Or Flatmates. Freely List & Advertise Your Room, House, Or Flat.
+- [AI Resume Editor](http://www.rezi.ai) - Rezi - The Leading AI Resume Builder Trusted By 352, 894 Users
+- [AI SQL BOT](http://aihelperbot.com) - AI Sql Query Builder Easiest Way To Build Sql Queries Without Prior Sql Knowledge - Sql Query Builder Using Ai
+- [AI Social Bio](http://aisocialbio.com) - AI Social Bio
+- [AI Social Media Post Writerby Socialblu](http://socialbu.com) - Socialbu - Social Media Management And Automation. SocialBu Is The Perfect Solution To Improve Your Social Media Presence And Maximize Your Results. Publish, Respond, Analyze, And Automate - All From Within SocialBu.
+- [AI Sports Prediction](http://sportsprediction.ai) - AI Sports Betting Predictions - Sports Prediction Ai
+- [AI TWO](http://aitwo.co/) - Aitwo. Co - The Ai-Powered All-In-One Design Platform
+- [AI Trip Planner](http://www.buildai.space) - Build Ai
+- [AI Writer By Picsart](http://tools.picsart.com) - Edit Images, Videos & Documents For Free - Quicktools By Picsart. Creating Transparent Backgrounds For Your Images, Trimming Videos, And Converting File Types - Do It All With Quicktools.
+- [AI Movie Club](http://www.ai-movie.club) - Ai-Movie Club. AI-MOVIE CLUB Is A Social Network That Create Movies With Artificial Intelligence!.
+- [AIArt](http://aiart.dev) - Aiart. Dev
+- [ARTSIO](http://artsio.xyz) - Artsio
+- [Adobe Mic Check](https://podcast.adobe.com/miccheck) - Check Your Mic For Free. Get Advice On How To Improve Your Microphone Setup. We' Ll Make Sure You Sound Podcast-ready.
+- [Adobe Podcast](http://www.magictools.online) - 276 AI Tools
+- [Aiappideas](http://www.aiappideas.com) - AI App Ideas.
+- [Aida](http://www.bookmark.com) - Spend Time Running Your Business, Not Your Website. Let Our AI Powered Website Builder Get Your Business Online In Minutes.
+- [Aiva](http://aiva.ai) - Aiva - The AI Composing Emotional Soundtrack Music
+- [Albus](https://www.springworks.in/albus/) - Albus - Chatgpt Now On Slack. Albus Uses Natural Language Processing Technology To Help You Find Answers To All Your Questions Without Leaving Slack. Have The Power Of ChatGPT Now Right Inside Your Workspace!.
+- [Alfred](http://www.alfredsearch.com) - Alfred - Gpt Chat On Mobile
+- [Amadeus Code](http://amadeuscode.com) - 株式会社Amadeus Code - 公式企業サイト. 企業情報、採用情報、投資家情報、ニュースなど、Amadeus Codeの企業情報全般を提供する公式企業サイトです。.
+- [Amper AI](http://www.ampermusic.com) - AI Music Composition Tools For Content Creators. Amper Is An AI Music Composition Company That Develops Tools For Content Creators Of All Kinds. Learn About Our New Enterprise Platform, Score, As Well As Our Creator API.
+- [Andisearch](http://andisearch.com) - Andi - Search For The Next Generation
+- [Ansy](http://ansy.ai) - Ansy. AI - Gpt-3 For Your Discord Server. GPT-3 Powered Discord Bot That Answers Questions From Your Discord Community Members Based On Chat History.
+- [Artflow](http://artflow.ai) - Artflow
+- [Artistator](http://artistator.com) - Generate Artist Names Of Your Favourite Music Genres.
+- [Artroom](http://artroom.ai) - Artroom Ai
+- [Ask Poppy](http://www.poppylist.com) - Poppylist - Be The Parent You Want To Be. You Know Your Lifestyle. We Know The Products. Let's Build Your Baby Registry Together.
+- [Aspen](http://www.getaspenai.com) - Aspen
+- [Athena](http://www.apac.ai) - Apac AI Account Portal
+- [Atlas Navi](http://www.atlasnavi.com) - Atlasnavi. Com
+- [Auto Draw](http://www.autodraw.com) - Autodraw. Fast Drawing For Everyone. AutoDraw Pairs Machine Learning With Drawings From Talented Artists To Help You Draw Stuff Fast.
+- [AutoPredict](http://autopredict.co.uk) - Autopredict - Predict How Long Your Car Will Last. AutoPredict Uses State Of The Art AI To Predict How Long A UK Car Is Likely To Last.
+- [Avtrs](http://www.avtrs.ai) - Avtrs. Ai
+- [BRIA](http://commercial.bria.ai/) - Create Images And Video At Scale - Bria
+- [B^ DISCOVER](http://bdiscover.kakaobrain.com) - B^ Discover - Home. You Will Have A New Experience Of Discovering Your Story In Images.
+- [BaruaAI](http://baruaai.com) - Brian Gacheru
+- [Baseten](http://app.baseten.co) - Baseten - Mlops Platform For Startups. Baseten Is A Serverless Backend For Building ML-powered Applications. Build Apps With Auto-scaling, GPU Access, CRON Jobs, And Serverless Functions.
+- [Beb AI](http://beb.ai) - Beb. Ai. The Possibilities Are Limitless, Beb.
 - [BedtimeStory](http://www.bedtimestory.ai)
 - [Bertha.ai](http://bertha.ai)
-- [BetterWriter](http://betterwriter.ai) Write Faster With A. I. Betterwriter. Ai
-- [BigJpg](http://bigjpg.com) Bigjpg - Ai Super-Resolution Lossless Image Enlarging / Upscaling Tool Using Deep Convolutional Neural Networks. Bigjpg - Image Super-Resolution For Anime-style Artworks Using The Deep Convolutional Neural Networks Without Quality Loss. Photos Are Also Supported.
-- [Bito AI](http://bito.co) Bito
-- [Blackink](http://blackink.ai) Create Your Own Unique Flash Tattoo In Seconds. Stop Spending Months Searching Pinterest For Your Next Tattoo. Generate Custom, Unique Tattoos In Seconds With BlackInk's AI, Designed To Create Tattoo-like Designs Just For You.
-- [Blimey](http://blimeycreate.com) Blimey. Blimey Is An Ai Image Generator Where You Can Go From Idea To Reality In A Minute. With Full Control Over Composition, Colors And Style.
-- [Bloomoon](http://www.bloomoon.art) Bloomoon. Discover Unique AI-generated Paintings At Bloomoon.
+- [BetterWriter](http://betterwriter.ai) - Write Faster With A. I. Betterwriter. Ai
+- [BigJpg](http://bigjpg.com) - Bigjpg - AI Super-Resolution Lossless Image Enlarging / Upscaling Tool Using Deep Convolutional Neural Networks. Bigjpg - Image Super-Resolution For Anime-style Artworks Using The Deep Convolutional Neural Networks Without Quality Loss. Photos Are Also Supported.
+- [Bito AI](http://bito.co) - Bito
+- [Blackink](http://blackink.ai) - Create Your Own Unique Flash Tattoo In Seconds. Stop Spending Months Searching Pinterest For Your Next Tattoo. Generate Custom, Unique Tattoos In Seconds With BlackInk's AI, Designed To Create Tattoo-like Designs Just For You.
+- [Blimey](http://blimeycreate.com) - Blimey. Blimey Is An AI Image Generator Where You Can Go From Idea To Reality In A Minute. With Full Control Over Composition, Colors And Style.
+- [Bloomoon](http://www.bloomoon.art) - Bloomoon. Discover Unique AI-generated Paintings At Bloomoon.
 - [Boo AI](http://boo.ai)
-- [Boomy](http://boomy.com) Boomy - Make Instant Music With Artificial Intelligence
-- [Botowski](http://www.botowski.com) Your Personal Ai Copywriter - Botowski
-- [BrameWork](http://www.bramework.com) Bramework - Ai Writer That Helps You Write Blogs 5X Faster. Bramework Is An Easy-to-use AI Writer That Helps Bloggers, Freelancers, And Agencies Save Hours Per Blog Post.
-- [Briefly](http://www.trybriefly.com) Briefly - The Ai Powered Briefing Platform. Marketing Briefs That Get To The Best Creative Work. Improve Your Marketing Effectiveness And Reduce The Cost Of Badly Written Briefs.
-- [Business Idea Generator](http://www.bizideas.ai) Brainstorm Business Ideas
+- [Boomy](http://boomy.com) - Boomy - Make Instant Music With Artificial Intelligence
+- [Botowski](http://www.botowski.com) - Your Personal AI Copywriter - Botowski
+- [BrameWork](http://www.bramework.com) - Bramework - AI Writer That Helps You Write Blogs 5X Faster. Bramework Is An Easy-to-use AI Writer That Helps Bloggers, Freelancers, And Agencies Save Hours Per Blog Post.
+- [Briefly](http://www.trybriefly.com) - Briefly - The AI Powered Briefing Platform. Marketing Briefs That Get To The Best Creative Work. Improve Your Marketing Effectiveness And Reduce The Cost Of Badly Written Briefs.
+- [Business Idea Generator](http://www.bizideas.ai) - Brainstorm Business Ideas
 - [CF Spark](http://www.creativefabrica.com)
-- [CFRexplorer](http://cfrexplorer.com) Cfr Explorer - Ask Ai Questions About Cfrs
-- [Caktus](http://www.caktus.ai) Caktus Ai
-- [Chapterme](http://chapterme.co) Chapterme - Ai Powered Chapters For Your Videos
-- [CheapNFT. Art](http://cheapnft.art) Cheap Nfts
-- [Code Language Converter](http://codelanguageconverter.com) Code Language Converter - Convert Code To Other Languages Using Ai
-- [Cogram](http://www.cogram.com) Cogram - Effortless Meeting Notes And Action Items. Cogram Uses Artificial Intelligence To Create High-quality Meeting Minutes And Propose Action Items.
-- [Colossyan](http://www.colossyan.com) Colossyan Creator. Colossyan Creator Makes Video Creation Simple And Stress-free. Discover Our AI Video Creator With Real Actors. Create Videos In Less Than 5 Minutes.
-- [Compose AI](http://www.compose.ai) Compose Ai Automate Your Writing.
-- [Coolaiid](http://coolaiid.com) Coolaiid. Whether You're Looking To Decorate Or Just Need A Little Inspiration, We'll Generate Unique Ideas Using AI.
-- [CopyScouts](http://copyscouts.com) Copyscouts - Sustainable Ai-Assisted Copywriting Tool. Use Unlimited GPT-3 Based AI Writing For A Fixed Monthly Price.
+- [CFRexplorer](http://cfrexplorer.com) - Cfr Explorer - Ask AI Questions About Cfrs
+- [Caktus](http://www.caktus.ai) - Caktus Ai
+- [Chapterme](http://chapterme.co) - Chapterme - AI Powered Chapters For Your Videos
+- [CheapNFT. Art](http://cheapnft.art) - Cheap Nfts
+- [Code Language Converter](http://codelanguageconverter.com) - Code Language Converter - Convert Code To Other Languages Using Ai
+- [Cogram](http://www.cogram.com) - Cogram - Effortless Meeting Notes And Action Items. Cogram Uses Artificial Intelligence To Create High-quality Meeting Minutes And Propose Action Items.
+- [Colossyan](http://www.colossyan.com) - Colossyan Creator. Colossyan Creator Makes Video Creation Simple And Stress-free. Discover Our AI Video Creator With Real Actors. Create Videos In Less Than 5 Minutes.
+- [Compose AI](http://www.compose.ai) - Compose AI Automate Your Writing.
+- [Coolaiid](http://coolaiid.com) - Coolaiid. Whether You're Looking To Decorate Or Just Need A Little Inspiration, We'll Generate Unique Ideas Using AI.
+- [CopyScouts](http://copyscouts.com) - Copyscouts - Sustainable Ai-Assisted Copywriting Tool. Use Unlimited GPT-3 Based AI Writing For A Fixed Monthly Price.
 - [Copymatic](http://copymatic.ai)
-- [Coqui](http://coqui.ai) Coqui. Direct Emotive, Generative AI Voices For Video Games, Post-production, Dubbing And Much More….
-- [Coverquick](http://www.coverquick.co) Coverquick. Apply With Confidence.
-- [Cowriter](http://cowriter.org) Co Writer - Your Ai Buddy For Inspiring Marketing Content
-- [Craiyon](http://www.craiyon.com) Craiyon, Formerly Dall-E Mini. Craiyon Is An AI Model That Can Draw Images From Any Text Prompt!.
-- [Createaivoiceovers](http://createaivoiceovers.com) Text To Speech Online Voice Generator, Text To Speech Generator - Realistic Voices - Create Ai Voice Overs
+- [Coqui](http://coqui.ai) - Coqui. Direct Emotive, Generative AI Voices For Video Games, Post-production, Dubbing And Much More….
+- [Coverquick](http://www.coverquick.co) - Coverquick. Apply With Confidence.
+- [Cowriter](http://cowriter.org) - Co Writer - Your AI Buddy For Inspiring Marketing Content
+- [Craiyon](http://www.craiyon.com) - Craiyon, Formerly Dall-E Mini. Craiyon Is An AI Model That Can Draw Images From Any Text Prompt!.
+- [Createaivoiceovers](http://createaivoiceovers.com) - Text To Speech Online Voice Generator, Text To Speech Generator - Realistic Voices - Create AI Voice Overs
 - [DREAM.page](http://dream.page)
-- [Dadabots](http://dadabots.com) Neural Networks
-- [Daft Art](http://www.daftart.ai) Daft Art—Create The Album Cover You'Ve Always Dreamed Of. Daft Allows You To Create An Amazing, High Quality Artwork For Your Album Cover Within A Few Minutes, Powered By AI.
-- [Daydrm](http://www.daydrm.ai) Daydrm. Ai. The Future Of Advertising Is Using Machine Learning To Perform Creative Thinking.
-- [Debuild](http://debuild.app) Debuild - Build Web Apps Fast
-- [Designs AI](http://designs.ai) Create Logos, Videos, Banners, Voiceovers With Ai. Create Anything Online In 2 Minutes! Make A Logo, Video, Social Media Banner, Business Card, Flyer, Mockup And More With AI.
-- [DetangleAI](http://detangle.ai) Detangleai
-- [Dewey](http://www.withdewey.com) Dewey Your New Accountability Buddy
-- [Diffusion Bee](http://diffusionbee.com) Diffusionbee - Stable Diffusion App For Ai Art. DiffusionBee Is The Easiest Way To Generate AI Art On Your Computer With Stable Diffusion.
-- [DigiMarkAI](http://www.digimarkai.com) Digimarkai
-- [DrawAnyone](http://drawanyone.ai) Drawanyone - Draw Anyone, Any Way You Want
-- [Dreamily](http://dreamily.ai) Dreamily-Beta
-- [Dubverse.ai](http://dubverse.ai) Online Video Dubbing With Dubverse. Ai
-- [Dust](http://xp1.dust.tt) Dust - Xp1
+- [Dadabots](http://dadabots.com) - Neural Networks
+- [Daft Art](http://www.daftart.ai) - Daft Art—Create The Album Cover You'Ve Always Dreamed Of. Daft Allows You To Create An Amazing, High Quality Artwork For Your Album Cover Within A Few Minutes, Powered By AI.
+- [Daydrm](http://www.daydrm.ai) - Daydrm. Ai. The Future Of Advertising Is Using Machine Learning To Perform Creative Thinking.
+- [Debuild](http://debuild.app) - Debuild - Build Web Apps Fast
+- [Designs AI](http://designs.ai) - Create Logos, Videos, Banners, Voiceovers With Ai. Create Anything Online In 2 Minutes! Make A Logo, Video, Social Media Banner, Business Card, Flyer, Mockup And More With AI.
+- [DetangleAI](http://detangle.ai) - Detangleai
+- [Dewey](http://www.withdewey.com) - Dewey Your New Accountability Buddy
+- [Diffusion Bee](http://diffusionbee.com) - Diffusionbee - Stable Diffusion App For AI Art. DiffusionBee Is The Easiest Way To Generate AI Art On Your Computer With Stable Diffusion.
+- [DigiMarkAI](http://www.digimarkai.com) - Digimarkai
+- [DrawAnyone](http://drawanyone.ai) - Drawanyone - Draw Anyone, Any Way You Want
+- [Dreamily](http://dreamily.ai) - Dreamily-Beta
+- [Dubverse.ai](http://dubverse.ai) - Online Video Dubbing With Dubverse. Ai
+- [Dust](http://xp1.dust.tt) - Dust - Xp1
 - [ELSA SPEECH ANALYZER](http://speechanalyzer.elsaspeak.com)
-- [Ebsynth](http://ebsynth.com) Ebsynth - Transform Video By Painting Over A Single Frame. You Paint One Frame And EbSynth Propagates It To The Rest Of The Footage.
-- [Echowin](http://echo.win) Ai Powered Call Management With Full Natural Language Understanding And Personalized Responses For Every Scenario
-- [Ecrett Music](http://ecrettmusic.com) Easy Way To Create Royalty Free Music - Ecrett Music
-- [Elektrif](http://www.elektrif.ai) Your 🤖 Powered Dating Assistant. The First Suite Of AI-powered Tools To Supercharge Your Dating Life ⚡️.
-- [Elicit](http://elicit.org) Elicit The Ai Research Assistant. Elicit Uses Machine Learning To Help You With Your Research Find Papers, Extract Key Claims, Summarize, Brainstorm Ideas, And More.
-- [Equally.ai](http://equally.ai) Web Accessibility Compliance For All. Achieve ADA & WCAG Compliance Easily.
-- [Everypixel](http://www.everypixel.com) Stock Image Search Engine - More Than 50 Best Sources - Everypixel
-- [ExactBuyer Search](http://www.exactbuyer.com) Exactbuyer - Ai Powered Business Search For Prospecting Teams
-- [FakeYou](http://fakeyou.com) Fakeyou. Deep Fake Text To Speech
-- [Fireflies](http://fireflies.ai) Fireflies. Ai - Fireflies Ai Notetaker & Conversation Intelligence. Fireflies.ai Helps Your Team Record, Transcribe, Search, And Analyze Voice Conversations.
-- [Flexberry AI Assistant](http://ai.flexberry.net) Ai Assistant. This Helps To Reduce 30% Of The Time Business Analyst Uses For Processing Requirements And Also To Generate Artifacts.
-- [FoodAI](http://www.foodai.app) Foodai. App - Generate Cooking Recipes With Ai!
-- [Free Text-To-Speech](http://www.text-to-speech.online) Free Text To Speech Online Converter Tools.
-- [Friday AI](http://www.heyfriday.ai) Heyfriday - Ultimate Ai Writer
-- [GGPredict](http://ggpredict.io) Ggpredict. Io
-- [GPTKey](http://gptkey.com) Gptkey–Write With Ai Using The Gpt Keyboard. Write With AI In Any App Using The GPT Custom Keyboard Extension.
-- [Genius Sheets](http://www.geniussheets.com) Genius Sheets Financial Automation. Genius Sheets AI Text To Reports Solutions Help You Analyze Financial Data Faster - Empowering Teams To Make Better Decisions. Stay In Excel And Google Sheets And Automate Your Financial Reporting Process With Live Data Connections.
-- [Gifts Genie](http://gen.gifts) Genie - Ai Gifts Generator
-- [Glasp](http://glasp.co) Glasp Social Web Highlighter. Highlight & Add Notes As You Read. Create A Library Of Your Learning â¤ï¸.
-- [GooseAI](http://goose.ai) Gooseai
-- [Graham AI](http://www.grahamai.co) Graham. Ai - Tech Tweet Generator
-- [H2O AI](http://h2o.ai) H2O. Ai - Ai Cloud Platform
-- [Handywriter](http://handyplugins.co) Handyplugins—Well-Crafted Wordpress Plugins
-- [Headline-ai](http://headline-ai.com) Headline Ai
-- [HelloScribe](http://www.helloscribe.ai) Helloscribe Bring Your Best Ideas To Life
-- [HookShot](http://hookshot.ironwill.ai) Hookshot Speed Reading Game
-- [HotConvo](http://hotconvo.art) Hotconvo
-- [Hour One](http://hourone.ai) Make Ai Videos To Train Anyone Or Explain Anything - Hour One
-- [Hubble](http://www.hubble.team) Hubble - Product Feedback And Insights From Users. Create World Class Products By Gathering High Quality Feedback From Users On Prototypes, Betas And Live Features.
-- [ICONS8](http://icons8.com) Icons, Illustrations, Photos, Music And Design Tools. Change Faces Of Stock Photos, Smart Upscaler, Update Your Website Right From Lunacy And More.
-- [Ideasai](http://ideasai.com) Startup Ideas Powered By Openai
-- [Inferkit](http://app.inferkit.com) Inferkit
-- [Infinite Drum Machine](http://experiments.withgoogle.com) Experiments With Google
-- [Inworld](http://www.inworld.ai) Inworld Ai–Create Ai Characters And Ask Them Anything. Create AI Characters And NPCs For Games, Metaverse, And Business Applications–or Just For Fun. You Can Talk To AI Characters About Anything. It' S Easy, Free, And Full Of Possibilities.
-- [Jamie](http://www.meetjamie.ai) Jamie - Ai Assistant For Meeting Summaries. Jamie Is An AI Assistant That Creates Summaries Of Meetings In Business-writing Quality Within Seconds. Try Now And Convince Yourself Of The Magic Experience.
-- [Jenni](http://jenni.ai) Supercharge Your Writing With Jenni Ai
+- [Ebsynth](http://ebsynth.com) - Ebsynth - Transform Video By Painting Over A Single Frame. You Paint One Frame And EbSynth Propagates It To The Rest Of The Footage.
+- [Echowin](http://echo.win) - AI Powered Call Management With Full Natural Language Understanding And Personalized Responses For Every Scenario
+- [Ecrett Music](http://ecrettmusic.com) - Easy Way To Create Royalty Free Music - Ecrett Music
+- [Elektrif](http://www.elektrif.ai) - Your 🤖 Powered Dating Assistant. The First Suite Of AI-powered Tools To Supercharge Your Dating Life ⚡️.
+- [Elicit](http://elicit.org) - Elicit The AI Research Assistant. Elicit Uses Machine Learning To Help You With Your Research Find Papers, Extract Key Claims, Summarize, Brainstorm Ideas, And More.
+- [Equally.ai](http://equally.ai) - Web Accessibility Compliance For All. Achieve ADA & WCAG Compliance Easily.
+- [Everypixel](http://www.everypixel.com) - Stock Image Search Engine - More Than 50 Best Sources - Everypixel
+- [ExactBuyer Search](http://www.exactbuyer.com) - Exactbuyer - AI Powered Business Search For Prospecting Teams
+- [FakeYou](http://fakeyou.com) - Fakeyou. Deep Fake Text To Speech
+- [Fireflies](http://fireflies.ai) - Fireflies. AI - Fireflies AI Notetaker & Conversation Intelligence. Fireflies.AI Helps Your Team Record, Transcribe, Search, And Analyze Voice Conversations.
+- [Flexberry AI Assistant](http://ai.flexberry.net) - AI Assistant. This Helps To Reduce 30% Of The Time Business Analyst Uses For Processing Requirements And Also To Generate Artifacts.
+- [FoodAI](http://www.foodai.app) - Foodai. App - Generate Cooking Recipes With Ai!
+- [Free Text-To-Speech](http://www.text-to-speech.online) - Free Text To Speech Online Converter Tools.
+- [Friday AI](http://www.heyfriday.ai) - Heyfriday - Ultimate AI Writer
+- [GGPredict](http://ggpredict.io) - Ggpredict. Io
+- [GPTKey](http://gptkey.com) - Gptkey–Write With AI Using The Gpt Keyboard. Write With AI In Any App Using The GPT Custom Keyboard Extension.
+- [Genius Sheets](http://www.geniussheets.com) - Genius Sheets Financial Automation. Genius Sheets AI Text To Reports Solutions Help You Analyze Financial Data Faster - Empowering Teams To Make Better Decisions. Stay In Excel And Google Sheets And Automate Your Financial Reporting Process With Live Data Connections.
+- [Gifts Genie](http://gen.gifts) - Genie - AI Gifts Generator
+- [Glasp](http://glasp.co) - Glasp Social Web Highlighter. Highlight & Add Notes As You Read. Create A Library Of Your Learning â¤ï¸.
+- [GooseAI](http://goose.ai) - Gooseai
+- [Graham AI](http://www.grahamai.co) - Graham. AI - Tech Tweet Generator
+- [H2O AI](http://h2o.ai) - H2O. AI - AI Cloud Platform
+- [Handywriter](http://handyplugins.co) - Handyplugins—Well-Crafted Wordpress Plugins
+- [Headline-ai](http://headline-ai.com) - Headline Ai
+- [HelloScribe](http://www.helloscribe.ai) - Helloscribe Bring Your Best Ideas To Life
+- [HookShot](http://hookshot.ironwill.ai) - Hookshot Speed Reading Game
+- [HotConvo](http://hotconvo.art) - Hotconvo
+- [Hour One](http://hourone.ai) - Make AI Videos To Train Anyone Or Explain Anything - Hour One
+- [Hubble](http://www.hubble.team) - Hubble - Product Feedback And Insights From Users. Create World Class Products By Gathering High Quality Feedback From Users On Prototypes, Betas And Live Features.
+- [ICONS8](http://icons8.com) - Icons, Illustrations, Photos, Music And Design Tools. Change Faces Of Stock Photos, Smart Upscaler, Update Your Website Right From Lunacy And More.
+- [Ideasai](http://ideasai.com) - Startup Ideas Powered By Openai
+- [Inferkit](http://app.inferkit.com) - Inferkit
+- [Infinite Drum Machine](http://experiments.withgoogle.com) - Experiments With Google
+- [Inworld](http://www.inworld.ai) - Inworld Ai–Create AI Characters And Ask Them Anything. Create AI Characters And NPCs For Games, Metaverse, And Business Applications–or Just For Fun. You Can Talk To AI Characters About Anything. It' S Easy, Free, And Full Of Possibilities.
+- [Jamie](http://www.meetjamie.ai) - Jamie - AI Assistant For Meeting Summaries. Jamie Is An AI Assistant That Creates Summaries Of Meetings In Business-writing Quality Within Seconds. Try Now And Convince Yourself Of The Magic Experience.
+- [Jenni](http://jenni.ai) - Supercharge Your Writing With Jenni Ai
 - [Jinnee](http://jinnee.co)
 - [KUBIYA](http://kubiya.ai/)
-- [Kinestex](http://www.kinestex.com) Kinestex - Ai Coach In Your Phone
-- [Kive](http://www.kive.ai) Kive - Ai Canvas. All Your Inspiration In One Place.
-- [Kore.ai](http://kore.ai) Ai-First Experience Optimization Platform For Enterprises. Kore.ai Automates Front-office And Back-office Interactions For Every Industry By Deploying Conversational AI-first Virtual Assistants And Process Assistants.
-- [Langotalk](http://www.langotalk.org) Langotalk Learn Languages 6X Faster With Ai. Have Confident Conversations In Weeks Instead Of Years.
-- [Letsenhance](http://letsenhance.io) LetâS Enhance - Image Quality Online App & Free Photo Enlarger. AI Software To Enhance And Upscale Pictures. Increase Resolution And Quality. Fix Blurry, Pixelated And Bad Images. Make Every Photo Sharp And Clear.
-- [Levity](http://levity.ai) Levity - No-Code Ai Workflow Automation Platform
-- [Linkedin Posts Generator](http://sid.black) Siddharth Verma - Full Stack Freelancer - Startup Guy. Hi, I Am Siddharth Verma. A Start-up Enthusiast With 6+ Years Of Experience. I Have Worked With Over 50+ SAAS Companies Helping Them Build Robust Scalable Solutions, Product And Engineering Problems.
-- [LuciaAI](http://luciaai.com) Luciaai. Lucia Uses The Latest And Most Advanced Artificial Intelligence Technology. With Lucia You Can Write Faster And Better Than Ever Before.
-- [Magic Mate](http://www.getmagicmate.com) Magicmate
-- [MagicStock](http://aimages.ai) Aimages - Online Ai Video And Image Enhancer. Upscale And Enhance Videos And Images Online Using AI.
-- [Make A Video](http://makeavideo.studio) Make-A-Video
-- [Make3D](http://make3d.app) Make Your Image 3D
-- [Mapwith.ai](http://mapwith.ai) Mapwith. Ai
-- [Masterpiece Studio](http://masterpiecestudio.com) Masterpiece Studio
-- [Midjourney](http://www.midjourney.com) Midjourney. An Independent Research Lab Exploring New Mediums Of Thought And Expanding The Imaginative Powers Of The Human Species.
-- [Mokker](http://mokker.ai) Mokker Ai. AI-Powered Photo Generation For E-Commerce.
-- [Moonbeam](http://www.gomoonbeam.com) Moonbeam - Never Write From Scratch Again
-- [Movio](http://www.movio.la) Movio - Ai Spokesperson Video Generator
-- [Mrgn](http://Mrgn.ai) Enterprise Intelligence For Small Business.
-- [My Instant Writer](http://www.myinstantwriter.com) My Instant Writer
-- [My Pitch Deck](http://mypitchdeck.com) My Pitch Deck - Ai-Generated Pitch Deck Templates For Startups
-- [MyAnima AI Companion](http://myanima.ai) Anima Ai Friend
-- [NMKD Stable Diffusion](http://nmkd.itch.io) N00Mkrad - Itch. Io
-- [NSFW JS](http://nsfwjs.com) Nsfw Js
-- [Natural Language Playlist](http://www.naturallanguageplaylist.com) Natural Language Playlist
-- [NaturalReader](http://www.naturalreaders.com) Ai Voices - Naturalreader Home
-- [Neural Studio](http://neural.cam) Neuralcam. With AI Powered Image Processing.
-- [Neural. Love](http://neural.love) Free Ai Image Generator & Ai Enhance - Neural. Love. Use AI Image Generator For Free Or AI Enhance, Or Access Millions Of Public Domain Images - AI Enhance & Easy-to-use Online AI Tools.
-- [Neuralblender](http://neuralblender.com) Neuralblender. Com
-- [Neuralframes](http://www.neuralframes.com) Neural Frames
-- [Neuroflash](http://app.neuro-flash.com) App - Neuroflash
-- [NewsDeck From OneSub](http://newsdeck.pro) Newsdeck - Find, Filter & Analyse Thousands Of Articles, Daily
-- [Nichess](http://nichesss.com) Nichesss - Ai Writer - Ai Copywriting Software
-- [Nightcap](http://www.nightcap.guru) Nightcap Guru
+- [Kinestex](http://www.kinestex.com) - Kinestex - AI Coach In Your Phone
+- [Kive](http://www.kive.ai) - Kive - AI Canvas. All Your Inspiration In One Place.
+- [Kore.ai](http://kore.ai) - Ai-First Experience Optimization Platform For Enterprises. Kore.AI Automates Front-office And Back-office Interactions For Every Industry By Deploying Conversational AI-first Virtual Assistants And Process Assistants.
+- [Langotalk](http://www.langotalk.org) - Langotalk Learn Languages 6X Faster With Ai. Have Confident Conversations In Weeks Instead Of Years.
+- [Letsenhance](http://letsenhance.io) - LetâS Enhance - Image Quality Online App & Free Photo Enlarger. AI Software To Enhance And Upscale Pictures. Increase Resolution And Quality. Fix Blurry, Pixelated And Bad Images. Make Every Photo Sharp And Clear.
+- [Levity](http://levity.ai) - Levity - No-Code AI Workflow Automation Platform
+- [Linkedin Posts Generator](http://sid.black) - Siddharth Verma - Full Stack Freelancer - Startup Guy. Hi, I Am Siddharth Verma. A Start-up Enthusiast With 6+ Years Of Experience. I Have Worked With Over 50+ SAAS Companies Helping Them Build Robust Scalable Solutions, Product And Engineering Problems.
+- [LuciaAI](http://luciaai.com) - Luciaai. Lucia Uses The Latest And Most Advanced Artificial Intelligence Technology. With Lucia You Can Write Faster And Better Than Ever Before.
+- [Magic Mate](http://www.getmagicmate.com) - Magicmate
+- [MagicStock](http://aimages.ai) - Aimages - Online AI Video And Image Enhancer. Upscale And Enhance Videos And Images Online Using AI.
+- [Make A Video](http://makeavideo.studio) - Make-A-Video
+- [Make3D](http://make3d.app) - Make Your Image 3D
+- [Mapwith.ai](http://mapwith.ai) - Mapwith. Ai
+- [Masterpiece Studio](http://masterpiecestudio.com) - Masterpiece Studio
+- [Midjourney](http://www.midjourney.com) - Midjourney. An Independent Research Lab Exploring New Mediums Of Thought And Expanding The Imaginative Powers Of The Human Species.
+- [Mokker](http://mokker.ai) - Mokker Ai. AI-Powered Photo Generation For E-Commerce.
+- [Moonbeam](http://www.gomoonbeam.com) - Moonbeam - Never Write From Scratch Again
+- [Movio](http://www.movio.la) - Movio - AI Spokesperson Video Generator
+- [Mrgn](http://Mrgn.ai) - Enterprise Intelligence For Small Business.
+- [My Instant Writer](http://www.myinstantwriter.com) - My Instant Writer
+- [My Pitch Deck](http://mypitchdeck.com) - My Pitch Deck - Ai-Generated Pitch Deck Templates For Startups
+- [MyAnima AI Companion](http://myanima.ai) - Anima AI Friend
+- [NMKD Stable Diffusion](http://nmkd.itch.io) - N00Mkrad - Itch. Io
+- [NSFW JS](http://nsfwjs.com) - Nsfw Js
+- [Natural Language Playlist](http://www.naturallanguageplaylist.com) - Natural Language Playlist
+- [NaturalReader](http://www.naturalreaders.com) - AI Voices - Naturalreader Home
+- [Neural Studio](http://neural.cam) - Neuralcam. With AI Powered Image Processing.
+- [Neural. Love](http://neural.love) - Free AI Image Generator & AI Enhance - Neural. Love. Use AI Image Generator For Free Or AI Enhance, Or Access Millions Of Public Domain Images - AI Enhance & Easy-to-use Online AI Tools.
+- [Neuralblender](http://neuralblender.com) - Neuralblender. Com
+- [Neuralframes](http://www.neuralframes.com) - Neural Frames
+- [Neuroflash](http://app.neuro-flash.com) - App - Neuroflash
+- [NewsDeck From OneSub](http://newsdeck.pro) - Newsdeck - Find, Filter & Analyse Thousands Of Articles, Daily
+- [Nichess](http://nichesss.com) - Nichesss - AI Writer - AI Copywriting Software
+- [Nightcap](http://www.nightcap.guru) - Nightcap Guru
 - [Nijijourney](http://nijijourney.com)にじジャーニー. 魔法でイラストをつくろう.
-- [Not A Person](http://neuralactors.com) Neural Actors
-- [Notion AI](http://www.notion.so) Notion–One Workspace. Every Team
-- [NovelAI](http://novelai.net) Novelai - The Gpt-Powered Ai Storyteller
-- [Nyx Gallery](http://nyx.gallery) Nyx. Gallery - Ai-Generated Photography. Images On This Website Have Been Generated With AI And Are Therefore “Not Real”.
-- [Oda Studio](http://stager.odastudio.ai) Oda Moodboard. Pick Your Style And Color To Customize Your Home In Seconds With AI.
-- [Olli](http://www.olli.ai) Olli. Ai - Your Personal Data Analyst. Olli Is The AI Platform For Creating Data Visualizations 10x Faster - It's Like Having An Assistant That Deals With The Annoying Parts Of Finding Data, Creating Visualizations, And Getting Them Ready For Presentations.
-- [Once Upon A Bot](http://onceuponabot.com) Once Upon A Bot • Create Children'S Stories With Ai. Tell OnceUponABot Your Story Idea, And The Robot Will Write A Story From Scratch Using AI. Then You Can Read, Edit, Export, And Share Your Creations.
-- [Opus](http://opus.ai) Opuswebsite
-- [Orchard](http://orchard.ink) Orchard
-- [Outdone V2](http://www.outdone.io) Outdone
-- [Paperade](http://www.paperade.co) Paperade Startup Idea Generator. Paperade Is The First AI-powered Tool That Generates Commercial Use Cases And Company Ideas From Over 100 Million Academic Papers And Research Studies.
-- [Papercup](http://www.papercup.com) Papercup - Ai Dubbing And Video Translation Software
-- [Patience](http://patience.ai) Patience - Ai Art With Stable Diffusion
-- [Pattern Maker AI](http://patternmakerai.com) Generate Seamless Patterns Using Artificial Intelligence. Generate Seamless Vector Patterns Using Artificial Intelligence.
-- [PatternedAI](http://www.patterned.ai) Patternai
-- [Peppertype.ai](http://www.peppertype.ai) Peppertype. Ai - Create Quality Content Faster. Generate Content That Converts In Seconds.
-- [PersonaCardAI](http://www.personacardai.com) Personacardai - Find Your Top 3 Personas Profiles. Stop Spending Hours In Workshops To Try To Find Your Personas. Our AI Reveals Your Top 3 Personas Profiles Within Your CRM With 20+ Attributes.
-- [Petpic](http://www.petpic.ai) Petpic. Ai. Your Favorite Animal Can Now Be Anything, Anywhere, Even Anyone. Just Upload Some Pics And Let AI Do Its Creative Magic ð«.
-- [Petportrait](http://petportrait.ai) Pet Portrait Ai - Beautiful Custom Pet Portraits. Looking For A Thoughtful Pet Gift? Pet Portrait AI Generates Unique, Custom-made Portraits Of Your Cats, Dogs, And Other Pets In A Variety Of Styles. Our AI Technology Ensures That Each Portrait Is One-of-a-kind, Just Like Your Pet.
-- [Pfpmaker](http://pfpmaker.com) Free Profile Picture Maker - Create An Awesome Pfp Online. Upload Your Photo To Create A Professional-looking Profile Picture And A Matching Background Cover.
+- [Not A Person](http://neuralactors.com) - Neural Actors
+- [Notion AI](http://www.notion.so) - Notion–One Workspace. Every Team
+- [NovelAI](http://novelai.net) - NovelAI - The Gpt-Powered AI Storyteller
+- [Nyx Gallery](http://nyx.gallery) - Nyx. Gallery - Ai-Generated Photography. Images On This Website Have Been Generated With AI And Are Therefore “Not Real”.
+- [Oda Studio](http://stager.odastudio.ai) - Oda Moodboard. Pick Your Style And Color To Customize Your Home In Seconds With AI.
+- [Olli](http://www.olli.ai) - Olli. AI - Your Personal Data Analyst. Olli Is The AI Platform For Creating Data Visualizations 10x Faster - It's Like Having An Assistant That Deals With The Annoying Parts Of Finding Data, Creating Visualizations, And Getting Them Ready For Presentations.
+- [Once Upon A Bot](http://onceuponabot.com) - Once Upon A Bot • Create Children'S Stories With Ai. Tell OnceUponABot Your Story Idea, And The Robot Will Write A Story From Scratch Using AI. Then You Can Read, Edit, Export, And Share Your Creations.
+- [Opus](http://opus.ai) - Opuswebsite
+- [Orchard](http://orchard.ink) - Orchard
+- [Outdone V2](http://www.outdone.io) - Outdone
+- [Paperade](http://www.paperade.co) - Paperade Startup Idea Generator. Paperade Is The First AI-powered Tool That Generates Commercial Use Cases And Company Ideas From Over 100 Million Academic Papers And Research Studies.
+- [Papercup](http://www.papercup.com) - Papercup - AI Dubbing And Video Translation Software
+- [Patience](http://patience.ai) - Patience - AI Art With Stable Diffusion
+- [Pattern Maker AI](http://patternmakerai.com) - Generate Seamless Patterns Using Artificial Intelligence. Generate Seamless Vector Patterns Using Artificial Intelligence.
+- [PatternedAI](http://www.patterned.ai) - Patternai
+- [Peppertype.ai](http://www.peppertype.ai) - Peppertype. AI - Create Quality Content Faster. Generate Content That Converts In Seconds.
+- [PersonaCardAI](http://www.personacardai.com) - PersonacardAI - Find Your Top 3 Personas Profiles. Stop Spending Hours In Workshops To Try To Find Your Personas. Our AI Reveals Your Top 3 Personas Profiles Within Your CRM With 20+ Attributes.
+- [Petpic](http://www.petpic.ai) - Petpic. Ai. Your Favorite Animal Can Now Be Anything, Anywhere, Even Anyone. Just Upload Some Pics And Let AI Do Its Creative Magic ð«.
+- [Petportrait](http://petportrait.ai) - Pet Portrait AI - Beautiful Custom Pet Portraits. Looking For A Thoughtful Pet Gift? Pet Portrait AI Generates Unique, Custom-made Portraits Of Your Cats, Dogs, And Other Pets In A Variety Of Styles. Our AI Technology Ensures That Each Portrait Is One-of-a-kind, Just Like Your Pet.
+- [Pfpmaker](http://pfpmaker.com) - Free Profile Picture Maker - Create An Awesome Pfp Online. Upload Your Photo To Create A Professional-looking Profile Picture And A Matching Background Cover.
 - [Phantasmagoria](http://www.phantasmagoria.me)
-- [Phase](http://www.phase.art) Welcome To Phase!
-- [Photoleap](http://www.photoleapapp.com) Text To Image - Creative & Powerful Photo Editing App By Lightricks. Use All-in-one Photo Editor Photoleap For Amazing Creations On Your IPhone Change Backgrounds, Remove Objects, Create Collages, Apply Filters & Effects.
-- [Phraser](http://phraser.tech) Phraser Â The Collaborative Creative Ai Tool. Phraser Is An App That Helps You Create Images Using Generative AI (Midjourney, Stable Diffusion, And DALLE 2), Collaborate, And Get Inspired.
+- [Phase](http://www.phase.art) - Welcome To Phase!
+- [Photoleap](http://www.photoleapapp.com) - Text To Image - Creative & Powerful Photo Editing App By Lightricks. Use All-in-one Photo Editor Photoleap For Amazing Creations On Your IPhone Change Backgrounds, Remove Objects, Create Collages, Apply Filters & Effects.
+- [Phraser](http://phraser.tech) - Phraser Â The Collaborative Creative AI Tool. Phraser Is An App That Helps You Create Images Using Generative AI (Midjourney, Stable Diffusion, And DALLE 2), Collaborate, And Get Inspired.
 - [Phygital](http://phygital.plus)
-- [PicSo](http://picso.ai) Picso Ai Art Generator. PicSo Is A Text-to-image AI Art Generator App & Online Platform For Creative Digital Art. FREE Try And Turn Your Ideas To NFT Art, Oil Painting And More.
-- [PictoDream](http://pictodream.com) Generate Images Of Yourself With Ai - Pictodream. Com. Generate Any Images Of Yourself (Or Another Person) In Any Style Or Setting Using A Simple Text Description.
-- [Pictorial](http://www.pictorial.ai) Pictorial - Effortlessly Create Graphics For Your Web Applications. Inspiration Is Hard To Come By. Get Your Message Across Hustle-free By Leveraging An AI Able To Generate Reliable, Ready-to-use Visual Masterpieces.
-- [Pinegraph](http://pinegraph.com) Magic Sketchpad. Pinegraph Is All You Need To Bring Your Creativity To Life. Generate AI Art For Free With Pinecasso For Styles Like Anime, Abstract Art, And More. Create Your Own Concept Characters Including Waifus And Husbandos, Game Art, And More.
-- [Pitchgrade](http://pitchgrade.com) Pitchgrade. A Pitch Deck Is A Presentation That A Company Uses To Pitch To Investors. It Goes Over The Company' S Business Model, Financial Projections, And Other Key Metrics That Investors Would Want To See.
-- [Pixelmind](http://beta.pixelmind.ai) Pixelmind - Ai-Powered Art & Minting To Nfts. Your Journey Into AI-powered Art. Create And Collect NFTs Through The Pixelmind Portal. Evolve Your Style. Raise Your Game.
-- [Pixelz AI](http://pixelz.ai) Pixelz Ai Art Generator. Create Unique AI Artwork Using Text, Phrases, Images & Presets, Share, Download, Print & Mint As NFTs.
-- [Podcast.ai](http://podcast.ai) Podcast. Ai
-- [Poised 2.0](http://www.poised.com) Poised - Free Ai-Powered Communication Coach.
-- [Pollinations](http://pollinations.ai) Pollinations. Ai
+- [PicSo](http://picso.ai) - Picso AI Art Generator. PicSo Is A Text-to-image AI Art Generator App & Online Platform For Creative Digital Art. FREE Try And Turn Your Ideas To NFT Art, Oil Painting And More.
+- [PictoDream](http://pictodream.com) - Generate Images Of Yourself With AI - Pictodream. Com. Generate Any Images Of Yourself (Or Another Person) - In Any Style Or Setting Using A Simple Text Description.
+- [Pictorial](http://www.pictorial.ai) - Pictorial - Effortlessly Create Graphics For Your Web Applications. Inspiration Is Hard To Come By. Get Your Message Across Hustle-free By Leveraging An AI Able To Generate Reliable, Ready-to-use Visual Masterpieces.
+- [Pinegraph](http://pinegraph.com) - Magic Sketchpad. Pinegraph Is All You Need To Bring Your Creativity To Life. Generate AI Art For Free With Pinecasso For Styles Like Anime, Abstract Art, And More. Create Your Own Concept Characters Including Waifus And Husbandos, Game Art, And More.
+- [Pitchgrade](http://pitchgrade.com) - Pitchgrade. A Pitch Deck Is A Presentation That A Company Uses To Pitch To Investors. It Goes Over The Company' S Business Model, Financial Projections, And Other Key Metrics That Investors Would Want To See.
+- [Pixelmind](http://beta.pixelmind.ai) - Pixelmind - Ai-Powered Art & Minting To Nfts. Your Journey Into AI-powered Art. Create And Collect NFTs Through The Pixelmind Portal. Evolve Your Style. Raise Your Game.
+- [Pixelz AI](http://pixelz.ai) - Pixelz AI Art Generator. Create Unique AI Artwork Using Text, Phrases, Images & Presets, Share, Download, Print & Mint As NFTs.
+- [Podcast.ai](http://podcast.ai) - Podcast. Ai
+- [Poised 2.0](http://www.poised.com) - Poised - Free Ai-Powered Communication Coach.
+- [Pollinations](http://pollinations.ai) - Pollinations. Ai
 - [Poly AI](http://poly.ai)
-- [Polymath Robotics](http://www.polymathrobotics.com) Polymath Robotics. Magically Simplified Autonomy For Industrial Vehicles.
-- [Ponzu.gg](http://www.ponzu.gg) Ponzu. AI Generated PBR Texture Maps For Any Idea, Within Seconds.
-- [Portrait By Vana](http://portrait.vana.com) Portrait - Vana. “Portrait” By Vana Is A Generative Art Studio That Can Create Self-portraits Of You In Infinite Styles.
-- [Post Parrot](http://postparrot.xyz) Post Parrot - A Free Marketing Tool For Reddit.
-- [Postwise](http://postwise.ai) Postwise - Write, Schedule & Grow With Twitter Ai. Write, Schedule And Grow With The World's Smartest AI Twitter Tool.
-- [Predis](http://predis.ai) Social Media Marketing Made Easy With Ai - Predis. Ai
-- [Prettysmart.co](http://prettysmart.co) Prettysmart
-- [Prodigy AI](http://ai.prodi.gg) Prodigy Ai Coach. Are You An Engineer Wondering About Your Next Gig? Tell HAL What You're Looking For And Get Personalized Career Advice Sent Directly To Your Inbox.
-- [Project Blink](http://labs.adobe.com) Adobe Labs. A Place For Us To Share Some Of Our Explorations Into The Future Of Creativity, Expression, And Communication.
-- [PrometheanAI](http://prometheanai.com) Promethean Ai
-- [Prompt. Cafe](http://www.prompt.cafe) Prompt. Cafe - Ai Prompt Starter Pack
-- [Promptextend](http://www.promptextend.com) Promptextend - Extend/Generate Ai Art Prompts For Midjourney
-- [Prompthunt](http://www.prompthunt.com) Prompt Hunt - Your Home For Exploring, Creating, And Sharing Ai Art. Create, Explore, And Share AI Art Using DALL·E, Stable Diffusion, And Midjourney.
-- [Promptomania](http://promptomania.com) Promptomania Ai Art Community With Prompt Generator
-- [Question Base](http://www.questionbase.com) Scale Knowledge. Question Base Is A New Kind Of Knowledge Base. Powered By AI It Answers Your Teamâs Questions Inside Slack. Automatically.
+- [Polymath Robotics](http://www.polymathrobotics.com) - Polymath Robotics. Magically Simplified Autonomy For Industrial Vehicles.
+- [Ponzu.gg](http://www.ponzu.gg) - Ponzu. AI Generated PBR Texture Maps For Any Idea, Within Seconds.
+- [Portrait By Vana](http://portrait.vana.com) - Portrait - Vana. “Portrait” By Vana Is A Generative Art Studio That Can Create Self-portraits Of You In Infinite Styles.
+- [Post Parrot](http://postparrot.xyz) - Post Parrot - A Free Marketing Tool For Reddit.
+- [Postwise](http://postwise.ai) - Postwise - Write, Schedule & Grow With Twitter Ai. Write, Schedule And Grow With The World's Smartest AI Twitter Tool.
+- [Predis](http://predis.ai) - Social Media Marketing Made Easy With AI - Predis. Ai
+- [Prettysmart.co](http://prettysmart.co) - Prettysmart
+- [Prodigy AI](http://ai.prodi.gg) - Prodigy AI Coach. Are You An Engineer Wondering About Your Next Gig? Tell HAL What You're Looking For And Get Personalized Career Advice Sent Directly To Your Inbox.
+- [Project Blink](http://labs.adobe.com) - Adobe Labs. A Place For Us To Share Some Of Our Explorations Into The Future Of Creativity, Expression, And Communication.
+- [PrometheanAI](http://prometheanai.com) - Promethean Ai
+- [Prompt. Cafe](http://www.prompt.cafe) - Prompt. Cafe - AI Prompt Starter Pack
+- [Promptextend](http://www.promptextend.com) - Promptextend - Extend/Generate AI Art Prompts For Midjourney
+- [Prompthunt](http://www.prompthunt.com) - Prompt Hunt - Your Home For Exploring, Creating, And Sharing AI Art. Create, Explore, And Share AI Art Using DALL·E, Stable Diffusion, And Midjourney.
+- [Promptomania](http://promptomania.com) - Promptomania AI Art Community With Prompt Generator
+- [Question Base](http://www.questionbase.com) - Scale Knowledge. Question Base Is A New Kind Of Knowledge Base. Powered By AI It Answers Your Teamâs Questions Inside Slack. Automatically.
 - [Quillbot Paraphraser](http://quillbot.com)
-- [Quilt & Create](http://www.quiltcreate.com) Quilt & Create
-- [Quizgecko](http://quizgecko.com) The Ai Powered Quiz Generator - Quizgecko
-- [Quizwhiz](http://www.quizwhiz.ai) Quizwhiz - Generate Mcqs From Any Text. Provide A Body Of Text And Get AI-generated Questions And Answers, Along With Their Multiple-Choice Options.
-- [RTutor](http://rtutor.ai) Rtutor
-- [Raplyrics](http://raplyrics.eu) Raplyrics–Generate Your Rap Music Punchlines. Write A Few Words In The Prompt Below And Generate A Unique Rap Music Punchline Using Artificial Intelligence!.
-- [Rationale](http://rationale.jina.ai) Rationale - A Revolutionary Decision-Making Tool Powered By The Latest Gpt And In-Context Learning
-- [Rayst Gradients](http://gradients.ray.st) Rayst Gradients. A Collection Of 64 Beautiful Gradients Generated By AI.
-- [ReContent. AI](http://recontent.ai/) Recontent. Ai
-- [Recommendme](http://www.recommendme.to) Recommendme
-- [Redacta.me](http://www.redacta.me) Redacta. Me - Tu Community Manager Virtual
-- [Reface](http://hey.reface.ai) Reface. Be Anyone. Create Realistic Face Swap Videos, GIFs And Memes With Just One Selfie.
-- [Replica](http://replicastudios.com) Synthesize Voice Ai And Natural Sounding Text-To-Speech—Replica. Try Today With 30 Minutes Of Free Voice Credit.
-- [RestorePhotos.io](https://www.restorephotos.io/) Restoring Old Photos Using Ai For Everyone. Have Old And Blurry Face Photos? Let Our AI Restore Them So Those Memories Can Live On. 100% Free–restore Your Photos Today.
-- [ResumAI](http://www.wonsulting.com) Wonsulting - We Find Dream Jobs. Weâve Helped Over 100, 000 People Land Their Dream Jobs. Let Our Job Search Strategies Take You From Resumes To Better Days.
+- [Quilt & Create](http://www.quiltcreate.com) - Quilt & Create
+- [Quizgecko](http://quizgecko.com) - The AI Powered Quiz Generator - Quizgecko
+- [Quizwhiz](http://www.quizwhiz.ai) - Quizwhiz - Generate Mcqs From Any Text. Provide A Body Of Text And Get AI-generated Questions And Answers, Along With Their Multiple-Choice Options.
+- [RTutor](http://rtutor.ai) - Rtutor
+- [Raplyrics](http://raplyrics.eu) - Raplyrics–Generate Your Rap Music Punchlines. Write A Few Words In The Prompt Below And Generate A Unique Rap Music Punchline Using Artificial Intelligence!.
+- [Rationale](http://rationale.jina.ai) - Rationale - A Revolutionary Decision-Making Tool Powered By The Latest Gpt And In-Context Learning
+- [Rayst Gradients](http://gradients.ray.st) - Rayst Gradients. A Collection Of 64 Beautiful Gradients Generated By AI.
+- [ReContent. AI](http://recontent.ai/) - Recontent. Ai
+- [Recommendme](http://www.recommendme.to) - Recommendme
+- [Redacta.me](http://www.redacta.me) - Redacta. Me - Tu Community Manager Virtual
+- [Reface](http://hey.reface.ai) - Reface. Be Anyone. Create Realistic Face Swap Videos, GIFs And Memes With Just One Selfie.
+- [Replica](http://replicastudios.com) - Synthesize Voice AI And Natural Sounding Text-To-Speech—Replica. Try Today With 30 Minutes Of Free Voice Credit.
+- [RestorePhotos.io](https://www.restorephotos.io/) - Restoring Old Photos Using AI For Everyone. Have Old And Blurry Face Photos? Let Our AI Restore Them So Those Memories Can Live On. 100% Free–restore Your Photos Today.
+- [ResumAI](http://www.wonsulting.com) - Wonsulting - We Find Dream Jobs. Weâve Helped Over 100, 000 People Land Their Dream Jobs. Let Our Job Search Strategies Take You From Resumes To Better Days.
 - [Resume Studio](http://resumestudio.careers)
-- [Reviewgenerator](http://reviewgenerator.app) Reviewgenerator. App
-- [Revive](http://letsrevive.app) Revive - Envision Business Ideas With Ai
-- [Revspot](http://www.revspot.co) Revspot Ai - A New Way Of Writing
-- [Rewind](http://www.rewind.ai) Rewind
-- [Rick And Mortify](http://rickandmortify.com) Rick And Mortify
-- [Riffusion](http://www.riffusion.com) Riffusion
-- [Riku](http://riku.ai) Riku. Ai - Build No-Code Prompts & Datasets For Ai Models
-- [Rizz!](http://rizzai.com) Rizz! Keyboard
-- [Roamr](http://www.letsroam.app) Roamr - Your Dream Vacation In Seconds
-- [SQLgenius](http://sqlgenius.app) Sql Genius - English To Sql Query Ai Translator
-- [SUPERMACHINE](http://supermachine.art) Supermachine - Generate Stock Photos, Art, And Images With Ai. SUPERMACHINE Enables You To Generate Images With The Latest In Artificial Intelligence Technology.
-- [SafeSpelling](http://safespelling.com) Safespelling - Write Without Mistakes
-- [Scale Catalog Forge](http://scale.com) Scale Ai The Data Platform For Ai. Trusted By World Class Companies, Scale Delivers High Quality Training Data For AI Applications Such As Self-driving Cars, Mapping, AR/VR, Robotics, And More.
-- [Scene One](http://sceneone.app) Online Book Writing App For Novels, Short Stories, And Business. Write More Stories With Our Intuitive Writing App And Spend Less Time Learning Complicated Features.
-- [Scispace](http://typeset.io) Scispace By Typeset - Discover, Create, Publish, And Promote Your Research Paper. Your Platform To Explore And Explain Papers. Search For 270M+ Papers, Understand Them In Simple Language, And Find Connected Papers, Authors, Topics.
+- [Reviewgenerator](http://reviewgenerator.app) - Reviewgenerator. App
+- [Revive](http://letsrevive.app) - Revive - Envision Business Ideas With Ai
+- [Revspot](http://www.revspot.co) - Revspot AI - A New Way Of Writing
+- [Rewind](http://www.rewind.ai) - Rewind
+- [Rick And Mortify](http://rickandmortify.com) - Rick And Mortify
+- [Riffusion](http://www.riffusion.com) - Riffusion
+- [Riku](http://riku.ai) - Riku. AI - Build No-Code Prompts & Datasets For AI Models
+- [Rizz!](http://rizzai.com) - Rizz! Keyboard
+- [Roamr](http://www.letsroam.app) - Roamr - Your Dream Vacation In Seconds
+- [SQLgenius](http://sqlgenius.app) - Sql Genius - English To Sql Query AI Translator
+- [SUPERMACHINE](http://supermachine.art) - Supermachine - Generate Stock Photos, Art, And Images With Ai. SUPERMACHINE Enables You To Generate Images With The Latest In Artificial Intelligence Technology.
+- [SafeSpelling](http://safespelling.com) - Safespelling - Write Without Mistakes
+- [Scale Catalog Forge](http://scale.com) - Scale AI The Data Platform For Ai. Trusted By World Class Companies, Scale Delivers High Quality Training Data For AI Applications Such As Self-driving Cars, Mapping, AR/VR, Robotics, And More.
+- [Scene One](http://sceneone.app) - Online Book Writing App For Novels, Short Stories, And Business. Write More Stories With Our Intuitive Writing App And Spend Less Time Learning Complicated Features.
+- [Scispace](http://typeset.io) - Scispace By Typeset - Discover, Create, Publish, And Promote Your Research Paper. Your Platform To Explore And Explain Papers. Search For 270M+ Papers, Understand Them In Simple Language, And Find Connected Papers, Authors, Topics.
 - [Scribe](http://vienna.earth)
-- [Simplified](http://simplified.com) Simplified An Easy To Use All-In-One App For Modern Marketing Teams. Design, Write, Edit Videos, And Publish Content. Built For Teams.
-- [Sitekick](http://www.sitekick.ai) Ai Landing Page Builder
-- [Snackable AI](http://snackable.ai) Snackable
-- [Snipd Podcast Summaries](http://www.snipd.com) Unlock The Knowledge In Podcasts - Snipd
-- [Solidpoint](http://www.solidpoint.ai) Solidpoint
-- [Songmastr](http://www.songmastr.com) Songmastr - Automatic Song Mastering To Reference.
-- [Songtell](http://www.songtell.com) Songtell - Your Song Meaning Teller
-- [Soundful](http://soundful.com) Empowering The World To Create Music - Soundful. Soundful Empowers Creators To Generate Royalty Free Tracks At The Click Of A Button. The Quality Of Soundful Music Is So Rich, You Won' T Believe It Was Made With AI.
-- [Splash](http://www.splashmusic.com) Splash - Bringing The Joy Of Music Making To Everyone
-- [Stable Diffusion Prompt Generator](http://www.thomas.io) Thomas. Io
-- [Stabledojo](http://www.stabledojo.com) Stabledojo
-- [Steve AI](http://www.steve.ai) Steve. Ai - WorldâS Fastest Way To Create Videos. With Our Patented AI Technology, You Can Make Professional Videos In MINUTES. See The MAGIC Happen As The AI Picks The Right Creative Media Assets For Your Video.
-- [Stocknews AI](http://stocknewsai.com) Stocknews Ai - Ai Picked Stock News
-- [StoriesbyAI](http://storiesby.ai) Stories By Ai - Substack
-- [Storya](http://www.storya.app) Storya - Ai Publishing For Everyone
-- [Studio Design](http://studio.design) Studio, An Ai-Augmented Design Tool
-- [SuenaGringo AI](http://suenagringo.com) Suenagringo. Escribe InglÃ©s Con Confianza Y Rompe Las Barreras.
-- [Suggest Gift](http://suggest.gift) Suggest Gift - Find Great Gift Suggestions Using Artificial Intelligence. Artificial Intelligence Based Tool To Help You Get Amazing Gift Suggestions For Any Occasion.
-- [Sumly](http://www.sumly.ai) Ai-Generated Podcast Summaries - Sumly. Ai
-- [Summarize Tech](http://www.summarize.tech) Summarize. Tech Ai-Powered Video Summaries. Get A Summary Of Any Long YouTube Video, Like A Lecture, Live Event Or A Government Meeting. Powered By GPT-3.
-- [SummerEyes](http://summereyes.ai) Summereyes Ai-Powered Summaries In Your Browser
-- [Summon](http://www.figma.com) Figma The Collaborative Interface Design Tool. Build Better Products As A Team. Design, Prototype, And Gather Feedback All In One Place With Figma.
-- [Super Prompt](http://superprompts.com) Super Prompts. Create A Gallery For Your AI Art. Next Time Someone Asks To See All Your Art, You'll Have Somewhere To Point Them To. Showcase All Your AI Art In One Place.
-- [Supermeme.ai](http://www.supermeme.ai) Supermeme. Ai - Ai Memes To Boost Your Personal And Professional Brand. Generate Original AI Memes In 110+ Language By Entering Any Text Input And Turning That Into A Shareable Memes. Powered By GPT-3 And A Custom Built Meme Database.
-- [Supernormal](http://supernormal.com) Supernormal - Ai That Writes Your Meeting Notes
+- [Simplified](http://simplified.com) - Simplified An Easy To Use All-In-One App For Modern Marketing Teams. Design, Write, Edit Videos, And Publish Content. Built For Teams.
+- [Sitekick](http://www.sitekick.ai) - AI Landing Page Builder
+- [Snackable AI](http://snackable.ai) - Snackable
+- [Snipd Podcast Summaries](http://www.snipd.com) - Unlock The Knowledge In Podcasts - Snipd
+- [Solidpoint](http://www.solidpoint.ai) - Solidpoint
+- [Songmastr](http://www.songmastr.com) - Songmastr - Automatic Song Mastering To Reference.
+- [Songtell](http://www.songtell.com) - Songtell - Your Song Meaning Teller
+- [Soundful](http://soundful.com) - Empowering The World To Create Music - Soundful. Soundful Empowers Creators To Generate Royalty Free Tracks At The Click Of A Button. The Quality Of Soundful Music Is So Rich, You Won' T Believe It Was Made With AI.
+- [Splash](http://www.splashmusic.com) - Splash - Bringing The Joy Of Music Making To Everyone
+- [Stable Diffusion Prompt Generator](http://www.thomas.io) - Thomas. Io
+- [Stabledojo](http://www.stabledojo.com) - Stabledojo
+- [Steve AI](http://www.steve.ai) - Steve. AI - WorldâS Fastest Way To Create Videos. With Our Patented AI Technology, You Can Make Professional Videos In MINUTES. See The MAGIC Happen As The AI Picks The Right Creative Media Assets For Your Video.
+- [Stocknews AI](http://stocknewsai.com) - Stocknews AI - AI Picked Stock News
+- [StoriesbyAI](http://storiesby.ai) - Stories By AI - Substack
+- [Storya](http://www.storya.app) - Storya - AI Publishing For Everyone
+- [Studio Design](http://studio.design) - Studio, An Ai-Augmented Design Tool
+- [SuenaGringo AI](http://suenagringo.com) - Suenagringo. Escribe InglÃ©s Con Confianza Y Rompe Las Barreras.
+- [Suggest Gift](http://suggest.gift) - Suggest Gift - Find Great Gift Suggestions Using Artificial Intelligence. Artificial Intelligence Based Tool To Help You Get Amazing Gift Suggestions For Any Occasion.
+- [Sumly](http://www.sumly.ai) - Ai-Generated Podcast Summaries - Sumly. Ai
+- [Summarize Tech](http://www.summarize.tech) - Summarize. Tech Ai-Powered Video Summaries. Get A Summary Of Any Long YouTube Video, Like A Lecture, Live Event Or A Government Meeting. Powered By GPT-3.
+- [SummerEyes](http://summereyes.ai) - Summereyes Ai-Powered Summaries In Your Browser
+- [Summon](http://www.figma.com) - Figma The Collaborative Interface Design Tool. Build Better Products As A Team. Design, Prototype, And Gather Feedback All In One Place With Figma.
+- [Super Prompt](http://superprompts.com) - Super Prompts. Create A Gallery For Your AI Art. Next Time Someone Asks To See All Your Art, You'll Have Somewhere To Point Them To. Showcase All Your AI Art In One Place.
+- [Supermeme.ai](http://www.supermeme.ai) - Supermeme. AI - AI Memes To Boost Your Personal And Professional Brand. Generate Original AI Memes In 110+ Language By Entering Any Text Input And Turning That Into A Shareable Memes. Powered By GPT-3 And A Custom Built Meme Database.
+- [Supernormal](http://supernormal.com) - Supernormal - AI That Writes Your Meeting Notes
 - [SwagAI](http://swag-ai.com)
-- [Synth Run](http://app.synth.run) Synth
-- [Synthesia](http://www.synthesia.io) Synthesia - #1 Ai Video Generation Platform
-- [TLDR This](http://tldrthis.com) Tldr This - Article Summarizer & Online Text Summarizing Tool. This Helps You Summarize Any Piece Of Text Into Concise, Easy To Digest Content So You Can Free Yourself From Information Overload.
-- [Takomo](http://go.takomo.ai) Login - Takomo
-- [Talk To Books](http://books.google.com) Google Books
-- [TalkingPhoto By Movio](http://app.movio.la) Movio - Ai Spokesperson Video Creator
-- [Tavus](http://www.tavus.io) Welcome
-- [Teacherbot](http://teacherbot.io) Teacherbot - The Tool Every Teacher Deserves. We Have Developed The Most Powerful Tool A Teacher Can Have Access To. You Can Create Tasks And Activities For All Levels As Well As Topic Plans, Forward Plans, Lesson Plans And Much More. You Are Limited Only By Your Imagination.
-- [Text Assistant](http://goodsnooze.gumroad.com) Jordi Bruin
-- [Text To Image Editor](http://imgeditor.zmo.ai) Create Any Image Using Text - Imgcreator. Ai
-- [Text2SQL](http://www.text2sql.ai/) Text2Sql. Ai - Generate Sql Queries With Ai For Free!.
-- [TextSynth](http://textsynth.com) Textsynth
-- [Textunbox](http://textunbox.app) Textunbox. App. TextUnbox - Harness The Power Of AI!.
-- [Thegist](http://www.thegist.ai) Thegist AiSummarize Slack Thread And Channels - Get The Gist Of It
-- [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com) This Campsite Does Not Exist. AI Generated Campsites Featuring Stunning Locations, Tents, And Weather All Created By AI Using Stable Diffusion.
-- [Thispersondoesnotexist](http://thispersondoesnotexist.com) This Person Does Not Exist
-- [Thumbsnap](http://art.thumbsnap.com) Ai Art Generator! Powered By Stable Diffusion - Thumbsnap - Free Photo & Video Hosting. ThumbSnap Free Photo And Video Sharing.
-- [Thundercontent](http://thundercontent.com) Write Articles With Ai-Assistant—Thundercontent. Thundercontent Uses Artificial Intelligence To Help You Write Unique Articles On Any Topic At The Speed Of Light. Scale Your Content Strategy. Overcome Writer's Block.
-- [Titan](http://www.compliancequarter.com.au) Expert Compliance Systems And Resources - Compliance Quarter. Regulatory Compliance Management System And Expertise For Energy, Financial Services And Other Regulated Industries. We Offer Expert Systems And Services To Take Regulatory Burden Off Your Shoulders.
-- [ToWords](http://www.towords.io) Towards Youtube To Words. Make Your Videos And Audio Come Alive With Written Words.
-- [Torto.ai](http://torto.ai) Stock Market Made Simple
+- [Synth Run](http://app.synth.run) - Synth
+- [Synthesia](http://www.synthesia.io) - Synthesia - #1 AI Video Generation Platform
+- [TLDR This](http://tldrthis.com) - Tldr This - Article Summarizer & Online Text Summarizing Tool. This Helps You Summarize Any Piece Of Text Into Concise, Easy To Digest Content So You Can Free Yourself From Information Overload.
+- [Takomo](http://go.takomo.ai) - Login - Takomo
+- [Talk To Books](http://books.google.com) - Google Books
+- [TalkingPhoto By Movio](http://app.movio.la) - Movio - AI Spokesperson Video Creator
+- [Tavus](http://www.tavus.io) - Welcome
+- [Teacherbot](http://teacherbot.io) - Teacherbot - The Tool Every Teacher Deserves. We Have Developed The Most Powerful Tool A Teacher Can Have Access To. You Can Create Tasks And Activities For All Levels As Well As Topic Plans, Forward Plans, Lesson Plans And Much More. You Are Limited Only By Your Imagination.
+- [Text Assistant](http://goodsnooze.gumroad.com) - Jordi Bruin
+- [Text To Image Editor](http://imgeditor.zmo.ai) - Create Any Image Using Text - Imgcreator. Ai
+- [Text2SQL](http://www.text2sql.ai/) - Text2Sql. AI - Generate Sql Queries With AI For Free!.
+- [TextSynth](http://textsynth.com) - Textsynth
+- [Textunbox](http://textunbox.app) - Textunbox. App. TextUnbox - Harness The Power Of AI!.
+- [Thegist](http://www.thegist.ai) - Thegist AiSummarize Slack Thread And Channels - Get The Gist Of It
+- [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com) - This Campsite Does Not Exist. AI Generated Campsites Featuring Stunning Locations, Tents, And Weather All Created By AI Using Stable Diffusion.
+- [Thispersondoesnotexist](http://thispersondoesnotexist.com) - This Person Does Not Exist
+- [Thumbsnap](http://art.thumbsnap.com) - AI Art Generator! Powered By Stable Diffusion - Thumbsnap - Free Photo & Video Hosting. ThumbSnap Free Photo And Video Sharing.
+- [Thundercontent](http://thundercontent.com) - Write Articles With Ai-Assistant—Thundercontent. Thundercontent Uses Artificial Intelligence To Help You Write Unique Articles On Any Topic At The Speed Of Light. Scale Your Content Strategy. Overcome Writer's Block.
+- [Titan](http://www.compliancequarter.com.au) - Expert Compliance Systems And Resources - Compliance Quarter. Regulatory Compliance Management System And Expertise For Energy, Financial Services And Other Regulated Industries. We Offer Expert Systems And Services To Take Regulatory Burden Off Your Shoulders.
+- [ToWords](http://www.towords.io) - Towards Youtube To Words. Make Your Videos And Audio Come Alive With Written Words.
+- [Torto.ai](http://torto.ai) - Stock Market Made Simple
 - [Traq.ai](http://www.traq.ai)
-- [Tribescaler](http://tribescaler.com) Tribescaler
-- [Tunes For Tales](http://tunesfortales.fun) Tunes For Tales
-- [TutorAI](http://www.tutorai.me) Learn Anything
-- [TweePT3](http://tweept3.com) Tweept3 - Twitter-Integrated, Gpt3 Powered Tweet Writer
-- [TweetAI](http://tweetai.com) Get Inspired To Tweet • Tweetai. Com. Tweet AI.
-- [TweetEmote](http://www.tweetemote.com) Tweetemote
-- [Tweethunter](http://tweethunter.io) Tweet Hunter - Get More Twitter Followers -Â Tweets, Threads, Scheduler, Analytics. Get Sales, Growth And New Networks. Faster Than What You're Currently Trying.
-- [Tweetnimage](http://tweetnimage.com) Tweetnimage
-- [Tweetspear](http://www.tweetspear.com) Tweetspear - Boost Your Twitter Engagement. Revolutionize Your Twitter Engagement With AI-Powered Suggested Replies.
-- [Twelve Labs](http://twelvelabs.io) Twelve Labs
-- [TypeDroid](http://typedroid.com) Typedroid - Free Ai Text Generator.
-- [Typestudio](http://www.typestudio.co) Type Studio Â Edit Your Video By Editing Text. Type Studio Is A Fast, Simple, And Joyful Way To Edit And Growyour Podcasts, Streams, And Interviews.
-- [USP](http://usp.ai) Maximize Your Blog - Usp. Ai. Awesome AI Generated ROYALTY FREE IMAGES For Your Stories And Blog Posts.
-- [Uizard](http://uizard.io) Uizard - App, Web, & Ui Design Made Easy - Powered By Ai
-- [Ultimate Skill Extractor By Further](http://nlp.appfurther.io) Further Automated Skill Suggestion
-- [Underduck](http://uberduck.ai) Uberduck - Text-To-Speech, Voice Automation, Synthetic Media
+- [Tribescaler](http://tribescaler.com) - Tribescaler
+- [Tunes For Tales](http://tunesfortales.fun) - Tunes For Tales
+- [TutorAI](http://www.tutorai.me) - Learn Anything
+- [TweePT3](http://tweept3.com) - Tweept3 - Twitter-Integrated, Gpt3 Powered Tweet Writer
+- [TweetAI](http://tweetai.com) - Get Inspired To Tweet • Tweetai. Com. Tweet AI.
+- [TweetEmote](http://www.tweetemote.com) - Tweetemote
+- [Tweethunter](http://tweethunter.io) - Tweet Hunter - Get More Twitter Followers -Â Tweets, Threads, Scheduler, Analytics. Get Sales, Growth And New Networks. Faster Than What You're Currently Trying.
+- [Tweetnimage](http://tweetnimage.com) - Tweetnimage
+- [Tweetspear](http://www.tweetspear.com) - Tweetspear - Boost Your Twitter Engagement. Revolutionize Your Twitter Engagement With AI-Powered Suggested Replies.
+- [Twelve Labs](http://twelvelabs.io) - Twelve Labs
+- [TypeDroid](http://typedroid.com) - Typedroid - Free AI Text Generator.
+- [Typestudio](http://www.typestudio.co) - Type Studio Â Edit Your Video By Editing Text. Type Studio Is A Fast, Simple, And Joyful Way To Edit And Growyour Podcasts, Streams, And Interviews.
+- [USP](http://usp.ai) - Maximize Your Blog - Usp. Ai. Awesome AI Generated ROYALTY FREE IMAGES For Your Stories And Blog Posts.
+- [Uizard](http://uizard.io) - Uizard - App, Web, & Ui Design Made Easy - Powered By Ai
+- [Ultimate Skill Extractor By Further](http://nlp.appfurther.io) - Further Automated Skill Suggestion
+- [Underduck](http://uberduck.ai) - Uberduck - Text-To-Speech, Voice Automation, Synthetic Media
 - [Unpromptedgame](http://www.unpromptedgame.com)
-- [Unrealme](http://unrealme.io) Unreal Me
-- [Userevaluation](http://www.userevaluation.com) User Evaluation Â The Customer Understanding Platform. Whether You're Focused On UI, UX Research, Design, Or CX â User Evaluation's AI Can Answer All Your Questions.
-- [Userpersona](http://userpersona.dev) User Persona - Ai-Generated User Personas
-- [Validator AI](http://www.validatorai.com) Validatorai. Com–Instant Help And Feedback With Our Startup Validator Tools For Entrepreneurs
-- [Vee](http://vee.ai) An Intelligent Consultant People Enjoy Talking To. Z Którą Ludzie Lubią Rozmawiać. Vee Has Already Spoken With 5 Million Poles, Effectively Implementing Business Processes For Dozens Of Companies From Various Industries. Vee Przeprowadziła Rozmowy Już Z Ponad 5 Milionami Polaków, Skutecznie Realizując Procesy Biznesowe Dla Dziesiątek Firm Z Różnych Branż.
-- [Versational](http://www.versational.ai) Versational For Remote Teams. Versational Maximizes The Value Said In Every Conversation. Get AI Conversation Results For Free. Versational Transcribes, Summarizes, Automates Data Entry, Extracts Takeaways, Lets You Share Clips, And Shows Ways To Improve Your Conversations.
-- [Vidyo](http://vidyo.ai) Ai Based Content Repurposing - Vidyo. Ai. Create Social Ready Short Clips From Your Videos With AI ✨ Save 90% Time And Effort.
-- [Viral Post Generator](http://viralpostgenerator.taplio.com) Viral Post Generator Clone. Go Mega-viral On Linkedin - Generate A Successful Post With The Power Of AI.
-- [Visuali](http://visuali.io) Visuali. AI Image Generation Made Easy.
+- [Unrealme](http://unrealme.io) - Unreal Me
+- [Userevaluation](http://www.userevaluation.com) - User Evaluation Â The Customer Understanding Platform. Whether You're Focused On UI, UX Research, Design, Or CX â User Evaluation's AI Can Answer All Your Questions.
+- [Userpersona](http://userpersona.dev) - User Persona - Ai-Generated User Personas
+- [Validator AI](http://www.validatorai.com) - Validatorai. Com–Instant Help And Feedback With Our Startup Validator Tools For Entrepreneurs
+- [Vee](http://vee.ai) - An Intelligent Consultant People Enjoy Talking To. Z Którą Ludzie Lubią Rozmawiać. Vee Has Already Spoken With 5 Million Poles, Effectively Implementing Business Processes For Dozens Of Companies From Various Industries. Vee Przeprowadziła Rozmowy Już Z Ponad 5 Milionami Polaków, Skutecznie Realizując Procesy Biznesowe Dla Dziesiątek Firm Z Różnych Branż.
+- [Versational](http://www.versational.ai) - Versational For Remote Teams. Versational Maximizes The Value Said In Every Conversation. Get AI Conversation Results For Free. Versational Transcribes, Summarizes, Automates Data Entry, Extracts Takeaways, Lets You Share Clips, And Shows Ways To Improve Your Conversations.
+- [Vidyo](http://vidyo.ai) - AI Based Content Repurposing - Vidyo. Ai. Create Social Ready Short Clips From Your Videos With AI ✨ Save 90% Time And Effort.
+- [Viral Post Generator](http://viralpostgenerator.taplio.com) - Viral Post Generator Clone. Go Mega-viral On Linkedin - Generate A Successful Post With The Power Of AI.
+- [Visuali](http://visuali.io) - Visuali. AI Image Generation Made Easy.
 - [Vocads Survey](http://www.vocads.com)
-- [Voice AI](http://voice.ai) Ai Voice Changer App For Pc And Mac - Change Your Voice On The Fly
-- [Voicemaker](http://voicemaker.in) Voicemaker® - Text To Speech Converter
-- [Voicemod](http://www.voicemod.net) Free Real Time Voice Changer & Modulator - Voicemod. Express Yourself With Our Real-time AI Voice Changer And Soundboard To Be Who You Want, When You Want In The Metaverse. Build Your Sonic Identity For Platforms Like Roblox, OBS, VRChat, Discord, And More.
-- [Voicera](http://www.voicera.co) Voicera - Give Voice To Your Articles And Blogs
-- [Waifu XL](http://waifuxl.com) Waifuxl
-- [Waifulabs](http://waifulabs.com) Waifu Labs - Magical Anime Portraits. A State-of-the-art AI That Draws Custom Anime Portraits, Just For You! This Machine Learning Artist Figures Out Your Preferences And Creates A Perfect Character Illustration In 4 Easy Steps. If It Sounds Like Magic, That's Because It Is!.
-- [WardrobeAI](http://wardrobeai.com) Wardrobeai. Our Service Uses AI To Automatically Change Hairstyles And Clothes In Your Images, Giving You Endless Possibilities For Customization.
-- [Watermark Remover](http://www.watermarkremover.io) Watermark Remover - Remove Watermarks Online From Images For Free. Get Rid Of The Watermarks From Your Images Using Our Powerful AI Technology.
-- [Webapi.ai 2.0](http://webapi.ai)
-- [What Cake To Bake?](http://www.whatcaketobake.com) What Cake To Bake?
-- [What On Earth?](http://www.whatonearth.xyz) Whatonearth By @Naklecha
+- [Voice AI](http://voice.ai) - AI Voice Changer App For Pc And Mac - Change Your Voice On The Fly
+- [Voicemaker](http://voicemaker.in) - Voicemaker® - Text To Speech Converter
+- [Voicemod](http://www.voicemod.net) - Free Real Time Voice Changer & Modulator - Voicemod. Express Yourself With Our Real-time AI Voice Changer And Soundboard To Be Who You Want, When You Want In The Metaverse. Build Your Sonic Identity For Platforms Like Roblox, OBS, VRChat, Discord, And More.
+- [Voicera](http://www.voicera.co) - Voicera - Give Voice To Your Articles And Blogs
+- [Waifu XL](http://waifuxl.com) - Waifuxl
+- [Waifulabs](http://waifulabs.com) - Waifu Labs - Magical Anime Portraits. A State-of-the-art AI That Draws Custom Anime Portraits, Just For You! This Machine Learning Artist Figures Out Your Preferences And Creates A Perfect Character Illustration In 4 Easy Steps. If It Sounds Like Magic, That's Because It Is!.
+- [WardrobeAI](http://wardrobeai.com) - Wardrobeai. Our Service Uses AI To Automatically Change Hairstyles And Clothes In Your Images, Giving You Endless Possibilities For Customization.
+- [Watermark Remover](http://www.watermarkremover.io) - Watermark Remover - Remove Watermarks Online From Images For Free. Get Rid Of The Watermarks From Your Images Using Our Powerful AI Technology.
+- [Webapi.AI 2.0](http://webapi.ai)
+- [What Cake To Bake?](http://www.whatcaketobake.com) - What Cake To Bake?
+- [What On Earth?](http://www.whatonearth.xyz) - Whatonearth By @Naklecha
 - [Whiskey AI](http://beta.whiskeyai.xyz)
-- [Whisper Memos](http://whispermemos.com) Whisper Memos
-- [WhisperAPI](http://whisperapi.com) Whisper Api
-- [Wisecut](http://www.wisecut.video) Wisecut - Automatic Video Editor
-- [WithPoly](http://withpoly.com) Poly Generate Design Assets With A. I. · Poly
-- [Wizishop](http://wizishop.com) Wizishop Ecommerce Solution Create Your Online Store. 15-day Free Trial - No Credit Card Needed - Access All Of Our Features.
-- [Wordfixerbot](http://www.wordfixerbot.com) Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot
-- [Write A Thank You](http://thankyounote.app) Write A Thank You Note - Thankyounote. App. Write The Perfect Thank You Note For Any Occasion! Whether You Need To Thank A Friend, Family Member, Or Business Associate, We Have The Perfect Words For You. Try It!.
-- [Writelyai](http://www.writelyai.com) Writely - Using Ai To Improve Your Writing
-- [Writeplus](http://writeplus.co) Write+–Professional Writing Made Accessible For All!
-- [Writer](http://writer.com) Writer - Ai Writing Platform For Teams. World-class Companies Use Writers AI Writing Platform To Unlock On-brand Content At Scale.
-- [Yepic AI](http://www.yepic.ai) Your Ai Video Toolkit - Create, Dub & Personalise Videos. Create, Dub And Personalise Videos Anywhere.
-- [Ai2sql](http://www.ai2sql.io) Sql Query Builder - Sql Query Builder Ai Bot. With AI2sql, Engineers And Non-engineers Can Easily Write Efficient, Error-free SQL Queries Without Knowing SQL. It's Time To Take Back Your Time!.
-- [Bigmp4](http://bigmp4.com) Ai Video Enhancement, Using 2022 Cutting Edged Ai Model To Lossless Enlarge Video, Enhance Video
-- [Codium](http://www.codium.ai/) Codium Â¢ Code Fast. Break Fewer Things
-- [Deck.rocks](https://www.deck.rocks/) Deck. Rocks Generate Pitch Decks Using Gpt-3
-- [Micro Dalle-2](http://micropay.ai) Dalle-2 Image Generator - Micropay. Anonymous And Pay-as-you-go Generative AI Software.
+- [Whisper Memos](http://whispermemos.com) - Whisper Memos
+- [WhisperAPI](http://whisperapi.com) - Whisper Api
+- [Wisecut](http://www.wisecut.video) - Wisecut - Automatic Video Editor
+- [WithPoly](http://withpoly.com) - Poly Generate Design Assets With A. I. · Poly
+- [Wizishop](http://wizishop.com) - Wizishop Ecommerce Solution Create Your Online Store. 15-day Free Trial - No Credit Card Needed - Access All Of Our Features.
+- [Wordfixerbot](http://www.wordfixerbot.com) - Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot
+- [Write A Thank You](http://thankyounote.app) - Write A Thank You Note - Thankyounote. App. Write The Perfect Thank You Note For Any Occasion! Whether You Need To Thank A Friend, Family Member, Or Business Associate, We Have The Perfect Words For You. Try It!.
+- [Writelyai](http://www.writelyai.com) - Writely - Using AI To Improve Your Writing
+- [Writeplus](http://writeplus.co) - Write+–Professional Writing Made Accessible For All!
+- [Writer](http://writer.com) - Writer - AI Writing Platform For Teams. World-class Companies Use Writers AI Writing Platform To Unlock On-brand Content At Scale.
+- [Yepic AI](http://www.yepic.ai) - Your AI Video Toolkit - Create, Dub & Personalise Videos. Create, Dub And Personalise Videos Anywhere.
+- [Ai2sql](http://www.ai2sql.io) - Sql Query Builder - Sql Query Builder AI Bot. With AI2sql, Engineers And Non-engineers Can Easily Write Efficient, Error-free SQL Queries Without Knowing SQL. It's Time To Take Back Your Time!.
+- [Bigmp4](http://bigmp4.com) - AI Video Enhancement, Using 2022 Cutting Edged AI Model To Lossless Enlarge Video, Enhance Video
+- [Codium](http://www.codium.ai/) - Codium Â¢ Code Fast. Break Fewer Things
+- [Deck.rocks](https://www.deck.rocks/) - Deck. Rocks Generate Pitch Decks Using Gpt-3
+- [Micro Dalle-2](http://micropay.ai) - Dalle-2 Image Generator - Micropay. Anonymous And Pay-as-you-go Generative AI Software.
 
 ---
 
@@ -2474,17 +2467,17 @@
 
 ## Sales & Marketing
 
-- [Altera AI](http://www.altera.ai) A Better Way To Sell On Linkedin. Get More Leads And Close More Deals With Altera, The AI Sales Assistant That Generates Hyper Personalised Comments, Inmails And Posts On LinkedIn.
-- [Clickable](http://www.clickable.so) Generate Ads In Seconds With Ai. Beautiful, Brand-consistent, And Highly Converting Ads For All Marketing Channels. No Design Experience Needed.
-- [Copy.ai](<http://www.copy.ai>? Via = Beth0) Write Better Marketing Copy And Content With Ai. Say Goodbye' To The Blank Page For Good.
+- [Altera AI](http://www.altera.ai) - A Better Way To Sell On Linkedin. Get More Leads And Close More Deals With Altera, The AI Sales Assistant That Generates Hyper Personalised Comments, Inmails And Posts On LinkedIn.
+- [Clickable](http://www.clickable.so) - Generate Ads In Seconds With Ai. Beautiful, Brand-consistent, And Highly Converting Ads For All Marketing Channels. No Design Experience Needed.
+- [Copy.ai](http://www.copy.ai) - Write Better Marketing Copy And Content With Ai. Say Goodbye' To The Blank Page For Good.
 - [Creatext](https://www.creatext.ai/)
 - [Cresta](https://cresta.com/)
-- [Cuetap.com](https://cuetap.com/) Ai & Ci Powred Sales Battlecards. AI-powered Platform Provides Automagical Battlecards And Actionable Competitive Intelligence.
+- [Cuetap.com](https://cuetap.com/) - AI & Ci Powred Sales Battlecards. AI-powered Platform Provides Automagical Battlecards And Actionable Competitive Intelligence.
 - [Delve](https://www.delve.ai/)
 - [GETitOUT](https://getitout.io/)
-- [GetResponse](http://www.getresponse.com) Getresponse - Professional Email Marketing For Everyone. Powerful, Simplified Tool To Send Emails, Create Pages, And Automate Your Marketing.
+- [GetResponse](http://www.getresponse.com) - Getresponse - Professional Email Marketing For Everyone. Powerful, Simplified Tool To Send Emails, Create Pages, And Automate Your Marketing.
 - [Harvey](https://hiverhq.com/harvey-ai-customer-support)
-- [Hoppy Copy](http://www.hoppycopy.co) Hoppy Copy Ai Email Marketing Copywriting Platform. Save Countless Hours Writing. Use AI To Generate Powerful Copy For Hundreds Of Different Email Marketing Campaigns, Drips, Newsletters And More—in Seconds ⚡.
+- [Hoppy Copy](http://www.hoppycopy.co) - Hoppy Copy AI Email Marketing Copywriting Platform. Save Countless Hours Writing. Use AI To Generate Powerful Copy For Hundreds Of Different Email Marketing Campaigns, Drips, Newsletters And More—in Seconds ⚡.
 - [Industrial Data Labs](https://industrialdatalabs.com/)
 - [Infranodus](https://infranodus.com/)
 - [Instantly](https://instantly.ai/)
@@ -2492,10 +2485,10 @@
 - [Lavender](https://www.lavender.ai/)
 - [Luna](https://getluna.dev/)
 - [MarbleFlows](https://app.marbleflows.com/ai-generator)
-- [MarketingBlocks AI](http://marketingblocks.ai) Marketingblocks Ai. Human-like All-in-one AI Marketing Assistant That Creates Landing Pages, Promo Videos, Ads, Marketing Copy, Graphics, Emails, Voiceovers, Blog Posts, Art & More.
+- [MarketingBlocks AI](http://marketingblocks.ai) - Marketingblocks Ai. Human-like All-in-one AI Marketing Assistant That Creates Landing Pages, Promo Videos, Ads, Marketing Copy, Graphics, Emails, Voiceovers, Blog Posts, Art & More.
 - [Marketplan](https://marketplan.io/)
 - [MateAI](https://www.mateai.io/)
-- [Octie.ai](http://octie.ai) Octie. Ai - Your A. I. Ecommerce Marketing Assistant. Write Emails, Product Descriptions, And More, With A. I. Created By Octane AI.
+- [Octie.ai](http://octie.ai) - Octie. AI - Your A. I. Ecommerce Marketing Assistant. Write Emails, Product Descriptions, And More, With A. I. Created By Octane AI.
 - [Omneky](https://www.omneky.com/)
 - [Ortto](https://ortto.com/artificial-intelligence-marketing/)
 - [Outplayhq](https://outplayhq.com/)
@@ -2506,11 +2499,11 @@
 - [Regie](https://www.regie.ai/)
 - [Reply.io](https://reply.io/sales-email-assistant/)
 - [Robin](https://www.hellorobin.ai/)
-- [SaleWhale](http://salewhale.chat) Sale Whale - Ai-Powered Sales Rep Chatbot. We Provide Impossibly Good Sales Rep And Customer Support Chatbots, Using The World's Best Available AI Models. Learn How It Will Improve Your Business.
+- [SaleWhale](http://salewhale.chat) - Sale Whale - Ai-Powered Sales Rep Chatbot. We Provide Impossibly Good Sales Rep And Customer Support Chatbots, Using The World's Best Available AI Models. Learn How It Will Improve Your Business.
 - [Smartwriter](https://www.smartwriter.ai/)
-- [Speaq.ai](https://www.speaq.ai/) Ready Made Conversional Ai For Your Business. Our Mission Is To Revolutionize B2B Marketing And Customer Support With Artificial Intelligence. Effortlessly Schedule Meetings And Verify Attendance With AI. Streamline Your Survey Process With AI Conversational Calls.
+- [Speaq.ai](https://www.speaq.ai/) - Ready Made Conversional AI For Your Business. Our Mission Is To Revolutionize B2B Marketing And Customer Support With Artificial Intelligence. Effortlessly Schedule Meetings And Verify Attendance With AI. Streamline Your Survey Process With AI Conversational Calls.
 - [Typewise](https://www.typewise.app/)
-- [Unbounce](http://unbounce.com) Smart Marketing Tools To Grow Your Business. Turn More Of Your Visitors Into Customers. Unbounce Is The AI-powered Landing Page Builder With Smart Features That Let You Create Beautiful, High-performing Marketing Campaigns In Just A Few Minutes.
+- [Unbounce](http://unbounce.com) - Smart Marketing Tools To Grow Your Business. Turn More Of Your Visitors Into Customers. Unbounce Is The AI-powered Landing Page Builder With Smart Features That Let You Create Beautiful, High-performing Marketing Campaigns In Just A Few Minutes.
 - [Usetwain](https://www.usetwain.com/)
 - [Warmer.ai](https://warmer.ai/)
 - [Waymark](https://waymark.com/)
@@ -2552,17 +2545,16 @@
 
 ## Apps
 
-- [AGI Labs | AI Helpers Home](https://agilabs.org/ai-helpers-home)
+- [AGI Labs](https://agilabs.org/ai-helpers-home) - AI Helpers Home
 - [Amazing AI](https://apps.apple.com/app/id1660147028)
-- [CHARL-E: Make Art With AI On Your Mac](https://www.charl-e.com/)
-- [Elephas - Personal AI Writing Assistant For Mac](https://elephas.app/)
-- [Lek.ai | The Ultimate Content Creator Toolkit Powered By AI](https://lek.ai/)
-- [Lobe | Machine Learning Made Easy](https://www.lobe.ai/)
-- [Mem: The Self-organizing Workspace](https://get.mem.ai/)
+- [CHARL-E](https://www.charl-e.com/) - Make Art With AI On Your Mac
+- [Elephas](https://elephas.app/) - Personal AI Writing Assistant For Mac
+- [Lek.ai](https://lek.ai/) - The Ultimate Content Creator Toolkit Powered By AI
+- [Lobe](https://www.lobe.ai/) -  Machine Learning Made Easy
+- [Mem](https://get.mem.ai/) - The Self-organizing Workspace
 - [Notta](https://app.notta.ai/7012275740984999937/dashboard)
-- [Peakto, The Game-changing Photo Organizer Software For Mac](https://cyme.io/peakto-photo-organizer-software/)
-- [PhotoTune - AI Photo Enhancer V3.0.1 (Premium) | Mobilism](https://forum.mobilism.org/viewtopic.php?f=427&t=5027953)
-- [Start Conversations & Keep Them Going With The Keys Keyboard App](https://www.thekeys.ai/)
+- [Peakto](https://cyme.io/peakto-photo-organizer-software/) - The Game-changing Photo Organizer Software For Mac
+- [The Keys AI](https://www.thekeys.ai/) - Start Conversations & Keep Them Going With The Keys Keyboard App
 - [Tokkingheads](https://www.tokkingheads.com/)
 - [Wombo.art](https://www.wombo.art/)
 
@@ -2842,73 +2834,73 @@
 
 ## Text
 
-- [Bookclub](http://www.bookclub.ai) Bookclub. Ai - Meet Your Next Book
+- [Bookclub](http://www.bookclub.ai) - Bookclub. AI - Meet Your Next Book
 - [ChatGPT Writer](http://chatgptwriter.ai)
 - [Chibi AI](https://chibi.ai/)
-- [Childbook](http://www.childbook.ai) Welcome To Children'S Book Creator!. Your Book Will Be Personalized With Characters, Pictures And Story. The Story And Illustrations Also Have A Text-to-speech Feature And Can Be Listened To.
-- [Cover Letter AI](http://coverletter-ai.com) Cover Letter Ai. The Ultimate Tool For Crafting The Perfect Cover Letter.
-- [Coverletter.app](http://coverletter.app) Custom-Made Cover Letters Ready In Minutes Not Hours - Coverletter. App. Stand Out From The Competition And Increase Your Chances Of Getting Hired With Personalized Cover Letters From Our Advanced AI Technology.
-- [Coverletterwrite](http://coverletterwrite.com) Cover Letter Write. Ask AI To Write A Personalized Cover Letter.
+- [Childbook](http://www.childbook.ai) - Welcome To Children'S Book Creator!. Your Book Will Be Personalized With Characters, Pictures And Story. The Story And Illustrations Also Have A Text-to-speech Feature And Can Be Listened To.
+- [Cover Letter AI](http://coverletter-ai.com) - Cover Letter Ai. The Ultimate Tool For Crafting The Perfect Cover Letter.
+- [Coverletter.app](http://coverletter.app) - Custom-Made Cover Letters Ready In Minutes Not Hours - Coverletter. App. Stand Out From The Competition And Increase Your Chances Of Getting Hired With Personalized Cover Letters From Our Advanced AI Technology.
+- [Coverletterwrite](http://coverletterwrite.com) - Cover Letter Write. Ask AI To Write A Personalized Cover Letter.
 - [Dalle-2 Prompt Generator](http://dalle2-prompt-generator.s3-website-us-west-2.amazonaws.com/) - Nice Site That Let's You Generate Interesting Text Prompts
-- [Diffusion.chat](http://diffusion.chat) Diffusion Chat
-- [Digital Dogs](http://digitaldogs.ai) The Digital Dogsâ¢. Cross-app, AI Digital Dogs NFTs For Virtual Worlds, VR, AR, Social Apps, Games And More.
-- [Excelformulabot](http://excelformulabot.com) Excel & Google Sheets Ai Formula Generator - Excelformulabot. Com. Transform Your Text Instructions Into Excel & Google Sheets Formulas In Seconds With The Help Of AI.
-- [Explainpaper](http://www.explainpaper.com) Explainpaper
-- [Filechat](https://www.filechat.io/) Explore Documents Using Artificial Intelligence. Filechat Is The Perfect Tool To Explore Documents Using Artificial Intelligence. Simply Upload Your PDF And Start Asking Questions To Your Personalized Chatbot.
-- [Formula Dog](http://formula.dog) Generate Excel Formulas And More Using Ai - Formula Dog. Transform Your Text Instructions Into Excel Formulas, VBA, Regex Etc. In Seconds With The Help Of AI.
-- [Formulagod](http://www.formulagod.ai) One Formula To Rule Them All. Talk To Sheets With Built-in Artificial Intelligence.
-- [Gandhiji](http://www.messengerx.io) Messengerx. Io - Chat With Ai. AI Powered Chat Apps For Everyone.
+- [Diffusion.chat](http://diffusion.chat) - Diffusion Chat
+- [Digital Dogs](http://digitaldogs.ai) - The Digital Dogsâ¢. Cross-app, AI Digital Dogs NFTs For Virtual Worlds, VR, AR, Social Apps, Games And More.
+- [Excelformulabot](http://excelformulabot.com) - Excel & Google Sheets AI Formula Generator - Excelformulabot. Com. Transform Your Text Instructions Into Excel & Google Sheets Formulas In Seconds With The Help Of AI.
+- [Explainpaper](http://www.explainpaper.com) - Explainpaper
+- [Filechat](https://www.filechat.io/) - Explore Documents Using Artificial Intelligence. Filechat Is The Perfect Tool To Explore Documents Using Artificial Intelligence. Simply Upload Your PDF And Start Asking Questions To Your Personalized Chatbot.
+- [Formula Dog](http://formula.dog) - Generate Excel Formulas And More Using AI - Formula Dog. Transform Your Text Instructions Into Excel Formulas, VBA, Regex Etc. In Seconds With The Help Of AI.
+- [Formulagod](http://www.formulagod.ai) - One Formula To Rule Them All. Talk To Sheets With Built-in Artificial Intelligence.
+- [Gandhiji](http://www.messengerx.io) - Messengerx. Io - Chat With Ai. AI Powered Chat Apps For Everyone.
 - [Generate Text–InferKit](https://app.inferkit.com/generate)
-- [GoalsGPT](http://www.tability.io) Tability - Get Your Goals Out Of Spreadsheets. The Easiest Way To Keep Track Of Your OKRs And Team Goals. Align Your Team Around Outcomes â Without Feeling Like A Chore.
-- [Goatchat](http://goatchat.ai) Goatchat Ai - Avatar Chatgpt. Did You Ever Want To Ask Napoleon Or Einstein A Few Questions? Well, Now You Have A Chance.
+- [GoalsGPT](http://www.tability.io) - Tability - Get Your Goals Out Of Spreadsheets. The Easiest Way To Keep Track Of Your OKRs And Team Goals. Align Your Team Around Outcomes â Without Feeling Like A Chore.
+- [Goatchat](http://goatchat.ai) - Goatchat AI - Avatar Chatgpt. Did You Ever Want To Ask Napoleon Or Einstein A Few Questions? Well, Now You Have A Chance.
 - [Goose.ai Playground](https://goose.ai/playground) - Can Use Their Playground To Generate Text With GPT-Neo
-- [GPT Hotline](http://www.gpthotline.com) Gpt Hotline. Connect With The World's Smartest AI On WhatsApp.
+- [GPT Hotline](http://www.gpthotline.com) - Gpt Hotline. Connect With The World's Smartest AI On WhatsApp.
 - [GPT Neo Colab Notebook](https://colab.research.google.com/drive/1KDNsA0EpofIMEpd64hJCpxGhpa2lEOsi?usp=sharing) - Use GPT-neo 1.3B And 2.7B From Google Colab
 - [GPT Neo HuggingFace](https://huggingface.co/EleutherAI/gpt-neo-2.7B) - Run GPT-neo 2.7B On HuggingFace
-- [Hello History](http://www.hellohistory.ai) Hello History - Chat With Ai Generated Historical Figures. With The Help Of Modern AI & Machine Learning Weâve Brought Historical Figures Back To Life. Now Is Your Chance To Ask The Questions Youâve Always Wanted To Ask.
+- [Hello History](http://www.hellohistory.ai) - Hello History - Chat With AI Generated Historical Figures. With The Help Of Modern AI & Machine Learning Weâve Brought Historical Figures Back To Life. Now Is Your Chance To Ask The Questions Youâve Always Wanted To Ask.
 - [InferKit](https://inferkit.com/)
-- [Infiniteconversation](http://infiniteconversation.com) The Infinite Conversation. An AI Generated, Never-ending Discussion Between Werner Herzog And Slavoj ŽIžek.
-- [Jot](http://www.jotapp.tech) Jot - Ai Ad Copy. Jot Automagically Generates Infinite Ad Copy Variations For You Using AI. Streamline Your Team's Copywriting Processes With Artificial Intelligence. Powered By OpenAI GPT-3.
-- [Justlearn](http://www.justlearn.com) Ai Friend, Chat & Call - Justlearn. AI Friend, Chat & Call App Designed To Teach You Anything. Voice. Diary. Music. Workout.
-- [Kidotail](http://www.kidotail.com) Kidotail Ai. A New Way To Ignite Your Child's Imagination. Endless Storytelling Possibilities.
-- [Langame Card Game](http://cards.langa.me) Ai-Generated Conversation Card Game To Enjoy With Your Friends & Family. Create Your Personalized Deck Of Cards And Play With Your Friends. Select Which Cards Should Be Part Of Your Own Deck By Swiping 💅.
+- [Infiniteconversation](http://infiniteconversation.com) - The Infinite Conversation. An AI Generated, Never-ending Discussion Between Werner Herzog And Slavoj ŽIžek.
+- [Jot](http://www.jotapp.tech) - Jot - AI Ad Copy. Jot Automagically Generates Infinite Ad Copy Variations For You Using AI. Streamline Your Team's Copywriting Processes With Artificial Intelligence. Powered By OpenAI GPT-3.
+- [Justlearn](http://www.justlearn.com) - AI Friend, Chat & Call - Justlearn. AI Friend, Chat & Call App Designed To Teach You Anything. Voice. Diary. Music. Workout.
+- [Kidotail](http://www.kidotail.com) - Kidotail Ai. A New Way To Ignite Your Child's Imagination. Endless Storytelling Possibilities.
+- [Langame Card Game](http://cards.langa.me) - Ai-Generated Conversation Card Game To Enjoy With Your Friends & Family. Create Your Personalized Deck Of Cards And Play With Your Friends. Select Which Cards Should Be Part Of Your Own Deck By Swiping 💅.
 - [MadLib Prompt Generator](https://colab.research.google.com/drive/1gGwD0zDvyx0OnJU4KLjE8HrwnTlzI2rS) - Makes Interesting Prompts For You, By @Remi_durant
-- [Myess](http://myess.ai) Myessai - Ai Powered Essay Tutor. Supercharge Your Writing With Instant, Highly Detailed Feedback From Our AI Tutor. Real, Actionable Feedback - Not Just Another Grammarly.
-- [Namelix](http://namelix.com) Business Name Generator - Free Ai-Powered Naming Tool - Namelix.
-- [Namewizard](http://namewizard.ai) Namewizard. Ai - Your Ai-Superpowered Domain Name Generator. Namewizard Is The Generator That Uses AI To Find The Perfect Business And Domain Name For Your Next Project.
-- [Neural Formula](http://www.neuralformula.com) Formula Generator - Neural Formula
+- [Myess](http://myess.ai) - Myessai - AI Powered Essay Tutor. Supercharge Your Writing With Instant, Highly Detailed Feedback From Our AI Tutor. Real, Actionable Feedback - Not Just Another Grammarly.
+- [Namelix](http://namelix.com) - Business Name Generator - Free Ai-Powered Naming Tool - Namelix.
+- [Namewizard](http://namewizard.ai) - Namewizard. AI - Your Ai-Superpowered Domain Name Generator. Namewizard Is The Generator That Uses AI To Find The Perfect Business And Domain Name For Your Next Project.
+- [Neural Formula](http://www.neuralformula.com) - Formula Generator - Neural Formula
 - [Neuralism Generative Art Prompt Generator](https://colab.research.google.com/drive/1mrlY_mc-HdIxEHILY2BvA9u0mOjD2Ze5) - Generate Prompts To Use For Text To Image
-- [Noodle Soup Prompts V2.1](https://colab.research.google.com/github/WASasquatch/noodle-soup-prompts/blob/main/Noodle_Soup_Prompts_Prompt_Terminology_Generator_v2_1.ipynb) By WASasquatch
+- [Noodle Soup Prompts V2.1](https://colab.research.google.com/github/WASasquatch/noodle-soup-prompts/blob/main/Noodle_Soup_Prompts_Prompt_Terminology_Generator_v2_1.ipynb) - By WASasquatch
 - [OpenAI GPT3 Playground](https://beta.openai.com/playground) - Generate Text With GPT-3 (Requires Free Account)
-- [Oracle](http://askoracle.app) Oracle - Get Instant Answers From All Your Knowledgebase. Get Instant Answers To All Your Burning Questions With Oracle. Simply Ask On Slack And Let Our AI Generate An Answer For You. Connect Oracle To Slack, Google Docs, And Confluence With Just One Click And Maximize Your Productivity.
+- [Oracle](http://askoracle.app) - Oracle - Get Instant Answers From All Your Knowledgebase. Get Instant Answers To All Your Burning Questions With Oracle. Simply Ask On Slack And Let Our AI Generate An Answer For You. Connect Oracle To Slack, Google Docs, And Confluence With Just One Click And Maximize Your Productivity.
 - [Orchard - Welcome To Orchard!](https://www.orchard.ink/doc/aeee0a8d-34c6-4f88-ab8f-e1085a5e9672)
-- [Philosophy](http://philosophy.fyi) Ask A Philosopher
-- [Politepost](http://www.politepost.net) Rewriting Your Emails With Ai To Be Professional. Make Sure Your Emails Are Professional And Suitable For The Workplace. Write Your Draft With All Your Slang And Expletives, And Our AI Bot Will Rewrite And Clean Up The Text.
-- [Promptmakr](http://promptmakr.com) The Platform For Prompt Engineers To Generate And Share Unlimited Ai Art Prompts For Free.
-- [Prompt Parrot](https://colab.research.google.com/drive/1ZZWvzsqjEHNn1qevQ4ed7Ozs4vij7qfc?usp=sharing) By @KyrickYoung - Train GPT2 On A List Of Your Prompts
-- [Proposalgenie](http://www.proposalgenie.ai) Proposal Genie. Write The Perfect Upwork Proposal In Seconds.
-- [ReplAI](http://repl-ai.com) Replai - Reply Quickly With Ai
-- [Scarlettpanda](http://www.scarlettpanda.com) Scarlett Panda - Customized Short Bedtime Stories. Scarlett Panda - Use Our Magic To Generate Customized Bedtime Stories Featuring Your Friends And Family.
-- [Scholarcy](http://www.scholarcy.com) Online Summarizing Tool - Flashcard Generator & Summarizer - Scholarcy. Scholarcy™ Is An Online Summarizing Tool That Generates And Converts Long Articles Into Summary Flashcards. Sign Up Free & Start Summarizing.
-- [Sheet AI](http://www.sheetai.app) Sheetai App - Unlock Ai Power In Your Google Sheets. SheetAI Is A Google Sheets Add-on That Helps You Unlock The Power Of AI In Your Spreadsheets.
-- [SheetGod](http://www.boloforms.com) Form Approval Workflow Software - Google Forms Add On
-- [Spellbox](http://spellbox.app) Spellbox - Ai Programming Assistant. SpellBox Uses Artificial Intelligence To Create The Code You Need From Simple Prompts. Solve Your Toughest Programming Problems With AI In Seconds!.
-- [Splitjoin](http://www.splitjoin.com) Splitjoin. AI Assistant To Help You Write Commit Messages Faster.
-- [Startup Pitch Generator](<http://tally.so>? Ref = Beth0) The Simplest Way To Create Forms. Create Forms For All Purposes In Seconds. Without Knowing How To Code.
-- [Storywizard](http://www.storywizard.ai) Storywizard. Ai - Create Incredible Children`S Stories In No Time Using Ai. Storywizard Uses AI To Help You Generate Astonishing Stories For Children With Vivid Images And Beautiful Plots.
-- [Sudowrite](http://www.sudowrite.com) Bust Writer'S Block And Be More Creative With Our Magical Writing Ai. Write Your Novel Or Screenplay Faster With Best AI Writing Tool According To The New Yorker, NY Times, The Verge, And Many More.
+- [Philosophy](http://philosophy.fyi) - Ask A Philosopher
+- [Politepost](http://www.politepost.net) - Rewriting Your Emails With AI To Be Professional. Make Sure Your Emails Are Professional And Suitable For The Workplace. Write Your Draft With All Your Slang And Expletives, And Our AI Bot Will Rewrite And Clean Up The Text.
+- [Promptmakr](http://promptmakr.com) - The Platform For Prompt Engineers To Generate And Share Unlimited AI Art Prompts For Free.
+- [Prompt Parrot](https://colab.research.google.com/drive/1ZZWvzsqjEHNn1qevQ4ed7Ozs4vij7qfc?usp=sharing) - By @KyrickYoung - Train GPT2 On A List Of Your Prompts
+- [Proposalgenie](http://www.proposalgenie.ai) - Proposal Genie. Write The Perfect Upwork Proposal In Seconds.
+- [ReplAI](http://repl-ai.com) - Replai - Reply Quickly With Ai
+- [Scarlettpanda](http://www.scarlettpanda.com) - Scarlett Panda - Customized Short Bedtime Stories. Scarlett Panda - Use Our Magic To Generate Customized Bedtime Stories Featuring Your Friends And Family.
+- [Scholarcy](http://www.scholarcy.com) - Online Summarizing Tool - Flashcard Generator & Summarizer - Scholarcy. Scholarcy™ Is An Online Summarizing Tool That Generates And Converts Long Articles Into Summary Flashcards. Sign Up Free & Start Summarizing.
+- [Sheet AI](http://www.sheetai.app) - Sheetai App - Unlock AI Power In Your Google Sheets. SheetAI Is A Google Sheets Add-on That Helps You Unlock The Power Of AI In Your Spreadsheets.
+- [SheetGod](http://www.boloforms.com) - Form Approval Workflow Software - Google Forms Add On
+- [Spellbox](http://spellbox.app) - Spellbox - AI Programming Assistant. SpellBox Uses Artificial Intelligence To Create The Code You Need From Simple Prompts. Solve Your Toughest Programming Problems With AI In Seconds!.
+- [Splitjoin](http://www.splitjoin.com) - Splitjoin. AI Assistant To Help You Write Commit Messages Faster.
+- [Startup Pitch Generator](http://tally.so) - The Simplest Way To Create Forms. Create Forms For All Purposes In Seconds. Without Knowing How To Code.
+- [Storywizard](http://www.storywizard.ai) - Storywizard. AI - Create Incredible Children`S Stories In No Time Using Ai. Storywizard Uses AI To Help You Generate Astonishing Stories For Children With Vivid Images And Beautiful Plots.
+- [Sudowrite](http://www.sudowrite.com) - Bust Writer'S Block And Be More Creative With Our Magical Writing Ai. Write Your Novel Or Screenplay Faster With Best AI Writing Tool According To The New Yorker, NY Times, The Verge, And Many More.
 - [Survey - CopyAI](https://app.copy.ai/survey/role)
-- [Talk To AI Human](http://www.talktoaihuman.com) Talk To Ai Human
+- [Talk To AI Human](http://www.talktoaihuman.com) - Talk To AI Human
 - [TextGPT](https://textgpt.io/thanks)
-- [Texti](http://texti.app) Texti. App
+- [Texti](http://texti.app) - Texti. App
 - [TextStyler](https://www.textstyler.org/)
 - [Textsynth Playground](https://textsynth.com/playground.html) - Text Completion Using Large Language Models
 - [TTS](https://github.com/coqui-ai/tts)
-- [Upword](http://www.upword.ai) Read Your10X Articles, News Reports, Blogs, Newsletters, Articles Faster With Ai. Capture Key Ideas From Content With Upword' S AI. Create Online Summary Docs. Grow Your Knowledge.
-- [Writemeacoverletter](http://writemeacoverletter.com) Write Me A Cover Letter. Generate A Cover Letter In Seconds Using AI. Just Upload Your CV, Share A Link To The Job You Want, And We'll Do The Rest.
+- [Upword](http://www.upword.ai) - Read Your10X Articles, News Reports, Blogs, Newsletters, Articles Faster With Ai. Capture Key Ideas From Content With Upword' S AI. Create Online Summary Docs. Grow Your Knowledge.
+- [Writemeacoverletter](http://writemeacoverletter.com) - Write Me A Cover Letter. Generate A Cover Letter In Seconds Using AI. Just Upload Your CV, Share A Link To The Job You Want, And We'll Do The Rest.
 - [Writing](https://raindrop.io/whoisdsmith/writing-29978196/sort=title&perpage=30&page=0)
 - [Wtf-ai](https://www.wtfai.xyz/)
-- [Your Cover Letter](http://yourcoverletter.com) Ai Cover Letter Builder - Upload Your Resume To Get Started. Apply For Your Dream Jobs Using Our AI Cover Letter Builder. Add Your Resume And The Job Description To Generate A Cover Letter In Seconds.
+- [Your Cover Letter](http://yourcoverletter.com) - AI Cover Letter Builder - Upload Your Resume To Get Started. Apply For Your Dream Jobs Using Our AI Cover Letter Builder. Add Your Resume And The Job Description To Generate A Cover Letter In Seconds.
 
 ---
 
@@ -2917,33 +2909,33 @@
 - [Ad Auris](https://play.ad-auris.com/)
 - [Aiva](https://www.aiva.ai/)
 - [Apple Books](https://www.apple.com/in/apple-books/)
-- [Article. Audio](http://article.audio) Convert Articles In Audio. Too Lazy To Read An Article? No Problem, Listen To It! Powered By Thundercontent.
+- [Article. Audio](http://article.audio) - Convert Articles In Audio. Too Lazy To Read An Article? No Problem, Listen To It! Powered By Thundercontent.
 - [Ask My Book](https://askmybook.com/)
 - [Audioread](https://audioread.com/)
 - [Blubi.ai](https://blubi.ai/)
 - [Convai](https://www.convai.com/)
 - [Coqui](https://coqui.ai/)
 - [Descript](https://www.descript.com/overdub)
-- [Eleven](https://beta.elevenlabs.io/) Prime Voice Ai. The Most Realistic And Versatile AI Speech Software, Ever. Eleven Brings The Most Compelling, Rich And Lifelike Voices To Creators And Publishers Seeking The Ultimate Tools For Storytelling.
+- [Eleven](https://beta.elevenlabs.io/) - Prime Voice Ai. The Most Realistic And Versatile AI Speech Software, Ever. Eleven Brings The Most Compelling, Rich And Lifelike Voices To Creators And Publishers Seeking The Ultimate Tools For Storytelling.
 - [Fakeyou](https://fakeyou.com/)
-- [Listnr 2.0](<https://www.listnr.tech/>? Gr_pk = V71a&gr_uid = YVDO) Ai Voice Generator - Text To Speech Converter - Listnr. Generate Realistic Text To Speech (TTS) Audio Using Our AI Voice Generator With The Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download In MP3 And WAV Formats.
-- [Listnr](https://www.listnr.tech/?gr_pk=vYP4&gr_uid=aRxw)
-- [Lovo](http://www.lovo.ai) Lovo Ai - Free Text To Speech Online With Natural Voices.
-- [Mubert](https://mubert.com/?via=futurepedia)
-- [Murf.ai](http://murf.ai) Go From Text To Speech With A Versatile Ai Voice Generator. AI Enabled, Real People's Voices. Make Studio-quality Voice Overs In Minutes. Use Murf' S Lifelike AI Voices For Podcasts, Videos, And All Your Professional Presentations.
-- [Murf AI](https://murf.ai/?lmref=Ooighw)
-- [Play.ht](http://play.ht) Ai Powered Text To Voice Generator. Generate Realistic Text To Speech (TTS) Audio Using Our Online AI Voice Generator And The Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download As MP3 And WAV Audio Files.
+- [Listnr 2.0](https://www.listnr.tech/) - AI Voice Generator - Text To Speech Converter - Listnr. Generate Realistic Text To Speech (TTS) - Audio Using Our AI Voice Generator With The Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download In MP3 And WAV Formats.
+- [Listnr](https://www.listnr.tech/)
+- [Lovo](http://www.lovo.ai) - Lovo AI - Free Text To Speech Online With Natural Voices.
+- [Mubert](https://mubert.com/)
+- [Murf.ai](http://murf.ai) - Go From Text To Speech With A Versatile AI Voice Generator. AI Enabled, Real People's Voices. Make Studio-quality Voice Overs In Minutes. Use Murf' S Lifelike AI Voices For Podcasts, Videos, And All Your Professional Presentations.
+- [Murf AI](https://murf.ai/)
+- [Play.ht](http://play.ht) - AI Powered Text To Voice Generator. Generate Realistic Text To Speech (TTS) - Audio Using Our Online AI Voice Generator And The Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download As MP3 And WAV Audio Files.
 - [Play.ht](https://www.play.ht/)
 - [Replicastudios](https://www.replicastudios.com/)
-- [Resemble](https://www.listnr.tech/?gr_pk=vYP4&gr_uid=aRxw)
-- [Speechelo](http://speechelo.com) Speechelo - Generate Voice From Text With Only 3 Clicks. The Most Realistic Souding Text To Audio Converter. We GUARANTEE No One Will Tell Your Voiceover Is A. I. Generated With A Text To Voice Tool.
-- [Speechify](http://speechify.com) The #1 Text To Speech Reader. Power Through Docs, Articles, PDFs, Email—anything You Read—by Listening With Our Leading Text-to-speech Reader.
-- [Speech-to-Speech](http://www.resemble.ai) Your Complete Generative Voice Ai Toolkit. Resemble' S AI Voice Generator Lets You Create Human–like Voice Overs In Seconds.
+- [Resemble](https://www.listnr.tech/)
+- [Speechelo](http://speechelo.com) - Speechelo - Generate Voice From Text With Only 3 Clicks. The Most Realistic Souding Text To Audio Converter. We GUARANTEE No One Will Tell Your Voiceover Is A. I. Generated With A Text To Voice Tool.
+- [Speechify](http://speechify.com) - The #1 Text To Speech Reader. Power Through Docs, Articles, PDFs, Email—anything You Read—by Listening With Our Leading Text-to-speech Reader.
+- [Speech-to-Speech](http://www.resemble.ai) - Your Complete Generative Voice AI Toolkit. Resemble' S AI Voice Generator Lets You Create Human–like Voice Overs In Seconds.
 - [Splashmusic](https://www.splashmusic.com/)
 - [Symbl.ai](https://symbl.ai/)
-- [Unreal Speech](http://unrealspeech.up.railway.app) Ultra Realistic Text-To-Speech Api. More Natural-sounding And Up To 4x Cheaper Than Amazon, Google And Microsoft.
-- [VERBATIK](http://verbatik.com) Ai Powered Text To Voice Generation. Generate Realistic Text To Speech (TTS) Audio Using Online AI Voice Generator And Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download As MP3 And WAV Audio Files.
-- [Wellsaid](http://wellsaidlabs.com) Convert Text To Voice In Real Time. With WellSaid, You And Your Team Can Create A Compelling Realistic AI Voice Over For All Your Digital Content.
+- [Unreal Speech](http://unrealspeech.up.railway.app) - Ultra Realistic Text-To-Speech Api. More Natural-sounding And Up To 4x Cheaper Than Amazon, Google And Microsoft.
+- [VERBATIK](http://verbatik.com) - AI Powered Text To Voice Generation. Generate Realistic Text To Speech (TTS) - Audio Using Online AI Voice Generator And Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download As MP3 And WAV Audio Files.
+- [Wellsaid](http://wellsaidlabs.com) - Convert Text To Voice In Real Time. With WellSaid, You And Your Team Can Create A Compelling Realistic AI Voice Over For All Your Digital Content.
 - [Wellsaidlabas](https://wellsaidlabs.com/)
 - [Whisper](https://github.com/openai/whisper)
 
@@ -2959,9 +2951,9 @@
 
 ## Automation
 
-- [Hexowatch](http://hexact.pxf.io/beth0) Beyond Availability And Prices, 3Rd Party Websites As A Data Source, Visual Website Monitoring, Competitor Tracking. Hexowatch Is Your AI Sidekick To Monitor Any Website For Visual, Content, Source Code, Technology, Availability, Or Price Changes.
-- [Bardeen](https://www.bardeen.ai/ai) Ai Meets Automations. Coming In 2023–Bardeen Is Introducing Breakthrough AI To Automate Manual Workflows, Save You Time, And Empower Your Creativity.
-- [Mem](https://get.mem.ai/) The Self-Organizing Workspace. Mem Is The World's First AI-powered Workspace That's Personalized To You. Amplify Your Creativity, Automate The Mundane, And Stay Organized Automatically.
+- [Hexowatch](http://hexact.pxf.io/) - Beyond Availability And Prices, 3Rd Party Websites As A Data Source, Visual Website Monitoring, Competitor Tracking. Hexowatch Is Your AI Sidekick To Monitor Any Website For Visual, Content, Source Code, Technology, Availability, Or Price Changes.
+- [Bardeen](https://www.bardeen.ai/ai) - AI Meets Automations. Coming In 2023–Bardeen Is Introducing Breakthrough AI To Automate Manual Workflows, Save You Time, And Empower Your Creativity.
+- [Mem](https://get.mem.ai/) - The Self-Organizing Workspace. Mem Is The World's First AI-powered Workspace That's Personalized To You. Amplify Your Creativity, Automate The Mundane, And Stay Organized Automatically.
 
 ---
 
@@ -2997,7 +2989,7 @@
 - [CLIP-as-service](https://clip-as-service.jina.ai/)
 - [Collection Of AI Models For Download](https://aimodels.org/)
 - [Contenda](https://contenda.co/)
-- [Copianto AI](https://copianto.ai/?ref=producthunt)
+- [Copianto AI](https://copianto.ai/)
 - [Create Custom AI Models With No Code](https://no-code-ai-model-builder.com/)
 - [Creative Brainstorms. Powered By AI. | Mimosa](https://mimosa.so/)
 - [DDIQ - Compliance & Risk Assessment](https://www.ddiq.com/)
@@ -3103,26 +3095,26 @@
 
 - [AnyPod](https://www.anypod.ai/)
 - [AssembleAI](https://www.assemblyai.com/)
-- [Ava](http://www.ava.me) Professional & Ai-Based Captions For Deaf & Hoh - Ava
+- [Ava](http://www.ava.me) - Professional & Ai-Based Captions For Deaf & Hoh - Ava
 - [Contentfries](https://www.contentfries.com/)
 - [Context](https://addcontext.xyz/)
-- [Deciphr AI](http://www.deciphr.ai) Deciphr Ai. Powered By Deep AI, Deciphr Timestamps And Summarizes Your Entire Podcast Transcript For You. In Less Time Than It Takes To Make Coffee.
-- [DeepL](http://www.deepl.com) Deepl Translate The World'S Most Accurate Translator.
+- [Deciphr AI](http://www.deciphr.ai) - Deciphr Ai. Powered By Deep AI, Deciphr Timestamps And Summarizes Your Entire Podcast Transcript For You. In Less Time Than It Takes To Make Coffee.
+- [DeepL](http://www.deepl.com) - Deepl Translate The World'S Most Accurate Translator.
 - [Fireflies.ai](https://fireflies.ai/)
 - [Free Subtitle AI](https://freesubtitles.ai/)
-- [Graphic AI](http://www.stork.ai) Ai Assisted Work Collaboration Platform For Teams. Stork Helps Teams Improve Communications And Productivity. It Is A Business Messenger For Hybrid & Remote Teams That Records And Transcribes All Meetings And Calls Automatically. Made For Asynchronous Post Pandemic World And Assisted By Artificial Intelligence.
+- [Graphic AI](http://www.stork.ai) - AI Assisted Work Collaboration Platform For Teams. Stork Helps Teams Improve Communications And Productivity. It Is A Business Messenger For Hybrid & Remote Teams That Records And Transcribes All Meetings And Calls Automatically. Made For Asynchronous Post Pandemic World And Assisted By Artificial Intelligence.
 - [Noty.ai](https://noty.ai/)
 - [Peech](https://www.peech-ai.com/)
-- [Rephrasely](<http://rephrasely.com>? Via = Beth0) The Free Rephrase Generator For All Languages!. Rephrasely Uses State-of-the-art AI To Produce Variations Of Your Text In More Than 100+ Languages For Each Of The Eighteen (12 Free And 6 Premium) Styles That We Offer. By Doing This, We Are Able To Offer More Value And Variety Than Any Other Service.
-- [Rythmex](<https://rythmex.com/>? Partner = 641&uuid = 49feba69-adf4-456c-a90e-a9f4f14372cb&page = Home) Convert Audio To Text With Rythmex Converter. Transcribe Audio To Text Easily, Quickly, And Effectively.
-- [Scribebuddy](http://secure.scribebuddy.com) Automatically Transcribe Any Audio, Video, Zoom Call, Google Meet, Podcast, Live Speech & More In Minutes.
+- [Rephrasely](http://rephrasely.com) - The Free Rephrase Generator For All Languages!. Rephrasely Uses State-of-the-art AI To Produce Variations Of Your Text In More Than 100+ Languages For Each Of The Eighteen (12 Free And 6 Premium) - Styles That We Offer. By Doing This, We Are Able To Offer More Value And Variety Than Any Other Service.
+- [Rythmex](https://rythmex.com/) - Convert Audio To Text With Rythmex Converter. Transcribe Audio To Text Easily, Quickly, And Effectively.
+- [Scribebuddy](http://secure.scribebuddy.com) - Automatically Transcribe Any Audio, Video, Zoom Call, Google Meet, Podcast, Live Speech & More In Minutes.
 - [Steno](https://steno.ai/)
 - [Supertranslate](https://www.supertranslate.ai/)
-- [Supertranslate](http://www.supertranslate.ai) Supertranslate - Add Subtitles To Videos Automatically. Powered By OpenAI's Whisper, The World's Most Accurate Speech-to-text Engine!.
-- [Taption](http://www.taption.com) Automatically Generate Transcript, Translation And Subtitles - Taption
-- [TranslateVideo](http://www.translate.video) Translate. Video
+- [Supertranslate](http://www.supertranslate.ai) - Supertranslate - Add Subtitles To Videos Automatically. Powered By OpenAI's Whisper, The World's Most Accurate Speech-to-text Engine!.
+- [Taption](http://www.taption.com) - Automatically Generate Transcript, Translation And Subtitles - Taption
+- [TranslateVideo](http://www.translate.video) - Translate. Video
 - [Type Studio](https://www.typestudio.co/tool/video-to-text/)
-- [Voicetapp](http://voicetapp.com) Voicetapp - Speech To Text Transcription. Get Accurate Transcriptions For Your AUDIO & VIDEO With The Latest Speech Rocognition Technology.
+- [Voicetapp](http://voicetapp.com) - Voicetapp - Speech To Text Transcription. Get Accurate Transcriptions For Your AUDIO & VIDEO With The Latest Speech Rocognition Technology.
 - [Whisper Memos](https://whispermemos.com/)
 
 ---
@@ -3141,40 +3133,40 @@
 
 ## Video
 
-- [AI Host](https://livereacting.sjv.io/beth0) Run Interactive Live Streams. LiveReacting Helps You Get More Followers And Engagement By Adding Pre-recorded Videos, Games, Countdowns, And Polls To Your Stream.
+- [AI Host](https://livereacting.sjv.io/) - Run Interactive Live Streams. LiveReacting Helps You Get More Followers And Engagement By Adding Pre-recorded Videos, Games, Countdowns, And Polls To Your Stream.
 - [A.V. Mapping](https://avmapping.co/en/)
-- [Boolpic](http://boolv.tech) An Intelligent Video Platform That Empowers Brands. Generate On-brand Videos 10X Faster With AI To Boost Marketing Performance.
+- [Boolpic](http://boolv.tech) - An Intelligent Video Platform That Empowers Brands. Generate On-brand Videos 10X Faster With AI To Boost Marketing Performance.
 - [Create Stunning Videos In Minutes With Videomaker From Designs.ai](https://designs.ai/videomaker)
-- [Deepfakesweb](http://deepfakesweb.com) Make Your Own Deepfakes [Online App]. Our Easy To Use Deepfake App Uses AI And Deep Learning To Generate Amazing Face Swap Videos. Make Your Own Deepfake Video Today.
-- [D-ID's Creative Reality Studio](https://www.d-id.com/) Future-Facing Generative Ai. Produce Customized Videos Featuring Talking Avatars At A Touch Of A Button, Giving Businesses And Creators Superpowers.
+- [Deepfakesweb](http://deepfakesweb.com) - Make Your Own Deepfakes [Online App]. Our Easy To Use Deepfake App Uses AI And Deep Learning To Generate Amazing Face Swap Videos. Make Your Own Deepfake Video Today.
+- [D-ID's Creative Reality Studio](https://www.d-id.com/) - Future-Facing Generative AI. Produce Customized Videos Featuring Talking Avatars At A Touch Of A Button, Giving Businesses And Creators Superpowers.
 - [Download Cascadeur | Free | Windows | Linux](https://cascadeur.com/download)
 - [EbSynth - Transform Video By Painting Over A Single Frame](https://ebsynth.com/)
-- [Elai](http://elai.io) Create Ai Videos From Just Text. Build Customized AI Videos With A Presenter In Minutes Without Using A Camera, Studio And A Greenscreen.
-- [FilmForge](http://filmforge.uwu.ai) Filmforge Ai. Instantly Generate Engaging Videos. Captions, Voiceover, Transcript, And Graphics Included.
-- [Fliki](<http://fliki.ai>? Via = Beth0) Turn Text Into Videos With Ai Voices. Create Videos From Scripts Or Blog Posts Using Realistic Voices In 2 Minutes!.
+- [Elai](http://elai.io) - Create AI Videos From Just Text. Build Customized AI Videos With A Presenter In Minutes Without Using A Camera, Studio And A Greenscreen.
+- [FilmForge](http://filmforge.uwu.ai) - Filmforge AI. Instantly Generate Engaging Videos. Captions, Voiceover, Transcript, And Graphics Included.
+- [Fliki](http://fliki.ai) - Turn Text Into Videos With AI Voices. Create Videos From Scripts Or Blog Posts Using Realistic Voices In 2 Minutes!.
 - [Flowframes](https://nmkd.itch.io/flowframes)
 - [FrameSync](https://www.framesync.xyz/)
-- [Gling](http://www.gling.ai) Creator, Get Your Time Back. Our AI Will Cut Silences And Bad Takes For You So You Can Focus On Your YouTube Videos.
+- [Gling](http://www.gling.ai) - Creator, Get Your Time Back. Our AI Will Cut Silences And Bad Takes For You So You Can Focus On Your YouTube Videos.
 - [Google-research/frame-interpolation](https://replicate.com/google-research/frame-interpolation)
 - [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page)
 - [Imagen Video](https://imagen.research.google/video?ref=aiartapps.com)
 - [Keyframe String Generator](https://www.chigozie.co.uk/keyframe-string-generator)
 - [Make Your Own Deepfakes [Online App]](https://deepfakesweb.com/)
 - [Monster Mash: New Sketch-Based Modeling And Animation Tool](https://monstermash.zone/)
-- [Move](https://www.move.ai/) Move Ai. Capture High Quality Motion Data From Video In Any Environment Using Mobile Phones.
+- [Move](https://www.move.ai/) - Move AI. Capture High Quality Motion Data From Video In Any Environment Using Mobile Phones.
 - [PEECH - Automated Video Creator For Talk-videos](https://www.peech-ai.com/)
 - [Phenaki](https://phenaki.github.io/?ref=aiartapps.com)
-- [Pictory](<http://pictory.ai>? Ref = Milana31) Video Creation Made Easy. Automatically Create Short, Highly-sharable Branded Videos From Your Long Form Content.
+- [Pictory](http://pictory.ai) - Video Creation Made Easy. Automatically Create Short, Highly-sharable Branded Videos From Your Long Form Content.
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [Steve.ai](https://www.steve.ai/)
-- [Story Bard](http://www.storybard.co) Video Stories Generated By Ai
-- [Supercreator AI](http://www.supercreator.ai) Supercreator. Ai Â¢ Create Videos 10X Faster With Ai
+- [Story Bard](http://www.storybard.co) - Video Stories Generated By AI
+- [Supercreator AI](http://www.supercreator.ai) - Supercreator. AI Create Videos 10X Faster With AI
 - [Synthesia | #1 AI Video Generation Platform](https://www.synthesia.io/)
 - [TokkingHeads](https://app.tokkingheads.com/homepage)
 - [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai)
 - [Transform Your Video Into Text | Type Studio](https://www.typestudio.co/tool/video-to-text)
-- [Waymark](http://waymark.com) Boost Local Sales With Unbelievably Easy Video. When TV, CTV, And Digital Ads Are This Effortless, The Possibilities Are Limitless. High-impact Ads Are Now Open To Everyone, With Waymark.
-- [Wzrd.ai](http://wzrd.ai) Experience Your Sound. WZRD Augments Your Audio With Immersive Video Powered By Artificial Intelligence.
+- [Waymark](http://waymark.com) - Boost Local Sales With Unbelievably Easy Video. When TV, CTV, And Digital Ads Are This Effortless, The Possibilities Are Limitless. High-impact Ads Are Now Open To Everyone, With Waymark.
+- [Wzrd.ai](http://wzrd.ai) - Experience Your Sound. WZRD Augments Your Audio With Immersive Video Powered By Artificial Intelligence.
 
 ---
 
@@ -3248,22 +3240,22 @@
 
 ## Video Interpolation
 
-- [3D Ken Burns Effect From Single Image](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY) - Animated Video From 2D Image
-- [3D Photo Inpainting](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/3D_Photo_Inpainting.ipynb) - Cool 3D Effects For 2D Images
-- [Animating Pictures With Eulerian Motion Fields](https://eulerian.cs.washington.edu/) - Code Not Out Yet, Looks Like It'll Be Awesome
-- [AnimationKit AI](https://colab.research.google.com/github/sadnow/AnimationKit-AI_Upscaling-Interpolation_RIFE-RealESRGAN/blob/main/AnimationKit_Rife_RealESRGAN_Upscaling_Interpolation.ipynb) - Video Upscaling And Interpolation Tool <- Great
-- [DAIN Colab](https://colab.research.google.com/github/baowenbo/DAIN/blob/master/Colab_DAIN.ipynb) - Depth Aware Interpolation
-- [EbSynth](https://ebsynth.com/) - Stylize Video By Giving It Ai Or Hand Painted Key Frames From Video
-- [ESRGAN 4 Video](https://colab.research.google.com/github/MSFTserver/AI-Colab-Notebooks/blob/main/ESRGAN_4_Video.ipynb) - Increase Resolution Of Video With ESRGAN
-- [FILM Colab](https://colab.research.google.com/drive/1tbbbnQge0yb0LmnWNchEKNhjtBNC6jX-) - By @KyrickYoung Has Pause, Loops, Reverse <- My Fave FILM
-- [FILM: Frame Interpolation For Large Motion](https://github.com/google-research/frame-interpolation) - ([Replicate Link](https://replicate.com/google-research/frame-interpolation)) Smooth Interpolation/morphing
-- [Flowframes](https://nmkd.itch.io/flowframes) - Free Windows Tool With Patreon Option, Uses RIFE And Other Models
-- [PyTTI-Tools: FILM](https://colab.research.google.com/github/pytti-tools/frame-interpolation/blob/main/PyTTI_Tools_FiLM-colab.ipynb) - @DigThatData 'S Version Of FILM For Video Frames
-- [RIFE](https://colab.research.google.com/github/HeylonNHP/RIFE-Colab/blob/main/RIFE_Colab.ipynb) - Smooth Interpolation Of Video To Increase Frame Rate
-- [Sequence Frame Interpolation](https://colab.research.google.com/drive/1VA3Mw2Cr3FoChBE7kQlqbS2W2z8DCdBB?usp=sharing) - Batch Version Of FILM
-- [Super Slomo](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb) - Another Way To Increase Frame Rate Of Video
-- [Video Art And Styling Tools](https://colab.research.google.com/drive/1Y3a76IS_dqqVqjVGuIFPu91dCUmASkB2) - By @Coskaiy (Style Transfer, Interpolation, Superres, And More)
-- [Video Enhance AI](https://www.topazlabs.com/video-enhance-ai/ref/1354/) By Topaz Labs - Commercial Upscaling And Frame Interpolation <- Excellent
+- [3D Ken Burns Effect From Single Image](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY) -  Animated Video From 2D Image
+- [3D Photo Inpainting](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/3D_Photo_Inpainting.ipynb) -  Cool 3D Effects For 2D Images
+- [Animating Pictures With Eulerian Motion Fields](https://eulerian.cs.washington.edu/) -  Code Not Out Yet, Looks Like It'll Be Awesome
+- [AnimationKit AI](https://colab.research.google.com/github/sadnow/AnimationKit-AI_Upscaling-Interpolation_RIFE-RealESRGAN/blob/main/AnimationKit_Rife_RealESRGAN_Upscaling_Interpolation.ipynb) -  Video Upscaling And Interpolation Tool <- Great
+- [DAIN Colab](https://colab.research.google.com/github/baowenbo/DAIN/blob/master/Colab_DAIN.ipynb) -  Depth Aware Interpolation
+- [EbSynth](https://ebsynth.com/) -  Stylize Video By Giving It Ai Or Hand Painted Key Frames From Video
+- [ESRGAN 4 Video](https://colab.research.google.com/github/MSFTserver/AI-Colab-Notebooks/blob/main/ESRGAN_4_Video.ipynb) -  Increase Resolution Of Video With ESRGAN
+- [FILM Colab](https://colab.research.google.com/drive/1tbbbnQge0yb0LmnWNchEKNhjtBNC6jX-) -  By @KyrickYoung Has Pause, Loops, Reverse <- My Fave FILM
+- [FILM: Frame Interpolation For Large Motion](https://github.com/google-research/frame-interpolation) -  ([Replicate Link](https://replicate.com/google-research/frame-interpolation)) - Smooth Interpolation/morphing
+- [Flowframes](https://nmkd.itch.io/flowframes) -  Free Windows Tool With Patreon Option, Uses RIFE And Other Models
+- [PyTTI-Tools: FILM](https://colab.research.google.com/github/pytti-tools/frame-interpolation/blob/main/PyTTI_Tools_FiLM-colab.ipynb) -  @DigThatData 'S Version Of FILM For Video Frames
+- [RIFE](https://colab.research.google.com/github/HeylonNHP/RIFE-Colab/blob/main/RIFE_Colab.ipynb) -  Smooth Interpolation Of Video To Increase Frame Rate
+- [Sequence Frame Interpolation](https://colab.research.google.com/drive/1VA3Mw2Cr3FoChBE7kQlqbS2W2z8DCdBB?usp=sharing) -  Batch Version Of FILM
+- [Super Slomo](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb) -  Another Way To Increase Frame Rate Of Video
+- [Video Art And Styling Tools](https://colab.research.google.com/drive/1Y3a76IS_dqqVqjVGuIFPu91dCUmASkB2) -  By @Coskaiy (Style Transfer, Interpolation, Superres, And More)
+- [Video Enhance AI](https://www.topazlabs.com/video-enhance-ai/ref/1354/) - By Topaz Labs - Commercial Upscaling And Frame Interpolation <- Excellent
 
 ---
 
@@ -3293,24 +3285,24 @@
 
 ## Assistant
 
-- [AI-Writer](http://ai-writer.com) Ai Writer™ - The Best Ai Text Generator, Promised. AI-Writer Is The Most Accurate Content Generation Platform, Using State-of-the-art AI Writing Models To Generate Articles From Just A Headline.
-- [AIKIt](http://getaikit.com) Aikit - Your Wordpress Ai Assistant Using Gpt-3
-- [Bearly Ai](http://bearly.ai) Save Hundreds Of Hours Reading And Writing With The World'S Best Ai.
-- [BlogNLP](http://www.blognlp.com) Blognlp. An AI-based Blog Writing Tool That Can Help You Craft Captivating Content Quickly And Easily, Eliminating Writer's Block And Saving You Time.
-- [Easy-Peasy. AI](http://easy-peasy.ai) Affordable Ai Writer - Easy-Peasy. Ai The Ai Content Assistant. Easy-Peasy. AI Believes That Everyone Has A Story To Tell. With Our AI Copywriting Tools, We Help You Tell Your Story In The Most Engaging Way Possible.
-- [Eilla](http://eilla.ai) Eilla Ai - Ai Content Generation Assistant
-- [Elephas](https://gumroad.com/a/411783379/ntmtp) Elephas - Personal Ai Writing Assistant For Mac, Iphone, Ipad. Save Hours Every Day. The World's First AI Writer That Works Across Your Mac, IPhone, And IPad.
-- [EssayBar](http://www.essay.bar) Essaybar—Revolutionize Your Writing With Ai-Crafted Essays!
-- [FreewriteAI](http://freewriterai.com) The Ai Writing Tool For Everyone.
-- [Paragraph AI](http://paragraphai.com) Paragraphai • Best Ai Writing App • Free Ai Writing Assistant Tool.
-- [Paraphraser](http://paraphrasetool.com) Free Paraphrasing For All Languages.
-- [Paraphraser AI](http://app.yaara.ai) Yaara—Ai-Powered Writing Assistant
-- [Rytr](http://rytr.me) Rytr - Best Ai Writer, Content Generator & Writing Assistant
-- [SmartScribe](http://www.smartscribe.app) Smartscribe - Ai Writing Assistant - Writing Made Easy. SmartScribe Helps Solve The Complexities Of Writing Through The Use Of Artificial Intelligence.
-- [Typly](http://typly.app) Typly - Conversation Level Next!. Typly Is The Ultimate Cutting Edge AI Keyboard That Helps You To Answer All Your Messages With A Single Click!🚀.
-- [WebCopilot](http://www.webcopilot.co) Webcopilot. Co ~ Notion Ai Writing Assistant. Write Your Notion Pages With AI. Speed Up Your Writing Process And Focus On What Matters. Free Forever.
-- [Wordtune](http://www.wordtune.com) Wordtune - Your Personal Writing Assistant & Editor
-- [Writefull Academizer](http://x.writefull.com) Writefull X Ai Applied To Academic Writing
+- [AI-Writer](http://ai-writer.com) - Ai Writer™ - The Best Ai Text Generator, Promised. AI-Writer Is The Most Accurate Content Generation Platform, Using State-of-the-art AI Writing Models To Generate Articles From Just A Headline.
+- [AIKIt](http://getaikit.com) - Aikit - Your Wordpress Ai Assistant Using Gpt-3
+- [Bearly Ai](http://bearly.ai) - Save Hundreds Of Hours Reading And Writing With The World'S Best Ai.
+- [BlogNLP](http://www.blognlp.com) - Blognlp. An AI-based Blog Writing Tool That Can Help You Craft Captivating Content Quickly And Easily, Eliminating Writer's Block And Saving You Time.
+- [Easy-Peasy. AI](http://easy-peasy.ai) - Affordable Ai Writer - Easy-Peasy. Ai The Ai Content Assistant. Easy-Peasy. AI Believes That Everyone Has A Story To Tell. With Our AI Copywriting Tools, We Help You Tell Your Story In The Most Engaging Way Possible.
+- [Eilla](http://eilla.ai) - Eilla Ai - Ai Content Generation Assistant
+- [Elephas](https://gumroad.com/a/411783379/ntmtp) - Elephas - Personal Ai Writing Assistant For Mac, Iphone, Ipad. Save Hours Every Day. The World's First AI Writer That Works Across Your Mac, IPhone, And IPad.
+- [EssayBar](http://www.essay.bar) - Essaybar—Revolutionize Your Writing With Ai-Crafted Essays!
+- [FreewriteAI](http://freewriterai.com) - The Ai Writing Tool For Everyone.
+- [Paragraph AI](http://paragraphai.com) - Paragraphai • Best Ai Writing App • Free Ai Writing Assistant Tool.
+- [Paraphraser](http://paraphrasetool.com) - Free Paraphrasing For All Languages.
+- [Paraphraser AI](http://app.yaara.ai) - Yaara—Ai-Powered Writing Assistant
+- [Rytr](http://rytr.me) - Rytr - Best Ai Writer, Content Generator & Writing Assistant
+- [SmartScribe](http://www.smartscribe.app) - Smartscribe - Ai Writing Assistant - Writing Made Easy. SmartScribe Helps Solve The Complexities Of Writing Through The Use Of Artificial Intelligence.
+- [Typly](http://typly.app) - Typly - Conversation Level Next!. Typly Is The Ultimate Cutting Edge AI Keyboard That Helps You To Answer All Your Messages With A Single Click!🚀.
+- [WebCopilot](http://www.webcopilot.co) - Webcopilot. Co ~ Notion Ai Writing Assistant. Write Your Notion Pages With AI. Speed Up Your Writing Process And Focus On What Matters. Free Forever.
+- [Wordtune](http://www.wordtune.com) - Wordtune - Your Personal Writing Assistant & Editor
+- [Writefull Academizer](http://x.writefull.com) - Writefull X Ai Applied To Academic Writing
 
 ---
 
