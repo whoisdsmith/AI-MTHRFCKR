@@ -507,176 +507,43 @@ ___
 
 ## Collab
 
-- [🦜 Prompt Parrot V2.5](https://colab.research.google.com/drive/1GtyVgVCwnDfRvfsHbeU0AlG-SgQn1p8e?usp=sharing)
-- [3D Ken Burns](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY)
-- [Antarctic-Captions](https://colab.research.google.com/drive/1FwGEVKXvmpeMvAYqGr4z7Nt3llaZz-F8)
-- [Client.ipynb - Colaboratory](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb)
-- [CLIP Guided Deep Image Prior](https://colab.research.google.com/drive/1_oqIK8A67EgtJDdfsuJojc5ukNzirdle)
-- [CLIP Guided Diffusion HQ 512x512 Uncond_Fast Dango233](https://colab.research.google.com/drive/14xBm1aSxQLbq26-jmDJi8I1HJ4ti5ybt)
-- [CLIP-Mesh](https://colab.research.google.com/drive/15Fm4EhLlB20EugLUnTdhSJElvGVCU7Ys?usp=sharing)
-- [Colab.research.google.com/drive/16WTAn3UQUcdaBnHEn-S6UejqYVPgHrTg](https://colab.research.google.com/drive/16WTAn3UQUcdaBnHEn-S6UejqYVPgHrTg?usp=sharing)
-- [Colab.research.google.com/drive/18jdNsxMV1QDVvGgdXYw_fzTGHRG3-niP](https://colab.research.google.com/drive/18jdNsxMV1QDVvGgdXYw_fzTGHRG3-niP)
-- [Colab.research.google.com/drive/1cJPmCCUFqVMaF--ee51RVFDCOF09Epbc](https://colab.research.google.com/drive/1cJPmCCUFqVMaF--ee51RVFDCOF09Epbc?usp=sharing)
-- [Colab.research.google.com/drive/1gWP6fSqd_vs65tI5uOGcJssGqTq2YWzO](https://colab.research.google.com/drive/1gWP6fSqd_vs65tI5uOGcJssGqTq2YWzO?usp=sharing)
-- [Colab.research.google.com/drive/1hcDA5skuzk2IoC0wkQam4i-5k7c7iR1T](https://colab.research.google.com/drive/1hcDA5skuzk2IoC0wkQam4i-5k7c7iR1T?usp=sharing)
-- [Colab.research.google.com/drive/1jOcV0sh-A2J3eCVObC9V1CQFPYKTu3rw](https://colab.research.google.com/drive/1jOcV0sh-A2J3eCVObC9V1CQFPYKTu3rw?usp=sharing)
-- [Colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17?fbclid=IwAR1uofFGi7GeZi4BX2po14DjEFE2FpnGvIdUGaudPFJxQ9Tm0KHtciqwpWQ&usp=sharing)
-- [Colab.research.google.com/drive/1jvrFECJeaCTeR52acsmp5CJalOStl-OS](https://colab.research.google.com/drive/1jvrFECJeaCTeR52acsmp5CJalOStl-OS?usp=sharing)
-- [Colab.research.google.com/drive/1JznXpirarS-zAZqXGOWRWDgFxLdL_xAU](https://colab.research.google.com/drive/1JznXpirarS-zAZqXGOWRWDgFxLdL_xAU)
-- [Colab.research.google.com/drive/1k2Zod6kSHEvraybHl50Lys0LerhyTMCo](https://colab.research.google.com/drive/1k2Zod6kSHEvraybHl50Lys0LerhyTMCo?usp=sharing)
-- [Colab.research.google.com/drive/1KDNsA0EpofIMEpd64hJCpxGhpa2lEOsi](https://colab.research.google.com/drive/1KDNsA0EpofIMEpd64hJCpxGhpa2lEOsi?usp=sharing)
-- [Colab.research.google.com/drive/1L8oL-vLJXVcRzCFbPwOoMkPKJ8-aYdPN#scrollTo=g7EDme5RYCrt](https://colab.research.google.com/drive/1L8oL-vLJXVcRzCFbPwOoMkPKJ8-aYdPN#scrollTo=g7EDme5RYCrt)
-- [Colab.research.google.com/drive/1lmXwWcs4eYMpgMrdT-xf4stS-uvFtBHT#scrollTo=OoIL7ayzq7kC](https://colab.research.google.com/drive/1lmXwWcs4eYMpgMrdT-xf4stS-uvFtBHT#scrollTo=OoIL7ayzq7kC)
-- [Colab.research.google.com/drive/1M4QKDt5ExIo3GLml0YKcJM9gfaX9ptfg](https://colab.research.google.com/drive/1M4QKDt5ExIo3GLml0YKcJM9gfaX9ptfg)
-- [Colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G](https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G)
-- [Colab.research.google.com/drive/1mrlY_mc-HdIxEHILY2BvA9u0mOjD2Ze5](https://colab.research.google.com/drive/1mrlY_mc-HdIxEHILY2BvA9u0mOjD2Ze5)
-- [Colab.research.google.com/drive/1mrlY_mc-HdIxEHILY2BvA9u0mOjD2Ze5#scrollTo=tiOsdJV4u0FY](https://colab.research.google.com/drive/1mrlY_mc-HdIxEHILY2BvA9u0mOjD2Ze5#scrollTo=tiOsdJV4u0FY)
-- [Colab.research.google.com/drive/1nmtcbQsE8sTjfLJ1u3Y4d6vi9ZTAvQph](https://colab.research.google.com/drive/1nmtcbQsE8sTjfLJ1u3Y4d6vi9ZTAvQph?usp=sharing)
-- [Colab.research.google.com/drive/1o1qYJcFeywzCIdkfKJy7cTpgZTCM2EI4](https://colab.research.google.com/drive/1o1qYJcFeywzCIdkfKJy7cTpgZTCM2EI4)
-- [Colab.research.google.com/drive/1O8yU9kBAip2FgFN8VgVVMhZmnktAVOaC](https://colab.research.google.com/drive/1O8yU9kBAip2FgFN8VgVVMhZmnktAVOaC)
-- [Colab.research.google.com/drive/1OjKvOEYUOA8d1sMPL3hBVeCryGxZW-e2](https://colab.research.google.com/drive/1OjKvOEYUOA8d1sMPL3hBVeCryGxZW-e2?usp=sharing)
-- [Colab.research.google.com/drive/1peZ98vBihDD9A1v7JdH5VvHDUuW5tcRK](https://colab.research.google.com/drive/1peZ98vBihDD9A1v7JdH5VvHDUuW5tcRK?usp=sharing)
-- [Colab.research.google.com/drive/1Pf5F84FzWe9iAKNbiPaEo_v4hvQZ9SqS](https://colab.research.google.com/drive/1Pf5F84FzWe9iAKNbiPaEo_v4hvQZ9SqS?usp=sharing)
-- [Colab.research.google.com/drive/1pHBrk8FsSmvu_TZREhZpK4jwmRBLebS_](https://colab.research.google.com/drive/1pHBrk8FsSmvu_TZREhZpK4jwmRBLebS_)
-- [Colab.research.google.com/drive/1QLrCrZlocYe6mKyYUA_9zsaU7-d4Ha1n](https://colab.research.google.com/drive/1QLrCrZlocYe6mKyYUA_9zsaU7-d4Ha1n)
-- [Colab.research.google.com/drive/1rT_NIYryAC1UNBsETm6XbgW3DWqIJnmf](https://colab.research.google.com/drive/1rT_NIYryAC1UNBsETm6XbgW3DWqIJnmf?usp=sharing)
-- [Colab.research.google.com/drive/1RXRrkKUnpNiPCxTJg0Imq7sIM8ltYFz2](https://colab.research.google.com/drive/1RXRrkKUnpNiPCxTJg0Imq7sIM8ltYFz2?usp=sharing)
-- [Colab.research.google.com/drive/1sHfRn5Y0YKYKi1k-ifUSBFRNJ8_1sa39](https://colab.research.google.com/drive/1sHfRn5Y0YKYKi1k-ifUSBFRNJ8_1sa39)
-- [Colab.research.google.com/drive/1tbbbnQge0yb0LmnWNchEKNhjtBNC6jX-](https://colab.research.google.com/drive/1tbbbnQge0yb0LmnWNchEKNhjtBNC6jX-)
-- [Colab.research.google.com/drive/1TBo4saFn1BCSfgXsmREFrUl3zSQFg6CC](https://colab.research.google.com/drive/1TBo4saFn1BCSfgXsmREFrUl3zSQFg6CC)
-- [Colab.research.google.com/drive/1tf-xUjhYm0p4pQSyKD-jq6EAGl_L5Al0#scrollTo=XYNwvEy3HH49](https://colab.research.google.com/drive/1tf-xUjhYm0p4pQSyKD-jq6EAGl_L5Al0#scrollTo=XYNwvEy3HH49)
-- [Colab.research.google.com/drive/1tgM0sI6suaaBEfYZwMEDzgsjnizuf5UC](https://colab.research.google.com/drive/1tgM0sI6suaaBEfYZwMEDzgsjnizuf5UC)
-- [Colab.research.google.com/drive/1tuoAC5F4sC7qid56Z0ap-stR3rwdk0ZV#scrollTo=pohtQ8AfWNk_](https://colab.research.google.com/drive/1tuoAC5F4sC7qid56Z0ap-stR3rwdk0ZV?usp=sharing#scrollTo=pohtQ8AfWNk_)
-- [Colab.research.google.com/drive/1Tw_gOowjYuWMuX122rrXTd-RV3A8u_ZD](https://colab.research.google.com/drive/1Tw_gOowjYuWMuX122rrXTd-RV3A8u_ZD?usp=sharing)
-- [Colab.research.google.com/drive/1u5-zA330gbNGKVfXMW5e3cmllbfafNNB](https://colab.research.google.com/drive/1u5-zA330gbNGKVfXMW5e3cmllbfafNNB?usp=sharing)
-- [Colab.research.google.com/drive/1UxaormHsBgqQN8hM3AnmR87k-sweqIBB](https://colab.research.google.com/drive/1UxaormHsBgqQN8hM3AnmR87k-sweqIBB?usp=sharing)
-- [Colab.research.google.com/drive/1VA3Mw2Cr3FoChBE7kQlqbS2W2z8DCdBB](https://colab.research.google.com/drive/1VA3Mw2Cr3FoChBE7kQlqbS2W2z8DCdBB?usp=sharing)
-- [Colab.research.google.com/drive/1vkuxKKeSYNYI2OLZm8mR-WqcokQtSURM](https://colab.research.google.com/drive/1vkuxKKeSYNYI2OLZm8mR-WqcokQtSURM?usp=sharing)
-- [Colab.research.google.com/drive/1x4p2PokZ3XznBn35Q5BBD6K6Zs-tot5t](https://colab.research.google.com/drive/1x4p2PokZ3XznBn35Q5BBD6K6Zs-tot5t?usp=sharing)
-- [Colab.research.google.com/drive/1xghRe23MFDTF_nZaE423V9x5S8F3Z4Ri](https://colab.research.google.com/drive/1xghRe23MFDTF_nZaE423V9x5S8F3Z4Ri)
-- [Colab.research.google.com/drive/1Y3a76IS_dqqVqjVGuIFPu91dCUmASkB2](https://colab.research.google.com/drive/1Y3a76IS_dqqVqjVGuIFPu91dCUmASkB2)
-- [Colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD](https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD?usp=sharing)
-- [Colab.research.google.com/drive/1YlWt--P9w25JUs8bHBOuf8GcMkx-hocP](https://colab.research.google.com/drive/1YlWt--P9w25JUs8bHBOuf8GcMkx-hocP?usp=sharing)
-- [Colab.research.google.com/drive/1yOpCY9eXvzELHppvh-o0DevhxVYOGr5i](https://colab.research.google.com/drive/1yOpCY9eXvzELHppvh-o0DevhxVYOGr5i)
-- [Colab.research.google.com/drive/1z1RF3hcqEQLNue_lJ_63ipemHXUYwxHi](https://colab.research.google.com/drive/1z1RF3hcqEQLNue_lJ_63ipemHXUYwxHi?usp=sharing)
-- [Colab.research.google.com/drive/1Z5kK1WXTkYoMAVN6FqkQg0Fa4bE5BnxG](https://colab.research.google.com/drive/1Z5kK1WXTkYoMAVN6FqkQg0Fa4bE5BnxG?usp=sharing)
-- [Colab.research.google.com/drive/1ZEnJE-EUnh-aCXJbu0kVhi8_Qdi2BV-S](https://colab.research.google.com/drive/1ZEnJE-EUnh-aCXJbu0kVhi8_Qdi2BV-S)
-- [Colab.research.google.com/drive/1ZHg3aaKNts1ZWtIyVFpI_f8khMsNZe1q](https://colab.research.google.com/drive/1ZHg3aaKNts1ZWtIyVFpI_f8khMsNZe1q)
-- [Colab.research.google.com/drive/1ZZWvzsqjEHNn1qevQ4ed7Ozs4vij7qfc](https://colab.research.google.com/drive/1ZZWvzsqjEHNn1qevQ4ed7Ozs4vij7qfc?usp=sharing)
-- [Colab.research.google.com/gist/afiaka87/8655b15c94bf0e80f586ce54cfe39ab5/laionide-v3.ipynb](https://colab.research.google.com/gist/afiaka87/8655b15c94bf0e80f586ce54cfe39ab5/laionide-v3.ipynb)
-- [Colab.research.google.com/gist/austinhquinn/52c9a845a3ede3541bf3890efda276e0/pydub-audio-to-disco-diffusion-keyframe-generator-v0-1.ipynb](https://colab.research.google.com/gist/austinhquinn/52c9a845a3ede3541bf3890efda276e0/pydub-audio-to-disco-diffusion-keyframe-generator-v0-1.ipynb)
-- [Colab.research.google.com/github/0xLufiQ/DifNESFusion-1.0/blob/main/DifNESfusion_1_35.ipynb](https://colab.research.google.com/github/0xLufiQ/DifNESFusion-1.0/blob/main/DifNESfusion_1_35.ipynb)
-- [Colab.research.google.com/github/aicrumb/doohickey/blob/main/Doohickey_Diffusion.ipynb](https://colab.research.google.com/github/aicrumb/doohickey/blob/main/Doohickey_Diffusion.ipynb)
-- [Colab.research.google.com/github/akira-sasaki/playground/blob/main/CogView2.ipynb](https://colab.research.google.com/github/akira-sasaki/playground/blob/main/CogView2.ipynb)
-- [Colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)
-- [Colab.research.google.com/github/altryne/sd-webui-colab/blob/main/Stable_Diffusion_WebUi_Altryne.ipynb](https://colab.research.google.com/github/altryne/sd-webui-colab/blob/main/Stable_Diffusion_WebUi_Altryne.ipynb)
-- [Colab.research.google.com/github/amrrs/stable-diffusion-v2-colab-ui/blob/main/How_to_use_Stable_Diffusion_2_0_with_Diffusers.ipynb](https://colab.research.google.com/github/amrrs/stable-diffusion-v2-colab-ui/blob/main/How_to_use_Stable_Diffusion_2_0_with_Diffusers.ipynb)
-- [Colab.research.google.com/github/apolinario/multimodalai/blob/main/Loud_Disco_Diffusion_v5_Turbo_%5Bw_3D_animation%5D.ipynb](https://colab.research.google.com/github/apolinario/multimodalai/blob/main/Loud_Disco_Diffusion_v5_Turbo_[w_3D_animation].ipynb)
-- [Colab.research.google.com/github/avantcontra/ukiyoe-portrait-diffusion/blob/main/Ukiyoe_Portrait_Diffusion.ipynb](https://colab.research.google.com/github/avantcontra/ukiyoe-portrait-diffusion/blob/main/Ukiyoe_Portrait_Diffusion.ipynb)
-- [Colab.research.google.com/github/baowenbo/DAIN/blob/master/Colab_DAIN.ipynb](https://colab.research.google.com/github/baowenbo/DAIN/blob/master/Colab_DAIN.ipynb)
-- [Colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb](https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb)
-- [Colab.research.google.com/github/cpacker/stable-diffusion/blob/interactive-notebook/scripts/stable_diffusion_interactive_colab.ipynb](https://colab.research.google.com/github/cpacker/stable-diffusion/blob/interactive-notebook/scripts/stable_diffusion_interactive_colab.ipynb)
-- [Colab.research.google.com/github/Dango233/PrincessGenerator/blob/main/Latent_Princess_Generator.ipynb](https://colab.research.google.com/github/Dango233/PrincessGenerator/blob/main/Latent_Princess_Generator.ipynb)
-- [Colab.research.google.com/github/deezer/spleeter/blob/master/spleeter.ipynb](https://colab.research.google.com/github/deezer/spleeter/blob/master/spleeter.ipynb)
-- [Colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb](https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)
-- [Colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)
-- [Colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb](https://colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb)
-- [Colab.research.google.com/github/dvschultz/stylegan2-ada-pytorch/blob/main/SG2_ADA_PyTorch.ipynb](https://colab.research.google.com/github/dvschultz/stylegan2-ada-pytorch/blob/main/SG2_ADA_PyTorch.ipynb)
-- [Colab.research.google.com/github/dvschultz/stylegan3/blob/main/SG3.ipynb](https://colab.research.google.com/github/dvschultz/stylegan3/blob/main/SG3.ipynb)
-- [Colab.research.google.com/github/ekgren/StructuredDreaming/blob/main/colabs/Structured_Dreaming_Styledreams.ipynb](https://colab.research.google.com/github/ekgren/StructuredDreaming/blob/main/colabs/Structured_Dreaming_Styledreams.ipynb)
-- [Colab.research.google.com/github/entmike/disco-diffusion-1/blob/main/Simplified_Disco_Diffusion.ipynb](https://colab.research.google.com/github/entmike/disco-diffusion-1/blob/main/Simplified_Disco_Diffusion.ipynb)
-- [Colab.research.google.com/github/eps696/aphantasia/blob/master/IllusTrip3D.ipynb](https://colab.research.google.com/github/eps696/aphantasia/blob/master/IllusTrip3D.ipynb)
-- [Colab.research.google.com/github/ethansmith2000/MathRock-Diffusion/blob/main/ES2000_MathRock_Diffusion.ipynb](https://colab.research.google.com/github/ethansmith2000/MathRock-Diffusion/blob/main/ES2000_MathRock_Diffusion.ipynb)
-- [Colab.research.google.com/github/FeiArt-Ai/Handpainted-CG-Diffusion/blob/main/FeiArt_Handpainted_CG_Diffusion.ipynb](https://colab.research.google.com/github/FeiArt-Ai/Handpainted-CG-Diffusion/blob/main/FeiArt_Handpainted_CG_Diffusion.ipynb)
-- [Colab.research.google.com/github/fzantalis/colab_collection/blob/master/3D_Photo_Inpainting.ipynb](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/3D_Photo_Inpainting.ipynb)
-- [Colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb)
-- [Colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Finetune_Dance_Diffusion.ipynb](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Finetune_Dance_Diffusion.ipynb)
-- [Colab.research.google.com/github/HeylonNHP/RIFE-Colab/blob/main/RIFE_Colab.ipynb](https://colab.research.google.com/github/HeylonNHP/RIFE-Colab/blob/main/RIFE_Colab.ipynb)
-- [Colab.research.google.com/github/huemin-art/jax-guided-diffusion/blob/v2.7/Huemin_Jax_Diffusion_2_7.ipynb](https://colab.research.google.com/github/huemin-art/jax-guided-diffusion/blob/v2.7/Huemin_Jax_Diffusion_2_7.ipynb)
-- [Colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
-- [Colab.research.google.com/github/jags111/floral-diffusion/blob/main/Floral_Diffusion_V1_DD_v5_6.ipynb](https://colab.research.google.com/github/jags111/floral-diffusion/blob/main/Floral_Diffusion_V1_DD_v5_6.ipynb)
-- [Colab.research.google.com/github/jmoso13/Painting_with_StyleGAN/blob/main/Painting_with_StyleGAN.ipynb](https://colab.research.google.com/github/jmoso13/Painting_with_StyleGAN/blob/main/Painting_with_StyleGAN.ipynb)
-- [Colab.research.google.com/github/KaliYuga-ai/Lithography-Diffusion/blob/main/Lithography_Diffusion_v1_0.ipynb](https://colab.research.google.com/github/KaliYuga-ai/Lithography-Diffusion/blob/main/Lithography_Diffusion_v1_0.ipynb)
-- [Colab.research.google.com/github/KaliYuga-ai/Medieval-Diffusion/blob/main/Medieval_Diffusion_v1_0.ipynb](https://colab.research.google.com/github/KaliYuga-ai/Medieval-Diffusion/blob/main/Medieval_Diffusion_v1_0.ipynb)
-- [Colab.research.google.com/github/KaliYuga-ai/Pixel-Art-Diffusion/blob/main/Pixel_Art_Diffusion_v2_01.ipynb](https://colab.research.google.com/github/KaliYuga-ai/Pixel-Art-Diffusion/blob/main/Pixel_Art_Diffusion_v2_01.ipynb)
-- [Colab.research.google.com/github/KaliYuga-ai/Pixel-Art-Diffusion/blob/main/Pixel_Art_Diffusion_v3_0_(With_Disco_Symmetry).ipynb](https://colab.research.google.com/github/KaliYuga-ai/Pixel-Art-Diffusion/blob/main/Pixel_Art_Diffusion_v3_0_(With_Disco_Symmetry).ipynb)
-- [Colab.research.google.com/github/KaliYuga-ai/Pulp-Sci-Fi-Diffusion/blob/main/Pulp_Sci_Fi_Diffusion_v1_0.ipynb](https://colab.research.google.com/github/KaliYuga-ai/Pulp-Sci-Fi-Diffusion/blob/main/Pulp_Sci_Fi_Diffusion_v1_0.ipynb)
-- [Colab.research.google.com/github/KaliYuga-ai/Textile-Diffusion/blob/main/Textile_Diffusion_v1_0.ipynb](https://colab.research.google.com/github/KaliYuga-ai/Textile-Diffusion/blob/main/Textile_Diffusion_v1_0.ipynb)
-- [Colab.research.google.com/github/KaliYuga-ai/Watercolor-Diffusion/blob/main/Watercolor_Diffusion_v1_0.ipynb](https://colab.research.google.com/github/KaliYuga-ai/Watercolor-Diffusion/blob/main/Watercolor_Diffusion_v1_0.ipynb)
-- [Colab.research.google.com/github/KaliYugaa/Pixel-Art-Diffusion/blob/main/Pixel_Art_Diffusion_v1_0.ipynb](https://colab.research.google.com/github/KaliYugaa/Pixel-Art-Diffusion/blob/main/Pixel_Art_Diffusion_v1_0.ipynb)
-- [Colab.research.google.com/github/kostarion/disco_diffusion_inpainting_colab/blob/main/Disco_Diffusion_v5_6%2C_Inpainting_mode_by_cut_pow.ipynb](https://colab.research.google.com/github/kostarion/disco_diffusion_inpainting_colab/blob/main/Disco_Diffusion_v5_6%2C_Inpainting_mode_by_cut_pow.ipynb)
-- [Colab.research.google.com/github/kostarion/guided-diffusion/blob/main/Disco_Diffusion_v5_2_%5Bw_VR_Mode%5D_%2B_symmetry.ipynb](https://colab.research.google.com/github/kostarion/guided-diffusion/blob/main/Disco_Diffusion_v5_2_[w_VR_Mode]_%2B_symmetry.ipynb)
-- [Colab.research.google.com/github/lavista9008/fantasydiffusion/blob/main/Fantasy_Diffusion.ipynb](https://colab.research.google.com/github/lavista9008/fantasydiffusion/blob/main/Fantasy_Diffusion.ipynb)
-- [Colab.research.google.com/github/MSFTserver/AI-Colab-Notebooks/blob/main/ESRGAN_4_Video.ipynb](https://colab.research.google.com/github/MSFTserver/AI-Colab-Notebooks/blob/main/ESRGAN_4_Video.ipynb)
-- [Colab.research.google.com/github/MSFTserver/PrincessGenerator/blob/main/Colab_Diffusion_V_Princess_Generator_Victoria.ipynb](https://colab.research.google.com/github/MSFTserver/PrincessGenerator/blob/main/Colab_Diffusion_V_Princess_Generator_Victoria.ipynb)
-- [Colab.research.google.com/github/multimodalart/latent-diffusion-notebook/blob/main/Latent_Diffusion_LAION_400M_model_text_to_image.ipynb](https://colab.research.google.com/github/multimodalart/latent-diffusion-notebook/blob/main/Latent_Diffusion_LAION_400M_model_text_to_image.ipynb)
-- [Colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/latent.ipynb](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/latent.ipynb)
-- [Colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/v.ipynb](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/v.ipynb)
-- [Colab.research.google.com/github/neonsecret/stable-diffusion/blob/main/optimized_colab.ipynb](https://colab.research.google.com/github/neonsecret/stable-diffusion/blob/main/optimized_colab.ipynb)
-- [Colab.research.google.com/github/nousr/robo-diffusion/blob/main/robo_diffusion_v1.ipynb](https://colab.research.google.com/github/nousr/robo-diffusion/blob/main/robo_diffusion_v1.ipynb)
-- [Colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb](https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb)
-- [Colab.research.google.com/github/orpatashnik/StyleCLIP/blob/main/notebooks/StyleCLIP_global.ipynb#scrollTo=deFVuu4drKHp](https://colab.research.google.com/github/orpatashnik/StyleCLIP/blob/main/notebooks/StyleCLIP_global.ipynb#scrollTo=deFVuu4drKHp)
-- [Colab.research.google.com/github/ouhenio/StyleGAN3-CLIP-notebook/blob/main/StyleGAN3%2BCLIP.ipynb](https://colab.research.google.com/github/ouhenio/StyleGAN3-CLIP-notebook/blob/main/StyleGAN3%2BCLIP.ipynb)
-- [Colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_AnimationPreview.ipynb](https://colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_AnimationPreview.ipynb)
-- [Colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_ImageSorter.ipynb](https://colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_ImageSorter.ipynb)
-- [Colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_rudalle.ipynb](https://colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_rudalle.ipynb)
-- [Colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_Stable_Diffusion.ipynb](https://colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_Stable_Diffusion.ipynb)
-- [Colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb)
-- [Colab.research.google.com/github/pharmapsychotic/latent-diffusion/blob/main/Latent_Diffusion_with_LAION_400M.ipynb](https://colab.research.google.com/github/pharmapsychotic/latent-diffusion/blob/main/Latent_Diffusion_with_LAION_400M.ipynb)
-- [Colab.research.google.com/github/pytti-tools/frame-interpolation/blob/main/PyTTI_Tools_FiLM-colab.ipynb](https://colab.research.google.com/github/pytti-tools/frame-interpolation/blob/main/PyTTI_Tools_FiLM-colab.ipynb)
-- [Colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb)
-- [Colab.research.google.com/github/qunash/stable-diffusion-2-gui/blob/main/stable_diffusion_2_0.ipynb](https://colab.research.google.com/github/qunash/stable-diffusion-2-gui/blob/main/stable_diffusion_2_0.ipynb)
-- [Colab.research.google.com/github/sadnow/360Diffusion/blob/main/360Diffusion_Public.ipynb](https://colab.research.google.com/github/sadnow/360Diffusion/blob/main/360Diffusion_Public.ipynb)
-- [Colab.research.google.com/github/sadnow/AnimationKit-AI_Upscaling-Interpolation_RIFE-RealESRGAN/blob/main/AnimationKit_Rife_RealESRGAN_Upscaling_Interpolation.ipynb](https://colab.research.google.com/github/sadnow/AnimationKit-AI_Upscaling-Interpolation_RIFE-RealESRGAN/blob/main/AnimationKit_Rife_RealESRGAN_Upscaling_Interpolation.ipynb)
-- [Colab.research.google.com/github/Skquark/structured-prompt-generator/blob/main/DiscoArt_%5B_w_Batch_Prompts_%26_GPT_3_Generator%5D.ipynb](https://colab.research.google.com/github/Skquark/structured-prompt-generator/blob/main/DiscoArt_[_w_Batch_Prompts_%26_GPT_3_Generator].ipynb)
-- [Colab.research.google.com/github/sony/ai-research-code/blob/master/d3net/music-source-separation/D3Net-MSS.ipynb](https://colab.research.google.com/github/sony/ai-research-code/blob/master/d3net/music-source-separation/D3Net-MSS.ipynb)
-- [Colab.research.google.com/github/spacerockzero/EclecticBeams-AI-notebooks/blob/main/Paint_Pour_Diffusion_v1_0_%5BDD_5_6%5D.ipynb](https://colab.research.google.com/github/spacerockzero/EclecticBeams-AI-notebooks/blob/main/Paint_Pour_Diffusion_v1_0_[DD_5_6].ipynb)
-- [Colab.research.google.com/github/Sxela/DiscoDiffusion-Warp/blob/main/Disco_Diffusion_v5_2_Warp.ipynb](https://colab.research.google.com/github/Sxela/DiscoDiffusion-Warp/blob/main/Disco_Diffusion_v5_2_Warp.ipynb)
-- [Colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb)
-- [Colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_hlky.ipynb](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_hlky.ipynb)
-- [Colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb)
-- [Colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb)
-- [Colab.research.google.com/github/visoutre/ai-notebooks/blob/main/Stable_Diffusion_Batch.ipynb](https://colab.research.google.com/github/visoutre/ai-notebooks/blob/main/Stable_Diffusion_Batch.ipynb)
-- [Colab.research.google.com/github/vsewall/too_motion-colab-notebooks/blob/main/audio_reactive_video_v1_1.ipynb](https://colab.research.google.com/github/vsewall/too_motion-colab-notebooks/blob/main/audio_reactive_video_v1_1.ipynb)
-- [Colab.research.google.com/github/WASasquatch/disco-diffusion-portrait-playground/blob/main/WAS's_Disco_Diffusion_v5_6_9_%5BPortrait_Generator_Playground%5D.ipynb](https://colab.research.google.com/github/WASasquatch/disco-diffusion-portrait-playground/blob/main/WAS's_Disco_Diffusion_v5_6_9_[Portrait_Generator_Playground].ipynb)
-- [Colab.research.google.com/github/WASasquatch/discostream/blob/main/DiscoStream.ipynb](https://colab.research.google.com/github/WASasquatch/discostream/blob/main/DiscoStream.ipynb)
-- [Colab.research.google.com/github/WASasquatch/easydiffusion/blob/main/Stability_AI_Easy_Diffusion.ipynb](https://colab.research.google.com/github/WASasquatch/easydiffusion/blob/main/Stability_AI_Easy_Diffusion.ipynb)
-- [Colab.research.google.com/github/WASasquatch/noodle-soup-prompts/blob/main/Noodle_Soup_Prompts_Prompt_Terminology_Generator_v2_1.ipynb](https://colab.research.google.com/github/WASasquatch/noodle-soup-prompts/blob/main/Noodle_Soup_Prompts_Prompt_Terminology_Generator_v2_1.ipynb)
-- [Colab.research.google.com/github/Zalring/Centipede_Diffusion/blob/main/Centipede_Diffusion.ipynb](https://colab.research.google.com/github/Zalring/Centipede_Diffusion/blob/main/Centipede_Diffusion.ipynb)
-- [Colab.research.google.com/github/zippy731/disco-diffusion-turbo/blob/main/Disco_Diffusion_v5_Turbo_%5Bw_3D_animation%5D.ipynb](https://colab.research.google.com/github/zippy731/disco-diffusion-turbo/blob/main/Disco_Diffusion_v5_Turbo_[w_3D_animation].ipynb)
-- [Colab.research.google.com/github/zippy731/wiggle/blob/main/Wiggle_Standalone_5_0.ipynb](https://colab.research.google.com/github/zippy731/wiggle/blob/main/Wiggle_Standalone_5_0.ipynb)
-- [DALL·E Mini - Inference Pipeline.ipynb - Colaboratory](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
-- [Disco Diffusion V3](https://colab.research.google.com/drive/1bItz4NdhAPHg5-u87KcH-MmJZjK-XqHN)
-- [Disco Diffusion V4 - Now With Zooming And Chigozienri Keyframing](https://colab.research.google.com/drive/1DHvr-DSNtlpvf0HgI0QmCLSe_PtShzPH?usp=sharing)
-- [Disco Diffusion V5.2 - Dynamic Prompting](https://colab.research.google.com/drive/1D-PX1x0rKY3c5jL8L215n_PyjzF4dJn_?usp=sharing)
-- [GLIDE](https://colab.research.google.com/drive/13lvp0yPfM4adWlPv73dtX57A0H5A6PWn?usp=sharing)
-- [Journey To The BAOAB-limit: Finding Effective MCMC Samplers For Score-based Models](https://colab.research.google.com/drive/17kesyBVqubV_Zzchf2XoR-7MHk5jxTuo?usp=sharing)
-- [Liminal Diffusion Beta](https://colab.research.google.com/drive/11Bs4wCs9R84DVAwDb3MkvDAd8V_Mw1e6)
-- [Looking Glass V1.3](https://colab.research.google.com/drive/15vFLeepkSTr1qd4xs31g9kMEiwkWP0sh)
-- [Looking Glass V1.4](https://colab.research.google.com/drive/15MQTRMqc7yn626PiC3KPb-DvVx_FrBAr)
-- [Looking Glass V1.5](https://colab.research.google.com/drive/1gr0dSCcFH_hYjbAPuThwAxbA1T8DD1Od?usp=sharing)
-- [Mad-libbed Prompt Generator](https://colab.research.google.com/drive/1gGwD0zDvyx0OnJU4KLjE8HrwnTlzI2rS)
-- [MindsEye Beta](https://colab.research.google.com/drive/1cg0LZ5OfN9LAIB37Xq49as0fSJxcKtC5)
-- [Mse Regularized Modified](https://colab.research.google.com/drive/1gFn9u3oPOgsNzJWEFmdK-N9h_y65b8fj)
-- [Nshepperd's JAX CLIP Guided Diffusion V2.3](https://colab.research.google.com/drive/12Bod44YVIXYRh39WRqp0kNz8OUBNFk9Z?usp=sharing)
-- [Nshepperd's JAX CLIP Guided Diffusion V2.6](https://colab.research.google.com/drive/1fW_tPEX7iD3xZK3VBDQ_Y2WnfdSzpacM?usp=sharing)
-- [Personality CLIP](https://colab.research.google.com/drive/171GirNbCVc-ScyBynI3Uy2fgYcmW3BB9?usp=sharing)
-- [PIFuHD Demo](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt)
-- [QoL Tweaks Nshepperd's JAX CLIP Guided Diffusion V2.6? WIP](https://colab.research.google.com/drive/12ecr18kOuzE5I6wLm5BwQXBznLDXut4z#scrollTo=DiQ-zsUVZAo4)
-- [SD GUITard By Daswer123 - Colaboratory](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing)
-- [Simple Stable](https://colab.research.google.com/drive/1BRvQ6sseZxDDOv_b-ngVR0UdRG8P0Qd4?usp=sharing)
-- [Stable Diffusion AI Notebook](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb)
-- [Stable Diffusion Interpolation V2.2](https://colab.research.google.com/drive/1EHZtFjQoRr-bns1It5mTcOVyZzZD9bBc?usp=sharing)
-- [StableDiffusionUI-Voldemort V1.3.ipynb - Colaboratory](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl)
-- [StyleGAN-Humans + CLIP 🖼️](Https://colab.research.google.com/drive/1H-rGlKbILaZbDfTsrQqSxw2fH7y2elg6?usp=sharing)
-- [StyleGAN3](https://colab.research.google.com/drive/1BXNHZBai-pXtP-ncliouXo_kUiG1Pq7M?usp=sharing)
-- [SuperRes Diffusion: Batch Upscaling & Super Resolution With Latent-Diffusion](https://colab.research.google.com/drive/19euI_7GAgbvMoZsuPj9SZseDeuFnwBj8)
-- [Usage-rudalle-aspect-ratio](https://colab.research.google.com/drive/124zC1w2qHR1ijfEPQVvLccLRBLD_3duG?usp=sharing)
-- [Weeb_half-full](https://colab.research.google.com/drive/139WqHPDrrXhgtMSNANkWBhK0H_qC7kGO?usp=sharing)
-- [Zags_Main_3.7](https://colab.research.google.com/drive/1dbd9fEE7kAAeBlWyFVzpUO6mUcoPRBiX)
-- [Zero-Shot Text-Guided Object Generation With Dream Fields](https://colab.research.google.com/drive/17GtPqdUCbG5CsmTnQFecPpoq_zpNKX7A?usp=sharing)
+
+- [🦜 Prompt Parrot V2.5](https://colab.research.google.com/drive/1GtyVgVCwnDfRvfsHbeU0AlG-SgQn1p8e?usp=sharing) - This URL is for a Google Colab notebook that provides the code for "Prompt Parrot V2.5".
+- [3D Ken Burns](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY) - This URL is for a Google Colab notebook that provides the code for "3D Ken Burns".
+- [Antarctic-Captions](https://colab.research.google.com/drive/1FwGEVKXvmpeMvAYqGr4z7Nt3llaZz-F8) - This URL is for a Google Colab notebook that provides the code for "Antarctic-Captions".
+- [Client.ipynb - Colaboratory](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) - This URL is for a Google Colab notebook that provides the code for "Client.ipynb" within the "dalle-flow" GitHub repository.
+- [CLIP Guided Deep Image Prior](https://colab.research.google.com/drive/1_oqIK8A67EgtJDdfsuJojc5ukNzirdle) - This URL is for a Google Colab notebook that provides the code for "CLIP Guided Deep Image Prior".
+- [CLIP Guided Diffusion HQ 512x512 Uncond_Fast Dango233](https://colab.research.google.com/drive/14xBm1aSxQLbq26-jmDJi8I1HJ4ti5ybt) - This URL is for a Google Colab notebook that provides the code for "CLIP Guided Diffusion HQ 512x512 Uncond_Fast Dango233".
+- [CLIP-Mesh](https://colab.research.google.com/drive/15Fm4EhLlB20EugLUnTdhSJElvGVCU7Ys?usp=sharing) - This URL is for a Google Colab notebook that provides the code for "CLIP-Mesh".
+*   [DALL·E Mini - Inference Pipeline.ipynb - Colaboratory](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)*   This is a Colaboratory notebook that showcases the inference pipeline for DALL·E Mini, an image generation model.
+*   [Disco Diffusion V3](https://colab.research.google.com/drive/1bItz4NdhAPHg5-u87KcH-MmJZjK-XqHN)*   This is a Colaboratory notebook that showcases version 3 of Disco Diffusion, a generative model.
+*   [Disco Diffusion V4 - Now With Zooming And Chigozienri Keyframing](https://colab.research.google.com/drive/1DHvr-DSNtlpvf0HgI0QmCLSe_PtShzPH?usp=sharing)*   This is a Colaboratory notebook that showcases version 4 of Disco Diffusion, a generative model with new features for zooming and keyframing.
+*   [Disco Diffusion V5.2 - Dynamic Prompting](https://colab.research.google.com/drive/1D-PX1x0rKY3c5jL8L215n_PyjzF4dJn_?usp=sharing)*   This is a Colaboratory notebook that showcases version 5.2 of Disco Diffusion, a generative model with new dynamic prompting feature.
+*   [GLIDE](https://colab.research.google.com/drive/13lvp0yPfM4adWlPv73dtX57A0H5A6PWn?usp=sharing)*   This is a Colaboratory notebook for GLIDE, a generative model.
+*   [Journey To The BAOAB-limit: Finding Effective MCMC Samplers For Score-based Models](https://colab.research.google.com/drive/17kesyBVqubV_Zzchf2XoR-7MHk5jxTuo?usp=sharing)*   This is a Colaboratory notebook that explores the journey to finding effective Markov Chain Monte Carlo (MCMC) samplers for score-based models using the BAOAB method.
+*   [Liminal Diffusion Beta](https://colab.research.google.com/drive/11Bs4wCs9R84DVAwDb3MkvDAd8V_Mw1e6)*   This is a Colaboratory notebook that showcases the beta version of Liminal Diffusion, a generative model.
+*   [Looking Glass V1.3](https://colab.research.google.com/drive/15vFLeepkSTr1qd4xs31g9kMEiwkWP0sh)*   This is a Colaboratory notebook that showcases version 1.3 of Looking Glass, a generative model.
+- [Looking Glass V1.5](https://colab.research.google.com/drive/1gr0dSCcFH_hYjbAPuThwAxbA1T8DD1Od?usp=sharing) - This is a version 1.5 of the "Looking Glass" tool.
+- [Mad-libbed Prompt Generator](https://colab.research.google.com/drive/1gGwD0zDvyx0OnJU4KLjE8HrwnTlzI2rS) - This is a tool to generate "mad-libbed" prompts.
+- [MindsEye Beta](https://colab.research.google.com/drive/1cg0LZ5OfN9LAIB37Xq49as0fSJxcKtC5) - This is a beta version of the "MindsEye" tool.
+- [Mse Regularized Modified](https://colab.research.google.com/drive/1gFn9u3oPOgsNzJWEFmdK-N9h_y65b8fj) - This is a modified version of the "MSE Regularized" tool.
+- [Nshepperd's JAX CLIP Guided Diffusion V2.3](https://colab.research.google.com/drive/12Bod44YVIXYRh39WRqp0kNz8OUBNFk9Z?usp=sharing) - This is version 2.3 of Nshepperd's "JAX CLIP Guided Diffusion" tool.
+- [Nshepperd's JAX CLIP Guided Diffusion V2.6](https://colab.research.google.com/drive/1fW_tPEX7iD3xZK3VBDQ_Y2WnfdSzpacM?usp=sharing) - This is version 2.6 of Nshepperd's "JAX CLIP Guided Diffusion" tool.
+- [Personality CLIP](https://colab.research.google.com/drive/171GirNbCVc-ScyBynI3Uy2fgYcmW3BB9?usp=sharing) - This is a tool for "Personality CLIP".
+- [PIFuHD Demo](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt) - This is a demo for the "PIFuHD" tool.
+- [QoL Tweaks Nshepperd's JAX CLIP Guided Diffusion V2.6? WIP](https://colab.research.google.com/drive/12ecr18kOuzE5I6wLm5BwQXBznLDXut4z#scrollTo=DiQ-zsUVZAo4) - A Google Colab notebook for Quality of Life Tweaks to Nshepperd's JAX CLIP Guided Diffusion, version 2.6 (Work In Progress)
+- [SD GUITard By Daswer123 - Colaboratory](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing) - A Google Colab notebook for SD GUITard by Daswer123.
+- [Simple Stable](https://colab.research.google.com/drive/1BRvQ6sseZxDDOv_b-ngVR0UdRG8P0Qd4?usp=sharing) - A Google Colab notebook for Simple Stable.
+- [Stable Diffusion AI Notebook](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - A Google Colab notebook for Stable Diffusion AI.
+- [Stable Diffusion Interpolation V2.2](https://colab.research.google.com/drive/1EHZtFjQoRr-bns1It5mTcOVyZzZD9bBc?usp=sharing) - A Google Colab notebook for Stable Diffusion Interpolation, version 2.2.
+- [StableDiffusionUI-Voldemort V1.3.ipynb - Colaboratory](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - A Google Colab notebook for StableDiffusionUI-Voldemort, version 1.3.
+- [StyleGAN-Humans + CLIP 🖼️](Https://colab.research.google.com/drive/1H-rGlKbILaZbDfTsrQqSxw2fH7y2elg6?usp=sharing) - A Google Colab notebook for StyleGAN-Humans + CLIP.
+- [StyleGAN3](https://colab.research.google.com/drive/1BXNHZBai-pXtP-ncliouXo_kUiG1Pq7M?usp=sharing) - A Google Colab notebook for StyleGAN3.
+- [SuperRes Diffusion: Batch Upscaling & Super Resolution With Latent-Diffusion](https://colab.research.google.com/drive/19euI_7GAgbvMoZsuPj9SZseDeuFnwBj8) - A Google Colab notebook for SuperRes Diffusion, a tool for batc.  upscaling and super resolution with latent-diffusion.
+
 
 ---
+
 
 ## Editing
 
