@@ -8,22 +8,12 @@ Natural# To Be Added
 
 # 3D
 
-- [Text To Mesh](https://www.nasir.lol/clipmesh) - A Web-based Tool That Converts Text Into 3D Meshes That Can Be Used In A Variety Of Contexts.  
-- [Ponzu.gg](http://www.ponzu.gg) - Seasoning 3D assets with AI-generated textures.  
-- [Make3D](http://make3d.app) - Make Your Image 3D  
-- [GET3D](https://nv-tlabs.github.io/GET3D) - An AI-powered Platform For Creating 3D Models From 2D Images  
-- [QuiltCreate](http://www.quiltcreate.com) - A Platform For Creating And Sharing 3D Models And Animations Using AI.  
-- [DreamFusion](https://dreamfusion3d.github.io/) - A Platform For Creating 3D Models Using AI.  
+
 
 
 # Apps
 
-- [Rizz!](http://rizzai.com) - The world's most powerful text AI, built into your keyboard. 
-- [Rationale](http://rationale.jina.ai) - A Revolutionary Decision-Making Tool Powered By The Latest Gpt And In-Context Learning 
-- [GPTKey](http://gptkey.com) - Gptkey–Write With AI Using The Gpt Keyboard. Write With AI In Any App Using The GPT Custom Keyboard Extension. 
-- [Diffusion Bee](http://diffusionbee.com) - Stable Diffusion App For AI Art. DiffusionBee Is The Easiest Way To Generate AI Art On Your Computer With Stable Diffusion. 
-- [AI Writer By Picsart](http://tools.picsart.com) - Edit Images, Videos & Documents For Free - Quicktools By Picsart. Creating Transparent Backgrounds For Your Images, Trimming Videos, And Converting File Types 
-- [Ebsynth](http://ebsynth.com) - Transform Video By Painting Over A Single Frame. You Paint One Frame And EbSynth Propagates It To The Rest Of The Footage. 
+
 
 --- 
 
