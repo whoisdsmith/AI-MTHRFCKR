@@ -3058,13 +3058,13 @@ ___
 
 **In This Section, You Will Find All Things Related To Writing And Language Processing Using AI Technology.**
 
-- [[#Assistant|Assistant]]
-- [[#Copywriting|Copywriting]]
-- [[#General|General]]
-- [[#Paraphraser|Paraphraser]]
-- [[#Story Teller|Story Teller]]
-- [[#Summarizing|Summarizing]]
-- [[#Writing|Writing]]
+- [Assistant](#Assistant)
+- [Copywriting](#Copywriting)
+- [General](#General)
+- [Paraphraser](#Paraphraser)
+- [Story Teller](#Story%20Teller)
+- [Summarizing](#Summarizing)
+- [Writing](#Writing)
 
 ---
 
