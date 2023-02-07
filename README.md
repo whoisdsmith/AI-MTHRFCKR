@@ -19,28 +19,26 @@
 ## Table Of Contents
 
 - [AI-Apps](#ai-apps)
-- [AI-Articles](#ai-articles)
-- [AI-Art & Image](#ai-art&image)
+- [AI-Art/NFT/Images](#ai-art/nft/images)
 - [AI-Audio](#ai-audio)
-- [AI-Blogs/Social](#ai-blogs/social)
 - [AI-Business](#ai-business)
 - [AI-Content](#ai-content)
 - [AI-Data](#ai-data)
 - [AI-Design](#ai-design)
 - [AI-Development](#ai-development)
-- [AI-Education & Learning](#ai-education&learning)
+- [AI-Education/Learning](#ai-education/learning)
 - [AI-Experiments](#ai-experiments)
 - [AI-Health](#ai-health)
+- [AI-News/Articles/Blogs/Social](#ai-news/articles/blogs/social)
 - [AI-Other](#ai-other)
 - [AI-Productivity](#ai-productivity)
-- [AI-Software](#ai-software)
+- [AI-Resources](#ai-resources)
 - [AI-Text](#ai-text)
 - [AI-Tools](#ai-tools)
 - [AI-Video](#ai-video)
 - [AI-Writing](#ai-writing)
 
 ---
-
 
 ## AI-Apps
 
@@ -57,7 +55,7 @@
 
 - [Lek.ai](https://lek.ai/) - The Ultimate Content Creator Toolkit Powered By AI. The Fastest And Easiest Way To Create Content And Copy.
 - [Notta AI](https://www.notta.ai/en) - A Platform For Hosting, Sharing And Collaborating On Large Files, Without The Constraints Of Cloud Storage Services.
-- [AI Writer By Picsart](http://tools.picsart.com) - Edit Images, Videos & Documents For Free - Quicktools By Picsart. Creating Transparent Backgrounds For Your Images, Trimming Videos, And Converting File Types 
+- [AI Writer By Picsart](http://tools.picsart.com) - Edit Images, Videos & Documents For Free - Quicktools By Picsart. Creating Transparent Backgrounds For Your Images, Trimming Videos, And Converting File Types
 - [Bigjpg](https://bigjpg.com/) - AI Super-Resolution Lossless Image Enlarging / Upscaling Tool Using Deep Convolutional Neural Networks.
 - [Dream](https://dream.ai/) - Artwork Using The Power Of AI.
 - [Starry AI](https://starryai.com/) - AI Art Generator App - AI Art Maker
@@ -70,7 +68,7 @@
 - [Agi Labs](https://Agilabs.Org/Ai-Helpers-Home) - AI Helpers Home
 - [AI Avatar Art Generator](https://apps.apple.com/us/app/ai-avatar-art-generator/id1660818202) - Art Generator
 - [AI & Stuff](https://apps.apple.com/us/app/ai-stuff/id6444918261) - AI Art Generator
-- [AI Writer By Picsart](http://tools.picsart.com) - Edit Images, Videos & Documents For Free - Quicktools By Picsart. Creating Transparent Backgrounds For Your Images, Trimming Videos, And Converting File Types 
+- [AI Writer By Picsart](http://tools.picsart.com) - Edit Images, Videos & Documents For Free - Quicktools By Picsart. Creating Transparent Backgrounds For Your Images, Trimming Videos, And Converting File Types
 - [Amazing AI](https://apps.apple.com/app/id1660147028) - An App For IOS That Allows Users To Create Unique And Stunning Artwork Using Artificial Intelligence Technology.
 - [Artist.ai](https://apps.apple.com/us/app/artist-ai-ai-art-generator/id6443737787) - AI Art Generator
 - [Bigjpg](https://bigjpg.com/) - AI Super-Resolution Lossless Image Enlarging / Upscaling Tool Using Deep Convolutional Neural Networks.
@@ -93,7 +91,7 @@
 - [Synth](https://www.synth.run/) - Transform Text Into Stunning Art In Seconds With Our Prompt-based Tool.
 - [The Keys AI](https://www.Thekeys.Ai/) - An AI-powered Platform For Search Engine Optimization And Online Advertising.
 - [Tokkingheads](https://www.Tokkingheads.Com/) - A Service That Provides Users With High Quality, Customizable 3D Avatars For Their Online Communications.
-- [Type AI](https://typeai.app/) - Write With AI In Any App Using The Power Of The Latest Deep Learning Models Inside Of Your Keyboard. 
+- [Type AI](https://typeai.app/) - Write With AI In Any App Using The Power Of The Latest Deep Learning Models Inside Of Your Keyboard.
 - [Uranus](https://apps.apple.com/us/app/uranus-ai-art-stable-generator/id6443562756) - AI Art Stable Generator
 - [VoiceAI](https://apps.apple.com/us/app/voice-ai-voice-changer/id6444030605) - Voice Changer.
 - [Wombo.Art](https://www.Wombo.Art/) - An AI-powered Platform For Creating And Animating Music Videos.
@@ -103,11 +101,11 @@
 
 ### MacOS
 
-- [AI Writer By Picsart](http://tools.picsart.com) - Edit Images, Videos & Documents For Free - Quicktools By Picsart. Creating Transparent Backgrounds For Your Images, Trimming Videos, And Converting File Types 
+- [AI Writer By Picsart](http://tools.picsart.com) - Edit Images, Videos & Documents For Free - Quicktools By Picsart. Creating Transparent Backgrounds For Your Images, Trimming Videos, And Converting File Types
 - [Bigjpg](https://bigjpg.com/) - AI Super-Resolution Lossless Image Enlarging / Upscaling Tool Using Deep Convolutional Neural Networks.
 - [CHARL-E](https://www.charl-e.com/) - Make Art With AI On Your Mac
-- [Diffusion Bee](http://diffusionbee.com) - Stable Diffusion App For AI Art. DiffusionBee Is The Easiest Way To Generate AI Art On Your Computer With Stable Diffusion. 
-- [Ebsynth](http://ebsynth.com) - Transform Video By Painting Over A Single Frame. You Paint One Frame And EbSynth Propagates It To The Rest Of The Footage. 
+- [Diffusion Bee](http://diffusionbee.com) - Stable Diffusion App For AI Art. DiffusionBee Is The Easiest Way To Generate AI Art On Your Computer With Stable Diffusion.
+- [Ebsynth](http://ebsynth.com) - Transform Video By Painting Over A Single Frame. You Paint One Frame And EbSynth Propagates It To The Rest Of The Footage.
 - [Elephas](https://elephas.app/) - Personal AI Writing Assistant For Mac
 - [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai/) - A Software That Uses AI To Up-res, Or Enlarge, Images While Maintaining The Sharpness And Detail Of The Original Image.
 - [Lek.ai](https://lek.ai/) - The Ultimate Content Creator Toolkit Powered By AI. The Fastest And Easiest Way To Create Content And Copy.
@@ -117,13 +115,14 @@
 - [Notta AI](https://www.notta.ai/en) - A Platform For Hosting, Sharing And Collaborating On Large Files, Without The Constraints Of Cloud Storage Services.
 - [Peakto](https://cyme.io/peakto-photo-organizer-software/) - The Game-changing Photo Organizer Software For Mac
 - [Topaz Video AI](https://www.topazlabs.com/video-enhance-ai/) - An AI-powered Video Enhancement Software That Can Improve The Quality Of Videos With Features Such As Denoising, Deblocking And Stabilization.
+- [Voice AI](http://voice.ai) - Change Your Voice On The Fly  
 
 ---
 
 ### Windows
 
 - [ArtRoom AI](https://artroom.ai/download-app) - Local GUI For Stable Diffusion. Make Beautiful AI Generated Art Without Touching A Single Line Of Code.
-- [AI Writer By Picsart](http://tools.picsart.com) - Edit Images, Videos & Documents For Free - Quicktools By Picsart. Creating Transparent Backgrounds For Your Images, Trimming Videos, And Converting File Types 
+- [AI Writer By Picsart](http://tools.picsart.com) - Edit Images, Videos & Documents For Free - Quicktools By Picsart. Creating Transparent Backgrounds For Your Images, Trimming Videos, And Converting File Types
 - [Bigjpg](https://bigjpg.com/) - AI Super-Resolution Lossless Image Enlarging / Upscaling Tool Using Deep Convolutional Neural Networks.
 - [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai/) - A Software That Uses AI To Up-res, Or Enlarge, Images While Maintaining The Sharpness And Detail Of The Original Image.
 - [Liner AI](https://liner.ai/) - Machine Learning Without Code
@@ -136,55 +135,19 @@
 
 ---
 
-## AI-Articles
-
-- [Aiart Post](https://imgur.com/gallery/BZzXLHY) - Art Movements And Styles As Perceived By VQGAN + Clip (Imagenet 16k, ViT-B/32) -
-- [AI For The Command Line](https://github.com/santinic/how2) - AI For The Command Line
-- [Artificial Genie AI](https://artificialgenie.ai/) - AI Newsletter
-- [Artist Studies](https://remidurant.com/artists) - Artist Studies
-- [A Traveler’s Guide To The Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f) - A Traveler’s Guide To The Latent Space
-- [Bleeding Edge](https://bleedingedge.ai/) - A Feed Of Noteworthy Developments In AI.
-- [BrainArt Labs](https://brainartlabs.com/2022/08/28/stablediffusion-notebook-by-pharmapsychotic-setup-tutorial) - StableDiffusion Notebook Setup Tutorial
-- [Coda](https://coda.io/@coda/openai-for-coda) - OpenAI For Coda
-- [CogView](https://towardsdatascience.com/cogview-image-generation-and-language-modelling-at-scale-8d358a0686d2?gi=3e773b9abf36) - Image Generation And Language Modelling At Scale | By Jeremie Harris | Towards Data Science
-- [DALL-E-2 Prompt Generator](https://dalle2-prompt-generator.s3-website-us-west-2.amazonaws.com/) - DALL-E-2 Prompt Generator
-- [DALL·Ery GALL·Ery](https://dallery.gallery/) - DALL·Ery GALL·Ery
-- [DALL·Ery GALL·Ery](https://dallery.gallery/the-dalle-2-prompt-book) - The DALL·E 2 Prompt Book
-- [Disco Diffusion V5](https://gist.github.com/MSFTserver/6212f85d79058a024b0e49f3d19a1115#file-wsl-disco-v5-tutorial-md) - How To Run Disco Diffusion V5 On Windows 10 With WSL
-- [Dive Into Deep Learning](https://d2l.ai/index.html) - Dive Into Deep Learning 1.0.0-beta0 Documentation
-- [Dr Thompson Leta](https://beta.openai.com/playground/p/zUf68zBlohJfvPL5c80p7fsq?model=davinci) - Old `Davinci` Model, [Leta](https://lifearchitect.ai/leta/) From The GPT-3 Leta Video Series - Direct Links To Prompts In OpenAI’s GPT-3 Playground (Requires Prior Login)
-- [EleutherAI](https://eleuther.ai/get-involved) - Get Involved
-- [Eulerian Motion Fields](https://eulerian.cs.washington.edu/) - Animating Pictures
-- [Gallery View](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582) - Stable Diffusion V1 Modifier Studies
-- [GitHub Next](https://githubnext.com/) - You Don't Want To Miss This One Out
-- [Huemin Jax Diffusion 2.7 Stitching](https://dreamingcomputers.com/ai-articles/huemin-jax-diffusion-2-7-stitching) - Huemin Jax Diffusion 2.7 Stitching
-- [Journey To The BAOAB-Limit](https://ajayjain.net/journey) - Finding Effective MCMC Samplers For Score-based Models
-- [@Kingdomakrillic](https://imgur.com/a/SnSIQRu) - CLIP + VQGAN Keyword Comparison
-- [Learn Prompting](https://learnprompting.org/) - A Free, Open Source Course On Communicating With Artificial Intelligence
-- [Life Architect](https://lifearchitect.ai/) AI Related News Run By Dr Thompson
-- [Matthew M Cateer](https://matthewmcateer.me/blog/clip-prompt-engineering) - CLIP Prompt Engineering For Generative Art
-- [ML4A](https://ml4a.net/) - Machine Learning For Arts
-- [ML-Course-Notes](Https://github.com/dair-ai/ml-course-notes) - ML-Course-Notes
-- [NOCRYPT](https://rentry.org/nocrypt) - Private Local Waifu Diffusion Colab
-- [Optimizing Gradient Descent](https://ruder.io/optimizing-gradient-descent) - An Overview Of Gradient Descent Optimization Algorithms
-- [PEAKD](https://peakd.com/@kaliyuga/model-comparison-study-for-disco-diffusion-v-5-ai-resources-by-kaliyuga) - Model Comparison Study For Disco Diffusion V. 5 (AI Resources By KaliYuga)
-- [Punctuated Equilibrium](https://michellekhuang.com/training-an-ai-chatbot-on-my-childhood-journal-entries/) - Training An AI Chatbot On My Childhood Journal Entries
-- [Stability AI](https://stability.ai/sdv2-prompt-book) - Stable Diffusion Prompt Book
-- [Substack](https://lspace.swyx.io/) - L-Space Diaries
-- [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion) - Visualizing Machine Learning One Concept At A Time.
-- [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan) - The Illustrated VQGAN
-- [Towards Data Science](https://towardsdatascience.com/cogview-image-generation-and-language-modelling-at-scale-8d358a0686d2) - Cogview Image Generation And Language Modelling At Scale
-- [Unofficial Midjourney Community Wiki](https://mj.aihub.gg/) - Unofficial Midjourney Community Wik
-- [Upscale Wiki](https://upscale.wiki/wiki/Model_Database) - Model Database
-- [Wait But Why: The AI Revolution](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - Lengthy Article About AI Revolutinon
-- [Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-70-plus-artist-studies) - Disco Diffusion 70+ Artist Studies
-- [Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-modifiers) - Disco Diffusion Modifiers
-
----
-
-## AI-Art & Image
+## AI-Art/NFT/Images
 
 **In This Section, You Will Find AI Tools And Models For Art And Image Processing. This Includes Tools For 3D And Animation, Art And Avatar Creation, Photo Editing, And More.**
+
+- [3D & Animation](#3D%20&%20Animation)
+- [Art](#Art)
+- [Github Repositories](#Github%20Repositories)
+- [Logo Generator](#Logo%20Generator)
+- [Other](#Other)
+- [Photo Editing](#Photo%20Editing)
+- [Prompts](#Prompts)
+- [Showcase](#Showcase)
+- [Tools](#Tools)
 
 ---
 
@@ -225,25 +188,6 @@
 - [PIFuHD](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt) - 3D Human Reconstruction And Motion Capture
 - [Pifuhd](https://colab.research.google.com/github/cedro3/others/blob/master/PIFuHD_Demo.ipynb) - 3D Human Reconstruction And Motion Capture
 - [Frankmocap](https://colab.research.google.com/drive/15qA6kbyVK--8q88FHXdzwPiGT0UyKvwg) - 3D Human Reconstruction And Motion Capture
-
-### Age Transformation
-
-- [Age Transformation](https://colab.research.google.com/github/royorel/Lifespan_Age_Transformation_Synthesis/blob/master/LATS_demo.ipynb) - Age Transformation Synthesis.
-
-### AnimeGAN (Video2anime)
-
-- [Google Colab Notebook: AnimeGAN (English)](https://colab.research.google.com/github/tg–bomze/Video2Anime/blob/master/AnimeGan_Video_(Eng).ipynb.ipynb) - This Is A Google Colab Notebook That Showcases The Implementation Of AnimeGAN With English Instructions.
-- [Web Demo For Images: AnimeGAN](https://animegan.js.org/) - This Is A Web Demo That Showcases The Implementation Of AnimeGAN For Images.
-- [Google Colab Notebook: GANsNRoses](https://colab.research.google.com/github/mchong6/GANsNRoses/blob/main/inference_colab.ipynb) - This Is A Google Colab Notebook That Showcases The Implementation Of GANsNRoses.
-- [Gradio Hub: GANsNRoses](https://gradio.app/hub/AK391/GANsNRoses) - This Is A Web Demo That Showcases The Implementation Of GANsNRoses On Gradio Hub.
-
-### Anime Manipulation
-
-- [Talking–head–anime–demo (Tha_colab.ipynb)](https://colab.research.google.com/github/pkhungurn/talking–head–anime–demo/blob/master/tha_colab.ipynb) - A Google Colab Notebook For Animating Talking Heads In Anime Style.
-- [Talking–head–anime–2–demo (Colab.ipynb)](https://colab.research.google.com/github/pkhungurn/talking–head–anime–2–demo/blob/master/colab.ipynb) - Another Google Colab Notebook For Animating Talking Heads In Anime Style.
-
-
----
 
 ### Art
 
@@ -310,16 +254,26 @@
 
 ---
 
-### Audio Style Transfer
+#### Age Transformation
 
-- [Google Research: Tone Transfer](https://sites.research.google/tonetransfer) - This Is A Website By Google Research Showcasing The Implementation Of Audio Style Transfer.
-- [Google Colab Notebook: Ss-vq-vae (Timbre)](https://colab.research.google.com/github/cifkao/ss–vq–vae/blob/main/experiments/colab_demo.ipynb) - This Is A Google Colab Notebook That Showcases The Implementation Of Ss-vq-vae For Audio Style Transfer (Timbre).
+- [Age Transformation](https://colab.research.google.com/github/royorel/Lifespan_Age_Transformation_Synthesis/blob/master/LATS_demo.ipynb) - Age Transformation Synthesis.
 
-### Autoencoders
+#### AnimeGAN (Video2anime)
 
-- [AutoEncoders Notebook](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/AutoEncoders.ipynb) - Autoencoder Demos By Zaid Alyafeai
+- [Google Colab Notebook: AnimeGAN (English)](https://colab.research.google.com/github/tg–bomze/Video2Anime/blob/master/AnimeGan_Video_(Eng).ipynb.ipynb) - This Is A Google Colab Notebook That Showcases The Implementation Of AnimeGAN With English Instructions.
+- [Web Demo For Images: AnimeGAN](https://animegan.js.org/) - This Is A Web Demo That Showcases The Implementation Of AnimeGAN For Images.
+- [Google Colab Notebook: GANsNRoses](https://colab.research.google.com/github/mchong6/GANsNRoses/blob/main/inference_colab.ipynb) - This Is A Google Colab Notebook That Showcases The Implementation Of GANsNRoses.
+- [Gradio Hub: GANsNRoses](https://gradio.app/hub/AK391/GANsNRoses) - This Is A Web Demo That Showcases The Implementation Of GANsNRoses On Gradio Hub.
 
-### Avatars
+#### Anime Manipulation
+
+- [Talking–head–anime–demo (Tha_colab.ipynb)](https://colab.research.google.com/github/pkhungurn/talking–head–anime–demo/blob/master/tha_colab.ipynb) - A Google Colab Notebook For Animating Talking Heads In Anime Style.
+- [Talking–head–anime–2–demo (Colab.ipynb)](https://colab.research.google.com/github/pkhungurn/talking–head–anime–2–demo/blob/master/colab.ipynb) - Another Google Colab Notebook For Animating Talking Heads In Anime Style.
+
+
+---
+
+#### Avatars
 
 - [AIprofilepic](http://aiprofilepic.art) - AI-powered Profile Picture Creation
 - [AI Profile Pictures](http://www.aiprofilepictures.com) - AI-powered Profile Picture Creation (In Beta)
@@ -379,11 +333,7 @@
 
 ---
 
-### Bigbigan - BigGAN Encoder
-
-- [Bigbigan With TensorFlow Hub (Google Colab Notebook)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/bigbigan_with_tf_hub.ipynb) - Colab Example Of Bigbigan Implementation
-
-### BigGAN
+#### BigGAN
 
 - [Artbreeder](https://artbreeder.com/) - Generative Art Platform
 - [BigGAN Generation With TensorFlow Hub (Google Colab Notebook)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb) - Colab Example Of BigGAN Implementation
@@ -393,16 +343,20 @@
 - [BigGAN With Custom Image (Google Colab Notebook)](https://colab.research.google.com/drive/1rqDwIddy0eunhhV8yrznG4SNiB5XWFJJ) - Example Of Using Custom Image With BigGAN
 - [Anime BigGAN (Google Colab Notebook)](https://colab.research.google.com/github/HighCWu/anime_biggan_toy/blob/main/colab/Play_Anime_BigGAN.ipynb) - BigGAN Implementation With Anime-style Images
 
-### Blind Face Restoration (And Colorization)
+##### Bigbigan - BigGAN Encoder
+
+- [Bigbigan With TensorFlow Hub (Google Colab Notebook)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/bigbigan_with_tf_hub.ipynb) - Colab Example Of Bigbigan Implementation
+
+#### Blind Face Restoration (And Colorization)
 
 - [Blind Face Restoration And Colorization](https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo) - Blind Face Restoration And Colorization
 - [GPEN](https://colab.research.google.com/github/bycloudai/GPEN-colab/blob/main/GPEN.ipynb) - Generative Pose-Conditioned Editing Network For Blind Face Restoration And Colorization
 
-### Body Segmentation
+#### Body Segmentation
 
 - [Body Segmentation](https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html) - A Demo Of Body Segmentation Using Tensorflow.js
 
-### CLIP
+#### CLIP
 
 - [Siren + CLIP](https://colab.research.google.com/drive/1FoHdqoqKntliaQKnMoNs3yn5EALqWtvP) - A Google Colab Notebook Demonstrating The Use Of Siren And CLIP To Generate Images.
 - [Siren + CLIP (2)](https://colab.research.google.com/drive/1K1vfpTEvAmxW2rnhAaALRVyis8EiLOnD) - Another Google Colab Notebook Demonstrating The Use Of Siren And CLIP To Generate Images.
@@ -417,13 +371,13 @@
 - [CLIP + TADNE (PyTorch) V2 (2)]([https://colab.research.google.com/github/nagolinc/notebooks/blob/main/CLIP](https://colab.research.google.com/github/nagolinc/notebooks/blob/main/CLIP)
 - [Text2Image V2](https://colab.research.google.com/github/tg%E2%80%93bomze/collection%E2%80%93of%E2%80%93notebooks/blob/master/Text2Image_v2.ipynb) This Is A Notebook Implementing BigGAN And CLIP (Learning To Generate Images From Text Using A Generative Adversarial Network) Using The Big-Sleep Library.
 
-#### CLIP Based Style Analogies
+##### CLIP Based Style Analogies
 
 - [Twitter Post](https://twitter.com/RiversHaveWings/status/1478719186125811715) - This Is A Tweet By RiversHaveWings Showcasing CLIP Based Style Analogies.
 - [Google Colab Notebook: CLIP Based Style Analogies (1)](https://colab.research.google.com/drive/19M9RFEgCmCVAF–h2KuNmPwgftPi_ZEp3) - This Is A Google Colab Notebook That Showcases The Implementation Of CLIP Based Style Analogies.
 - [Google Colab Notebook: CLIP Based Style Analogies (2)](https://colab.research.google.com/drive/17AqhaKLZmmUA27aNSc6fJYMR9uypeIci) - This Is Another Google Colab Notebook That Showcases The Implementation Of CLIP Based Style Analogies.
 
-#### CLIP Zero Shot Image Classification / Object Detection
+##### CLIP Zero Shot Image Classification / Object Detection
 
 - [CLIP Interacting With CLIP Notebook](https://colab.research.google.com/github/openai/CLIP/blob/main/notebooks/Interacting_with_CLIP.ipynb) - CLIP Zero Shot Image Classification And Object Detection Notebook
 - [CLIP Zero Shot Detector Notebook](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_Zero_shot_Detector.ipynb) - CLIP Zero Shot Image Classification And Object Detection Notebook
@@ -431,8 +385,7 @@
 - [Broken Notebook](https://colab.research.google.com/drive/1LXla2q9MCRRI_kTjpvag2Vz-7EGLnki5) - Not Sure What It's About, But It's Broken.
 - [Notebook](https://colab.research.google.com/drive/1273xNBDcbc4XGjJnnB3V8YoYU9aIcBIB) - Not Sure What It's About.
 
-### Collab
-
+#### Collab
 
 - [🦜 Prompt Parrot V2.5](https://colab.research.google.com/drive/1GtyVgVCwnDfRvfsHbeU0AlG-SgQn1p8e?usp=sharing) - This URL Is For A Google Colab Notebook That Provides The Code For "Prompt Parrot V2.5".
 - [3D Ken Burns](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY) - This URL Is For A Google Colab Notebook That Provides The Code For "3D Ken Burns".
@@ -441,14 +394,14 @@
 - [CLIP Guided Deep Image Prior](https://colab.research.google.com/drive/1_oqIK8A67EgtJDdfsuJojc5ukNzirdle) - This URL Is For A Google Colab Notebook That Provides The Code For "CLIP Guided Deep Image Prior".
 - [CLIP Guided Diffusion HQ 512x512 Uncond_Fast Dango233](https://colab.research.google.com/drive/14xBm1aSxQLbq26-jmDJi8I1HJ4ti5ybt) - This URL Is For A Google Colab Notebook That Provides The Code For "CLIP Guided Diffusion HQ 512x512 Uncond_Fast Dango233".
 - [CLIP-Mesh](https://colab.research.google.com/drive/15Fm4EhLlB20EugLUnTdhSJElvGVCU7Ys?usp=sharing) - This URL Is For A Google Colab Notebook That Provides The Code For "CLIP-Mesh".
--   [DALL·E Mini - Inference Pipeline.ipynb - Colaboratory](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)-   This Is A Colaboratory Notebook That Showcases The Inference Pipeline For DALL·E Mini, An Image Generation Model.
--   [Disco Diffusion V3](https://colab.research.google.com/drive/1bItz4NdhAPHg5-u87KcH-MmJZjK-XqHN)-   This Is A Colaboratory Notebook That Showcases Version 3 Of Disco Diffusion, A Generative Model.
--   [Disco Diffusion V4 - Now With Zooming And Chigozienri Keyframing](https://colab.research.google.com/drive/1DHvr-DSNtlpvf0HgI0QmCLSe_PtShzPH?usp=sharing)-   This Is A Colaboratory Notebook That Showcases Version 4 Of Disco Diffusion, A Generative Model With New Features For Zooming And Keyframing.
--   [Disco Diffusion V5.2 - Dynamic Prompting](https://colab.research.google.com/drive/1D-PX1x0rKY3c5jL8L215n_PyjzF4dJn_?usp=sharing)-   This Is A Colaboratory Notebook That Showcases Version 5.2 Of Disco Diffusion, A Generative Model With New Dynamic Prompting Feature.
--   [GLIDE](https://colab.research.google.com/drive/13lvp0yPfM4adWlPv73dtX57A0H5A6PWn?usp=sharing)-   This Is A Colaboratory Notebook For GLIDE, A Generative Model.
--   [Journey To The BAOAB-limit: Finding Effective MCMC Samplers For Score-based Models](https://colab.research.google.com/drive/17kesyBVqubV_Zzchf2XoR-7MHk5jxTuo?usp=sharing)-   This Is A Colaboratory Notebook That Explores The Journey To Finding Effective Markov Chain Monte Carlo (MCMC) Samplers For Score-based Models Using The BAOAB Method.
--   [Liminal Diffusion Beta](https://colab.research.google.com/drive/11Bs4wCs9R84DVAwDb3MkvDAd8V_Mw1e6)-   This Is A Colaboratory Notebook That Showcases The Beta Version Of Liminal Diffusion, A Generative Model.
--   [Looking Glass V1.3](https://colab.research.google.com/drive/15vFLeepkSTr1qd4xs31g9kMEiwkWP0sh)-   This Is A Colaboratory Notebook That Showcases Version 1.3 Of Looking Glass, A Generative Model.
+- [DALL·E Mini - Inference Pipeline.ipynb - Colaboratory](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)- This Is A Colaboratory Notebook That Showcases The Inference Pipeline For DALL·E Mini, An Image Generation Model.
+- [Disco Diffusion V3](https://colab.research.google.com/drive/1bItz4NdhAPHg5-u87KcH-MmJZjK-XqHN)- This Is A Colaboratory Notebook That Showcases Version 3 Of Disco Diffusion, A Generative Model.
+- [Disco Diffusion V4 - Now With Zooming And Chigozienri Keyframing](https://colab.research.google.com/drive/1DHvr-DSNtlpvf0HgI0QmCLSe_PtShzPH?usp=sharing)- This Is A Colaboratory Notebook That Showcases Version 4 Of Disco Diffusion, A Generative Model With New Features For Zooming And Keyframing.
+- [Disco Diffusion V5.2 - Dynamic Prompting](https://colab.research.google.com/drive/1D-PX1x0rKY3c5jL8L215n_PyjzF4dJn_?usp=sharing)- This Is A Colaboratory Notebook That Showcases Version 5.2 Of Disco Diffusion, A Generative Model With New Dynamic Prompting Feature.
+- [GLIDE](https://colab.research.google.com/drive/13lvp0yPfM4adWlPv73dtX57A0H5A6PWn?usp=sharing)- This Is A Colaboratory Notebook For GLIDE, A Generative Model.
+- [Journey To The BAOAB-limit: Finding Effective MCMC Samplers For Score-based Models](https://colab.research.google.com/drive/17kesyBVqubV_Zzchf2XoR-7MHk5jxTuo?usp=sharing)- This Is A Colaboratory Notebook That Explores The Journey To Finding Effective Markov Chain Monte Carlo (MCMC) Samplers For Score-based Models Using The BAOAB Method.
+- [Liminal Diffusion Beta](https://colab.research.google.com/drive/11Bs4wCs9R84DVAwDb3MkvDAd8V_Mw1e6)- This Is A Colaboratory Notebook That Showcases The Beta Version Of Liminal Diffusion, A Generative Model.
+- [Looking Glass V1.3](https://colab.research.google.com/drive/15vFLeepkSTr1qd4xs31g9kMEiwkWP0sh)- This Is A Colaboratory Notebook That Showcases Version 1.3 Of Looking Glass, A Generative Model.
 - [Looking Glass V1.5](https://colab.research.google.com/drive/1gr0dSCcFH_hYjbAPuThwAxbA1T8DD1Od?usp=sharing) - This Is A Version 1.5 Of The "Looking Glass" Tool.
 - [Mad-libbed Prompt Generator](https://colab.research.google.com/drive/1gGwD0zDvyx0OnJU4KLjE8HrwnTlzI2rS) - This Is A Tool To Generate "Mad-libbed" Prompts.
 - [MindsEye Beta](https://colab.research.google.com/drive/1cg0LZ5OfN9LAIB37Xq49as0fSJxcKtC5) - This Is A Beta Version Of The "MindsEye" Tool.
@@ -465,13 +418,12 @@
 - [StableDiffusionUI-Voldemort V1.3.ipynb - Colaboratory](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - A Google Colab Notebook For StableDiffusionUI-Voldemort, Version 1.3.
 - [StyleGAN-Humans + CLIP 🖼️](Https://colab.research.google.com/drive/1H-rGlKbILaZbDfTsrQqSxw2fH7y2elg6?usp=sharing) - A Google Colab Notebook For StyleGAN-Humans + CLIP.
 - [StyleGAN3](https://colab.research.google.com/drive/1BXNHZBai-pXtP-ncliouXo_kUiG1Pq7M?usp=sharing) - A Google Colab Notebook For StyleGAN3.
-- [SuperRes Diffusion: Batch Upscaling & Super Resolution With Latent-Diffusion](https://colab.research.google.com/drive/19euI_7GAgbvMoZsuPj9SZseDeuFnwBj8) - A Google Colab Notebook For SuperRes Diffusion, A Tool For Batc.  Upscaling And Super Resolution With Latent-diffusion.
+- [SuperRes Diffusion: Batch Upscaling & Super Resolution With Latent-Diffusion](https://colab.research.google.com/drive/19euI_7GAgbvMoZsuPj9SZseDeuFnwBj8) - A Google Colab Notebook For SuperRes Diffusion, A Tool For Batc. Upscaling And Super Resolution With Latent-diffusion.
 
 
 ---
 
-
-### Colorization
+#### Colorization
 
 - [Colorize Photos](https://demos.algorithmia.com/colorize-photos) - A Demo By Algorithmia
 - [MyHeritage InColor](https://www.myheritage.co.il/incolor) - An AI-powered Colorization Tool By MyHeritage
@@ -484,15 +436,15 @@
 - [InstColorization](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb) - An Instant Colorization Tool By Eric Su
 - [ChromaGAN](https://colab.research.google.com/github/pvitoria/ChromaGAN/blob/master/DemoChromaGAN.ipynb) - An AI Colorization Tool By Patrícia Vitoria
 
-### Controllable Talknet (E.g. Mimic Cartoon Voices)
+#### Controllable Talknet (E.g. Mimic Cartoon Voices)
 
 - [Drive (Colab.ipynb)](https://colab.research.google.com/drive/1aj6Jk8cpRw7SsN3JSYCv57CrR6s0gYPB) - A Google Colab Notebook For Controllable Talknet.
 
-### Cyclegan
+#### Cyclegan
 
 [Monet Cyclegan Tutorial](https://www.kaggle.com/amyjang/monet-cyclegan-tutorial) - Kaggle Tutorial On CycleGAN.
 
-### Deep Dream
+#### Deep Dream
 
 - [Deep Dream Generator](https://deepdreamgenerator.com) - Website For Deep Dream Generation
 - [Google Colab Notebook On Deep Dream](https://colab.research.google.com/drive/1WWpJ3gzUOBThdXwqsrF0b3uCmr6o0Q4G)
@@ -501,7 +453,7 @@
 - [Tensorflow's Deep Dream Tutorial](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb)
 - [DeepDream With Tensorflow](https://colab.research.google.com/github/artistic-ai/deepdream-tensorflow/blob/master/deepdream.ipynb)
 
-### Deep Fakes
+#### Deep Fakes
 
 - [Deep Fakes: DFL Colab](https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb) - A Colab Notebook For Deep Fakes
 - [Deep Fakes: Motion Cosegmentation](https://colab.research.google.com/github/AliaksandrSiarohin/motion-cosegmentation/blob/master/part_swap.ipynb) - A Colab Notebook For Motion Cosegmentation
@@ -512,70 +464,40 @@
 - [Deep Fakes: Simple Face Swapper](https://github.com/tg-bomze/collection-of-notebooks/blob/master/Simple_Face_Swapper.ipynb) - A Jupyter Notebook For Simple Face Swapping
 - [Deep Fakes: QuickFaceSwap](https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/QuickFaceSwap.ipynb) - A Colab Notebook For Quick Face Swapping
 
-### Deepnude
+#### Deepnude
 
-- [Dreampower Notebook On Google Colab](https://colab.research.google.com/gist/Ptibouc77/cd7da30a967b301f2d7a042ad6f06886/dreampower–v1–2–8–updated–from–1–2–5–from–firstdee.ipynb)
+- [Dreampower Notebook On Google Colab](https://colab.research.google.com/gist/Ptibouc77/cd7da30a967b301f2d7a042ad6f06886/dreampower–v1–2–8–updated–from–1–2–5–from–firstdee.ipynb)  
   A Jupyter Notebook For The Deepnude Algorithm, Which Can Generate Images Of A Person's Naked Body From A Clothed Image.
-- [Dreamtime Notebook On Google Colab](https://colab.research.google.com/gist/FirstDee/c3a94ff37e0561e597b65160aabbbc07/dreamtime–v1.ipynb)
+- [Dreamtime Notebook On Google Colab](https://colab.research.google.com/gist/FirstDee/c3a94ff37e0561e597b65160aabbbc07/dreamtime–v1.ipynb)  
   A Jupyter Notebook For Another Version Of The Deepnude Algorithm.
 
-### DeepSVG
+#### DeepSVG
 
 - [DeepSVG](https://github.com/alexandre01/deepsvg/blob/master/notebooks) - A Deep Learning Framework For Vectorizing Images
 
-### Depth Prediction
+#### Depth Prediction
 
 - [Stereo Analysis](http://stereo.jpn.org/jpn/stphmkr/google/colabe.html) - A Website That Explains How To Analyze Stereo Images Using Deep Learning Algorithms.
 - [DenseDepth Github Repository](https://github.com/ialhashim/DenseDepth) - A Github Repository That Contains The Code For The DenseDepth Model That Predicts Depth From A Single RGB Image.
 - [Google Colab Notebook](https://colab.research.google.com/github/p–ranav/merged_depth/blob/master/merged_depth/nets/monodepth2/depth_prediction_example.ipynb) - A Google Colab Notebook That Demonstrates How To Perform Depth Prediction Using A Monodepth2 Model.
 
-### Destroy And Recover
+#### Destroy And Recover
 
 - [Destroy And Recover](https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Destroy_n_Recover.ipynb) - A Method For Destroying And Recovering Information From Images
 
-### Editing
-
-- [AI. Image Enlarger](https://imglarger.com/) - A Website For An AI-powered Image Enlargement Tool.
-- [Al Picasso](https://aipicasso.studio.site/) - A Website For An AI-powered Digital Art Creation Tool.
-- [Astria](https://www.astria.ai/) - A Platform That Uses AI Technology To Help Businesses In The Real Estate Industry.
-- [Befunky](https://www.befunky.com/) - A Website For A Photo Editing Tool That Offers Various Effects, Filters, And Graphic Design Options.
-- [Bg.Eraser](https://bgeraser.com/) - A Website For An AI-powered Background Removal Tool.
-- [Bria](https://bria.ai/) - A Platform That Uses AI Technology To Automate Repetitive Tasks In The Real Estate Industry.
-- [Erase.bg](https://www.erase.bg/) - A Website For An AI-powered Background Removal Tool.
-- [Evoto AI](https://www.evoto.ai/) - A Platform That Uses AI Technology To Automate Repetitive Tasks In The Real Estate Industry.
-- [Getimg.ai](https://getimg.ai/) - A Website For An AI-powered Image Editing Tool.
-- [Green Screen AI](https://greenscreenai.com/) - A Platform That Uses AI Technology To Automatically Remove Green Screens From Videos.
-- [Hama-Image Editing](https://www.hama.app/) - A Website For An AI-powered Image Editing Tool.
-- [Let's Enhance](https://letsenhance.io/) - A Website For An AI-powered Image Enhancement Tool.
-- [Magic Eraser](https://magiceraser.io/) - A Website For An AI-powered Background Removal Tool.
-- [Nostalgia Photo](https://www.nostalgia.photo/) - A Website For An AI-powered Photo Editing Tool That Adds A Vintage Effect To Images.
-- [Palette.fm](https://palette.fm/) - A Website For A Color Scheme Generator Tool That Uses AI Technology.
-- [Perfectly Clear Video](https://eyeq.photos/automatic-ai-video-enhancement/) - A Platform That Uses AI Technology To Automatically Enhance Videos.
-- [Photoroom](https://www.photoroom.com/) - A Website For An AI-powered Photo Editing Tool That Offers Various Effects And Filters.
-- [QuickTools By Picsart](https://tools.picsart.com/image/) - A Website For A Suite Of AI-powered Photo Editing Tools Offered By Picsart.
-- [Radiant Photo](https://radiantimaginglabs.com/) - A Website For An AI-powered Photo Editing Tool That Offers Various Effects And Filters.
-- [Remove.bg](https://www.remove.bg/) - A Website For An AI-powered Background Removal Tool.
-- [RestorePhotos](https://www.restorephotos.io/) - A Website For An AI-powered Photo Restoration Tool.
-- [RocketAI](https://rocketai.io/) - A Platform That Offers AI-powered Solutions For Businesses In Various Industries.
-- [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) - A Website For An AI-powered Photo Editing Tool That Offers Various Effects And Filters.
-- [Visio Studio](https://visio.studio/) - A Platform That Uses AI Technology To Automate Repetitive Tasks In The Real Estate Industry.
-
-
----
-
-### Face And Body Generation
+#### Face And Body Generation
 
 - [Google Colab Notebook](https://colab.research.google.com/drive/1kDMnB9IsnuWa_KFddOXC21OD8m_Hkpow) - A Google Colab Notebook That Demonstrates The Generation Of Faces And Bodies Using Deep Learning Algorithms.
 
-### Face Depixelizer (Pulse)
+#### Face Depixelizer (Pulse)
 
 - [Pulse URL](https://colab.research.google.com/github/ctawong/PULSE_from_image_url/blob/master/PULSE_URL.ipynb) - This Is A Google Colaboratory Notebook That Implements The PULSE (Photo Upsampling Via Latent Space Exploration Of Generative Models) Method For Face Depixelization.
 
-### Feature Visualization
+#### Feature Visualization
 
 - [Tensorflow Lucid](https://github.com/tensorflow/lucid) - This Is A GitHub Repository That Provides Code For Feature Visualization In Deep Neural Networks Using TensorFlow.
 
-### Free
+#### Free
 
 - [AI Art Generator](https://dreamlike.art/create) - AI Art Generator Is A Website That Provides An AI-based Tool For Creating Unique Pieces Of Digital Art.
 - [ArtBot](https://tinybots.net/artbot) - ArtBot Is An AI-powered Art Generator That Creates Unique Pieces Of Art Based On User Inputs.
@@ -599,7 +521,7 @@
 
 ---
 
-### Full Body Puppeteering
+#### Full Body Puppeteering
 
 - [Full Body Reenactment From Video - FOMM](https://j.mp/vid2body)
 - [Full Body Reenactment From Video - Impersonator](https://j.mp/vid2act)
@@ -609,7 +531,7 @@
 - [Pose Animator Demo](pose-animator-demo.firebaseapp.com/camera.html)
 - [Articulated Animation - Full Body Reenactment From Video](https://j.mp/mraa-body)
 
-### Generator
+#### Generator
 
 - [Accomplice](http://accomplice.ai) - AI-Powered Design Generation, Editing And Training. Accomplice' S AI-powered Platform Helps Your Team Generate 100% Royalty-free Logos, Photos And Graphics While Saving Time, Cutting Costs, And Simplifying Your Workflow
 - [AI2image](http://www.ai2image.com) - Free AI Image Generator - Online Text To Image App - AI2Image. Generate The Best Images Online With Free AI Image Generator By AI2image. Use AI To Generate High-quality Images Of Any Size And Style You Want!
@@ -725,51 +647,14 @@
 
 ---
 
-
-### Github Repositories
-
-- [AI4D](https://github.com/mmattyg/AI4D) - A Repository For AI For Development.
-- [Dl–colab–notebooks](https://github.com/tugstugi/dl–colab–notebooks) - Deep Learning Tutorials In Colab Notebooks.
-- [Dl–colab–notebooks](https://github.com/styler00dollar/dl–colab–notebooks) - A Collection Of Deep Learning Tutorials In Colab Notebooks.
-- [Shared_colab_notebooks](https://github.com/mrm8488/shared_colab_notebooks) - A Repository Of Shared Google Colab Notebooks.
-- [Ml–art–colabs](https://github.com/dvschultz/ml–art–colabs) - A Collection Of Machine Learning And Art Colab Notebooks.
-- [PINTO Model Zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A Collection Of Pre-trained Models For Various Tasks.
-- [Mediapipe](https://github.com/google/mediapipe) - A Cross-platform Multimedia Framework By Google.
-- [Mediapipe Demos](https://viz.mediapipe.dev/demo) - A Demo Page For Mediapipe Framework.
-- [Tensorflow Generative Tutorials](https://github.com/tensorflow/docs/tree/master/site/en/tutorials/generative) - A Repository Of Tensorflow Generative Tutorials.
-- [Deep Image Prior](https://github.com/DmitryUlyanov/deep–image–prior) - A Repository For Deep Image Prior.
-- [Awesome Colab Notebooks](https://github.com/amrzv/awesome–colab–notebooks) - A Collection Of Awesome Google Colab Notebooks.
-- [Useless Pytools](https://colab.research.google.com/github/aicrumb/useless–pytools/blob/main/useless_py.ipynb) - A Repository For Useless Python Tools.
-- [My Colab Experiments](https://github.com/Norod/my–colab–experiments) - A Collection Of Personal Google Colab Experiments.
-- [Collection Of Notebooks](https://github.com/tg–bomze/collection–of–notebooks) - A Collection Of Various Notebooks.
-
-### Gpt2 For Image Generation
+#### Gpt2 For Image Generation
 
 - [Generative Adversarial Networks With GPT-2](https://colab.research.google.com/drive/1c1kmO9tixviyBB7IGh–jVpLvOh2RpLYk) - This URL Is A Google Colab Notebook Demonstrating How To Generate Images Using Generative Adversarial Networks With GPT-2.
 - [Fine-Tuning GPT-2 For Image Captioning](https://colab.research.google.com/drive/1qgt8cSwKF957PgPTKhRcNwDIfWrMhbV9) - This URL Is A Google Colab Notebook That Shows How To Fine-tune GPT-2 For Image Captioning.
 - [Image Generation With GPT-2 And Tensorflow](https://colab.research.google.com/drive/1neFtD1y3RyPdZzfY7nRwzCpMcytHdNcw) - This URL Is A Google Colab Notebook That Demonstrates How To Use GPT-2 And Tensorflow To Generate Images.
 - [Fine-Tuning GPT-2 For Image Generation](https://colab.research.google.com/drive/1em6hc60VpwfKfBMYDVP8zgzanA9tUVaS) - This URL Is A Google Colab Notebook That Shows How To Fine-tune GPT-2 For Image Generation.
 
-### Green Screen
-
-- [Google Colab: Image Background Remove Tool](https://colab.research.google.com/github/OPHoperHPO/image-background-remove-tool/blob/master/docs/other/try.ipynb) - A Tool For Removing The Background Of An Image.
-- [Google Colab: Clean Background Image](https://colab.research.google.com/drive/1cTxFq1YuoJ5QPqaTcnskwlHDolnjBkB9) - Requires A Clean Background Image.
-- [Google Colab: Clean Background Images](https://colab.research.google.com/drive/1Y9zWfULc8-DDTSsCH-pX6Utw8skiJG5) - Requires Clean Background Images.
-- [Google Colab: Animal Matting](https://colab.research.google.com/drive/1EaQ5h4u9Q_MmDSFTDmFG0ZOeSsFuRTsJ) - Matting For Animal Images.
-- [Google Colab: FBA Matting](https://colab.research.google.com/drive/1Ut2szLBTxPejGHt_GYUkua21yUVWseOE) - Matting For Foreground-background-alpha Images.
-- [Google Colab: Sky Replacement](https://colab.research.google.com/drive/1-BqXD3EzDY6PHRdwb3cWayk2KictbFaz?usp=sharing) - A Tool For Replacing The Sky In An Image.
-- [Vid2Green](http://j.mp/vid2green) - A Video Tool That Uses U2Net, ModNet, And Portrait Generation.
-- [GitHub: Rembg (U2Net)](https://github.com/danielgatis/rembg) - A Tool For Removing The Background Of An Image Using U2Net.
-- [GitHub: Rembg Greenscreen (U2Net Video)](https://github.com/ecsplendid/rembg-greenscreen) - A Video Tool For Removing The Background Of An Image Using U2Net.
-- [Google Colab: U2Net-P Demonstration](https://colab.research.google.com/github/shreyas-bk/U-2-Net-Demo/blob/master/DEMOS/U_2_Netp_Demonstration_Colab.ipynb) - A Demonstration Of The U2Net-P Tool.
-- [Google Colab: U2Net-P Cropper](https://colab.research.google.com/github/Norod/my-colab-experiments/blob/master/U_2_Netp_Cropper_Colab.ipynb) - A Cropper Tool For U2Net-P.
-- [Gradio App: ModNet](https://www.gradio.app/hub/aliabd/modnet) - A Tool For Removing The Background Of An Image Using ModNet.
-- [Gradio App: U-2-Net](https://gradio.app/hub/AK391/U-2-Net) - A Tool For Removing The Background Of An Image Using U-2-Net.
-- [Google Colab: ModNet](https://colab.research.google.com/drive/1GANpbKT06aEFiW-Ssx0DQnnEADcXwQG6) - A Tool For Removing The Background Of An Image Using ModNet.
-- [Google Colab: ModNet Webcam](https://colab.research.google.com/drive/1Pt3KDSc2q7WxFvekCnCLD8P0gBEbxm6J) - A Tool For Removing The Background Of A Webcam Image Using ModNet.
-- [Google Colab: RVM](https://colab.research.google.com/drive/10z-pNKRnVNsp0Lq9tH1J_XPZ7CBC_uHm) - The Relevance Vector Machine (RVM) Algorithm.
-
-### Image
+#### Image
 
 - [💬 🖌️ ProsePainter](https://www.prosepainter.com/) - A Website That Allows Users To Paint With Prose, Or Create An Image From Text.
 - [Aiart.dev](https://aiart.dev/) - A Platform That Showcases AI-generated Artwork And Allows Users To Create Their Own.
@@ -849,24 +734,24 @@
 
 ---
 
-### Image Completion
+##### Image Completion
 
 - [Image Completion With Reformer](https://colab.research.google.com/github/google/trax/blob/master/trax/models/reformer/image_generation.ipynb) - Using The Reformer Model For Image Completion
 
-### Image Generation And Animation Based On A Single Image
+##### Image Generation And Animation Based On A Single Image
 
-- [SinGAN Notebook On Google Colab](https://colab.research.google.com/github/dvschultz/ai/blob/master/SinGAN.ipynb)
+- [SinGAN Notebook On Google Colab](https://colab.research.google.com/github/dvschultz/ai/blob/master/SinGAN.ipynb)  
   A Jupyter Notebook Demonstrating The Use Of SinGAN For Generating And Animating Images Based On A Single Input Image.
 
-### Image Generation With AI2 X–LXMERT
+##### Image Generation With AI2 X–LXMERT
 
 - [Image Generation With AI2 X-LXMERT](https://vision-explorer.allenai.org/text_to_image_generation) - Generating Images From Text Using AI2's X-LXMERT
 
-### Image Generation With Gradient Origin Networks
+##### Image Generation With Gradient Origin Networks
 
 - [Image Generation With Gradient Origin Networks (GON)](https://github.com/cwkx/GON) - A Deep Learning Framework For Image Generation Using Gradient Origin Networks
 
-### Image To Sketch
+##### Image To Sketch
 
 - [APdrawingGAN](https://face-lol.github.io/) - Face To Sketch Generator Using APdrawingGAN
 - [AR.ipynb](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine%20-%20AR.ipynb) - Quality ArtLine Notebook On Google Colab
@@ -879,141 +764,19 @@
 - [ToonMe Labs](https://toonme.com/labs) - Toon Me Labs Website
 - [Profu.ai](https://profu.ai/) - AI Content Creation Platform
 
-### Inpainting
+##### Inpainting
 
 - [Inpainting](https://www.nvidia.com/research/inpainting/) - Nvidia Research Page On Image Inpainting
 
-### Jukebox
+#### Jukebox
 
 - [Jukebox](https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb)
 
-### Keras Face Toolbox (Landmarks, Parsing Segmentation Including Hair, Iris, Face Verification, Gender, Age
+#### Keras Face Toolbox (Landmarks, Parsing Segmentation Including Hair, Iris, Face Verification, Gender, Age
 
 - [Keras Face Toolbox](https://colab.research.google.com/github/eyaler/face_toolbox_keras/blob/master/demo.ipynb) - Landmarks, Parsing Segmentation Including Hair, Iris, Face Verification, Gender, And Age
 
-### Logo Generator
-
-- [Designs AI](https://designs.ai/) - Creative Work Done Effortlessly
-- [Brandmark](http://brandmark.io) - Brandmark Logo Maker - The Most Advanced AI Logo Design Tool
-- [Looka](https://looka.grsm.io/jscfk35v34tn) - Free Logo Maker & Intelligent Brand Designer. Make A Logo And Build A Brand You Love With Looka.
-- [Make Logo AI](https://makelogo.ai/) - Makelogo. AI Get The Perfect Logo For Your Startup. Generate Beautiful And Unique Logos For Your Startup, Powered By Artificial Intelligence.
-- [Namecheap](https://www.namecheap.com/logo-maker/app/new/) - Logo Maker
-- [Text To Book Cover](http://stockimg.ai) - AI Image Generation For Teams - You Can Easily Generate AI Logo, AI Book Covers, AI Posters And More - Stockimg AI. AI Image Generation For Teams - You Can Easily Generate AI Logo, AI Book Covers, AI Posters And More - Stockimg AI.
-
----
-
-### Mediapipe Facemesh
-
-- [Google Colab Notebook](https://colab.research.google.com/drive/1FCxIsJS9i58uAsgsLFqDwFmiPO14Z2Hd) - A Google Colab Notebook That Demonstrates How To Use The Mediapipe Library To Detect Faces In An Image And Extract Facial Landmarks.
-- [Face Landmark](https://eyaler.github.io/tfjs_webgl_app/face_landmark) - A Website That Provides A Face Swap App That Allows You To Swap Faces In A Video Or Camera Feed Using Facial Landmarks.
-
-### NLP
-
-- [Quantum Stat Notebooks](https://notebooks.quantumstat.com/) - NLP Resources By Quantum Stat
-
----
-
-### No Code Tools
-
-- [Artbreeder Collage](https://collage.artbreeder.com/) - CLIP Guided Diffusion On Top Of Simple Collages
-- [Artbreeder](https://www.artbreeder.com/) - StyleGAN Model With "Genes" (Directions In Latent Space) For Editing
-- [CogView](https://agc.platform.baai.ac.cn/CogView/index.html) - Text To Image, Chinese Model Like DALL-E ( [Interview](https://towardsdatascience.com/cogview-image-generation-and-language-modelling-at-scale-8d358a0686d2) )
-- [Conjure.art](https://www.conjure.art/) - New Text To Image Site Currently In Beta
-- [Craiyon](https://www.craiyon.com/) - Formerly Known As Dall-e Mini, Free And Makes Quick Grids Of 9 Outputs
-- [Dall-e 2](https://openai.com/dall-e-2/) - Join The Waitlist To Get Access To The Beta  🔥
-- [DeepDreamGenerator](https://deepdreamgenerator.com/) - Deep Style, Thin Style, Deep Dream
-- [Midjourney](https://midjourney.com/) - Text To Image Via Discord Bot, Now Open To Everyone  🔥🔥
-- [Murf.ai](https://murf.ai/text-to-speech) - Text To Speech With AI Voices
-- [Nebula41](https://nebula41.io/) - Under Development, VQGAN Videos From Text
-- [Neural.love Image-upscale](https://neural.love/image-upscale) - Credit Based Image Upscaling Service
-- [NightCafe](https://creator.nightcafe.studio/) - Style Transfer, VQGAN, Diffusion Image Generation
-- [Ostagram](https://www.ostagram.me/) - Style Transfer
-- [Playform](https://www.playform.io/) - Style Transfer, Train Stylegans, Images Morphs
-- [Pollinations.ai](https://pollinations.ai/) - Run Lots Of Popular Notebooks
-- [ProsePainter](https://www.prosepainter.com/) - Interactive Tool To "Paint With Words"
-- [Runwayml](https://runwayml.com/) - Video Editing Powered By AI
-- [Snowpixel](https://snowpixel.app/) - Text To Image And Variations
-- [Stability.ai](https://stability.ai/beta-signup-form) - New Stable Diffusion Model (Sign Up For The Beta It Is Great!) 🔥🔥🔥
-- [StarryAI](https://www.starryai.com/) - Text To Image With Easy Selection Of Styles
-- [Synth.run](https://www.synth.run/) - Text To Image App For IOS, Android, And Web
-- [Tokkingheads](https://www.tokkingheads.com/) - Animate Portraits With AI
-- [Uberduck.ai](https://uberduck.ai/speak) - Text To Speech With Lots Of Different Voices
-- [Visions Of Chaos](https://softology.pro/voc.htm) - Run The Popular AI Notebooks Locally On Windows (See The Machine Learning Setup Steps)
-- [Wombo](https://app.wombo.art/) - Super Fast And Free
-- [Wzrd.ai](https://wzrd.ai/) - Give It A Music File And Produce Animation From Big Set Of Pretrained GANs
-
----
-
-### Offline Tools
-
-- [VOC](https://softology.com.au/voc.htm) - A Voice Recognition Software By Softology
-- [EBSynth](https://ebsynth.com/) - A Real-time Wavetable Synthesizer By Ethan Brosh
-
-### Old School
-
-- [Picbreeder](http://picbreeder.org/) - A Website That Provides An Interactive Platform To Breed Unique And Interesting Images Using A Genetic Algorithm.
-- [GMIC Video](https://j.mp/gmicvid) - A Website That Provides A Video Processing Tool That Uses The GMIC Filters To Enhance The Video Quality.
-- [GMIC Online](https://gmicol.greyc.fr/) - An Online Platform That Allows You To Apply GMIC Filters On Images.
-- [Plotting Pi](https://bit.li/plotpi) - A Website That Provides A Visual Representation Of The Number Pi Using A Plotting Algorithm.
-
-### Other
-
-- [DeepAI APIs](https://deepai.org/apis) - A Page For DeepAI APIs.
-- [Hitchhiker's Guide To Latent Space Colabs](https://docs.google.com/document/u/1/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/mobilebasic) - A Document Guide For Latent Space Colab.
-- [Pharmapsychotic Tools](https://pharmapsychotic.com/tools.html) - A Page For Tools Provided By Pharmapsychotic.
-
-### Penis Generator (NSFW)
-
-- [Penis Generator](https://colab.research.google.com/drive/1DoCxr2pYlxCRv6RmITtFWahVXsbTexYp) - NSFW
-- [Penis Generator](https://colab.research.google.com/drive/1-SDjR6ztiExBRmf5xzspNsA5t8y3kEXk) - NSFW
-
-### Photo Editing
-
-- [AI Image Enlarger](https://imglarger.com) - AI Image Enlarger - Enlarge Image Without Losing Quality!
-- [AVC AI](https://avc.ai) - Online AI Image Enhancer That Improves Photo Quality By Upscaling, Denoising, Restoring, Face Refinement, And More
-- [Claid.ai](https://claid.ai) - Claid. AI Automated Photo Enhancer For Ugc. Web, Mobile & Printing. AI Software To Enlarge Images With No Quality Loss, Correct Colors, Increase Resolution, Retouch Product Photos And Edit UGC Automatically.
-- [Colorize](https://colorize.cc) - Colorize Photo Online
-- [ExtendImage](https://.extendimage.ai) - Extendimageai - Extend Your Images With Generative AI. ExtendImageAI Is A Tool That Allows You To Extend Your Images With Generative AI.
-- [Hama](https://.hama.app) - Hama. Amazing Photo Eraser.
-- [Imgupscaler](https://imgupscaler.com) - Smart Png / Jpg Image Upscaler. Upscale And Enhance Your Image By Using The Latest AI Technology.
-- [JpgRM](https://jpgrm.com) - Jpgrm - AI Image Magic Cleanup. Using 2022 Cutting Edged AI Model To Remove Any Unwanted Objects From Your Images, Automatically Fill The Background.
-- [Magic Eraser](https://magicstudio.com) - Magic Studio - Powered By AI, Created By You. Magic Studio Helps You Automatically Edit And Create Images, Using AI.
-- [Palette](https://palette.fm) - Palette - Colorize Photos. A New AI Colorizer. Colorize Anything From Old Black And White Photos
-- [PhotoFix](https://photofix.io) - Photofix - Magically Edit Photos With AI
-- [Photorestoration](https://photorestoration.ai) - Old Photo Restoration Online - Photorestoration. AI
-- [Photospells](https://photospells.com) - Photo Spells - Professional Photo Edition With AI
-- [Prisma](https://prisma-ai.com/lensa) - Lensa Is An All-In-One Image Editing App That Takes Your Photos To The Next Level.
-- [Prisma](https://prisma-ai.com/prisma) - Prisma Captures The Essence Of Your Photos Transforming Them Into Vivid Color Paintings.
-- [Remover.app](https://remover.zmo.ai) - Removeanythingunwanted In Seconds, For Free.
-- [Roast](https://roast.dating) - Dating App Profile AI Analysis - Photoshoot AI Generator. ROAST Helps People 10x Their Matches On Dating Apps Like Tinder, Bumble, And Hinge. Powered By AI, It Provides Offers Data-driven Dating Insights And Expert Advice To Increase The Quantity And Quality Of Their Matches.
-- [SceneryAI](https://sceneryai.com) - Sceneryai. Generate Or Update Existing Images With Our AI Image Editing Tool.
-- [Stillgram](https://stillgram.io) - Stillgram™ - A. I. Travel Photo Camera App For Iphone®. Stillgram Is An A. I. Point & Shoot Camera App That Magically Removes Background Crowds From Your Urban/travel Photos.
-- [Topaz Photo AI](https://.topazlabs.com) - Topaz Labs AI Image Quality Software. Photo And Video Enhancement Software Powered By Deep Learning Gets You The Best Image Quality Available For Noise Reduction, Sharpening, Upscaling, And More.
-- [Unfake](https://unfakepng.com) - AI Tool That Can Turn Annoying Fake. Png Into True, Unfake. Png. Don' T You Hate It When You Find That Perfect, Supposedly Background-less Image, And Download It, But When You Go To Use It, The Dreaded Checkerboard Appears?.
-
----
-
-### Photo Restoration
-
-- [Photo Restoration](https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA) - Photo Restoration
-
-### Pix2Pix
-
-- [Pix2Pix Server](https://affinelayer.com/pixsrv/) - This Is A Website That Provides An Interactive Demo Of The Pix2Pix Generative Adversarial Network (GAN) For Image-to-image Translation.
-- [Scene Generation With Pix2Pix](https://zaidalyafeai.github.io/pix2pix/scene.html) - This Is A Website That Provides An Interactive Demo Of The Pix2Pix GAN For Generating Scenes From Semantic Label Maps.
-- [Webcam Reconstruction With Pix2Pix](https://zaidalyafeai.github.io/webcam–reconstruction/) - This Is A Website That Provides An Interactive Demo Of The Pix2Pix GAN For Reconstructing Images Captured From A Webcam.
-- [Pix2Pix With TensorFlow](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf_pix2pix.ipynb) - This Is A Google Colaboratory Notebook That Demonstrates How To Implement The Pix2Pix GAN Using TensorFlow.
-
-### Plugins & Extensions
-
-- [AIduh](https://aiduh.com) - AI-Responder For Hostaway - AI Duh. Chrome Extension That Cuts Your Writing Time By 98% With AI-powered Responses. Built By Hosts For Hosts.
-- [Autoname](https://.autoname.org) - Rename All Your Layers In One Click. Thanks To AI. Open Source. Rename Figma Frames In One Click, That's Pretty Much It.
-- [Merlin](https://merlin.foyer.work) - Merlin. Free Open AI' S ChatGPT Powered Extension To Use Anywhere.
-- [SplashAI](https://.splashAI.art) - SplashAI Is A Figma Plugin, Search Engine And AI Image Generator
-
----
-
-### Pose
+#### Pose
 
 - [Posenet Sketchbook](https://googlecreativelab.github.io/posenet–sketchbook/) - This URL Is An Interactive Demo Of Posenet, A Machine Learning Model That Can Detect Human Body Poses In Real-time.
 - [OpenPose With Tensorflow](https://colab.research.google.com/github/tugstugi/dl–colab–notebooks/blob/master/notebooks/OpenPose.ipynb) - This URL Is A Google Colab Notebook That Demonstrates How To Use OpenPose With Tensorflow To Detect Human Poses.
@@ -1024,7 +787,7 @@
 - [Pose Estimation With OpenCV](https://colab.research.google.com/drive/1uCuA6We9T5r0WljspEHWPHXCT_2bMKUy) - This URL Is A Google Colab Notebook That Shows How To Use OpenCV To Estimate Human Poses.
 - [Human Pose Estimation With Tensorflow](https://colab.research.google.com/drive/14Zgotr2_F0LfvcpRi03uQdMvUbLQSgok) - This URL Is A Google Colab Notebook That Demonstrates How To Estimate Human Poses With Tensorflow.
 
-### Pre–trained Stylegan Models
+#### Pre–trained Stylegan Models
 
 - [Awesome Pretrained StyleGAN](https://github.com/justinpinkney/awesome-pretrained-stylegan) By Justin Pinkney, A Collection Of Links To Pre-trained Stylegan Models.
 - [Awesome Pretrained StyleGAN2](https://github.com/justinpinkney/awesome-pretrained-stylegan2) By Justin Pinkney, A Collection Of Links To Pre-trained Stylegan2 Models.
@@ -1040,49 +803,19 @@
 - [SAM Age Transformation (Google Colab)](https://colab.research.google.com/github/yuval-alaluf/SAM/blob/master/notebooks/inference_playground.ipynb) By Yuval Alaluf.
 - [SAM Age Transformation (Animated) (Google Colab)](https://colab.research.google.com/github/yuval-alaluf/SAM/blob/master/notebooks/animation_inference_playground.ipynb) By Yuval Alaluf.
 
-### Prompts
-
-- [CLIP Interrogator 2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - An AI Model That Generates Short Answers To Questions In Natural Language.
-- [Home | DiffusionDB](https://poloclub.github.io/diffusiondb/) - A Platform That Helps To Easily Visualize And Explore High-dimensional Data Through Diffusion Maps.
-- [Midjourney Prompt Generators/](https://osvik.github.io/prompt-generators/) - A Website That Offers Different Prompt Generators For Creativity And Inspiration.
-- [Prompter Guide](https://prompterguide.com/) - A Guide That Provides Tips And Tricks On How To Use Teleprompters Effectively.
-- [PromptExtend](https://www.promptextend.com/) - A Platform That Provides Creative Writing Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
-- [Prompt Generator For Stable Diffusion](https://www.thomas.io/stable-diffusion-prompt-generator) - A Prompt Generator That Helps To Generate Creative Ideas For Writing And Other Artistic Endeavors.
-- [PromptHero](https://prompthero.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
-- [Prompt Hunt](https://www.prompthunt.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
-- [Promptist](https://huggingface.co/spaces/microsoft/Promptist) - An AI Model That Generates Writing Prompts In Natural Language.
-- [PromptLocker](https://www.promptlocker.com/) - A Platform That Provides A Library Of Writing Prompts For Writers, Artists, And Other Creative Minds.
-- [Promptmakr](https://promptmakr.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
-- [Prompt.Noonshot](https://prompt.noonshot.com/) - Midjourney Prompt Wizard - A Website That Offers A Prompt Generator For Creativity And Inspiration.
-- [PromptoMANIA](https://promptomania.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
-- [Prompts Database](https://stablediffusionweb.com/prompts) - A Database Of Creative Writing Prompts For Writers, Artists, And Other Creative Minds.
-- [Public Prompts](https://publicprompts.art/) - A Platform That Provides A Library Of Public Writing Prompts For Writers, Artists, And Other Creative Minds.
-- [Simple Prompt Generator V0.3](https://wine-ineff.github.io/Simple_Prompt_Generator/) - A Simple Prompt Generator For Writing And Other Creative Endeavors.
-- [Stable Diffusion Prompt Book](https://openart.ai/promptbook) - A Platform That Provides A Library Of Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
-- [Super Prompts](https://superprompts.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
-
----
-
-### RuDalle Outpainting
+#### RuDalle Outpainting
 
 - [RuDalle Outpainting Website](https://j.mp/outpaint) - This Is A Website That Showcases The Implementation Of RuDalle Outpainting.
 
-### Rudalle Text2Image (Malevich V3 + Emojich)
+#### Rudalle Text2Image (Malevich V3 + Emojich)
 
 - [Google Colab Notebook: Rudalle Text2Image (Malevich V3 + Emojich)](https://colab.research.google.com/github/Norod/my–colab–experiments/blob/master/Simple_ruDALLE_inference_%5Bsupports_v1_0_0%5D.ipynb) - This Is A Google Colab Notebook That Showcases The Implementation Of Rudalle Text2Image (Malevich V3 + Emojich).
 
-### Rudolph
+#### Rudolph
 
 - [Google Colab Notebook: Rudolph](https://colab.research.google.com/drive/1gmTDA13u709OXiAeXWGm7sPixRhEJCga) - This Is A Google Colab Notebook That Showcases The Implementation Of Rudolph.
 
-### Showcase
-
-- [OnCyber Art Galleries](https://oncyber.io/) - Cool 3D Art Gallery To Showcase Your Art With Links To NFT Market
-- [Spatial](https://spatial.io) - Create, Share & Experience Your Creativity In 3D
-
----
-
-### Single Image Head Avatars
+#### Single Image Head Avatars
 
 - [FOMM Demo](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb) - Head Reenactment With New GUI
 - [Avatarify Beta](https://github.com/alievk/avatarify/wiki/Windows-App-) - Windows App For Avatarify
@@ -1090,42 +823,34 @@
 - [Fomm Live Head Reenactment From Webcam](https://j.mp/cam2head) - Live Head Reenactment From Webcam
 - [MyHeritage Deep Nostalgia](https://www.myheritage.co.il/deep-nostalgia) - AI Tool To Animate Images Of People From The Past.
 
-### Single Shot Denoising
+#### Single Shot Denoising
 
 - [Single Shot Denoising](https://colab.research.google.com/github/DmitryUlyanov/deep-image-prior/blob/master/denoising.ipynb) - A Deep Learning-based Method For Single-shot Image Denoising
 - [Single-Shot Denoising (Czbiohub)](https://colab.research.google.com/github/czbiohub/noise2self/blob/master/notebooks/Single-Shot Denoising.ipynb) - Another Deep Learning-based Method For Single-shot Image Denoising
 
-### SIREN/FFT/Implicit
+#### SIREN/FFT/Implicit
 
 - [Explore SIREN (Google Colab Notebook)](https://colab.research.google.com/github/vsitzmann/siren/blob/master/explore_siren.ipynb) - Example Of Using SIREN For Generative Tasks
 - [SIREN For Image/video (Google Colab Notebook)](https://colab.research.google.com/drive/1HSsQen6lXnPHEpQPzmCuD5zFKhtPdZAI) - Example Of Using SIREN For Image/video Generation
 - [Fourier Feature Networks (Google Colab Notebook)](https://colab.research.google.com/github/tancik/fourier-feature-networks/blob/master/Demo.ipynb) - Example Of Using Fourier Feature Networks
 - [Meta-Learning With Implicit Models (Google Colab Notebook)](https://colab.research.google.com/github/tancik/learnit/blob/master/meta_demo.ipynb) - Example Of Using Implicit Models For Meta-learning.
 
-### Spade/Gaugan
+#### Spade/Gaugan
 
 - [Nvidia Research - Spade/Gaugan (1)](http://nvidia–research–mingyuliu.com/gaugan/) - This Is A Website By Nvidia Research Showcasing The Implementation Of Spade/Gaugan.
 - [Gaugan.org - Spade/Gaugan (2)](http://gaugan.org/gaugan2/) - This Is Another Website Showcasing The Implementation Of Spade/Gaugan.
 - [Nvidia Studio Canvas - Spade/Gaugan (3)](https://www.nvidia.com/en–us/studio/canvas/) - This Is A Website By Nvidia Studio Showcasing The Implementation Of Spade/Gaugan.
 
-### Speaker Separation
-
-- [Google Colab Notebook](https://colab.research.google.com/github/pyannote/pyannote–audio/blob/master/notebooks/introduction_to_pyannote_audio_speaker_diarization_toolkit.ipynb) - A Google Colab Notebook That Introduces You To The Pyannote Audio Speaker Diarization Toolkit And How To Use It For Speaker Separation.
-
-### Speech Synthesis With Celebrity Voices
-
-- [Vo.codes](https://vo.codes) - A Website With Tools For Speech Synthesis With Celebrity Voices And Wav2lip Interface.
-
-### Stable Diffusion
+#### Stable Diffusion
 
 - [AI Creation Tool MEGA List](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - Google Sheets - This Is A Google Sheets Document With A Comprehensive List Of AI Creation Tools.
-- [AIimag](https://aiimag.es/) – The Easy Solution For Text2image AI - This Is The Website For AIimag, A Solution For Text2Image AI.
+- [AIimag](https://aiimag.es/)–The Easy Solution For Text2image AI - This Is The Website For AIimag, A Solution For Text2Image AI.
 - [A One-click Version Of Sd-webui-colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) - This Is A Github Repository For A Simplified Version Of Sd-webui-colab.
 - [Artificy](https://artificy.com/) - Artistic Images Generation Using Artificial Intelligence - This Is The Website For Artificy, A Tool For Generating Artistic Images Using AI.
 - [AyyMD Stable Diffuse V1.4 For Wangblows 10 (By Anon)](https://rentry.org/ayymd-stable-diffustion-v1_4-guide) - This Is A Guide For AyyMD Stable Diffuse V1.4, Created By Anon, For Wangblows 10.
 - [CPU RETARD GUIDE (GUI)](https://rentry.org/cputard) - This Is A Guide For CPU Retard, With A Graphical User Interface.
 - [DALLE-Flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop Workflow For Creating HD Images From Text
-- [Dall-E Mini](https://hotpot.ai/dalle-mini) - Try Free- This Is The Website For Dall-E Mini, A Free Tool For Trying Dall-E.
+- [Dall-E Mini](https://hotpot.ai/dalle-mini) - Try FreeThis Is The Website For Dall-E Mini, A Free Tool For Trying Dall-E.
 - [Diffuse The Rest - A Hugging Face Space By Huggingface-projects](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) - This Is A Hugging Face Space For Diffuse The Rest, Created By HuggingFace-projects.
 - [Generative Engine | RunwayML Experiments](https://experiments.runwayml.com/generative_engine/) - A Platform To Experiment And Play With Generative AI Models.
 - [Implementation Of Dreambooth With Stable Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - A Repository For The Implementation Of Dreambooth With Stable Diffusion.
@@ -1158,7 +883,7 @@
 
 ---
 
-### StyleGAN
+#### StyleGAN
 
 - [Lucid Sonic Dreams](https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD?usp=sharing) - Animate Path Through StyleGAN Latent Space With Music [Github](https://github.com/mikaelalafriz/lucid-sonic-dreams)
 - [Painting With StyleGAN](https://colab.research.google.com/github/jmoso13/Painting_with_StyleGAN/blob/main/Painting_with_StyleGAN.ipynb) By @Jmoso13 ([Tutorial](https://www.youtube.com/watch?v=pkYHMPoZrkg)) - Use VAE To Navigate And Animate!
@@ -1177,7 +902,7 @@
 
 ---
 
-### StyleGAN Resources
+##### StyleGAN Resources
 
 - [StyleGAN Colab Notebook By Kyle McDonald](https://colab.research.google.com/gist/kylemcdonald/7920a7329518a54f59f2a237aca92529/stylegan.ipynb) - A Jupyter Notebook Implementation Of StyleGAN.
 - [Smile By Eyal Gruss](https://eyalgruss.com/smile) - A Website Demonstrating The Power Of StyleGAN.
@@ -1197,11 +922,11 @@
 - [Animal Conditional Generation By EvgenyKashin](https://colab.research.google.com/github/Norod/my-colab-experiments/blob/master/EvgenyKashin_Animal_conditional_generation.ipynb) - An Experiment With Conditional Generation Of Animals In StyleGAN2, Using A Model Trained With Labels.
 - [Data Efficient GANs By Zsyzzsoft](https://colab.research.google.com/gist/zsyzzsoft/5fbb71b9bf9a3217576bebae5de46fc2/data-efficient-gans.ipynb) - An Experiment With Training GANs With Very Small Data, Using Data Augmentation (Diffaugment).
 
-### Style Harmonization
+##### Style Harmonization
 
 [Deep Painterly Harmonization Colab](https://j.mp/deepharm) - Deep Painterly Harmonization Colab
 
-### Style Transfer
+##### Style Transfer
 
 - [Style Transfer By Reiinakano](https://reiinakano.github.io/arbitrary-image-stylization-tfjs/) - TensorFlow.js Implementation For Arbitrary Style Transfer.
 - [Deep Dream Generator](https://deepdreamgenerator.com) - A Deep Dream Tool That Lets You Generate Your Own Dream-like Images.
@@ -1214,7 +939,7 @@
 - [NN Hallucinations By Eugen Hotaj](https://github.com/EugenHotaj/nn-hallucinations/blob/master/style_transfer.ipynb) - A Jupyter Notebook On Style Transfer Using Neural Networks.
 - [Google Colab For MUNIT](https://colab.research.google.com/drive/1JshOp4J7bdIpvJZplZ--wwaisSBUx9tF) - A Colaboratory Notebook For The MULTI-SCALE UNIT (MUNIT) Framework For Style Transfer.
 
-### Super-Resolution
+#### Super-Resolution
 
 - [ChaiNNer](https://github.com/joeyballentine/chaiNNer) - Node Base Tool That Can Batch Process ESRGAN Upscale And More
 - [Cupscale](https://github.com/n00mkrad/cupscale) - Windows GUI For ESRGAN
@@ -1233,7 +958,7 @@
 
 ---
 
-### Super–Resolution And Image Enhancement
+##### Super–Resolution And Image Enhancement
 
 - [Let's Enhance](https://letsenhance.io) - Image Enhancement Tool
 - [Bigjpg](https://bigjpg.com/) - AI-based Image Enhancement Tool
@@ -1243,11 +968,11 @@
 - [DFDNet Colab For DeepFakers](https://colab.research.google.com/github/tg-bomze/DFDNet/blob/whole/DFDNet_Colab_for_DeepFakers.ipynb) - Colaboratory On DFDNet For DeepFakers
 - [DFDNet Colab (English)](https://colab.research.google.com/github/tg-bomze/DFDNet/blob/whole/DFDNet_Colab_Eng.ipynb) - Colaboratory On DFDNet (English Version)
 
-### Taming Transformers: Landscape Generation, Faces
+#### Taming Transformers: Landscape Generation, Faces
 
 - [Taming Transformers](https://colab.research.google.com/github/CompVis/taming-transformers/blob/master/scripts/taming-transformers.ipynb) - Landscape Generation And Faces
 
-### Text Generation
+#### Text Generation
 
 - [Voyages In Sentence Space](https://www.robinsloan.com/voyages–in–sentence–space/) - An Article By Robin Sloan On Sentence Interpolation
 - [RecurrentJS](https://cs.stanford.edu/people/karpathy/recurrentjs/) - A JavaScript Library By Andrej Karpathy For Training And Evaluating Recurrent Neural Networks
@@ -1270,9 +995,172 @@
 - [Community Trained GPTNeo (Requires Large Cloud Storage)](https://colab.research.google.com/github/EleutherAI/gpt–neo/blob/24aeaf9ef834884f590b0899c104793914bd6b31/GPTNeo_example_notebook.ipynb) - A Google Colab Notebook That Demonstrates The Use Of A Community-trained Version Of The GPT Language Model. It Requires A Large Amount Of Cloud Storage.
 - [How To Generate Text With GPT-2](https://colab.research.google.com/github/huggingface/blog/blob/master/notebooks/02_how_to_generate.ipynb) - A Google Colab Notebook That Explains How To Use The GPT-2 Language Model For Text Generation.
 
-### Text To Speech Comparing Different Models
+##### Text To Speech Comparing Different Models
 
 - [1_TTS_inference.ipynb (NeMo)](https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/tts/1_TTS_inference.ipynb) - A Google Colab Notebook For Text To Speech Conversion Comparing Different Models.
+
+### Github Repositories
+
+- [AI4D](https://github.com/mmattyg/AI4D) - A Repository For AI For Development.
+- [Dl–colab–notebooks](https://github.com/tugstugi/dl–colab–notebooks) - Deep Learning Tutorials In Colab Notebooks.
+- [Dl–colab–notebooks](https://github.com/styler00dollar/dl–colab–notebooks) - A Collection Of Deep Learning Tutorials In Colab Notebooks.
+- [Shared_colab_notebooks](https://github.com/mrm8488/shared_colab_notebooks) - A Repository Of Shared Google Colab Notebooks.
+- [Ml–art–colabs](https://github.com/dvschultz/ml–art–colabs) - A Collection Of Machine Learning And Art Colab Notebooks.
+- [PINTO Model Zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A Collection Of Pre-trained Models For Various Tasks.
+- [Mediapipe](https://github.com/google/mediapipe) - A Cross-platform Multimedia Framework By Google.
+- [Mediapipe Demos](https://viz.mediapipe.dev/demo) - A Demo Page For Mediapipe Framework.
+- [Tensorflow Generative Tutorials](https://github.com/tensorflow/docs/tree/master/site/en/tutorials/generative) - A Repository Of Tensorflow Generative Tutorials.
+- [Deep Image Prior](https://github.com/DmitryUlyanov/deep–image–prior) - A Repository For Deep Image Prior.
+- [Awesome Colab Notebooks](https://github.com/amrzv/awesome–colab–notebooks) - A Collection Of Awesome Google Colab Notebooks.
+- [Useless Pytools](https://colab.research.google.com/github/aicrumb/useless–pytools/blob/main/useless_py.ipynb) - A Repository For Useless Python Tools.
+- [My Colab Experiments](https://github.com/Norod/my–colab–experiments) - A Collection Of Personal Google Colab Experiments.
+- [Collection Of Notebooks](https://github.com/tg–bomze/collection–of–notebooks) - A Collection Of Various Notebooks.
+
+### Logo Generator
+
+- [Designs AI](https://designs.ai/) - Creative Work Done Effortlessly
+- [Brandmark](http://brandmark.io) - Brandmark Logo Maker - The Most Advanced AI Logo Design Tool
+- [Looka](https://looka.grsm.io/jscfk35v34tn) - Free Logo Maker & Intelligent Brand Designer. Make A Logo And Build A Brand You Love With Looka.
+- [Make Logo AI](https://makelogo.ai/) - Makelogo. AI Get The Perfect Logo For Your Startup. Generate Beautiful And Unique Logos For Your Startup, Powered By Artificial Intelligence.
+- [Namecheap](https://www.namecheap.com/logo-maker/app/new/) - Logo Maker
+- [Text To Book Cover](http://stockimg.ai) - AI Image Generation For Teams - You Can Easily Generate AI Logo, AI Book Covers, AI Posters And More - Stockimg AI. AI Image Generation For Teams - You Can Easily Generate AI Logo, AI Book Covers, AI Posters And More - Stockimg AI.
+
+---
+
+### Other
+
+- [DeepAI APIs](https://deepai.org/apis) - A Page For DeepAI APIs.
+- [Hitchhiker's Guide To Latent Space Colabs](https://docs.google.com/document/u/1/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/mobilebasic) - A Document Guide For Latent Space Colab.
+- [Pharmapsychotic Tools](https://pharmapsychotic.com/tools.html) - A Page For Tools Provided By Pharmapsychotic.
+
+#### Mediapipe Facemesh
+
+- [Google Colab Notebook](https://colab.research.google.com/drive/1FCxIsJS9i58uAsgsLFqDwFmiPO14Z2Hd) - A Google Colab Notebook That Demonstrates How To Use The Mediapipe Library To Detect Faces In An Image And Extract Facial Landmarks.
+- [Face Landmark](https://eyaler.github.io/tfjs_webgl_app/face_landmark) - A Website That Provides A Face Swap App That Allows You To Swap Faces In A Video Or Camera Feed Using Facial Landmarks.
+
+#### NLP
+
+- [Quantum Stat Notebooks](https://notebooks.quantumstat.com/) - NLP Resources By Quantum Stat
+
+---
+
+#### (NSFW)
+
+- [Penis Generator](https://colab.research.google.com/drive/1DoCxr2pYlxCRv6RmITtFWahVXsbTexYp) - NSFW
+- [Penis Generator](https://colab.research.google.com/drive/1-SDjR6ztiExBRmf5xzspNsA5t8y3kEXk) - NSFW
+
+#### Old School
+
+- [Picbreeder](http://picbreeder.org/) - A Website That Provides An Interactive Platform To Breed Unique And Interesting Images Using A Genetic Algorithm.
+- [GMIC Video](https://j.mp/gmicvid) - A Website That Provides A Video Processing Tool That Uses The GMIC Filters To Enhance The Video Quality.
+- [GMIC Online](https://gmicol.greyc.fr/) - An Online Platform That Allows You To Apply GMIC Filters On Images.
+- [Plotting Pi](https://bit.li/plotpi) - A Website That Provides A Visual Representation Of The Number Pi Using A Plotting Algorithm.
+
+### Photo Editing
+
+- [AI Image Enlarger](https://imglarger.com) - AI Image Enlarger - Enlarge Image Without Losing Quality!
+- [AVC AI](https://avc.ai) - Online AI Image Enhancer That Improves Photo Quality By Upscaling, Denoising, Restoring, Face Refinement, And More
+- [Claid.ai](https://claid.ai) - Claid. AI Automated Photo Enhancer For Ugc. Web, Mobile & Printing. AI Software To Enlarge Images With No Quality Loss, Correct Colors, Increase Resolution, Retouch Product Photos And Edit UGC Automatically.
+- [Colorize](https://colorize.cc) - Colorize Photo Online
+- [ExtendImage](https://.extendimage.ai) - Extendimageai - Extend Your Images With Generative AI. ExtendImageAI Is A Tool That Allows You To Extend Your Images With Generative AI.
+- [Hama](https://.hama.app) - Hama. Amazing Photo Eraser.
+- [Imgupscaler](https://imgupscaler.com) - Smart Png / Jpg Image Upscaler. Upscale And Enhance Your Image By Using The Latest AI Technology.
+- [JpgRM](https://jpgrm.com) - Jpgrm - AI Image Magic Cleanup. Using 2022 Cutting Edged AI Model To Remove Any Unwanted Objects From Your Images, Automatically Fill The Background.
+- [Magic Eraser](https://magicstudio.com) - Magic Studio - Powered By AI, Created By You. Magic Studio Helps You Automatically Edit And Create Images, Using AI.
+- [Palette](https://palette.fm) - Palette - Colorize Photos. A New AI Colorizer. Colorize Anything From Old Black And White Photos
+- [PhotoFix](https://photofix.io) - Photofix - Magically Edit Photos With AI
+- [Photorestoration](https://photorestoration.ai) - Old Photo Restoration Online - Photorestoration. AI
+- [Photospells](https://photospells.com) - Photo Spells - Professional Photo Edition With AI
+- [Prisma](https://prisma-ai.com/lensa) - Lensa Is An All-In-One Image Editing App That Takes Your Photos To The Next Level.
+- [Prisma](https://prisma-ai.com/prisma) - Prisma Captures The Essence Of Your Photos Transforming Them Into Vivid Color Paintings.
+- [Remover.app](https://remover.zmo.ai) - Removeanythingunwanted In Seconds, For Free.
+- [Roast](https://roast.dating) - Dating App Profile AI Analysis - Photoshoot AI Generator. ROAST Helps People 10x Their Matches On Dating Apps Like Tinder, Bumble, And Hinge. Powered By AI, It Provides Offers Data-driven Dating Insights And Expert Advice To Increase The Quantity And Quality Of Their Matches.
+- [SceneryAI](https://sceneryai.com) - Sceneryai. Generate Or Update Existing Images With Our AI Image Editing Tool.
+- [Stillgram](https://stillgram.io) - Stillgram™ - A. I. Travel Photo Camera App For Iphone®. Stillgram Is An A. I. Point & Shoot Camera App That Magically Removes Background Crowds From Your Urban/travel Photos.
+- [Topaz Photo AI](https://.topazlabs.com) - Topaz Labs AI Image Quality Software. Photo And Video Enhancement Software Powered By Deep Learning Gets You The Best Image Quality Available For Noise Reduction, Sharpening, Upscaling, And More.
+- [Unfake](https://unfakepng.com) - AI Tool That Can Turn Annoying Fake. Png Into True, Unfake. Png. Don' T You Hate It When You Find That Perfect, Supposedly Background-less Image, And Download It, But When You Go To Use It, The Dreaded Checkerboard Appears?.
+
+---
+
+#### Editing
+
+- [AI. Image Enlarger](https://imglarger.com/) - A Website For An AI-powered Image Enlargement Tool.
+- [Al Picasso](https://aipicasso.studio.site/) - A Website For An AI-powered Digital Art Creation Tool.
+- [Astria](https://www.astria.ai/) - A Platform That Uses AI Technology To Help Businesses In The Real Estate Industry.
+- [Befunky](https://www.befunky.com/) - A Website For A Photo Editing Tool That Offers Various Effects, Filters, And Graphic Design Options.
+- [Bg.Eraser](https://bgeraser.com/) - A Website For An AI-powered Background Removal Tool.
+- [Bria](https://bria.ai/) - A Platform That Uses AI Technology To Automate Repetitive Tasks In The Real Estate Industry.
+- [Erase.bg](https://www.erase.bg/) - A Website For An AI-powered Background Removal Tool.
+- [Evoto AI](https://www.evoto.ai/) - A Platform That Uses AI Technology To Automate Repetitive Tasks In The Real Estate Industry.
+- [Getimg.ai](https://getimg.ai/) - A Website For An AI-powered Image Editing Tool.
+- [Green Screen AI](https://greenscreenai.com/) - A Platform That Uses AI Technology To Automatically Remove Green Screens From Videos.
+- [Hama-Image Editing](https://www.hama.app/) - A Website For An AI-powered Image Editing Tool.
+- [Let's Enhance](https://letsenhance.io/) - A Website For An AI-powered Image Enhancement Tool.
+- [Magic Eraser](https://magiceraser.io/) - A Website For An AI-powered Background Removal Tool.
+- [Nostalgia Photo](https://www.nostalgia.photo/) - A Website For An AI-powered Photo Editing Tool That Adds A Vintage Effect To Images.
+- [Palette.fm](https://palette.fm/) - A Website For A Color Scheme Generator Tool That Uses AI Technology.
+- [Perfectly Clear Video](https://eyeq.photos/automatic-ai-video-enhancement/) - A Platform That Uses AI Technology To Automatically Enhance Videos.
+- [Photoroom](https://www.photoroom.com/) - A Website For An AI-powered Photo Editing Tool That Offers Various Effects And Filters.
+- [QuickTools By Picsart](https://tools.picsart.com/image/) - A Website For A Suite Of AI-powered Photo Editing Tools Offered By Picsart.
+- [Radiant Photo](https://radiantimaginglabs.com/) - A Website For An AI-powered Photo Editing Tool That Offers Various Effects And Filters.
+- [Remove.bg](https://www.remove.bg/) - A Website For An AI-powered Background Removal Tool.
+- [RestorePhotos](https://www.restorephotos.io/) - A Website For An AI-powered Photo Restoration Tool.
+- [RocketAI](https://rocketai.io/) - A Platform That Offers AI-powered Solutions For Businesses In Various Industries.
+- [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) - A Website For An AI-powered Photo Editing Tool That Offers Various Effects And Filters.
+- [Visio Studio](https://visio.studio/) - A Platform That Uses AI Technology To Automate Repetitive Tasks In The Real Estate Industry.
+
+
+---
+
+#### Photo Restoration
+
+- [Photo Restoration](https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA) - Photo Restoration
+
+#### Pix2Pix
+
+- [Pix2Pix Server](https://affinelayer.com/pixsrv/) - This Is A Website That Provides An Interactive Demo Of The Pix2Pix Generative Adversarial Network (GAN) For Image-to-image Translation.
+- [Scene Generation With Pix2Pix](https://zaidalyafeai.github.io/pix2pix/scene.html) - This Is A Website That Provides An Interactive Demo Of The Pix2Pix GAN For Generating Scenes From Semantic Label Maps.
+- [Webcam Reconstruction With Pix2Pix](https://zaidalyafeai.github.io/webcam–reconstruction/) - This Is A Website That Provides An Interactive Demo Of The Pix2Pix GAN For Reconstructing Images Captured From A Webcam.
+- [Pix2Pix With TensorFlow](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf_pix2pix.ipynb) - This Is A Google Colaboratory Notebook That Demonstrates How To Implement The Pix2Pix GAN Using TensorFlow.
+
+#### Plugins & Extensions
+
+- [AIduh](https://aiduh.com) - AI-Responder For Hostaway - AI Duh. Chrome Extension That Cuts Your Writing Time By 98% With AI-powered Responses. Built By Hosts For Hosts.
+- [Autoname](https://.autoname.org) - Rename All Your Layers In One Click. Thanks To AI. Open Source. Rename Figma Frames In One Click, That's Pretty Much It.
+- [Merlin](https://merlin.foyer.work) - Merlin. Free Open AI' S ChatGPT Powered Extension To Use Anywhere.
+- [SplashAI](https://.splashAI.art) - SplashAI Is A Figma Plugin, Search Engine And AI Image Generator
+
+---
+
+### Prompts
+
+- [CLIP Interrogator 2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - An AI Model That Generates Short Answers To Questions In Natural Language.
+- [Home | DiffusionDB](https://poloclub.github.io/diffusiondb/) - A Platform That Helps To Easily Visualize And Explore High-dimensional Data Through Diffusion Maps.
+- [Midjourney Prompt Generators/](https://osvik.github.io/prompt-generators/) - A Website That Offers Different Prompt Generators For Creativity And Inspiration.
+- [Prompter Guide](https://prompterguide.com/) - A Guide That Provides Tips And Tricks On How To Use Teleprompters Effectively.
+- [PromptExtend](https://www.promptextend.com/) - A Platform That Provides Creative Writing Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+- [Prompt Generator For Stable Diffusion](https://www.thomas.io/stable-diffusion-prompt-generator) - A Prompt Generator That Helps To Generate Creative Ideas For Writing And Other Artistic Endeavors.
+- [PromptHero](https://prompthero.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+- [Prompt Hunt](https://www.prompthunt.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+- [Promptist](https://huggingface.co/spaces/microsoft/Promptist) - An AI Model That Generates Writing Prompts In Natural Language.
+- [PromptLocker](https://www.promptlocker.com/) - A Platform That Provides A Library Of Writing Prompts For Writers, Artists, And Other Creative Minds.
+- [Promptmakr](https://promptmakr.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+- [Prompt.Noonshot](https://prompt.noonshot.com/) - Midjourney Prompt Wizard - A Website That Offers A Prompt Generator For Creativity And Inspiration.
+- [PromptoMANIA](https://promptomania.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+- [Prompts Database](https://stablediffusionweb.com/prompts) - A Database Of Creative Writing Prompts For Writers, Artists, And Other Creative Minds.
+- [Public Prompts](https://publicprompts.art/) - A Platform That Provides A Library Of Public Writing Prompts For Writers, Artists, And Other Creative Minds.
+- [Simple Prompt Generator V0.3](https://wine-ineff.github.io/Simple_Prompt_Generator/) - A Simple Prompt Generator For Writing And Other Creative Endeavors.
+- [Stable Diffusion Prompt Book](https://openart.ai/promptbook) - A Platform That Provides A Library Of Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+- [Super Prompts](https://superprompts.com/) - A Platform That Provides Creative Prompts And Inspiration For Writers, Artists, And Other Creative Minds.
+
+---
+
+### Showcase
+
+- [OnCyber Art Galleries](https://oncyber.io/) - Cool 3D Art Gallery To Showcase Your Art With Links To NFT Market
+- [Spatial](https://spatial.io) - Create, Share & Experience Your Creativity In 3D
+
+---
 
 ### Tools
 
@@ -1287,7 +1175,79 @@
 
 ---
 
-### Wav2lip / Make It Talk
+#### Audio Style Transfer
+
+- [Google Research: Tone Transfer](https://sites.research.google/tonetransfer) - This Is A Website By Google Research Showcasing The Implementation Of Audio Style Transfer.
+- [Google Colab Notebook: Ss-vq-vae (Timbre)](https://colab.research.google.com/github/cifkao/ss–vq–vae/blob/main/experiments/colab_demo.ipynb) - This Is A Google Colab Notebook That Showcases The Implementation Of Ss-vq-vae For Audio Style Transfer (Timbre).
+
+#### Autoencoders
+
+- [AutoEncoders Notebook](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/AutoEncoders.ipynb) - Autoencoder Demos By Zaid Alyafeai
+
+#### Green Screen
+
+- [Google Colab: Image Background Remove Tool](https://colab.research.google.com/github/OPHoperHPO/image-background-remove-tool/blob/master/docs/other/try.ipynb) - A Tool For Removing The Background Of An Image.
+- [Google Colab: Clean Background Image](https://colab.research.google.com/drive/1cTxFq1YuoJ5QPqaTcnskwlHDolnjBkB9) - Requires A Clean Background Image.
+- [Google Colab: Clean Background Images](https://colab.research.google.com/drive/1Y9zWfULc8-DDTSsCH-pX6Utw8skiJG5) - Requires Clean Background Images.
+- [Google Colab: Animal Matting](https://colab.research.google.com/drive/1EaQ5h4u9Q_MmDSFTDmFG0ZOeSsFuRTsJ) - Matting For Animal Images.
+- [Google Colab: FBA Matting](https://colab.research.google.com/drive/1Ut2szLBTxPejGHt_GYUkua21yUVWseOE) - Matting For Foreground-background-alpha Images.
+- [Google Colab: Sky Replacement](https://colab.research.google.com/drive/1-BqXD3EzDY6PHRdwb3cWayk2KictbFaz?usp=sharing) - A Tool For Replacing The Sky In An Image.
+- [Vid2Green](http://j.mp/vid2green) - A Video Tool That Uses U2Net, ModNet, And Portrait Generation.
+- [GitHub: Rembg (U2Net)](https://github.com/danielgatis/rembg) - A Tool For Removing The Background Of An Image Using U2Net.
+- [GitHub: Rembg Greenscreen (U2Net Video)](https://github.com/ecsplendid/rembg-greenscreen) - A Video Tool For Removing The Background Of An Image Using U2Net.
+- [Google Colab: U2Net-P Demonstration](https://colab.research.google.com/github/shreyas-bk/U-2-Net-Demo/blob/master/DEMOS/U_2_Netp_Demonstration_Colab.ipynb) - A Demonstration Of The U2Net-P Tool.
+- [Google Colab: U2Net-P Cropper](https://colab.research.google.com/github/Norod/my-colab-experiments/blob/master/U_2_Netp_Cropper_Colab.ipynb) - A Cropper Tool For U2Net-P.
+- [Gradio App: ModNet](https://www.gradio.app/hub/aliabd/modnet) - A Tool For Removing The Background Of An Image Using ModNet.
+- [Gradio App: U-2-Net](https://gradio.app/hub/AK391/U-2-Net) - A Tool For Removing The Background Of An Image Using U-2-Net.
+- [Google Colab: ModNet](https://colab.research.google.com/drive/1GANpbKT06aEFiW-Ssx0DQnnEADcXwQG6) - A Tool For Removing The Background Of An Image Using ModNet.
+- [Google Colab: ModNet Webcam](https://colab.research.google.com/drive/1Pt3KDSc2q7WxFvekCnCLD8P0gBEbxm6J) - A Tool For Removing The Background Of A Webcam Image Using ModNet.
+- [Google Colab: RVM](https://colab.research.google.com/drive/10z-pNKRnVNsp0Lq9tH1J_XPZ7CBC_uHm) - The Relevance Vector Machine (RVM) Algorithm.
+
+#### No Code Tools
+
+- [Artbreeder Collage](https://collage.artbreeder.com/) - CLIP Guided Diffusion On Top Of Simple Collages
+- [Artbreeder](https://www.artbreeder.com/) - StyleGAN Model With "Genes" (Directions In Latent Space) For Editing
+- [CogView](https://agc.platform.baai.ac.cn/CogView/index.html) - Text To Image, Chinese Model Like DALL-E ( [Interview](https://towardsdatascience.com/cogview-image-generation-and-language-modelling-at-scale-8d358a0686d2) )
+- [Conjure.art](https://www.conjure.art/) - New Text To Image Site Currently In Beta
+- [Craiyon](https://www.craiyon.com/) - Formerly Known As Dall-e Mini, Free And Makes Quick Grids Of 9 Outputs
+- [Dall-e 2](https://openai.com/dall-e-2/) - Join The Waitlist To Get Access To The Beta  🔥
+- [DeepDreamGenerator](https://deepdreamgenerator.com/) - Deep Style, Thin Style, Deep Dream
+- [Midjourney](https://midjourney.com/) - Text To Image Via Discord Bot, Now Open To Everyone  🔥🔥
+- [Murf.ai](https://murf.ai/text-to-speech) - Text To Speech With AI Voices
+- [Nebula41](https://nebula41.io/) - Under Development, VQGAN Videos From Text
+- [Neural.love Image-upscale](https://neural.love/image-upscale) - Credit Based Image Upscaling Service
+- [NightCafe](https://creator.nightcafe.studio/) - Style Transfer, VQGAN, Diffusion Image Generation
+- [Ostagram](https://www.ostagram.me/) - Style Transfer
+- [Playform](https://www.playform.io/) - Style Transfer, Train Stylegans, Images Morphs
+- [Pollinations.ai](https://pollinations.ai/) - Run Lots Of Popular Notebooks
+- [ProsePainter](https://www.prosepainter.com/) - Interactive Tool To "Paint With Words"
+- [Runwayml](https://runwayml.com/) - Video Editing Powered By AI
+- [Snowpixel](https://snowpixel.app/) - Text To Image And Variations
+- [Stability.ai](https://stability.ai/beta-signup-form) - New Stable Diffusion Model (Sign Up For The Beta It Is Great!) 🔥🔥🔥
+- [StarryAI](https://www.starryai.com/) - Text To Image With Easy Selection Of Styles
+- [Synth.run](https://www.synth.run/) - Text To Image App For IOS, Android, And Web
+- [Tokkingheads](https://www.tokkingheads.com/) - Animate Portraits With AI
+- [Uberduck.ai](https://uberduck.ai/speak) - Text To Speech With Lots Of Different Voices
+- [Visions Of Chaos](https://softology.pro/voc.htm) - Run The Popular AI Notebooks Locally On Windows (See The Machine Learning Setup Steps)
+- [Wombo](https://app.wombo.art/) - Super Fast And Free
+- [Wzrd.ai](https://wzrd.ai/) - Give It A Music File And Produce Animation From Big Set Of Pretrained GANs
+
+---
+
+#### Offline Tools
+
+- [VOC](https://softology.com.au/voc.htm) - A Voice Recognition Software By Softology
+- [EBSynth](https://ebsynth.com/) - A Real-time Wavetable Synthesizer By Ethan Brosh
+
+#### Speaker Separation
+
+- [Google Colab Notebook](https://colab.research.google.com/github/pyannote/pyannote–audio/blob/master/notebooks/introduction_to_pyannote_audio_speaker_diarization_toolkit.ipynb) - A Google Colab Notebook That Introduces You To The Pyannote Audio Speaker Diarization Toolkit And How To Use It For Speaker Separation.
+
+#### Speech Synthesis With Celebrity Voices
+
+- [Vo.codes](https://vo.codes) - A Website With Tools For Speech Synthesis With Celebrity Voices And Wav2lip Interface.
+
+#### Wav2lip / Make It Talk
 
 - [Quick_demo.ipynb](https://colab.research.google.com/github/yzhou359/MakeItTalk/blob/main/quick_demo.ipynb) - A Google Colab Notebook For Lip Syncing Animations In Images Or Videos From Audio.
 - [Quick_demo_tdlr.ipynb](https://colab.research.google.com/github/yzhou359/MakeItTalk/blob/main/quick_demo_tdlr.ipynb) - A Brief Version Of The Above Demo.
@@ -1296,7 +1256,7 @@
 - [Wav2lip (J.mp)](https://j.mp/wav2lip) - A Short URL Redirecting To Lip Syncing Demos.
 - [Vo.codes](https://vo.codes) - A Website With A Wav2lip Interface And Other Speech Synthesis Tools.
 
-### Word2Dream
+#### Word2Dream
 
 - [Word2Dream Website](https://eyalgruss.com/word2dream) - This Is A Website Showcasing The Implementation Of Word2Dream.
 
@@ -1304,74 +1264,38 @@
 
 **In This Section, You Will Find All Things Related To Audio Processing Using AI Technology.**
 
+- [Audio](#Audio)
+- [Editing](#Editing)
+- [Music](#Music)
+- [Podcasts](#Podcasts)
+- [Speech](#Speech)
+- [Text To Speech](#Text%20To%20Speech)
+
+
 ---
 
 ### Audio
 
-- [Adobe Mic Check](https://podcast.adobe.com/miccheck) - Check Your Mic For Free. Get Advice On How To Improve Your Microphone Setup. We' Ll Make Sure You Sound Podcast-ready.
-- [Adobe Podcast](http://www.magictools.online) - A Directory Of 276 AI Tools 
-- [Aflorithmic](https://www.aflorithmic.ai/) - A Website For Creating Custom Music Using AI Technology.
-- [Ai](https://x-minus.pro/ai) - A Website Offering AI Services For Various Industries.
-- [Aiva.ai](https://aiva.ai/) - A Website Offering AI-powered Music Composition Services.
-- [Altered](https://www.altered.ai/) - A Website Offering AI-powered Image And Video Manipulation Services.
-- [Ampermusic.com](https://www.ampermusic.com/) - A Website Offering AI-powered Music Composition Services.
 - [Article](https://article./) - A Website For Converting Articles To Various Formats Using AI Technology.
-- [Boomy](https://boomy.com/) - A Website For Creating Music Using AI Technology.
-- [Clip.](https://www.clip./) - A Website Offering AI-powered Video Editing Services.
-- [Coqui](https://coqui.ai/) - A Website Offering AI-powered Voice-over Services.
-- [Create AI Voice Overs](https://createaivoiceovers.com/) - A Website Offering AI-powered Voice-over Services.
-- [CyaniteAI](https://cyanite.ai/) - A Website Offering AI-powered Music Tagging And Similarity Search Services.
-- [Dadabots](https://dadabots.com/) - A Website Offering AI-generated Music And Audio.
+- [Audo AI](https://audo.ai/) - AI Powered Background Noise Removal  
+- [Clip](https://www.clip./) - A Website Offering AI-powered Video Editing Services.
 - [EarthML1](https://twitter.com/EarthML1/status/1449776224222523397?s=20&t=oPLA241CLsGzifdwWcFgWQ) - A Twitter Status Update By EarthML1.
-- [Echo](https://lightning.ai/echo/view/home) - A Website Offering AI-powered Voice-over Services.
-- [FakeYou.](https://fakeyou.com/) - A Website Offering AI-powered Deep Fake Text-to-speech Services.
-- [Filmbook](https://www.filmbook.xyz/) - A Website Offering AI-powered Movie Recommendation Services.
-- [Freeae](https://www.lalal.ai/) - A Website Offering AI-powered Music Composition Services.
 - [Free Subtitles](https://freesubtitles.ai/) - A Website For Subtitle Creation Using AI Technology.
-- [Harmonai.org](https://www.harmonai.org/) - A Website Offering AI-powered Music Generation Services.
-- [Jukebox](https://openai.com/blog/jukebox) - A Blog Post About OpenAI's AI Music Generator, Jukebox.
-- [LOVO AI](https://www.lovo.ai/) - A Website Offering A Free Online Text-to-speech Service Using AI Technology.
-- [MazMazika](https://mazmazika.com/vocalremover) - A Music Platform That Offers Vocal Remover Services.
 - [Moises.ai](https://moises.ai/) - A Website For An AI Tool That Offers Personalized Language Learning Experiences.
-- [Mubert](https://mubert.com/render/pricing?via=pharmapsychotic) - A Website That Provides Information On Mubert's AI Music Generation Services.
-- [MURF](https://murf.ai/text-to-speech) - A Text-To-Speech Tool Provided By MURF, Which Generates Realistic TTS Voiceovers.
-- [Nuclia](https://nuclia.cloud/at/mthrfckr/mthrfckr) - A Website For A Cloud-based AI Platform That Offers Various Services.
-- [Otter.ai](https://otter.ai/home?f=home) - A Website For An AI-powered Transcription Tool.
 - [Parrot AI](https://app.parrot.ai/workspaces/personal?referrer=https%3A%2F%2Fapp.parrot.ai%2Flogout) - A Website For A Personal Workspace Offered By Parrot AI, An AI-powered Tool For Data Analysis And Organization.
-- [Pattern Radio](https://patternradio.withgoogle.com/) - A Website For A Radio Station That Plays Music Generated By AI, Inspired By Whale Songs.
-- [Play.ht](https://play.ht/) - A Website For A Platform That Offers Various Music-related Services.
-- [Proust](https://proust.app/) - An App That Offers Fast And Accurate Transcription Services.
-- [Resemble AI](https://www.resemble.ai/) - A Website Offering AI-powered Voice Generation And Cloning Services For Text-to-speech.
-- [Rev](https://www.rev.com) - A Website For A Company That Offers Automated Transcription Services.
-- [Rewind](https://www.rewind.ai/) - Rewind Is A Platform That Provides Audio And Video Editing Services.
-- [Riffusion](https://www.riffusion.com/) - Riffusion Is A Platform For Music Creation And Exploration Through Its Various Tools And Services.
-- [Songtell](https://www.songtell.com/) - Songtell Is A Platform That Provides Information And Meaning About Songs Through Its Analysis And Database.
-- [Soundraw](https://soundraw.io/) - Soundraw Is A Platform For Royalty-free Sound Effects And Music Production.
-- [Splash](https://www.splashmusic.com/) - Splash Is A Platform That Provides Music Making And Creation Tools For People Of All Levels Of Experience.
-- [Streams](https://musi-co.com/listen/streams) - Streams Is A Platform For Discovering And Listening To New Music.
-- [Strip](https://www.strip.co.uk/) - A Website Offering A Vocal Isolator Using AI Technology.
-- [The Infinite Conversation](https://infiniteconversation.com/) - A Website Focused On AI Language Processing And Generation.
-- [To Keyframe String](https://www.chigozie.co.uk/-keyframe-generator) - A Website Offering A Keyframe Generator Using AI Technology.
-- [Uberduck](https://app.uberduck.ai/speak#mode=tts-basic&voice=zwf) - A Website That Offers A Platform To Create Cool Stuff With AI And Text-To-Speech Technology.
-- [Vienna Scribe](https://vienna.earth/meta/scribe) - A Tool That Allows Users To Transcribe Audio And Video Content In Real-time.
-- [Voicemod](https://www.voicemod.net/) - A Real-time Voice Changer And Soundboard Software That Provides A Wide Range Of Voice Effects For Gaming, Streaming, And Other Online Activities.
-- [Voicemod](https://www.voicemod.net/text-to-song) - A Website Offering An AI-powered Text-to-song Generator.
-- [Well Said Labs](https://wellsaidlabs.com/) - A Website Offering AI-powered Text-to-speech And Voice-over Services.
+- [Whisper Memos](http://whispermemos.com) - Whisper Memos  
 - [WZRD](https://wzrd.ai/) - A Website Offering AI-powered Sound Design Services.
-
 
 ---
 
 ### Editing
 
-- [Adobe Podcast](http://podcast.adobe.com) - Adobe Podcast - AI Recording And Editing, All On The Web. An Tool For People With Stories To Tell.
 - [Altered](https://www.altered.ai/) - Altered Is A Platform That Helps You Generate Text In Real-time, By Using Deep Learning Models Trained On A Large Corpus Of Data.
 - [Assemblyai](http://www.assemblyai.com) - #1 Api Platform For AI Models. Automatically Convert And Video Files And Live Streams To Text With AssemblyAI's Speech-to-Text APIs. Do More With Intelligence - Summarization, Content Moderation, Topic Detection.
 - [Beatoven.ai](https://www.beatoven.ai/) - Beatoven Is An AI-powered Music Production Platform That Provides Beat-making, Production And Sound Design Services.
 - [Cleanvoice AI](http://cleanvoice.ai) - Get Rid Of Filler Words From Your Recordings. Cleanvoice Is An Artificial Intelligence Which Removes Filler Sounds, Stuttering And Mouth Sounds From Your Podcast Or Recording.
-- [Clip](http://www.clip.) - Clip - AI Search Engine. The Search Engine.
+- [Clip](http://www.clip.) - AI Search Engine. The Search Engine.
 - [Krisp](https://krisp.ai/) - Krisp Is An AI-powered Noise Cancelling Solution That Removes Background Noise In Real-time During Voice And Video Calls.
-- [Podcastle](https://podcastle.ai/) - Podcastle Is An AI-powered Platform That Helps You Create High-quality Podcasts, With Features Such As Voice-to-text Transcription, Voice Modification, And Sound Effects.
 - [Strip](https://www.strip.co.uk/) - Strip Is A Digital Payments Platform That Offers Payment Solutions For Individuals And Businesses, With Features Such As A Debit Card, An Online Dashboard, And Instant Notifications.
 - [Voicemod](https://www.voicemod.net/) - Voicemod Is A Software That Allows You To Change Your Voice In Real-time, With Options Such As A Robot, A Girl, Or A Troll.
 
@@ -1379,55 +1303,135 @@
 
 ### Music
 
-
-
-- [Amper](https://score.ampermusic.com/) - Amper Is An AI-powered Music Composing Platform.
-- [Beatoven.ai](https://www.beatoven.ai/) - Beatoven Is A Platform That Enables Users To Create Custom Music With AI.
+- [Aflorithmic](https://www.aflorithmic.ai/) - A Website For Creating Custom Music Using AI Technology.
+- [AI Lyrics Generator](http://theselyricsdonotexist.com) - Artificial Intelligence Songwriter–These Lyrics Do Not Exist. Generate Your Own Song Lyrics For Any Topic, Also Choose Lyrics Genre And Lyrics Mood.
+- [Aiva](http://aiva.ai) - The AI Composing Emotional Soundtrack Music
+- [Amadeus Code](http://amadeuscode.com) - A Music Composition Tool Powered By AI
+- [Amper AI](http://www.ampermusic.com) - AI Music Composition Tools For Content Creators. Amper Is An AI Music Composition Company That Develops Tools For Content Creators Of All Kinds.
+- [Ampermusic.com](https://www.ampermusic.com/) - A Website Offering AI-powered Music Composition Services.
+- [Artistator](http://artistator.com) - Generate Artist Names Of Your Favourite Music Genres.  
+- [Beatoven AI](https://www.beatoven.ai/) - Beatoven Is A Platform That Enables Users To Create Custom Music With AI.
 - [Boomy](https://boomy.com/) - Boomy Is An AI-powered Music Composition And Mixing Tool.
-- [Daft Art](https://daftart.ai/) - Daft Art Is An AI-based Platform For Creating Music.
+- [CyaniteAI](https://cyanite.ai/) - A Website Offering AI-powered Music Tagging And Similarity Search Services.
+- [Dadabots](https://dadabots.com/) - A Website Offering AI-generated Music And Audio.
+- [Daft Art](http://www.daftart.ai) - Create The Album Cover You'Ve Always Dreamed Of. Daft Allows You To Create An Amazing, High Quality Artwork For Your Album Cover Within A Few Minutes, Powered By AI.  
+- [Ecrett Music](http://ecrettmusic.com) - Easy Way To Create Royalty Free Music
 - [Emergent Drums](http://audialab.com) - Generate Unique Drum Samples Using Artificial Intelligence. Use Our Breakthrough Plugin To Generate Endless Drum Samples, All Royalty-free.
 - [Endel](https://endel.io/) - Endel Is An AI-powered Platform That Creates Personalized Soundscapes For Listeners.
+- [Freeae](https://www.lalal.ai/) - A Website Offering AI-powered Music Composition Services.
 - [Harmonai](https://www.harmonai.org/) - HarmonAI Is An AI-powered Music Platform That Helps Users Create And Manipulate Audio Signals.
+- [Infinite Drum Machine](http://experiments.withgoogle.com) - Experiments With Google
+- [Jukebox](https://openai.com/blog/jukebox) - A Blog Post About OpenAI's AI Music Generator, Jukebox.
 - [LALAL. AI Voice Cleaner](http://www.lalal.ai/) - Extract Vocal, Accompaniment And Various Instruments From Any And Video. High-quality Stem Splitting Based On The World's #1 AI-powered Technology.
+- [MazMazika](https://mazmazika.com/vocalremover) - A Music Platform That Offers Vocal Remover Services.
+- [Mubert](https://mubert.com/render/pricing?via=pharmapsychotic) - A Website That Provides Information On Mubert's AI Music Generation Services.
 - [Musico](http://www.musi-co.com) - Musico - AI Generative Music. Musico Is An AI-driven Software Engine That Generates Music. It Can React To Gesture, Movement, Code Or Other Sound.
 - [Natural Language Playlist](https://www.naturallanguageplaylist.com/) - Natural Language Playlist Is A Platform That Allows Users To Create Playlists Using Natural Language.
 - [Open Voice OS](https://openvoiceos.com/) - Open Voice OS Is An Open-source Platform For Developing Voice-based Applications.
+- [Opus AI](http://opus.ai) - A Platform That Provides AI-powered Solutions For The Music Industry.  
+- [Pattern Radio](https://patternradio.withgoogle.com/) - A Website For A Radio Station That Plays Music Generated By AI, Inspired By Whale Songs.
+- [Play](https://play.ht/) - A Website For A Platform That Offers Various Music-Related Services.
 - [Pollinations](https://pollinations.ai/) - Pollinations Is An AI-powered Platform For Creating Music By Fusing Sounds From Different Sources.
 - [Pop2Piano](https://sweetcocoa.github.io/pop2piano_samples) - Pop2Piano Is An AI-powered Platform That Transforms Pop Songs Into Piano Arrangements.
 - [Quasi Music](https://quasi.market/radio/) - Create Brand-New Beats. Unleash Your Inner Musician With Quasi's AI-powered Music Creation Tool. Create Never-before-heard Sounds And Remix Classic Artists With Ease.
-- [Songtell](https://songtell.com/) - Songtell Is A Platform That Enables Users To Create Custom Music Using AI.
+- [Raplyrics](http://raplyrics.eu) - Generate Your Rap Music Punchlines. Write A Few Words In The Prompt Below And Generate A Unique Rap Music Punchline Using Artificial Intelligence!
+- [Riffusion](https://www.riffusion.com/) - Riffusion Is A Platform For Music Creation And Exploration Through Its Various Tools And Services.
+- [Songmastr](http://www.songmastr.com) - Automatic Song Mastering To Reference.  
+- [Songtell](https://www.songtell.com/) - Songtell Is A Platform That Provides Information And Meaning About Songs Through Its Analysis And Database.
 - [Sonify](https://www.sonify.io/) - Sonify Is An AI-powered Platform For Creating Music And Sound Effects.
-- [Soundful](https://soundful.com/) - Soundful Is An AI-powered Platform That Enables Users To Discover And Curate Music Based On Their Emotions And Preferences.
-- [Soundraw](http://soundraw.io) - Stop Searching For The Song You Need. Create It. Royalty-free Music, AI Generated For You.
+- [Soundful](http://soundful.com) - Empowering The World To Create Music - Soundful. Soundful Empowers Creators To Generate Royalty Free Tracks At The Click Of A Button. The Quality Of Soundful Music Is So Rich, You Won' T Believe It Was Made With AI.  
+- [Soundraw](http://soundraw.io) - Stop Searching For The Song You Need. Create It. Royalty-Free Music, AI Generated For You.
+- [Splash](https://www.splashmusic.com/) - Splash Is A Platform That Provides Music Making And Creation Tools For People Of All Levels Of Experience.  
+- [Streams](https://musi-co.com/listen/streams) - Streams Is A Platform For Discovering And Listening To New Music.
+- [Strip](https://www.strip.co.uk/) - A Website Offering A Vocal Isolator Using AI Technology.
+- [X-Minus Pro](https://x-minus.pro/ai) - This Online Application Will Help You To Remove Vocals From A Song Using The Best AI-powered Technology. It Can Be Useful If The Instrumental Version Of The Song Is Not Yet Available, But You Want To Sing Right Now.
 
 ---
+
+### Podcasts
+
+- [Adobe Mic Check](https://podcast.adobe.com/miccheck) - Check Your Mic For Free. Get Advice On How To Improve Your Microphone Setup. We' Ll Make Sure You Sound Podcast-ready.
+- [Adobe Podcast](http://podcast.adobe.com) - Adobe Podcast - AI Recording And Editing, All On The Web. An Tool For People With Stories To Tell.
+- [Descript](https://www.descript.com/) - Video Editing, Podcast Transcription, Voice Overdub  
+- [Podcast AI](http://podcast.ai) - A Platform That Provides Tools And Services For Podcast Creators And Listeners.  
+- [Podcastle](https://podcastle.ai/) - Podcastle Is An AI-powered Platform That Helps You Create High-quality Podcasts, With Features Such As Voice-to-text Transcription, Voice Modification, And Sound Effects.
 
 ### Speech
 
 - [Adobe Speech Enhancer](https://podcast.adobe.com/enhance) - Enhance Voice Recordings For Free. Speech Enhancement Makes Voice Recordings Sound As If They Were Recorded In A Professional Studio.
+- [Altered](https://www.altered.ai/) - A Website Offering AI-powered Image And Video Manipulation Services.
+- [Coqui](http://coqui.ai) - Direct Emotive, Generative AI Voices For Video Games, Post-production, Dubbing And Much More  
+- [Create AI Voice Overs](https://createaivoiceovers.com/) - A Website Offering AI-powered Voice-over Services.
+- [Echo](https://lightning.ai/echo/view/home) - A Website Offering AI-powered Voice-over Services.
+- [ELSA SPEECH ANALYZER](http://speechanalyzer.elsaspeak.com) - An AI-powered Speech Recognition And Analysis Tool  
+- [Fireflies](http://fireflies.ai) - Fireflies AI Notetaker & Conversation Intelligence. Fireflies.AI Helps Your Team Record, Transcribe, Search, And Analyze Voice Conversations.  
 - [Lingostar](http://www.lingostar.ai) - Lingostar - Real Conversations With Artificial Intelligence. Lingostar Is The AI Who Language Learners Can Speak To In English, Spanish, Or French. Reach Fluency With REAL Spoken Conversations For Free. No More Tutors - Chat With The Lingostar A. I. To Improve Your Pronunciation, Vocabulary, And Comprehension.
+- [Voicemod](http://www.voicemod.net) - Free Real Time Voice Changer & Modulator - Voicemod. Express Yourself With Our Real-time AI Voice Changer And Soundboard To Be Who You Want, When You Want In The Metaverse. Build Your Sonic Identity For Platforms Like Roblox, OBS, VRChat, Discord, And More.  
+- [Voicera](http://www.voicera.co) - Create Life-Like Voice Dictation For Your Blogs And Articles In One Click. Embed The Voice Into Your Content. Increase Users' Engagement.
 
 ---
 
-## AI-Blogs/Social
+### Text To Speech
 
-### Twitter
-
-- [Andrej Karpathy](https://twitter.com/karpathy) - Ex-OpenAI, Ex-Tesla AI Director
-- [Jim Fan](https://twitter.com/DrJimFan) - AI Content
-- [Linus](https://twitter.com/LinusEkenstam) - AI Content
-- [Logan.GPT](https://twitter.com/OfficialLoganK) - DevRel @ OpenAI
-- [NVIDIA AI](https://twitter.com/NVIDIAAI) - NVIDIA AI Enterprise Twitter Account
-- [Riley Goodside](https://twitter.com/goodside) - Staff Prompt Engineer @Scale_AI
-- [Saboo_Shubham](https://twitter.com/Saboo_Shubham_) - Talking About ML, NLP & Large Language Models
-- [Sam Altman](https://twitter.com/sama) - CEO And Founder Of OpenAI
-- [TheMoonMidas](https://twitter.com/TheMoonMidas) - AT Tweet News + AI Newsletter @ArtificialGenie
+- [Ad Auris](https://play.ad-auris.com/) - An AI-powered Music Generator That Creates Original Music In Real-time.
+- [Aiva](https://www.aiva.ai/) - An AI Platform That Helps Businesses Create Music, Audio Logos, And Sound Design.
+- [Apple Books](https://www.apple.com/in/apple-books/) - A Digital Book Reading Platform That Is Built Into Apple Devices.
+- [Article. Audio](http://article.audio) - Convert Articles In Audio. Too Lazy To Read An Article? No Problem, Listen To It! Powered By Thundercontent.
+- [Ask My Book](https://askmybook.com/) - An Online Book Platform That Allows Users To Read Books Online.
+- [AssemblyAI](https://www.assemblyai.com/) - An API For Speech Recognition And Transcription.
+- [Audioread](https://audioread.com/) - A Web-based Text-to-speech Tool That Can Read Out Loud Articles, Documents, And Webpages.
+- [Blubi.ai](https://blubi.ai/) - A Voice-based AI Assistant For Voice-activated Devices.
+- [Convai](https://www.convai.com/) - A Chatbot Platform That Allows You To Create Chatbots For Websites And Messaging Apps.
+- [Coqui](https://coqui.ai/) - An Open-source Project For Text-to-speech Synthesis Using Deep Learning.
+- [Createaivoiceovers](http://createaivoiceovers.com) - Text To Speech Online Voice Generator, Text To Speech Generator - Realistic Voices  
+- [Descript](https://www.descript.com/overdub) - A Platform For Audio And Video Editing That Uses AI To Automate Repetitive Tasks.
+- [Eleven](https://beta.elevenlabs.io/) - Prime Voice AI. The Most Realistic And Versatile AI Speech Software, Ever. Eleven Brings The Most Compelling, Rich And Lifelike Voices To Creators And Publishers Seeking The Ultimate Tools For Storytelling.
+- [FakeYou.](https://fakeyou.com/) - A Website Offering AI-powered Deep Fake Text-to-speech Services.
+- [Free Text-To-Speech](http://www.text-to-speech.online) - Free Text To Speech Online Converter Tools.  
+- [Listnr 2.0](https://www.listnr.tech/) - AI Voice Generator - Text To Speech Converter - Listnr. Generate Realistic Text To Speech (TTS) - Audio Using Our AI Voice Generator With The Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download In MP3 And WAV Formats.
+- [LOVO AI](https://www.lovo.ai/) - A Website Offering A Free Online Text-to-speech Service Using AI Technology.
+- [Mubert](https://mubert.com/) - An AI Music Generator That Creates Original Music In Real-time.
+- [MURF](https://murf.ai/text-to-speech) - A Text-To-Speech Tool Provided By MURF, Which Generates Realistic TTS Voiceovers.
+- [Natural Readers](http://www.naturalreaders.com) - A Platform That Provides Text-to-speech Services To Improve Reading Accessibility.  
+- [Nuclia](https://nuclia.cloud/at/mthrfckr/mthrfckr) - A Website For A Cloud-based AI Platform That Offers Various Services.
+- [Otter.ai](https://otter.ai/home?f=home) - A Website For An AI-powered Transcription Tool.
+- [Play.ht](http://play.ht) - AI Powered Text To Voice Generator. Generate Realistic Text To Speech (TTS) - Audio Using Our Online AI Voice Generator And The Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download As MP3 And WAV Audio Files.
+- [Proust](https://proust.app/) - An App That Offers Fast And Accurate Transcription Services.
+- [Replica](http://replicastudios.com) - Synthesize Voice AI And Natural Sounding Text-To-Speech—Replica. Try Today With 30 Minutes Of Free Voice Credit.  
+- [Replicastudios](https://www.replicastudios.com/) - A 3D Printing Service That Can Create High-quality, Accurate, And Affordable Parts For Various Industries.
+- [Resemble AI](https://www.resemble.ai/) - A Website Offering AI-powered Voice Generation And Cloning Services For Text-to-speech.
+- [Rev](https://www.rev.com) - A Website For A Company That Offers Automated Transcription Services.
+- [Rewind](https://www.rewind.ai/) - Rewind Is A Platform That Provides Audio And Video Editing Services.
+- [Snipd Podcast Summaries](http://www.snipd.com) - Unlock The Knowledge In Podcasts.  
+- [Speechelo](http://speechelo.com) - Speechelo - Generate Voice From Text With Only 3 Clicks. The Most Realistic Souding Text To Audio Converter. We GUARANTEE No One Will Tell Your Voiceover Is A. I. Generated With A Text To Voice Tool.
+- [Speechify](http://speechify.com) - The #1 Text To Speech Reader. Power Through Docs, Articles, PDFs, Email—anything You Read—by Listening With Our Leading Text-to-speech Reader.
+- [Speech-to-Speech](http://www.resemble.ai) - Your Complete Generative Voice AI Toolkit. Resemble' S AI Voice Generator Lets You Create Human–like Voice Overs In Seconds.
+- [Splashmusic](https://www.splashmusic.com/) - A Music Production And Licensing Company That Provides Original Music And Sound Effects.
+- [Sumly](http://www.sumly.ai) - AI-Generated Podcast Summaries.  
+- [Symbl.ai](https://symbl.ai/) - A Platform For Real-time Transcription And Analysis Of Voice And Video.
+- [The Infinite Conversation](https://infiniteconversation.com/) - A Website Focused On AI Language Processing And Generation.
+- [To Keyframe String](https://www.chigozie.co.uk/-keyframe-generator) - A Website Offering A Keyframe Generator Using AI Technology.
+- [Tunes For Tales](http://tunesfortales.fun) - A Website That Provides Music And Sound Effects For Storytellers And Content Creators.
+- [Uberduck](https://app.uberduck.ai/speak#mode=tts-basic&voice=zwf) - A Website That Offers A Platform To Create Cool Stuff With AI And Text-To-Speech Technology.
+- [Unreal Speech](http://unrealspeech.up.railway.app) - Ultra Realistic Text-To-Speech Api. More Natural-sounding And Up To 4x Cheaper Than Amazon, Google And Microsoft.
+- [VERBATIK](http://verbatik.com) - AI Powered Text To Voice Generation. Generate Realistic Text To Speech (TTS) - Audio Using Online AI Voice Generator And Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download As MP3 And WAV Audio Files.
+- [Vienna Scribe](https://vienna.earth/meta/scribe) - A Tool That Allows Users To Transcribe Audio And Video Content In Real-time.
+- [Voicemaker](http://voicemaker.in) - Text To Speech Converter  
+- [Well Said Labs](https://wellsaidlabs.com/) - Convert Text To Voice In Real Time. With WellSaid, You And Your Team Can Create A Compelling Realistic AI Voice Over For All Your Digital Content.
+- [Whisper](https://github.com/openai/whisper) - An Open-source AI Platform For Text-to-speech Synthesis.
 
 ---
 
 ## AI-Business
 
 **In This Section, You Will Find AI Tools And Models Related To Business And Commerce.**
+
+- [Customer Support](#Customer%20Support)
+- [Human Resources](#Human%20Resources)
+- [Reviews & Recommendations](#Reviews%20&%20Recommendations)
+- [Search Engine](#Search%20Engine)
+- [SEO](#SEO)
+- [Startup](#Startup)
 
 ---
 
@@ -1529,7 +1533,7 @@
 - [Krea](https://www.krea.ai/) - AI-powered Marketing Automation Platform. Krea Helps Brands Take Control Of Their Customer Journeys, And Make The Most Out Of Their Customer Data, With No Coding Required.
 - [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) - Laion Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [Lexii.ai](http://lexii.ai/) - Lexii. AI. Lexii.ai Is An AI Search Assistant That Answers Questions And Cites Sources.
-- [Libraire](https://libraire.ai/) - Libraire Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [Libraire](https://libraire.ai/) - Library Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [Looria](https://looria.com/) - Looria Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [Mage](https://www.mage.space/) - Mage Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [NeevaAI](https://neeva.com/) - Neeva Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
@@ -1616,6 +1620,10 @@
 ## AI-Content
 
 **In This Section, You Will Find AI Tools And Models For Content Generation.**
+
+- [Content](#Content)
+- [Creators Toolkit](#Creators%20Toolkit)
+- [Social Media Assistant](#Social%20Media%20Assistant)
 
 ---
 
@@ -1705,6 +1713,10 @@
 
 **In This Section, You Will Find AI Tools And Models Related To Data Processing And Analysis.**
 
+- [Data](#Data)
+- [Spreadsheets](#Spreadsheets)
+- [SQL](#SQL)
+
 ---
 
 ### Data
@@ -1725,7 +1737,7 @@
 
 ---
 
-#### Spreadsheets
+### Spreadsheets
 
 - [Excel Formula Bot](https://excelformulabot.com/) - A Website Offering Excel Formula Tutorials, Tips, And Tricks.
 - [Goodlookup](https://www.goodlookup.com/) - A Website That Provides A Simple And Easy To Use Tool For Working With Spreadsheets.
@@ -1733,7 +1745,7 @@
 - [Sheet AI](https://www.sheetai.app/) - A Website Offering A Suite Of AI-powered Tools For Working With Spreadsheets.
 - [SheetGod](https://www.boloforms.com/sheetgod/) - A Website Offering An AI-powered Tool For Automating Tasks In Spreadsheets.
 
-#### SQL
+### SQL
 
 - [Ai2sql](http://www.ai2sql.io) - Sql Query Builder AI Bot. With AI2sql, Engineers And Non-engineers Can Easily Write Efficient, Error-free SQL Queries Without Knowing SQL. It's Time To Take Back Your Time.
 - [AI Data Sidekick](https://www.airops.com/) - A Website Offering An AI-powered Tool For Analyzing And Optimizing Data.
@@ -1749,6 +1761,10 @@
 ## AI-Design
 
 **In This Section, You Will Find AI Tools And Models For Design And Architecture.**
+
+- [Architecture](#Architecture)
+- [Assistant](#Assistant)
+- [Web Design](#Web%20Design)
 
 ---
 
@@ -1813,12 +1829,21 @@
 
 **In This Section, You Will Find AI Tools And Models For Software Development And Programming.**
 
+- [Code](#Code)
+- [Database](#Database)
+- [Developer Tools](#Developer%20Tools)
+- [Github](#Github)
+- [Learn Generative AI](#Learn%20Generative%20AI)
+- [No Code](#No%20Code)
+
+
 ---
 
 ### Code
 
 - [AI CLI](https://github.com/abhagsain/ai-cli) - AI CLI Is A Command Line Interface Tool For AI Services.
 - [AI Code Reviewer](https://ai-code-reviewer.com/) - AI Code Reviewer Is An AI-powered Code Review Tool For Software Developers.
+- [AI For The Command Line](https://github.com/santinic/how2) - AI For The Command Line
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Amazon CodeWhisperer Is An AI-powered Code Analysis Tool For Software Engineers And Security Experts.
 - [AskCodi](https://www.askcodi.com/) - AskCodi Is An AI-powered Code Analysis And Debugging Platform.
 - [Autocode](https://autocode.com/) - Autocode Is An AI-powered Platform For Building, Deploying, And Managing Code.
@@ -1847,11 +1872,13 @@
 - [Ghostwriter](https://replit.com/site/ghostwriter) - Ghostwriter Is An AI-powered Code Completion Tool.
 - [Hey, Github!](https://githubnext.com/projects/hey-github) - Hey, Github! Is A Platform For AI-assisted Code Review And Analysis On GitHub.
 - [Home Page BBX](https://www.useblackbox.io/) - BBX Is An AI-powered Platform For Software Development And Collaboration.
+- [How2Terminal](https://how2terminal.com/) - how2 Finds The Simplest Way To Do Something In A Unix Shell. It's Like `man`, But You Can Query It In Natural Language. It Uses A Mix Of AI Code-Completion And StackOverflow Search.
 - [Kodezi AI](https://kodezi.com/) - Kodezi AI Is An AI-powered Platform For Software Development And Collaboration.
 - [Kubiya](https://kubiya.ai/) - Kubiya Is An AI-powered Platform For Software Development And Collaboration.
 - [Lookup](https://app.uselookup.com/) - Lookup Is An AI-powered Platform For Code Search And Discovery.
 - [Maverick](https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick) - Maverick Is An AI-powered Code Completion And Suggestion Tool For Visual Studio Code.
 - [Mutable](https://mutable.ai/) - Mutable Is An AI-powered Platform For Software Development And Collaboration.
+- [OpenAI Coda](https://coda.io/@coda/openai-for-coda) - Generate Text, Images, And Connect Them To Your Data.
 - [OSS Insight](https://ossinsight.io/) - OSS Insight Is A Platform For AI-assisted Open-source Software Analysis And Management.
 - [Programminghelper](https://www.programming-helper.com/) - Programming Helper Is A Platform For AI-assisted Coding, Testing, And Debugging.
 - [Replit](https://replit.com/) - An Online Platform For Coding And Development That Provides A Browser-based, Collaborative And Fast Way Of Coding.
@@ -1968,8 +1995,8 @@
 - [Deep Learning For Art, Aesthetics, And Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH) - MIT Course Available On Youtube
 - [Dive Into Deep Learning](https://d2l.ai/index.html) - (Online, Free, Interactive)
 - [Generative Deep Learning](https://amzn.to/3FNr3ap) - Teaching Machines To Paint, Write, Compose, And Play By David Foster [2019]
-- [Ml4a.net](https://ml4a.net/) - Online Textbook, Classes, And Learning Resources \
-	Not Very Technical But Engaging And Inspiring View Of Many AI Art Projects So Far. \
+- [Ml4a.net](https://ml4a.net/) - Online Textbook, Classes, And Learning Resources \  
+	Not Very Technical But Engaging And Inspiring View Of Many AI Art Projects So Far. \  
 	Really Enjoyed This And It's A Great Book! It's From 2019 So Doesn't Cover The Very Latest Like VQGAN, CLIP, Guided Diffusion Though.
 - [The Artist In The Machine](https://amzn.to/32I0kOm) - The World Of AI-powered Creativity By Arthur I. Miller [2020]
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) - Really Nice Overview Of Stable Diffusion And The Pieces That Make It Up
@@ -2018,9 +2045,12 @@
 
 ---
 
-## AI-Education & Learning
+## AI-Education/Learning
 
 **In This Section, You Will Find Resources And Tools Related To Education And Learning In The Field Of AI.**
+
+- [Education And Learning](#Education%20And%20Learning)
+- [Research](#Research)
 
 ---
 
@@ -2042,115 +2072,6 @@
 
 ---
 
-### Fun With AI
-
-- [Adept](https://www.adept.ai/) - Adept Is An AI-powered Writing Assistant.
-- [AI Pokemon Generator](http://nokemon.eloie.tech) Generate Fakemon Using AI
-- [AI Time Machine](https://www.myheritage.com/ai-time-machine) - AI Time Machine Is A Tool For Restoring Old Photos And Videos Using AI.
-- [AnimeAI](https://www.animeai.lol/) - AnimeAI Is An AI-powered Tool For Generating Anime-style Art And Animations.
-- [Anypod](https://www.anypod.ai/) - Anypod Is An AI-powered Virtual Assistant For Podcast Listening.
-- [Askmybook](http://askmybook.com) Ask My Book The Minimalist Entrepreneur. This Is An Experiment In Using AI To Make My Book's Content More Accessible. Ask A Question And AI'll Answer It In Real-time:.
-- [AskNow](https://www.asknow.ai/) - AskNow Is An AI-powered Virtual Assistant For Customer Service.
-- [Ask RBG](http://ask-rbg.ai) What Would Rbg (Probably) Say?. An AI Experiment Ask Justice Ruth Bader Ginsburg To Make A Decision About Any Question Your Heart Desires. The First AI Drop From AI21 Labs.
-- [AskThee](https://askthee.vercel.app/) - AskThee Is A Knowledge-based Chatbot.
-- [BlackInk](https://blackink.ai/) - BlackInk Is An AI-powered Platform For Creative Writing.
-- [Botify](http://botif.ai) Botify AI. Fun Chat With Your Favorite Characters.
-- [Chai](https://chai.ml/) - Chai Is A Platform For Machine Learning And AI Development.
-- [CharacterAI](http://beta.character.ai) Character AI  Lets You Create Characters And Talk To Them. Characters Can Be Anything. Our Breakthrough AI Technology Can Bring All Of Your Ideas To Life.
-- [Character AI](https://beta.character.ai/) - Character AI Is An AI-powered Tool For Character Development In Writing.
-- [ClipMatrix](https://colab.research.google.com/drive/1rT_NIYryAC1UNBsETm6XbgW3DWqIJnmf?usp=sharing) - Text Controlled 3D Mesh Deformation And Stylization
-- [CLIP-Mesh](https://colab.research.google.com/drive/15Fm4EhLlB20EugLUnTdhSJElvGVCU7Ys?usp=sharing) - Text To 3D Mesh With Texture And Normal Map (Still Pretty Simple And Mixed Results)
-- [Consensus](https://consensus.app/) - Consensus Is A Project Management And Collaboration Tool.
-- [Context](https://addcontext.xyz/) - Context Is An AI-powered Tool For Website Optimization.
-- [Cradle](https://cradle.bio/) - Cradle Is A Platform For Life Sciences And Biotechnology Research.
-- [DreamFields](https://colab.research.google.com/drive/1u5-zA330gbNGKVfXMW5e3cmllbfafNNB?usp=sharing) - Latest Text To 3D ([Github](https://github.com/shengyu-meng/dreamfields-3D))
-- [ELI5](https://explainlikeimfive.io/) - ELI5 Is A Platform That Helps People Understand Complex Topics In Simple Terms.
-- [Elicit](https://elicit.org/) - Elicit Is A Research Platform That Connects Researchers With Participants.
-- [Excuses AI](http://excuses.ai) Excuse Generator. Use AI To Generate The Perfect Professional Excuse.
-- [EZ Charts](https://docs.google.com/document/d/1ORymHm0Te18qKiHnhcdgGp-WSt8ZkLZvow3raiu2DVU/edit) - Google Doc Visual Reference Guides For CLIP-Guided Diffusion (See What All The Parameters Do!)
-- [FakeYou](https://fakeyou.com/) - FakeYou Is A Platform For Creating Fake Profiles And Personas.
-- [Find Your Next Book](https://www.findyournextbook.ai/) - Find Your Next Book Is An AI-powered Tool For Book Recommendations.
-- [Galactica](https://galactica.org/) - Galactica Is A Platform For Space Exploration And Research.
-- Great Explanation Of VQGAN+CLIP - [Https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
-- [Guide To Install Disco Diffusion 5 On Windows With WSL](https://gist.github.com/MSFTserver/6212f85d79058a024b0e49f3d19a1115#file-wsl-disco-v5-tutorial-md) - Haven't Tried This Yet Challenge Is Pytorch3d
-- [HairstyleAI](https://www.hairstyleai.com/) - HairstyleAI Is An AI-powered Tool For Hairstyle Recommendations And Simulations.
-- [Hello History](https://www.hellohistory.ai/) - Hello History Is An AI-powered Tool For Historical Research And Information.
-- [Hitchhiker's Guide To The Latent Space](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit)  - A Guide That's Been Put Together With Lots Of Colab Notebooks Too
-- [ImageSorter](https://colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_ImageSorter.ipynb) By @Pharmapsychotic - Sort Images By Similarity (Nice For StyleGAN/FiLM Animated Loops)
-- [JAX CLIP Guided Diffusion 2.7 Guide](https://docs.google.com/document/d/11HWN5e57taWdpyZlW5s6gqzrwMsLlmOQivyJncOPPhE) - Google Doc From Huemin
-- [Jokelub](http://jokelub.com) Jokelub. Bring Humor Everywhere.
-- [Jokelub](https://jokelub.com/) - Jokelub Is An AI-powered Platform For Generating And Discovering Humor And Jokes.
-- [JustLearn](https://www.justlearn.com/) - JustLearn Is An AI-powered Platform For Online Language Learning.
-- [Kanye Tweet Generator](http://www.kanyegenerator.com) Kanye Tweet Generation. Generate Kanye Tweets Using AI. Built By Ryan Doyle.
-- [MovieToEmoji](https://movietoemoji.netlify.app/) - MovieToEmoji Is A Tool That Turns Movie Titles Into Emojis.
-- [Neural Canvas](https://neuralcanvas.io/) - Neural Canvas Is An AI-powered Platform For Creating Art And Animations.
-- Nice [Overview Of Lots Of Different Optimization Algorithms](https://ruder.io/optimizing-gradient-descent/) SGD, Adam, RMSProp Etc And Their Differences (Also Covered In This [Lecture](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7))
-- [Nostalgia Photo](https://www.nostalgia.photo/) - Nostalgia Photo Is An AI-powered Tool For Enhancing And Restoring Old Photos.
-- [Perplexity AI](https://www.perplexity.ai/) - Perplexity AI Is An AI-powered Personalized News Aggregator.
-- [PIFuHD Colab](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt) - Human Photo To 3D Mesh Of The Human
-- [PlaylistAI](https://www.playlistai.app/) - PlaylistAI Is An AI-powered Platform For Generating Personalized Playlists.
-- [Podcast](https://podcast.ai/) - Podcast.ai Is A Platform For Podcast Hosting And Creation.
-- [PolitePost](https://politepost.net/) - PolitePost Is An AI-powered Tool For Generating Polite And Professional Email Responses.
-- [Reface AI](https://hey.reface.ai/) - Reface AI Is An AI-powered Tool For Creating Face Swap Videos And Photos.
-- [Resources For GAN Artists](https://docs.google.com/document/d/18BrtW9RzI9rRAAYnmxES59HOxeC_QH1_BT7VDcP-32E/mobilebasic) - Another Big Google Doc With Notebooks And Resources For AI Art
-- [RestorePhotos](https://www.restorephotos.io/) - RestorePhotos Is An AI-powered Platform For Restoring And Enhancing Old Photos.
-- [Rosebud](https://www.rosebud.ai/) - Rosebud Is An AI-powered Tool For Generating And Discovering Video Content.
-- [Santa AI](https://www.santa.artflow.ai/) - Santa AI Is An AI-powered Platform For Generating Unique And Creative Holiday Greetings.
-- [Scholarcy](https://www.scholarcy.com/) - Scholarcy Is An AI-powered Research Tool That Helps Scholars And Students.
-- [Scispace](https://typeset.io/) - Scispace Is A Platform For Scientific Research And Collaboration.
-- [Silly Times](http://www.elbo.ai) A Simple Drawing App Using AI. Have A Fun Time Drawing And See What Silly Thing We Make From Your Drawing. Magic Is Just Button Press Away.
-- [Socratic By Google](https://socratic.org/) - Socratic By Google Is A Homework Helper And Learning App.
-- Stanford's Convolutional Neural Networks Class On YouTube - [Https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-- [Steno](https://steno.ai/) - Steno Is An AI-powered Platform For Voice-to-text Transcription.
-- [StoriesForKids](http://www.storiesforkids.ai) Storiesforkids. AI Personalized Kid'S Books Using AI. Turn Real-life Situations Into Fun Stories & Illustrations In Seconds.
-- [Summate](https://summate.it/) - Summate Is An AI-powered Tool For Summarizing Articles And Documents.
-- [Supermeme.ai](https://supermeme.ai/) - Supermeme.ai Is An AI-powered Platform For Creating And Sharing Memes.
-- [Talk To Books](https://books.google.com/talktobooks/) - Talk To Books Is A Tool That Allows You To Have A Conversation With Books Using AI.
-- [Tattoos AI](https://www.tattoosai.com/) - Tattoos AI Is An AI-powered Tool For Generating Unique And Creative Tattoo Designs.
-- [Text2mesh](https://www.kaggle.com/code/neverix/text2mesh/notebook) - Kaggle Notebook For Text To 3D Mesh
-- [TextStyler](http://www.textstyler.org) Re-Write Anything In Fun Styles, Using AI
-- [Tweet Emote](https://tweetemote.com/) - Tweet Emote Is A Tool That Turns Tweets Into Emojis.
-- [Unreal Meal](https://unrealmeal.ai/) - Unreal Meal Is An AI-powered Tool For Generating Unique And Creative Meal Ideas.
-- [Voicemod](https://www.voicemod.net/) - Voicemod Is A Tool For Voice Modification And Voice-over Work.
-- [Watermark Images](https://colab.research.google.com/drive/1OjKvOEYUOA8d1sMPL3hBVeCryGxZW-e2?usp=sharing) - Little Notebook To Add Text Watermark To Images
-- [Way Of The TTI Artist](https://docs.google.com/document/d/1EvkiHa12ButetruSBr82MJeomHfVRkvczB9-FgqtJ48/mobilebasic#) - Pytti Guide
-- [WolframAlpha](https://www.wolframalpha.com/) - WolframAlpha Is A Knowledge Engine And AI-powered Answer Engine.
-- [Zero-Shot Text-Guided Object Generation With Dream Fields](https://colab.research.google.com/drive/17GtPqdUCbG5CsmTnQFecPpoq_zpNKX7A?usp=sharing) - Text To 3D Render
-- [Zippy's Disco Diffusion Cheatsheet](https://docs.google.com/document/d/1l8s7uS2dGqjztYSjPpzlmXLjl5PM3IGkRWI3IiCuK7g/edit) - Google Doc Guide To Disco And All The Parameters
-
----
-
-### Gaming
-
-- [AI Careers](https://aicareers.io/) - A Website Dedicated To Helping Individuals Interested In Pursuing A Career In AI.
-- [AI Dungeon](http://play.aidungeon.io) - Play And Create AI-Generated Adventures With Infinite Possibilities
-- [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/) - A Video Game For Steam Platform That Uses AI.
-- [Assetsai](http://www.assetsai.art) - AI-Powered, Unique & Curated Assets For Your Games
-- [Chai](https://chai.ml/) - A Platform That Offers Natural Language Processing Services.
-- [Charisma](https://charisma.ai/) - Power Real-Time Digital Humans. For Games • Metaverses • VR • Education • TV & Film • Publishing And Beyond.
-- [Chess AI](http://betafish.gavinong.com) - Betafish. Js - Chess AI
-- [EndlessVN](https://endlessvn.io/) - A Platform That Allows Users To Create Visual Novels.
-- [GGPredict](https://ggpredict.io/) - A Platform That Uses AI To Make Predictions In E-sports.
-- [Hexagram](https://www.hexagram.io/) - A Platform That Offers AI-powered Image Analysis Services.
-- [Hidden Door](https://www.hiddendoor.co/) - Hello, Worlds. A New Kind Of Social Roleplaying Experience, Powered By Narrative AI.
-- [In3D](https://in3d.io/) - A Platform That Offers AI-powered 3D Modeling Services.
-- [Inworld](https://www.inworld.ai/) - A Virtual Reality Platform That Uses AI.
-- [IRMO](http://www.irmoai.com) - Made For Creation. The Very Best In AI Apps. Your Source For Mobile Entertainment & AI Art Creation.
-- [Latitude](https://latitude.io/) - The Future Of AI-Generated Games. We' Re Making AI A Tool Of Creativity And Freedom For Everyone.
-- [Leonardo.AI](https://leonardo.ai/) - A Platform That Uses AI To Help People Learn New Skills.
-- [LitRPG Adventures](https://www.litrpgadventures.com/) - A Website Dedicated To The Genre Of "LitRPG," A Combination Of Literature And Role-playing Games.
-- [Luma AI](https://lumalabs.ai/) - A Platform That Offers AI-powered Image Analysis Services.
-- [Opus](https://opus.ai/) - A Platform That Uses AI To Help People Discover New Music.
-- [PICLY: AI Generated Spot The Difference](https://www.picly.ai/) - A Website That Uses AI To Generate Spot-the-difference Games.
-- [Plailabs](https://plailabs.com/) - Play With AI. (Verb) - To Engage In Artificial Intelligence For The Purpose Of Enjoyment And Recreation With The Goal Of Growing An Ever-expanding Universe Of Gaming, Entertainment, Storytelling, And Technology.
-- [Playstrict](https://playstrict.com/) - A Platform That Uses AI To Analyze And Optimize Video Game Play.
-- [Ready Player Me](https://readyplayer.me/) - A Platform That Allows Users To Create Virtual Reality Avatars.
-- [Scenario](http://www.scenario.gg) - Scenario. Unlock The Power Of AI-generated Gaming Assets With Scenario. Generate Engaging Content Quickly And Easily To Save Time And Spark Creativity.
-- [The Simulation](https://fablesimulation.com/) - A Website Dedicated To Exploring The Concept Of Simulation And The Universe.
-
-
----
-
 ### Research
 
 - [Adept](https://www.adept.ai/) - Adept Is An AI-powered Writing Assistant.
@@ -2168,11 +2089,6 @@
 
 ---
 
-**In This Section, You Will Find Fun And Entertaining AI Applications And Tools.**
-
-- **[Fun With AI](#fun-with-ai)**: Fun AI Applications Like Games, Animations, And Art.
-- **[Gaming](#gaming)**: AI Tools And Models For Game Development, Like Game Engines And AI-powered Characters.
-
 ## AI-Experiments
 
 - [Alethea AI](https://alethea.ai/) - Enabling Ownership Of Generative AI
@@ -2186,6 +2102,10 @@
 
 **In This Section, AI Tools And Resources To Help You Monitor And Improve Your Health And Wellness.**
 
+- [Health](#Health)
+- [Life Assistant](#Life%20Assistant)
+- [Memory](#Memory)
+
 ---
 
 ### Health
@@ -2198,6 +2118,7 @@
 ---
 
 ### Life Assistant
+
  
  - [AI Trip Planner](https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961) - A Platform For Planning Trips Using AI Technology.
  - [Apple Books](https://www.apple.com/in/apple-books/) - An E-book Platform By Apple Inc.
@@ -2218,20 +2139,105 @@
  - [Thekeys](https://www.thekeys.ai/) - An AI-powered Platform For Automating Administrative Tasks.
  - [TinyWow](https://tinywow.com/) - An AI-powered Writing Assistant.
  - [Write Me A Cover Letter](https://writemeacoverletter.com/) - A Platform That Uses AI To Generate Cover Letters.
+
+---
+
+### Memory
+
+  
+- [Glasp](https://glasp.co/ai-writing) - An AI-powered Writing Assistant.
+- [Heyday](https://heyday.xyz/) - An AI-powered Memory Platform That Helps Users Preserve And Relive Their Memories.
+- [Mem.ai](https://mem.ai/) - An AI-powered Memory Platform That Helps Users Preserve And Relive Their Memories.
+- [Personal.ai](https://www.personal.ai/) - An AI-powered Personal Assistant Platform.
+- [Rewind AI](https://www.rewind.ai/) - An AI-powered Memory Platform That Helps Users Preserve And Relive Their Memories.
+
+---
  
- ## Memory
- 
- - [Glasp](https://glasp.co/ai-writing) - An AI-powered Writing Assistant.
- - [Heyday](https://heyday.xyz/) - An AI-powered Memory Platform That Helps Users Preserve And Relive Their Memories.
- - [Mem.ai](https://mem.ai/) - An AI-powered Memory Platform That Helps Users Preserve And Relive Their Memories.
- - [Personal.ai](https://www.personal.ai/) - An AI-powered Personal Assistant Platform.
- - [Rewind AI](https://www.rewind.ai/) - An AI-powered Memory Platform That Helps Users Preserve And Relive Their Memories.
+
+## AI-News/Articles/Blogs/Social
+
+- [Articles](#Articles)
+- [Blogs](#Blogs)
+- [News](#News)
+- [Twitter](#Twitter)
+
+### Articles
+
+- [Aiart Post](https://imgur.com/gallery/BZzXLHY) - Art Movements And Styles As Perceived By VQGAN + Clip (Imagenet 16k, ViT-B/32)
+- [Artist Studies](https://remidurant.com/artists) - I believe the world gets a bit brighter with each piece of art we create. The wonderful thing about AI art is that it is allowing more people to tap into their own creativity. I've learned that one of the biggest tricks to generating great AI art is to include the names of prominent real world artists in your prompt, so I set out to explore what artists will work well, and what styles, colors, and subjects their names evoke.
+- [A Traveler’s Guide To The Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f) - A Traveler’s Guide To The Latent Space
+- [BrainArt Labs](https://brainartlabs.com/2022/08/28/stablediffusion-notebook-by-pharmapsychotic-setup-tutorial) - StableDiffusion Notebook Setup Tutorial
+- [CogView](https://towardsdatascience.com/cogview-image-generation-and-language-modelling-at-scale-8d358a0686d2?gi=3e773b9abf36) - Image Generation And Language Modelling At Scale | By Jeremie Harris | Towards Data Science
+- [DALL·Ery GALL·Ery](https://dallery.gallery/) - DALL·Ery GALL·Ery
+- [DALL·Ery GALL·Ery](https://dallery.gallery/the-dalle-2-prompt-book) - The DALL·E 2 Prompt Book
+- [Disco Diffusion V5](https://gist.github.com/MSFTserver/6212f85d79058a024b0e49f3d19a1115#file-wsl-disco-v5-tutorial-md) - How To Run Disco Diffusion V5 On Windows 10 With WSL
+- [Dive Into Deep Learning](https://d2l.ai/index.html) - Dive Into Deep Learning 1.0.0-beta0 Documentation
+- [Dr Thompson Leta](https://beta.openai.com/playground/p/zUf68zBlohJfvPL5c80p7fsq?model=davinci) - Old `Davinci` Model, [Leta](https://lifearchitect.ai/leta/) From The GPT-3 Leta Video Series - Direct Links To Prompts In OpenAI’s GPT-3 Playground (Requires Prior Login)
+- [EleutherAI](https://www.eleuther.ai/research/) - Get Involved. AI and ML Research.
+- [Eulerian Motion Fields](https://eulerian.cs.washington.edu/) - Animating Pictures with Eulerian Motion Fields.
+- [Gallery View](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582) - Stable Diffusion V1 Modifier Studies
+- [GitHub Next](https://githubnext.com/) - You Don't Want To Miss This One Out
+- [Huemin Jax Diffusion 2.7 Stitching](https://dreamingcomputers.com/ai-articles/huemin-jax-diffusion-2-7-stitching) - Huemin Jax Diffusion 2.7 Stitching
+- [Journey To The BAOAB-Limit](https://ajayjain.net/journey) - Finding Effective MCMC Samplers For Score-based Models
+- [@Kingdomakrillic](https://imgur.com/a/SnSIQRu) - CLIP + VQGAN Keyword Comparison
+- [Learn Prompting](https://learnprompting.org/) - A Free, Open Source Course On Communicating With Artificial Intelligence
+- [Life Architect](https://lifearchitect.ai/) AI Related News Run By Dr Thompson
+- [Matthew M Cateer](https://matthewmcateer.me/blog/clip-prompt-engineering) - CLIP Prompt Engineering For Generative Art
+- [ML4A](https://ml4a.net/) - Machine Learning For Arts
+- [ML-Course-Notes](Https://github.com/dair-ai/ml-course-notes) - ML-Course-Notes
+- [NOCRYPT](https://rentry.org/nocrypt) - Private Local Waifu Diffusion Colab
+- [Optimizing Gradient Descent](https://ruder.io/optimizing-gradient-descent) - An Overview Of Gradient Descent Optimization Algorithms
+- [PEAKD](https://peakd.com/@kaliyuga/model-comparison-study-for-disco-diffusion-v-5-ai-resources-by-kaliyuga) - Model Comparison Study For Disco Diffusion V. 5 (AI Resources By KaliYuga)
+- [Punctuated Equilibrium](https://michellekhuang.com/training-an-ai-chatbot-on-my-childhood-journal-entries/) - Training An AI Chatbot On My Childhood Journal Entries
+- [Stability AI](https://stability.ai/sdv2-prompt-book) - Stable Diffusion Prompt Book
+- [Substack](https://lspace.swyx.io/) - L-Space Diaries
+- [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion) - Visualizing Machine Learning One Concept At A Time.
+- [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan) - The Illustrated VQGAN
+- [Towards Data Science](https://towardsdatascience.com/cogview-image-generation-and-language-modelling-at-scale-8d358a0686d2) - Cogview Image Generation And Language Modelling At Scale
+- [Unofficial Midjourney Community Wiki](https://mj.aihub.gg/) - Unofficial Midjourney Community Wik
+- [Upscale Wiki](https://upscale.wiki/wiki/Model_Database) - Model Database
+- [Wait But Why: The AI Revolution](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - Lengthy Article About AI Revolutinon
+- [Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-70-plus-artist-studies) - Disco Diffusion 70+ Artist Studies
+- [Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-modifiers) - Disco Diffusion Modifiers
+
+---
+
+### Blogs
+
+- [Bleeding Edge](https://bleedingedge.ai/) - A Feed Of Noteworthy Developments In AI.
+- [UCSB 146AI F2013](https://artificialintelligence2013.wordpress.com/) - A Blog That Covers Topics Related To Artificial Intelligence And Machine Learning, Including Tutorials And Resources.
+- [StoriesbyAI](http://storiesby.ai) - Unique tales written, illustrated, and narrated with AI.
+
+### News
+
+- [Headline AI](http://headline-ai.com) - A Platform That Provides AI-powered Headline Generation For Articles And Content
+- [Stocknews AI](http://stocknewsai.com) - AI Picked Stock News
+- [Artificial Genie AI](https://artificialgenie.ai/) - AI Newsletter
+
+### Twitter
+
+- [Andrej Karpathy](https://twitter.com/karpathy) - Ex-OpenAI, Ex-Tesla AI Director
+- [Jim Fan](https://twitter.com/DrJimFan) - AI Content
+- [Linus](https://twitter.com/LinusEkenstam) - AI Content
+- [Logan.GPT](https://twitter.com/OfficialLoganK) - DevRel @ OpenAI
+- [Naklecha](https://twitter.com/naklecha) - Ai Research + Doing Art Projects [@notpinkxyz](https://twitter.com/notpinkxyz) + Prev [@morganstanley](https://twitter.com/morganstanley)
+- [NVIDIA AI](https://twitter.com/NVIDIAAI) - NVIDIA AI Enterprise Twitter Account
+- [Remi Durant](https://twitter.com/remi_durant) - Artist/Alchemist. Explorer of latent space. [linktr.ee](http://linktr.ee/remi_durant)
+- [Riley Goodside](https://twitter.com/goodside) - Staff Prompt Engineer @Scale_AI
+- [Saboo_Shubham](https://twitter.com/Saboo_Shubham_) - Talking About ML, NLP & Large Language Models
+- [Sam Altman](https://twitter.com/sama) - CEO And Founder Of OpenAI
+- [TheMoonMidas](https://twitter.com/TheMoonMidas) - AT Tweet News + AI Newsletter @ArtificialGenie
 
 ---
 
 ## AI-Other
 
 **In This Section, You Will Find AI Tools And Resources That Don't Fit Into The Other Categories.**
+
+- [Fashion](#Fashion)
+- [Gift Ideas](#Gift%20Ideas)
+- [Legal](#Legal)
+- [Real Estate](#Real%20Estate)
 
 ---
 
@@ -2290,6 +2296,13 @@
 ## AI-Productivity
 
 **In This Section, You Will Find AI Tools And Resources To Help You Be More Productive In Your Work And Personal Life.**
+
+- [Chat](#Chat)
+- [Docs](#Docs)
+- [Email Assistant](#Email%20Assistant)
+- [Productivity](#Productivity)
+- [Sales & Marketing](#Sales%20&%20Marketing)
+- [Summarizer](#Summarizer)
 
 ---
 
@@ -2540,182 +2553,15 @@
 
 ---
 
-## AI Reading List
-
-This Section Is From [@JackSoslow](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/JackSoslow%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170549616%26amp;usg%3DAOvVaw3Rfeq_6KP5QWlQaDS_Sgk0&sa=D&source=docs&ust=1675571170625334&usg=AOvVaw2F9G4vWFRlTdcsSCCDW2ZX) All Credit Goes To Him!
-[Music Playlist](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/playlist/0cYcPCDK2MBzKt4QXym5GM?si%253Da4d17192c8814a42%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170548835%26amp;usg%3DAOvVaw2YYr1D7e8n6cs57Te_KjVh&sa=D&source=docs&ust=1675571170625091&usg=AOvVaw1YzyoCd90UCt42Umo9OtUC)
-
-- [Blogs / Threads / Papers](#Blogs%20/%20Threads%20/%20Papers)
-- [Podcasts](#Podcasts)
-- [Videos / Video Podcasts / Video Essays](#Videos%20/%20Video%20Podcasts%20/%20Video%20Essays)
-- [Books](#Books)
-- [Movies](#Movies)
-
-
-
-![](Https://lh6.googleusercontent.com/xSG-OULiPJKOPOzq83HvgQwDn-O0_NRFJ-OFvV6TucDU4r2lOua4jrmWTJVVvuSH-CZABVQ2mwINI3os1HBhkhN-FyKfbpzXfDN96dkJaVjX74KOBwHlXV9a2UMpePlS4-Wuwh0V1NgK5WTB=s800)
-
-This Is AImed Towards The AI Curious Looking To Go Down The Rabbit Hole Not The AI Expert. It Will Be Updated ~Monthly. Recommendations Are Accepted Via DM [@JackSoslow](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/JackSoslow%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170549616%26amp;usg%3DAOvVaw3Rfeq_6KP5QWlQaDS_Sgk0&sa=D&source=docs&ust=1675571170625334&usg=AOvVaw2F9G4vWFRlTdcsSCCDW2ZX)
+## AI-Resources
 
 ---
 
-### Blogs / Threads / Papers
+- [Pharampyschaotic](#Pharampyschaotic)
+- [Reading List](#Reading%20List)
+- [Resources](#Resources)
 
-**S Tier (“Best Of The Best”)**
-
-  - Tim Urban (2015) — [The AI Revolution: The Road To Superintelligence](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170551012%26amp;usg%3DAOvVaw05B1tDp-f63RcWnFym3I2L&sa=D&source=docs&ust=1675571170625548&usg=AOvVaw0qZzRjM_AbLDlN4E4AKisE)
-  - Andrej Karpathy (2017) — [Software 2.0](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://karpathy.medium.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170551593%26amp;usg%3DAOvVaw16oTqY_9USRauv91kUjwPb&sa=D&source=docs&ust=1675571170625648&usg=AOvVaw2NDnh3lYinicZ1eqLgowql)
-  - Gwern (2020) — [The Scaling Hypothesis](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.gwern.net/Scaling-hypothesis%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170552184%26amp;usg%3DAOvVaw2xRymfZey3j8_3PNjGaI2I&sa=D&source=docs&ust=1675571170625736&usg=AOvVaw3Oh2aQufNl6RK1HVt8MGFE)
-  - Wikipedia — [The History Of Artificial Intelligence](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://en.wikipedia.org/wiki/History_of_artificial_intelligence%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170552710%26amp;usg%3DAOvVaw0B6_Sww88Cvdp1dEuOTeXb&sa=D&source=docs&ust=1675571170625826&usg=AOvVaw10EfS8WT0mKuwmJIdcXEl6)
-  - Google Research, Vaswani Et Al. (2017) — [Attention Is All You Need](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://arxiv.org/abs/1706.03762%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170553195%26amp;usg%3DAOvVaw3IfHflw4CciYMLxPsXlqkZ&sa=D&source=docs&ust=1675571170625941&usg=AOvVaw3iaoo9qKTM9G5CsQzqu6_j)
-
-**A Tier**
-
-  - Eliezer Yudkowsky (2001) — [Creating Friendly AI Summary](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.lesswrong.com/tag/creating-friendly-ai%2523:~:text%253DCFAI%252520is%252520about%252520the%252520design,are%252520subject%252520to%252520design%252520decisions.%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170554209%26amp;usg%3DAOvVaw0lJjuBMxOZVzwnYG7aMm28&sa=D&source=docs&ust=1675571170626145&usg=AOvVaw2D_JYVm1B5fALDtEzOI4do)
-  - Tim Urban (2015) — [The AI Revolution: Our Immortality Or Extinction](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170554872%26amp;usg%3DAOvVaw25q5te9Qk4cN1SfGRs4bT2&sa=D&source=docs&ust=1675571170626261&usg=AOvVaw0eqnIVgL91QYM57WB-eIw1)
-  - Deepmind (2017) — [AlphaGo](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deepmind.com/research/highlighted-research/alphago%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170555534%26amp;usg%3DAOvVaw06HAhnXV4FqO0ucaGqWK1q&sa=D&source=docs&ust=1675571170626359&usg=AOvVaw0YMfckBjeSfXNjGAxJk-kg)
-  - Eliezer Yudkowsky (2017) — [There’s No Fire Alarm For Artificial Intelligence](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.lesswrong.com/posts/BEtzRE2M5m9YEAQpX/there-s-no-fire-alarm-for-artificial-general-intelligence%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170556256%26amp;usg%3DAOvVaw1QoX_kMjbW7ZiTdkbC2SMt&sa=D&source=docs&ust=1675571170626456&usg=AOvVaw2P4cd31yqVpqgnyvtOm_F3)
-  - Jay Alammar (2018) — [The Illustrated Transformer](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://jalammar.github.io/illustrated-transformer/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170556908%26amp;usg%3DAOvVaw14a2JJBTusUUfUnCPRz7LQ&sa=D&source=docs&ust=1675571170626550&usg=AOvVaw13MvBk7KN6rMe-YIkzlOjj)
-  - OpenAI (2020) — [Language Models Are Few Shot Learners (GPT-3)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://arxiv.org/abs/2005.14165%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170557382%26amp;usg%3DAOvVaw3jijxqVU5b2hGWIXayN5CS&sa=D&source=docs&ust=1675571170626653&usg=AOvVaw3-iMuODdFCz7TvGe1ZeMVc)
-  - Deepmind (2020) — [MuZero: Mastering Go, Chess, Shogi, And Atari Without Rules](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deepmind.com/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170557842%26amp;usg%3DAOvVaw24d5dZ-o7mFz_JOp7qx-g2&sa=D&source=docs&ust=1675571170626766&usg=AOvVaw0ZD1zCTvfEGyaVdgbKjzxy)
-  - OpenAI (2020) — [AI And Efficiency](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/ai-and-efficiency/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170558241%26amp;usg%3DAOvVaw092RvsJV5CRl7ge-oDiJgf&sa=D&source=docs&ust=1675571170626860&usg=AOvVaw0-vNeGMsKz97lSqf2eoF2D)
-  - OpenAI (2021) — [CLIP: Connecting Text And Images](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/clip/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170558824%26amp;usg%3DAOvVaw3x-b6CM8NAfqeRngu-Auev&sa=D&source=docs&ust=1675571170626948&usg=AOvVaw00XiU0YULZa345DVBt4zh0)
-  - Nostalgebraist (2022) — [Chinchilla’s Wild Implications](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170559487%26amp;usg%3DAOvVaw062pcfQqKCYYWNKtyjkl24&sa=D&source=docs&ust=1675571170627054&usg=AOvVaw1AogoBFP3m-AKPC4riDHrz)
-  - Gwern (2022) —  [It Looks Like You’re Trying To Take Over The World](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.gwern.net/fiction/Clippy%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170560057%26amp;usg%3DAOvVaw1EY59v_klflgq3uM-4UNDP&sa=D&source=docs&ust=1675571170627169&usg=AOvVaw0lU5qycHgaP1MFA8tDIv1o)
-
-**Best Of The Rest**
-
-  - Scott Alexander (2016) — [Superintelligence FAQ](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.lesswrong.com/posts/LTtNXM9shNM9AC2mp/superintelligence-faq%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170560744%26amp;usg%3DAOvVaw1L5YXNbp5u4xwT5mVQl9yr&sa=D&source=docs&ust=1675571170627303&usg=AOvVaw3yrhPx3COc0S4z9XqUbJS-)
-  - OpenAI (2017) — [Learning To Communicate](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/learning-to-communicate/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170561273%26amp;usg%3DAOvVaw021VP014QvGyF0eXA4usrc&sa=D&source=docs&ust=1675571170627399&usg=AOvVaw3ENJy-_y7cIGfnr866DV3N)
-  - OpenAI (2017) — [Evolution Strategies As An Alternative To Reinforcement Learning](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/evolution-strategies/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170561770%26amp;usg%3DAOvVaw0XezfltqmqspZaYiITDvPs&sa=D&source=docs&ust=1675571170627494&usg=AOvVaw0gh9Qn5XjLaVoKrL9f5VfZ)
-  - OpenAI (2017) — [Learning To Cooperate, Compete, And Communicate](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/learning-to-cooperate-compete-and-communicate/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170562251%26amp;usg%3DAOvVaw2cDfbxDhucpImP_iLxd4z9&sa=D&source=docs&ust=1675571170627630&usg=AOvVaw3d0238fhlTJl1eo7PaSJ_b)
-  - OpenAI (2017) — [Proximal Policy Optimization](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/openai-baselines-ppo/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170562931%26amp;usg%3DAOvVaw1iY0kxWgqKoEleyPlLfhOj&sa=D&source=docs&ust=1675571170627748&usg=AOvVaw2wheS43iotwU1SXd-WjvcY)
-  - OpenAI (2017) — [Competitive Self-Play](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/competitive-self-play/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170563425%26amp;usg%3DAOvVaw1sm00AkKPiVkv3D1YEHJfa&sa=D&source=docs&ust=1675571170627843&usg=AOvVaw26B568fjvj3iopcjhzMkxa)
-  - OpenAI (2018) — [AI And Compute](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/ai-and-compute/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170563933%26amp;usg%3DAOvVaw3Ht0ixkQoilivt19SNFEa8&sa=D&source=docs&ust=1675571170627932&usg=AOvVaw241XReWA1qV9Y3C-FFXwEI)
-  - Deepmind (2019) — [Capture The Flag: The Emergence Of Complex Cooperative Agents](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deepmind.com/blog/capture-the-flag-the-emergence-of-complex-cooperative-agents%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170564456%26amp;usg%3DAOvVaw2jurMNVo7N6KVw1dwFeFcP&sa=D&source=docs&ust=1675571170628026&usg=AOvVaw2dnRK0M4Unpu4Wd3n6Un0Q)
-  - OpenAI (2019) — [OpenAI Five Defeats Dota 2 World Champions](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/openai-five-defeats-dota-2-world-champions/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170565034%26amp;usg%3DAOvVaw3zQ86jkO4t2IJ21-b8zPhQ&sa=D&source=docs&ust=1675571170628134&usg=AOvVaw00s0W_AvRNfSUyKrVaEVWn)
-  - OpenAI (2019) — [Deep Double Descent](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/deep-double-descent/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170565612%26amp;usg%3DAOvVaw2gEKBJrEkg2J4K1zK2SEZR&sa=D&source=docs&ust=1675571170628229&usg=AOvVaw0KW-mnpfnRWGp9KDw9eK84)
-  - Jay Alammar (2020) — [How GPT-3 Works: Visualizations And Animations](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://jalammar.github.io/how-gpt3-works-visualizations-animations/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170566192%26amp;usg%3DAOvVaw22w7PMsIWggMczBrIIn2YV&sa=D&source=docs&ust=1675571170628322&usg=AOvVaw2kAyPjN4M6ZwQDG9JJEYiL)
-  - Evhub (2020) — [11 Proposals Of For Building Safe Advanced AI](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.lesswrong.com/posts/fRsjBseRuvRhMPPE5/an-overview-of-11-proposals-for-building-safe-advanced-ai%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170566695%26amp;usg%3DAOvVaw3Pi_kzkLjeV3q9_1hMnSCZ&sa=D&source=docs&ust=1675571170628421&usg=AOvVaw3KPc-mMQ64_m2_w3ft5Oxg)
-  - Deepmind (2022) — [Discovering Novel Algorithms With AlphaTensor](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170567165%26amp;usg%3DAOvVaw3Ob5OiN4euBuqSbnc0uD7j&sa=D&source=docs&ust=1675571170628543&usg=AOvVaw3IxlHMFKiIvQGRJepKQnY-)
-  - Deepmind (2020) — [Using JAX To Accelerate Our Research](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deepmind.com/blog/using-jax-to-accelerate-our-research%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170567668%26amp;usg%3DAOvVaw0F9SSR21ELLEru_y-JzkR0&sa=D&source=docs&ust=1675571170628684&usg=AOvVaw19FXHDoC77obaUCPLnR7jg)’
-  - Deepmind (2020) — [AlphaFold: A Solution To A 50-year-old Grand Challenge In Biology](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deepmind.com/blog/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170568136%26amp;usg%3DAOvVaw3Swf5XYifxOO3C71ykSiPn&sa=D&source=docs&ust=1675571170628834&usg=AOvVaw3_ggivTBXvgExRE_CR3QKZ)
-  - Leigh Marie Braswell (2021) — [Startup Opportunities In Machine Learning Infrastructure](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://leighmariebraswell.substack.com/p/startup-opportunities-in-machine%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170568590%26amp;usg%3DAOvVaw3q1FrfGwXBOmHv0hbDKFNc&sa=D&source=docs&ust=1675571170629006&usg=AOvVaw3g2JMX_Ghzpg2V1EyB494V)
-  - Meta AI (2021) — [Teaching AI How To Forget At Scale](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://ai.facebook.com/blog/teaching-ai-how-to-forget-at-scale/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170569537%26amp;usg%3DAOvVaw160QIDP0d44K8clw1-qqy9&sa=D&source=docs&ust=1675571170629192&usg=AOvVaw1gLfCHF43iQ14OeJ8pTHgg)
-  - OpenAI (2021) — [DALL-E: Creating Images From Text](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/dall-e/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170569970%26amp;usg%3DAOvVaw3gbsrA1vIxKX3NIGiorbt_&sa=D&source=docs&ust=1675571170629363&usg=AOvVaw3gs8pPDzj-wl-cXoGpM5uH)
-  - OpenAI (2021) — [Multimodal Neurons In Artificial Neural Networks](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/multimodal-neurons/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170570367%26amp;usg%3DAOvVaw1TcYjnXIpDPOXYyPiXjH4b&sa=D&source=docs&ust=1675571170629477&usg=AOvVaw0AoruhnV7BVhARjG86_y57)
-  - OpenAI (2021) — [Improving Language Model Behavior By Training On A Curated Dataset](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/improving-language-model-behavior/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170570789%26amp;usg%3DAOvVaw0kxQmAWlhKIePll59PLkTd&sa=D&source=docs&ust=1675571170629583&usg=AOvVaw1K8qxZeEM4C0YKY6fP6Ogm)
-  - OpenAI (2021) — [OpenAI Codex](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/openai-codex/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170571159%26amp;usg%3DAOvVaw3dGQklfRdedpZFxdFCB7f_&sa=D&source=docs&ust=1675571170629697&usg=AOvVaw1Z89f0_geGfqn2cFfci7oX)
-  - OpenAI (2022) — [Aligning Language Models To Follow Instructions](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/instruction-following/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170571550%26amp;usg%3DAOvVaw2NZdEw_BExMxam9Omb_JMN&sa=D&source=docs&ust=1675571170629836&usg=AOvVaw2dcq2CCP2zDxVO5CRBSvhS)
-  - OpenAI (2022) — [DALL-E 2](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/dall-e-2/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170571920%26amp;usg%3DAOvVaw1V_ph_UmVCNAumlOK77UgX&sa=D&source=docs&ust=1675571170629999&usg=AOvVaw1urZdHxCeESPH8OU7c_2zl)
-  - OpenAI (2022) — [Learning To Play Minecraft With Video PreTraining](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/vpt/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170572272%26amp;usg%3DAOvVaw0P6ZzEwnVF30h2cPTJN0rT&sa=D&source=docs&ust=1675571170630239&usg=AOvVaw3V86vSqh44jW8XVvMaKB9W)
-  - OpenAI (2022) — [Introducing Whisper](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/whisper/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170572636%26amp;usg%3DAOvVaw2Qrz2S5TCkVr2zTy8hiKCa&sa=D&source=docs&ust=1675571170630339&usg=AOvVaw16WjNKiclGwKj-C_pIc22m)
-  - OpenAI (2022) — [ChatGPT: Optimizing Language Models For Dialog](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/chatgpt/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170572980%26amp;usg%3DAOvVaw0MphtZiKhkbZLdTBnYvKzH&sa=D&source=docs&ust=1675571170630426&usg=AOvVaw2QFp2nrQzY4KZJwk5A410j)
-  - Nature (2022) — [What’s Next For AlphaFold](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.nature.com/articles/d41586-022-00997-5%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170573353%26amp;usg%3DAOvVaw3eZAaU5x3ejfTIf6tnuIBa&sa=D&source=docs&ust=1675571170630540&usg=AOvVaw1HsHnqYMrwduWA4oEp2KqQ)
-  - Meta AI (2022) — [CICERO: AN AI Agent That Negotiates, Persuades, And Cooperates With People](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170573763%26amp;usg%3DAOvVaw3JwimA6EEqCjCBGDri4bw5&sa=D&source=docs&ust=1675571170630668&usg=AOvVaw2kd4MsSOSvLOrUyLPdKSJJ)
-  - Yann Lecun (2022) — [How To Make AI Systems Learn And Reason Like Animals And Humans](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://ai.facebook.com/blog/yann-lecun-advances-in-ai-research/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170574182%26amp;usg%3DAOvVaw1ilNWRqWfYkuUQLI6l6jVX&sa=D&source=docs&ust=1675571170630767&usg=AOvVaw0W8pZPxkGtw2BRnnFLp-jC)
-  - Robert May (2022) — [The Mental Model Most AI Investors Are Missing](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://investinginai.substack.com/p/the-mental-model-most-ai-investors%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170574666%26amp;usg%3DAOvVaw2SnhUyABBEmQ-5e7wHLRJV&sa=D&source=docs&ust=1675571170630865&usg=AOvVaw3VznA10_lxLelWLNWtanRI)
-  - Roon (2022) — [Text Is The Universal Interface](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://scale.com/blog/text-universal-interface%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170575059%26amp;usg%3DAOvVaw3_DItliw6CdHF0qaa6B7J4&sa=D&source=docs&ust=1675571170630962&usg=AOvVaw1-ZZ2chwXLI7xgUc2j4NSS)
-  - Jack Soslow (2022) — [2022 AI Research And Trends Round Up](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/JackSoslow/status/1600552299231051776%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170575458%26amp;usg%3DAOvVaw1wlk1coPZLNvyuTfF3UEmr&sa=D&source=docs&ust=1675571170631055&usg=AOvVaw0poSyiNJnMxd5PuIspGaMA)
-
-### Books
-
-  - [Deep Learning (2016)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deeplearningbook.org/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170604483%26amp;usg%3DAOvVaw3kW7bTXBdg7XypXldugRMO&sa=D&source=docs&ust=1675571170637176&usg=AOvVaw1yT9MWz64wW4YG_cW6XMyn)
-  - [Superintelligence (2014)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.amazon.com/Superintelligence-Nick-Bostrom-audiobook/dp/B00LPMFE9Y%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170604941%26amp;usg%3DAOvVaw3wLnIP1UQek_hfgSMQiwVz&sa=D&source=docs&ust=1675571170637267&usg=AOvVaw38IJqKQ_LDbS_TY0kun1UZ)
-  - [The Singularity Is Near (2005)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170605385%26amp;usg%3DAOvVaw3gnDRT59hPFXDLQMYGir7s&sa=D&source=docs&ust=1675571170637381&usg=AOvVaw0n5V_bRnCZcmAS-yFD8V7F)
-
-### Movies
-
-  - [AlphaGo (2017)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.rottentomatoes.com/m/alphago%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170606060%26amp;usg%3DAOvVaw3J-FF5dbR6wJJ6usfsdH7M&sa=D&source=docs&ust=1675571170637497&usg=AOvVaw2rvZmkcc_5soqjCNTOGbxB)
-  - [Her (2013)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.rottentomatoes.com/m/her%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170606474%26amp;usg%3DAOvVaw36biC9R-WlQ5TByN1fx-00&sa=D&source=docs&ust=1675571170637578&usg=AOvVaw0cCe4f7Vs5uSpp6zx89Z0c)
-  - [2001: A Space Odyssey (1968)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.imdb.com/title/tt0062622/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170606837%26amp;usg%3DAOvVaw3SLKHoUibArisR48lIk2Ir&sa=D&source=docs&ust=1675571170637664&usg=AOvVaw0xzUDeqPpxZwcbzGJ9PwNo)
-
-
-___
-
-
-### Podcasts
-
-**S Tier (“Best Of The Best”)**
-
-  - Sam Altman | Greymatter — [AI For The Next Era](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/7taK2t3Xk2TbZfM4P3DA4Y?si%253Da76ee35134254f14%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170576147%26amp;usg%3DAOvVaw3Vl7OhfJMJMP-FXel_uhEf&sa=D&source=docs&ust=1675571170631221&usg=AOvVaw1bYFHYKUwbDB-D2cH5Fou6)
-  - Connor Leahy | Machine Learning Street Talk — [AI Alignment & AGI Fire Alarm](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/5zlcgQv37KZnS6i3Wlkd8A?si%253D6b868419a57a400e%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170576561%26amp;usg%3DAOvVaw19PMIlSjkY7-GOT_24OR0N&sa=D&source=docs&ust=1675571170631318&usg=AOvVaw0GSor08OMd5-sikZtT2bgc)
-  - Demis Hassabis | Lex Fridman — [Demis Hassabis: DeepMind](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/1zcT7fUeArhjU8J7weCzvG?si%253D0240720c60904089%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170577039%26amp;usg%3DAOvVaw17ZrPrkS75xrl0PrJ4q8M-&sa=D&source=docs&ust=1675571170631410&usg=AOvVaw3mPhvQG3S0kFuMc928oKUR)
-
-**A Tier**
-
-  - George Hotz | Lex Fridman — [Comma.ai, OpenPilot, And Autonomous Vehicles](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/0AE0Rd4y1X5s9swtggIoNB?si%253D78b3d2c785cc4a12%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170577676%26amp;usg%3DAOvVaw0qbYjyQWsCmTOoxEqP5c29&sa=D&source=docs&ust=1675571170631578&usg=AOvVaw31BULD3aSldYbpaWfBUcwn)
-  - Ilya Sutskever | Lex Fridman — [Deep Learning](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/1u3n11xrcap61wuuvK8RGn?si%253D20bd5d975bca4ed2%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170578132%26amp;usg%3DAOvVaw25Qqi6kX0UNUHUOHZTE8fr&sa=D&source=docs&ust=1675571170631677&usg=AOvVaw1hj8WfrbbNMin4YC_P6XCe)
-  - Emad Mostaque | Good Time Show — [Founder Of Stable Diffusion On AI Ethics, Religion, India’s AI Future And Open Source](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/7hv6j1yTiW1Tz8JkpGqffJ?si%253D17180cd78c1942d8%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170578762%26amp;usg%3DAOvVaw0cW1kB9r3_LeCUXcibqFhT&sa=D&source=docs&ust=1675571170631773&usg=AOvVaw1p_jZyFtUjmMJWknYN9k7r)
-  - Ben Goertzel | Machine Learning Street Talk — [Artificial General Intelligence](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/5zlcgQv37KZnS6i3Wlkd8A?si%253D6b868419a57a400e%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170579245%26amp;usg%3DAOvVaw0H4QpamI8YX2HZ62uJrMkf&sa=D&source=docs&ust=1675571170631872&usg=AOvVaw10396llGuB4VUWnEkmQ9z9)
-  - Andrej Karpathy | Lex Fridman — [Tesla AI, Self-Driving, Optimus, Aliens, And AGI](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/28yFp9dzo61CiOf0Ejxxhe?si%253Da41b6af2640a406b%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170579709%26amp;usg%3DAOvVaw1JWEXZRlR9wLhczPaonYLm&sa=D&source=docs&ust=1675571170631969&usg=AOvVaw0V3iSuMkVn252Kv8Y-MSCr)
-
-**Best Of The Rest**
-
-  - A16z — [GPT-3, Beyond The Hype](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/6YhsDtDTBSnsdAXfKUsZHi?si%253D78f996a194bd450b%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170580381%26amp;usg%3DAOvVaw0whgogMjbXpB4OZfhuKB7X&sa=D&source=docs&ust=1675571170632096&usg=AOvVaw0jE2_pJyzQq1gxTePlRa3B)
-  - Stratechery — [The AI Unbundling](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/0KhbryFLBCHPZDA8M1Guh1?si%253D2b8ed7e5b69f4d6f%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170580786%26amp;usg%3DAOvVaw23a8Zo-gKmtjPQcASGrHla&sa=D&source=docs&ust=1675571170632189&usg=AOvVaw3Xno4YYomjiPWbDAI1FjuQ)
-  - Reading For Your Life — [The Singularity Is Near By Ray Kurzweil](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/1Yzk9Ot3WPKmj7VQFEeGIw?si%253D7c2f653cdd4543d7%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170581260%26amp;usg%3DAOvVaw0c8JjrCTaam8bxNa4LQYxD&sa=D&source=docs&ust=1675571170632318&usg=AOvVaw0-eubo4E3zLnXBo0NgydSC)
-  - Yann Lecun | Lex Fridman — [Dark Matter Of Intelligence And Self-Supervised Learning](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/6NJt7waroZKSbkt9sZlD7I?si%253D6853f888be5d430b%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170581683%26amp;usg%3DAOvVaw2kh-uKwAUFq_AzwVLK8ZDa&sa=D&source=docs&ust=1675571170632444&usg=AOvVaw0FOeithC0GpIHJ95ZtceKQ)
-  - Jim Keller | Lex Fridman — [The Future Of Computing, AI, Life, And Consciousness](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/13evHqkSPMpMMU1zfXEtAg?si%253Ddc896123ed14419d%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170582167%26amp;usg%3DAOvVaw1TPdFwqrZJjtIR4Q1PV9JQ&sa=D&source=docs&ust=1675571170632554&usg=AOvVaw3ewWpgZj8Uj_9Y4wk5V2LE)
-  - George Hotz | Lex Fridman — [Hacking The Simulation & Learning To Drive With Neural Nets](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/1LUuv5NInzIUf3I4sCzZOk?si%253D571a230073484edb%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170582786%26amp;usg%3DAOvVaw0GCtVuXelLMzGixUguKT3J&sa=D&source=docs&ust=1675571170632647&usg=AOvVaw24fuLz-A6zYbw78QWDyFdB)
-  - Ben Goertzel | Lex Fridman — [Artificial General Intelligence — Lex Fridman Podcast](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/7a1KzyIHHF51aTsuaEeejE?si%253D4b19f8aadfae4f4b%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170583337%26amp;usg%3DAOvVaw1cMbGASDyxMqUh8E2TvKlv&sa=D&source=docs&ust=1675571170632738&usg=AOvVaw0cllJzzs6-WJKBtw9nZvDH)
-  - Gary Marcus | Machine Learning Street Talk — [Prof. Gary Marcus 3.0](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/5E2fJ2F7cXvu0PJuvKvnmL?si%253D07f4e3f35da747ff%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170583932%26amp;usg%3DAOvVaw3Zlykcrei6lCoJlwx7qDMU&sa=D&source=docs&ust=1675571170632829&usg=AOvVaw2vyjlKUDWRkv4SFEeoilxi)
-  - Connor Leahy — [GPT-3 As An AI Fire Alarm](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/5zlcgQv37KZnS6i3Wlkd8A?si%253D6b868419a57a400e%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170584450%26amp;usg%3DAOvVaw2WRKjiFMVn6Z7JMKxaMCpM&sa=D&source=docs&ust=1675571170632917&usg=AOvVaw0MZ5XQpqkzoY3_48yqUXWl)
-  - Joscha Bach | Lex Fridman — [Artificial Consciousness And The Nature Of Reality](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/1jj1KRKXwPnj77ybmvjWKD?si%253D8UMuLEeJQ5yVPuPmgkFNCQ%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170585372%26amp;usg%3DAOvVaw0LBoMoXoZpq4tueLBHWEun&sa=D&source=docs&ust=1675571170633021&usg=AOvVaw0Xe01CL-FpWQybPyLdLcmB)
-  - John Carmack | Lex Fridman — [Doom, Quake, VR, AGI, Programming, Video Games, And Rockets](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/3LddnZjkpflldHXnRZ0rrw?si%253D87689c23fb57467d%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170585936%26amp;usg%3DAOvVaw20RoJsxWeKzg_mo7ZprMGT&sa=D&source=docs&ust=1675571170633114&usg=AOvVaw3A6l5GUfxHWJ_VMWTT5OHC)
-
-
-### Videos / Video Podcasts / Video Essays
-
-**S Tier (“Best Of The Best”)**
-
-  - Eliezer Yudkowsky (2007) —  [Introducing The Singularity: Three Major Schools Of Thought](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DP6FXqVcLC9Y%2526t%253D2s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170587099%26amp;usg%3DAOvVaw3g02eysm3_IBC8Zznmt3QF&sa=D&source=docs&ust=1675571170633350&usg=AOvVaw2dD0DeljCAxnhJe-Uz1Vr9)
-  - Eliezer Yudkowsky (2017) — [Difficulties Of Artificial General Intelligence Alignment](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DYicCAgjsky8%2526t%253D1684s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170587518%26amp;usg%3DAOvVaw17IHECeeBxcj4cPTqd3196&sa=D&source=docs&ust=1675571170633447&usg=AOvVaw3JvmNspr94mVbKdhmsMY05)
-  - Eric Elliott (2020) — [What It’s Like To Be A Computer: An Interview With GPT-3](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DPqbB07n_uQ4%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D439%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170588010%26amp;usg%3DAOvVaw2ajPIYIuITR2PBaezYozzX&sa=D&source=docs&ust=1675571170633543&usg=AOvVaw1hcR53VTM3d1bzqDuZODRX)
-  - Ethan Caballero (2022) — [Broken Neural Scaling Laws](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DSV87S38M1J4%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170588445%26amp;usg%3DAOvVaw2HTXQ2vhkEwuQv8umeQCoZ&sa=D&source=docs&ust=1675571170633668&usg=AOvVaw1J2kNRFx0nDZyT96b8j8Jv)
-  - A Tier
-
-  - Yannic Kilcher (2017) — [Attention Is All You Need](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DiDulhoQ2pro%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170589338%26amp;usg%3DAOvVaw0jXWqt7PUyD7UUWRrUaIPn&sa=D&source=docs&ust=1675571170633816&usg=AOvVaw051wW4n5GvXw8c9Tv3t53i)
-  - OpenAI (2019) — [Multi Agent Hide And Seek](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DkopoLzvh5jY%2526list%253DFL9prNeWkI6ktwDLqP8675_w%2526index%253D15%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170589900%26amp;usg%3DAOvVaw3OwXYh-yDVOtQsS3EXc9hP&sa=D&source=docs&ust=1675571170633915&usg=AOvVaw3TcathgTgJ5N_haBPPLyD0)
-  - WSJ (2019) — [How China Is Using Artificial Intelligence In Classrooms](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DJMLsHI8aV0g%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D424%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170590336%26amp;usg%3DAOvVaw0QO7q3wwXJUUHHe7G5Iiy6&sa=D&source=docs&ust=1675571170634013&usg=AOvVaw2DZlyXRuAxs3jvvSrCkH8p)
-  - Yannic Kilcher (2020) — [GPT-3: Language Models Are Few Shot Learners (Paper Explained)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DSY5PvZrJhLE%2526t%253D7s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170590781%26amp;usg%3DAOvVaw0biyGTLvK_I9INDbbNptan&sa=D&source=docs&ust=1675571170634107&usg=AOvVaw1NNiTHVpDirnZVi1A85cUv)
-
-**Best Of The Rest**
-
-  - Eliezer Yudkowsky (2012) — [Intelligence Explosion](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DD6peN9LiTWA%2526t%253D1838s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170591408%26amp;usg%3DAOvVaw0IEMBD9It_QfR6y0Bvp6XD&sa=D&source=docs&ust=1675571170634253&usg=AOvVaw3fUZmJxIV8hCfEd_pWH6J9)
-  - OpenAI (2017) — [Dota2](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253Dl92J1UvHf6M%2526feature%253Demb_title%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170591897%26amp;usg%3DAOvVaw3VDRfs4Z0vl8E8pDxTqDnG&sa=D&source=docs&ust=1675571170634355&usg=AOvVaw2CiRQJqzEfY4ddmFdxTkIE)
-  - Fei Fei Li (2018) — [How To Make AI That’s Good For People](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.blog.google/perspectives/fei-fei-li/how-make-ai-good-for-people/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170592406%26amp;usg%3DAOvVaw3jgpSTCOOMEYWZXcCNjZsk&sa=D&source=docs&ust=1675571170634464&usg=AOvVaw2H4tsWeNm2m2zkx1fzAP1i)
-  - George Hotz (2019) — [Jailbreaking The Simulation With George Hotz](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DESXOAJRdcwQ%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D415%2526t%253D2065s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170592862%26amp;usg%3DAOvVaw2SzPk3bpmL3Jbhh-SQl3in&sa=D&source=docs&ust=1675571170634589&usg=AOvVaw20xroCHf2ECeDlqFjp8J6a)
-  - Lex Fridman (2019) — [Deep Learning Basics: Introduction And Overview](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DO5xeyoRL95U%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D402%2526t%253D2s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170593316%26amp;usg%3DAOvVaw3-EgQQqQmLS_dJaD2VcR6f&sa=D&source=docs&ust=1675571170634778&usg=AOvVaw1n74viYrg8rtYX3WJE_D44)
-  - Sam Altman (2020) — [Sam Altman Talks About AI At Big Compute 20 Tech Conference](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253D0TRtSk-ufu0%2526list%253DPLq3rkhTjKmZq3ZbWW_dFVaaNAJG0mSkEd%2526index%253D25%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170593778%26amp;usg%3DAOvVaw2skdLJiDd7fVbYARoY98ri&sa=D&source=docs&ust=1675571170634930&usg=AOvVaw3VX2TQkHQDcqJQFs64J0MH)
-  - Two Minute Papers (2020) — [OpenAI GPT-3 - Good At Almost Everything](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253D_x9AwxfjxvE%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D435%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170594256%26amp;usg%3DAOvVaw0vZ590BQh-Htz0QRdU-006&sa=D&source=docs&ust=1675571170635043&usg=AOvVaw3d42oLgR-3LYbVFVxYFH0w)
-  - Jack Soslow (2020) — [Two AIs Talking To Each Other](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253Djz78fSnBG0s%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D308%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170594699%26amp;usg%3DAOvVaw20MNykviZj7C1g0sYMBqUO&sa=D&source=docs&ust=1675571170635155&usg=AOvVaw1KVJiAZS7doo-zOGNrluAY)
-  - Lex Fridman (2020) — [GPT-3 Vs Human Brain](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DkpiY_LemaTc%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D365%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170595120%26amp;usg%3DAOvVaw1n8mtEZShbgvq3Xg5jHZem&sa=D&source=docs&ust=1675571170635256&usg=AOvVaw2wrLBSyMI7W8jGroJto_yo)
-  - Harrison Kinsley And Daniel Kukiela (2020) – [Neural Networks From Scratch - P.3 The Dot Product](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DtMrbN67U9d4%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D403%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170595551%26amp;usg%3DAOvVaw3ZAV79b6xnE1KEDEmDNy50&sa=D&source=docs&ust=1675571170635355&usg=AOvVaw3vCXlJRiQnLQhJPgohc1Fj)
-  - Lex Fridman (2020) — [Deep Learning State Of The Art](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253D0VH1Lim8gL8%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D405%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170596068%26amp;usg%3DAOvVaw1MGFO6CKBsGA2ePvS0A6yk&sa=D&source=docs&ust=1675571170635452&usg=AOvVaw2RPib139ALuS9Ycnw_BFKb)
-  - Bycloud (2020) — [What Happens When AI Robots Design Themselves](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DRAyQYCCYRP8%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D414%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170596578%26amp;usg%3DAOvVaw3CxMeKdB_8AKw0EaRuu1Nl&sa=D&source=docs&ust=1675571170635628&usg=AOvVaw14SaxRsRL-pLhbTDvuDthf)
-  - Two Minute Papers (2020) — [MuZero: DeepMind’s New AI Mastered More Than 50 Games](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DhYV4-m7_SK8%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D421%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170597092%26amp;usg%3DAOvVaw0smpqJZMDHwzD7yy_TKbb1&sa=D&source=docs&ust=1675571170635748&usg=AOvVaw0yS1sVyV2O526nu2tToKPf)
-  - Mira Murati (2020) — [Ensuring AGI Benefits All Of Humanity](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DSGY0WWsj1fA%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170597510%26amp;usg%3DAOvVaw0l8_kU6WICrULTcwePR5qS&sa=D&source=docs&ust=1675571170635845&usg=AOvVaw0RLOicQyS9n8Tzpo-xzUqo)
-  - Two Minute Papers (2020) — [Can An AI Design Our Tax Policy?](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DSr2ga3BBMTc%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D437%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170598021%26amp;usg%3DAOvVaw02llunPPRTVW6I3RhHYqBq&sa=D&source=docs&ust=1675571170635945&usg=AOvVaw2Qe58ozg4dLTqMQUebObx0)
-  - Neat AI (2021) — [Lenia — Conway’s Game Of Life Arrives In The 21st Century](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253D7-97RhAZhXI%2526list%253DFL9prNeWkI6ktwDLqP8675_w%2526index%253D3%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170598496%26amp;usg%3DAOvVaw19ZBZ8FqH5muDJUt3pNspf&sa=D&source=docs&ust=1675571170636045&usg=AOvVaw3ExfUl0FV5GHqepiMMeF3x)
-  - Sam Altman (2021) — [The Future Of AI Research From DALL-E To GPT-3](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253Drr8N5IOvTGk%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D99%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170598989%26amp;usg%3DAOvVaw2dp_G8jdvZTZnxYoyv6OY5&sa=D&source=docs&ust=1675571170636176&usg=AOvVaw0pPl6OJ-ZoDkXUxQJS1pJ3)
-  - Yannic Kilcher (2021) — [How Far Can We Scale Up? Deep Learning’s Diminishing Returns (Article Review)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DwTzvKB6D_34%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D191%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170599429%26amp;usg%3DAOvVaw3zJ4z6Ov1hmouENMwgRLB4&sa=D&source=docs&ust=1675571170636321&usg=AOvVaw3HG1bOyO_4-GIKnVvvQaqT)
-  - Two Minute Papers (2021) — [Watch Tesla’s Self-Driving Car Learning In A Simulation](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253D6hkiTejoyms%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D201%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170599935%26amp;usg%3DAOvVaw3o22xbrNNA_BmGP3UvoNvS&sa=D&source=docs&ust=1675571170636430&usg=AOvVaw3UkpZYKKyLvpoX6GSRtitw)
-  - Ethan Caballero (2022) — [Scale Is All You Need](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DUPlv-lFWITI%2526t%253D483s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170600476%26amp;usg%3DAOvVaw1-vAYRGtSGYGshj7hjD56Z&sa=D&source=docs&ust=1675571170636540&usg=AOvVaw3PQvduDfEHEHnGccrPBiTR)
-  - Two Minute Papers (2022) — [DeepMind AlphaFold A Gift To Humanity](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DFYVf0bRgO5Q%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D97%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170601003%26amp;usg%3DAOvVaw20XDvLgbYSDuklIBVyeh2K&sa=D&source=docs&ust=1675571170636651&usg=AOvVaw3rWn-6FFiXMWimDkxXSnIb)
-  - OpenAI (2022) — [Aligning AI Systems With Human Intent](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DyWDUzNiWPJA%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D102%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170602144%26amp;usg%3DAOvVaw38N1TzF7ajSYKmpdfewowt&sa=D&source=docs&ust=1675571170636750&usg=AOvVaw3WvlADcqQaul65K-jAP7Rf)
-  - NeatAI (2022) — [AI Learns NEAT Pacman Solution](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DiNSx-pB8t54%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D105%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170602746%26amp;usg%3DAOvVaw0gpyKsd65qJ19FLCMsJ8T2&sa=D&source=docs&ust=1675571170636846&usg=AOvVaw1B5R_EINgSI81rb8aJ7CA1)
-  - Yannic Kilcher (2022) — [Grokking: Generalization Beyond Overfitting On Small Algorithmic Datasets (Paper Explained)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DdND-7llwrpw%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D189%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170603292%26amp;usg%3DAOvVaw007tUy_MJgYqFr2g0je09-&sa=D&source=docs&ust=1675571170636942&usg=AOvVaw3MMEUmSBfgpuNUNhHlP1e0)
-  - The Third Build (2022) — [How An AI Is Becoming The World’s Best Pokemon Player](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253Drhvj7CmTRkg%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D206%2526t%253D411s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170603852%26amp;usg%3DAOvVaw2QMmTCo1BMKhHH0p_nV9Jp&sa=D&source=docs&ust=1675571170637053&usg=AOvVaw2s3M3sW2yjlD7uD5e-XB8c)
-
-## AI-Resources
-
-- [AGI Labs](https://agilabs.org/ai-helpers-home) - Choose From Hundreds Of Our Highly Trained AI Helpers To Generate Customized High-quality AI Writings For Study, Work, And Life Applications, Or Get Human Services Besides Just AI!
-- [AI Art Apps](https://aiartapps.com/) - AI Art Resources, Tools & Inspiration For Designers And Prompt Engineers.
-- [AI2045](https://ai2045.com/) - A Platform For Discussing The Future Of AI.
-- [Fast AI](https://fast.ai/) - Fastai Is A Deep Learning Library Which Provides Practitioners With High-level Components That Can Quickly And Easily Provide State-of-the-art Results In Standard Deep Learning
-- [Phraser](https://phraser.tech/) - Phraser Is An App That Helps You Create Images Using Generative AI (Midjourney, Stable Diffusion, And DALLE 2)
-- [The AI Times](https://aitimespage.com/ai) - AI News
+---
 
 ### Pharampyschaotic
 
@@ -2728,9 +2574,183 @@ ___
 
 ---
 
+### Reading List
+
+This Section Is From [@JackSoslow](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/JackSoslow%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170549616%26amp;usg%3DAOvVaw3Rfeq_6KP5QWlQaDS_Sgk0&sa=D&source=docs&ust=1675571170625334&usg=AOvVaw2F9G4vWFRlTdcsSCCDW2ZX) All Credit Goes To Him!  
+[Music Playlist](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/playlist/0cYcPCDK2MBzKt4QXym5GM?si%253Da4d17192c8814a42%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170548835%26amp;usg%3DAOvVaw2YYr1D7e8n6cs57Te_KjVh&sa=D&source=docs&ust=1675571170625091&usg=AOvVaw1YzyoCd90UCt42Umo9OtUC)
+
+- [Blogs / Threads / Papers](#Blogs%20/%20Threads%20/%20Papers)
+- [Podcasts](#Podcasts)
+- [Videos / Video Podcasts / Video Essays](#Videos%20/%20Video%20Podcasts%20/%20Video%20Essays)
+- [Books](#Books)
+- [Movies](#Movies)
+
+![](Https://lh6.googleusercontent.com/xSG-OULiPJKOPOzq83HvgQwDn-O0_NRFJ-OFvV6TucDU4r2lOua4jrmWTJVVvuSH-CZABVQ2mwINI3os1HBhkhN-FyKfbpzXfDN96dkJaVjX74KOBwHlXV9a2UMpePlS4-Wuwh0V1NgK5WTB=s800)
+
+This Is AImed Towards The AI Curious Looking To Go Down The Rabbit Hole Not The AI Expert. It Will Be Updated ~Monthly. Recommendations Are Accepted Via DM [@JackSoslow](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/JackSoslow%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170549616%26amp;usg%3DAOvVaw3Rfeq_6KP5QWlQaDS_Sgk0&sa=D&source=docs&ust=1675571170625334&usg=AOvVaw2F9G4vWFRlTdcsSCCDW2ZX)
+
+---
+
+#### Blogs / Threads / Papers
+
+**S Tier (“Best Of The Best”)**
+
+  - Tim Urban (2015)—[The AI Revolution: The Road To Superintelligence](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170551012%26amp;usg%3DAOvVaw05B1tDp-f63RcWnFym3I2L&sa=D&source=docs&ust=1675571170625548&usg=AOvVaw0qZzRjM_AbLDlN4E4AKisE)
+  - Andrej Karpathy (2017)—[Software 2.0](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://karpathy.medium.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170551593%26amp;usg%3DAOvVaw16oTqY_9USRauv91kUjwPb&sa=D&source=docs&ust=1675571170625648&usg=AOvVaw2NDnh3lYinicZ1eqLgowql)
+  - Gwern (2020)—[The Scaling Hypothesis](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.gwern.net/Scaling-hypothesis%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170552184%26amp;usg%3DAOvVaw2xRymfZey3j8_3PNjGaI2I&sa=D&source=docs&ust=1675571170625736&usg=AOvVaw3Oh2aQufNl6RK1HVt8MGFE)
+  - Wikipedia—[The History Of Artificial Intelligence](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://en.wikipedia.org/wiki/History_of_artificial_intelligence%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170552710%26amp;usg%3DAOvVaw0B6_Sww88Cvdp1dEuOTeXb&sa=D&source=docs&ust=1675571170625826&usg=AOvVaw10EfS8WT0mKuwmJIdcXEl6)
+  - Google Research, Vaswani Et Al. (2017)—[Attention Is All You Need](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://arxiv.org/abs/1706.03762%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170553195%26amp;usg%3DAOvVaw3IfHflw4CciYMLxPsXlqkZ&sa=D&source=docs&ust=1675571170625941&usg=AOvVaw3iaoo9qKTM9G5CsQzqu6_j)
+
+**A Tier**
+
+  - Eliezer Yudkowsky (2001)—[Creating Friendly AI Summary](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.lesswrong.com/tag/creating-friendly-ai%2523:~:text%253DCFAI%252520is%252520about%252520the%252520design,are%252520subject%252520to%252520design%252520decisions.%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170554209%26amp;usg%3DAOvVaw0lJjuBMxOZVzwnYG7aMm28&sa=D&source=docs&ust=1675571170626145&usg=AOvVaw2D_JYVm1B5fALDtEzOI4do)
+  - Tim Urban (2015)—[The AI Revolution: Our Immortality Or Extinction](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170554872%26amp;usg%3DAOvVaw25q5te9Qk4cN1SfGRs4bT2&sa=D&source=docs&ust=1675571170626261&usg=AOvVaw0eqnIVgL91QYM57WB-eIw1)
+  - Deepmind (2017)—[AlphaGo](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deepmind.com/research/highlighted-research/alphago%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170555534%26amp;usg%3DAOvVaw06HAhnXV4FqO0ucaGqWK1q&sa=D&source=docs&ust=1675571170626359&usg=AOvVaw0YMfckBjeSfXNjGAxJk-kg)
+  - Eliezer Yudkowsky (2017)—[There’s No Fire Alarm For Artificial Intelligence](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.lesswrong.com/posts/BEtzRE2M5m9YEAQpX/there-s-no-fire-alarm-for-artificial-general-intelligence%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170556256%26amp;usg%3DAOvVaw1QoX_kMjbW7ZiTdkbC2SMt&sa=D&source=docs&ust=1675571170626456&usg=AOvVaw2P4cd31yqVpqgnyvtOm_F3)
+  - Jay Alammar (2018)—[The Illustrated Transformer](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://jalammar.github.io/illustrated-transformer/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170556908%26amp;usg%3DAOvVaw14a2JJBTusUUfUnCPRz7LQ&sa=D&source=docs&ust=1675571170626550&usg=AOvVaw13MvBk7KN6rMe-YIkzlOjj)
+  - OpenAI (2020)—[Language Models Are Few Shot Learners (GPT-3)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://arxiv.org/abs/2005.14165%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170557382%26amp;usg%3DAOvVaw3jijxqVU5b2hGWIXayN5CS&sa=D&source=docs&ust=1675571170626653&usg=AOvVaw3-iMuODdFCz7TvGe1ZeMVc)
+  - Deepmind (2020)—[MuZero: Mastering Go, Chess, Shogi, And Atari Without Rules](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deepmind.com/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170557842%26amp;usg%3DAOvVaw24d5dZ-o7mFz_JOp7qx-g2&sa=D&source=docs&ust=1675571170626766&usg=AOvVaw0ZD1zCTvfEGyaVdgbKjzxy)
+  - OpenAI (2020)—[AI And Efficiency](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/ai-and-efficiency/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170558241%26amp;usg%3DAOvVaw092RvsJV5CRl7ge-oDiJgf&sa=D&source=docs&ust=1675571170626860&usg=AOvVaw0-vNeGMsKz97lSqf2eoF2D)
+  - OpenAI (2021)—[CLIP: Connecting Text And Images](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/clip/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170558824%26amp;usg%3DAOvVaw3x-b6CM8NAfqeRngu-Auev&sa=D&source=docs&ust=1675571170626948&usg=AOvVaw00XiU0YULZa345DVBt4zh0)
+  - Nostalgebraist (2022)—[Chinchilla’s Wild Implications](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170559487%26amp;usg%3DAOvVaw062pcfQqKCYYWNKtyjkl24&sa=D&source=docs&ust=1675571170627054&usg=AOvVaw1AogoBFP3m-AKPC4riDHrz)
+  - Gwern (2022)—[It Looks Like You’re Trying To Take Over The World](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.gwern.net/fiction/Clippy%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170560057%26amp;usg%3DAOvVaw1EY59v_klflgq3uM-4UNDP&sa=D&source=docs&ust=1675571170627169&usg=AOvVaw0lU5qycHgaP1MFA8tDIv1o)
+
+**Best Of The Rest**
+
+  - Scott Alexander (2016)—[Superintelligence FAQ](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.lesswrong.com/posts/LTtNXM9shNM9AC2mp/superintelligence-faq%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170560744%26amp;usg%3DAOvVaw1L5YXNbp5u4xwT5mVQl9yr&sa=D&source=docs&ust=1675571170627303&usg=AOvVaw3yrhPx3COc0S4z9XqUbJS-)
+  - OpenAI (2017)—[Learning To Communicate](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/learning-to-communicate/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170561273%26amp;usg%3DAOvVaw021VP014QvGyF0eXA4usrc&sa=D&source=docs&ust=1675571170627399&usg=AOvVaw3ENJy-_y7cIGfnr866DV3N)
+  - OpenAI (2017)—[Evolution Strategies As An Alternative To Reinforcement Learning](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/evolution-strategies/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170561770%26amp;usg%3DAOvVaw0XezfltqmqspZaYiITDvPs&sa=D&source=docs&ust=1675571170627494&usg=AOvVaw0gh9Qn5XjLaVoKrL9f5VfZ)
+  - OpenAI (2017)—[Learning To Cooperate, Compete, And Communicate](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/learning-to-cooperate-compete-and-communicate/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170562251%26amp;usg%3DAOvVaw2cDfbxDhucpImP_iLxd4z9&sa=D&source=docs&ust=1675571170627630&usg=AOvVaw3d0238fhlTJl1eo7PaSJ_b)
+  - OpenAI (2017)—[Proximal Policy Optimization](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/openai-baselines-ppo/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170562931%26amp;usg%3DAOvVaw1iY0kxWgqKoEleyPlLfhOj&sa=D&source=docs&ust=1675571170627748&usg=AOvVaw2wheS43iotwU1SXd-WjvcY)
+  - OpenAI (2017)—[Competitive Self-Play](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/competitive-self-play/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170563425%26amp;usg%3DAOvVaw1sm00AkKPiVkv3D1YEHJfa&sa=D&source=docs&ust=1675571170627843&usg=AOvVaw26B568fjvj3iopcjhzMkxa)
+  - OpenAI (2018)—[AI And Compute](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/ai-and-compute/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170563933%26amp;usg%3DAOvVaw3Ht0ixkQoilivt19SNFEa8&sa=D&source=docs&ust=1675571170627932&usg=AOvVaw241XReWA1qV9Y3C-FFXwEI)
+  - Deepmind (2019)—[Capture The Flag: The Emergence Of Complex Cooperative Agents](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deepmind.com/blog/capture-the-flag-the-emergence-of-complex-cooperative-agents%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170564456%26amp;usg%3DAOvVaw2jurMNVo7N6KVw1dwFeFcP&sa=D&source=docs&ust=1675571170628026&usg=AOvVaw2dnRK0M4Unpu4Wd3n6Un0Q)
+  - OpenAI (2019)—[OpenAI Five Defeats Dota 2 World Champions](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/openai-five-defeats-dota-2-world-champions/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170565034%26amp;usg%3DAOvVaw3zQ86jkO4t2IJ21-b8zPhQ&sa=D&source=docs&ust=1675571170628134&usg=AOvVaw00s0W_AvRNfSUyKrVaEVWn)
+  - OpenAI (2019)—[Deep Double Descent](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/deep-double-descent/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170565612%26amp;usg%3DAOvVaw2gEKBJrEkg2J4K1zK2SEZR&sa=D&source=docs&ust=1675571170628229&usg=AOvVaw0KW-mnpfnRWGp9KDw9eK84)
+  - Jay Alammar (2020)—[How GPT-3 Works: Visualizations And Animations](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://jalammar.github.io/how-gpt3-works-visualizations-animations/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170566192%26amp;usg%3DAOvVaw22w7PMsIWggMczBrIIn2YV&sa=D&source=docs&ust=1675571170628322&usg=AOvVaw2kAyPjN4M6ZwQDG9JJEYiL)
+  - Evhub (2020)—[11 Proposals Of For Building Safe Advanced AI](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.lesswrong.com/posts/fRsjBseRuvRhMPPE5/an-overview-of-11-proposals-for-building-safe-advanced-ai%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170566695%26amp;usg%3DAOvVaw3Pi_kzkLjeV3q9_1hMnSCZ&sa=D&source=docs&ust=1675571170628421&usg=AOvVaw3KPc-mMQ64_m2_w3ft5Oxg)
+  - Deepmind (2022)—[Discovering Novel Algorithms With AlphaTensor](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170567165%26amp;usg%3DAOvVaw3Ob5OiN4euBuqSbnc0uD7j&sa=D&source=docs&ust=1675571170628543&usg=AOvVaw3IxlHMFKiIvQGRJepKQnY-)
+  - Deepmind (2020)—[Using JAX To Accelerate Our Research](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deepmind.com/blog/using-jax-to-accelerate-our-research%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170567668%26amp;usg%3DAOvVaw0F9SSR21ELLEru_y-JzkR0&sa=D&source=docs&ust=1675571170628684&usg=AOvVaw19FXHDoC77obaUCPLnR7jg)’
+  - Deepmind (2020)—[AlphaFold: A Solution To A 50-year-old Grand Challenge In Biology](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deepmind.com/blog/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170568136%26amp;usg%3DAOvVaw3Swf5XYifxOO3C71ykSiPn&sa=D&source=docs&ust=1675571170628834&usg=AOvVaw3_ggivTBXvgExRE_CR3QKZ)
+  - Leigh Marie Braswell (2021)—[Startup Opportunities In Machine Learning Infrastructure](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://leighmariebraswell.substack.com/p/startup-opportunities-in-machine%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170568590%26amp;usg%3DAOvVaw3q1FrfGwXBOmHv0hbDKFNc&sa=D&source=docs&ust=1675571170629006&usg=AOvVaw3g2JMX_Ghzpg2V1EyB494V)
+  - Meta AI (2021)—[Teaching AI How To Forget At Scale](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://ai.facebook.com/blog/teaching-ai-how-to-forget-at-scale/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170569537%26amp;usg%3DAOvVaw160QIDP0d44K8clw1-qqy9&sa=D&source=docs&ust=1675571170629192&usg=AOvVaw1gLfCHF43iQ14OeJ8pTHgg)
+  - OpenAI (2021)—[DALL-E: Creating Images From Text](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/dall-e/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170569970%26amp;usg%3DAOvVaw3gbsrA1vIxKX3NIGiorbt_&sa=D&source=docs&ust=1675571170629363&usg=AOvVaw3gs8pPDzj-wl-cXoGpM5uH)
+  - OpenAI (2021)—[Multimodal Neurons In Artificial Neural Networks](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/multimodal-neurons/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170570367%26amp;usg%3DAOvVaw1TcYjnXIpDPOXYyPiXjH4b&sa=D&source=docs&ust=1675571170629477&usg=AOvVaw0AoruhnV7BVhARjG86_y57)
+  - OpenAI (2021)—[Improving Language Model Behavior By Training On A Curated Dataset](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/improving-language-model-behavior/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170570789%26amp;usg%3DAOvVaw0kxQmAWlhKIePll59PLkTd&sa=D&source=docs&ust=1675571170629583&usg=AOvVaw1K8qxZeEM4C0YKY6fP6Ogm)
+  - OpenAI (2021)—[OpenAI Codex](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/openai-codex/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170571159%26amp;usg%3DAOvVaw3dGQklfRdedpZFxdFCB7f_&sa=D&source=docs&ust=1675571170629697&usg=AOvVaw1Z89f0_geGfqn2cFfci7oX)
+  - OpenAI (2022)—[Aligning Language Models To Follow Instructions](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/instruction-following/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170571550%26amp;usg%3DAOvVaw2NZdEw_BExMxam9Omb_JMN&sa=D&source=docs&ust=1675571170629836&usg=AOvVaw2dcq2CCP2zDxVO5CRBSvhS)
+  - OpenAI (2022)—[DALL-E 2](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/dall-e-2/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170571920%26amp;usg%3DAOvVaw1V_ph_UmVCNAumlOK77UgX&sa=D&source=docs&ust=1675571170629999&usg=AOvVaw1urZdHxCeESPH8OU7c_2zl)
+  - OpenAI (2022)—[Learning To Play Minecraft With Video PreTraining](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/vpt/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170572272%26amp;usg%3DAOvVaw0P6ZzEwnVF30h2cPTJN0rT&sa=D&source=docs&ust=1675571170630239&usg=AOvVaw3V86vSqh44jW8XVvMaKB9W)
+  - OpenAI (2022)—[Introducing Whisper](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/whisper/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170572636%26amp;usg%3DAOvVaw2Qrz2S5TCkVr2zTy8hiKCa&sa=D&source=docs&ust=1675571170630339&usg=AOvVaw16WjNKiclGwKj-C_pIc22m)
+  - OpenAI (2022)—[ChatGPT: Optimizing Language Models For Dialog](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://openai.com/blog/chatgpt/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170572980%26amp;usg%3DAOvVaw0MphtZiKhkbZLdTBnYvKzH&sa=D&source=docs&ust=1675571170630426&usg=AOvVaw2QFp2nrQzY4KZJwk5A410j)
+  - Nature (2022)—[What’s Next For AlphaFold](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.nature.com/articles/d41586-022-00997-5%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170573353%26amp;usg%3DAOvVaw3eZAaU5x3ejfTIf6tnuIBa&sa=D&source=docs&ust=1675571170630540&usg=AOvVaw1HsHnqYMrwduWA4oEp2KqQ)
+  - Meta AI (2022)—[CICERO: AN AI Agent That Negotiates, Persuades, And Cooperates With People](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170573763%26amp;usg%3DAOvVaw3JwimA6EEqCjCBGDri4bw5&sa=D&source=docs&ust=1675571170630668&usg=AOvVaw2kd4MsSOSvLOrUyLPdKSJJ)
+  - Yann Lecun (2022)—[How To Make AI Systems Learn And Reason Like Animals And Humans](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://ai.facebook.com/blog/yann-lecun-advances-in-ai-research/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170574182%26amp;usg%3DAOvVaw1ilNWRqWfYkuUQLI6l6jVX&sa=D&source=docs&ust=1675571170630767&usg=AOvVaw0W8pZPxkGtw2BRnnFLp-jC)
+  - Robert May (2022)—[The Mental Model Most AI Investors Are Missing](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://investinginai.substack.com/p/the-mental-model-most-ai-investors%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170574666%26amp;usg%3DAOvVaw2SnhUyABBEmQ-5e7wHLRJV&sa=D&source=docs&ust=1675571170630865&usg=AOvVaw3VznA10_lxLelWLNWtanRI)
+  - Roon (2022)—[Text Is The Universal Interface](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://scale.com/blog/text-universal-interface%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170575059%26amp;usg%3DAOvVaw3_DItliw6CdHF0qaa6B7J4&sa=D&source=docs&ust=1675571170630962&usg=AOvVaw1-ZZ2chwXLI7xgUc2j4NSS)
+  - Jack Soslow (2022)—[2022 AI Research And Trends Round Up](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/JackSoslow/status/1600552299231051776%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170575458%26amp;usg%3DAOvVaw1wlk1coPZLNvyuTfF3UEmr&sa=D&source=docs&ust=1675571170631055&usg=AOvVaw0poSyiNJnMxd5PuIspGaMA)
+
+#### Books
+
+  - [Deep Learning (2016)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deeplearningbook.org/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170604483%26amp;usg%3DAOvVaw3kW7bTXBdg7XypXldugRMO&sa=D&source=docs&ust=1675571170637176&usg=AOvVaw1yT9MWz64wW4YG_cW6XMyn)
+  - [Superintelligence (2014)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.amazon.com/Superintelligence-Nick-Bostrom-audiobook/dp/B00LPMFE9Y%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170604941%26amp;usg%3DAOvVaw3wLnIP1UQek_hfgSMQiwVz&sa=D&source=docs&ust=1675571170637267&usg=AOvVaw38IJqKQ_LDbS_TY0kun1UZ)
+  - [The Singularity Is Near (2005)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170605385%26amp;usg%3DAOvVaw3gnDRT59hPFXDLQMYGir7s&sa=D&source=docs&ust=1675571170637381&usg=AOvVaw0n5V_bRnCZcmAS-yFD8V7F)
+
+#### Movies
+
+  - [AlphaGo (2017)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.rottentomatoes.com/m/alphago%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170606060%26amp;usg%3DAOvVaw3J-FF5dbR6wJJ6usfsdH7M&sa=D&source=docs&ust=1675571170637497&usg=AOvVaw2rvZmkcc_5soqjCNTOGbxB)
+  - [Her (2013)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.rottentomatoes.com/m/her%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170606474%26amp;usg%3DAOvVaw36biC9R-WlQ5TByN1fx-00&sa=D&source=docs&ust=1675571170637578&usg=AOvVaw0cCe4f7Vs5uSpp6zx89Z0c)
+  - [2001: A Space Odyssey (1968)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.imdb.com/title/tt0062622/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170606837%26amp;usg%3DAOvVaw3SLKHoUibArisR48lIk2Ir&sa=D&source=docs&ust=1675571170637664&usg=AOvVaw0xzUDeqPpxZwcbzGJ9PwNo)
+
+
+___
+
+#### Podcasts
+
+**S Tier (“Best Of The Best”)**
+
+  - Sam Altman | Greymatter—[AI For The Next Era](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/7taK2t3Xk2TbZfM4P3DA4Y?si%253Da76ee35134254f14%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170576147%26amp;usg%3DAOvVaw3Vl7OhfJMJMP-FXel_uhEf&sa=D&source=docs&ust=1675571170631221&usg=AOvVaw1bYFHYKUwbDB-D2cH5Fou6)
+  - Connor Leahy | Machine Learning Street Talk—[AI Alignment & AGI Fire Alarm](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/5zlcgQv37KZnS6i3Wlkd8A?si%253D6b868419a57a400e%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170576561%26amp;usg%3DAOvVaw19PMIlSjkY7-GOT_24OR0N&sa=D&source=docs&ust=1675571170631318&usg=AOvVaw0GSor08OMd5-sikZtT2bgc)
+  - Demis Hassabis | Lex Fridman—[Demis Hassabis: DeepMind](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/1zcT7fUeArhjU8J7weCzvG?si%253D0240720c60904089%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170577039%26amp;usg%3DAOvVaw17ZrPrkS75xrl0PrJ4q8M-&sa=D&source=docs&ust=1675571170631410&usg=AOvVaw3mPhvQG3S0kFuMc928oKUR)
+
+**A Tier**
+
+  - George Hotz | Lex Fridman—[Comma.ai, OpenPilot, And Autonomous Vehicles](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/0AE0Rd4y1X5s9swtggIoNB?si%253D78b3d2c785cc4a12%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170577676%26amp;usg%3DAOvVaw0qbYjyQWsCmTOoxEqP5c29&sa=D&source=docs&ust=1675571170631578&usg=AOvVaw31BULD3aSldYbpaWfBUcwn)
+  - Ilya Sutskever | Lex Fridman—[Deep Learning](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/1u3n11xrcap61wuuvK8RGn?si%253D20bd5d975bca4ed2%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170578132%26amp;usg%3DAOvVaw25Qqi6kX0UNUHUOHZTE8fr&sa=D&source=docs&ust=1675571170631677&usg=AOvVaw1hj8WfrbbNMin4YC_P6XCe)
+  - Emad Mostaque | Good Time Show—[Founder Of Stable Diffusion On AI Ethics, Religion, India’s AI Future And Open Source](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/7hv6j1yTiW1Tz8JkpGqffJ?si%253D17180cd78c1942d8%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170578762%26amp;usg%3DAOvVaw0cW1kB9r3_LeCUXcibqFhT&sa=D&source=docs&ust=1675571170631773&usg=AOvVaw1p_jZyFtUjmMJWknYN9k7r)
+  - Ben Goertzel | Machine Learning Street Talk—[Artificial General Intelligence](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/5zlcgQv37KZnS6i3Wlkd8A?si%253D6b868419a57a400e%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170579245%26amp;usg%3DAOvVaw0H4QpamI8YX2HZ62uJrMkf&sa=D&source=docs&ust=1675571170631872&usg=AOvVaw10396llGuB4VUWnEkmQ9z9)
+  - Andrej Karpathy | Lex Fridman—[Tesla AI, Self-Driving, Optimus, Aliens, And AGI](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/28yFp9dzo61CiOf0Ejxxhe?si%253Da41b6af2640a406b%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170579709%26amp;usg%3DAOvVaw1JWEXZRlR9wLhczPaonYLm&sa=D&source=docs&ust=1675571170631969&usg=AOvVaw0V3iSuMkVn252Kv8Y-MSCr)
+
+**Best Of The Rest**
+
+  - A16z—[GPT-3, Beyond The Hype](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/6YhsDtDTBSnsdAXfKUsZHi?si%253D78f996a194bd450b%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170580381%26amp;usg%3DAOvVaw0whgogMjbXpB4OZfhuKB7X&sa=D&source=docs&ust=1675571170632096&usg=AOvVaw0jE2_pJyzQq1gxTePlRa3B)
+  - Stratechery—[The AI Unbundling](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/0KhbryFLBCHPZDA8M1Guh1?si%253D2b8ed7e5b69f4d6f%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170580786%26amp;usg%3DAOvVaw23a8Zo-gKmtjPQcASGrHla&sa=D&source=docs&ust=1675571170632189&usg=AOvVaw3Xno4YYomjiPWbDAI1FjuQ)
+  - Reading For Your Life—[The Singularity Is Near By Ray Kurzweil](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/1Yzk9Ot3WPKmj7VQFEeGIw?si%253D7c2f653cdd4543d7%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170581260%26amp;usg%3DAOvVaw0c8JjrCTaam8bxNa4LQYxD&sa=D&source=docs&ust=1675571170632318&usg=AOvVaw0-eubo4E3zLnXBo0NgydSC)
+  - Yann Lecun | Lex Fridman—[Dark Matter Of Intelligence And Self-Supervised Learning](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/6NJt7waroZKSbkt9sZlD7I?si%253D6853f888be5d430b%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170581683%26amp;usg%3DAOvVaw2kh-uKwAUFq_AzwVLK8ZDa&sa=D&source=docs&ust=1675571170632444&usg=AOvVaw0FOeithC0GpIHJ95ZtceKQ)
+  - Jim Keller | Lex Fridman—[The Future Of Computing, AI, Life, And Consciousness](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/13evHqkSPMpMMU1zfXEtAg?si%253Ddc896123ed14419d%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170582167%26amp;usg%3DAOvVaw1TPdFwqrZJjtIR4Q1PV9JQ&sa=D&source=docs&ust=1675571170632554&usg=AOvVaw3ewWpgZj8Uj_9Y4wk5V2LE)
+  - George Hotz | Lex Fridman—[Hacking The Simulation & Learning To Drive With Neural Nets](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/1LUuv5NInzIUf3I4sCzZOk?si%253D571a230073484edb%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170582786%26amp;usg%3DAOvVaw0GCtVuXelLMzGixUguKT3J&sa=D&source=docs&ust=1675571170632647&usg=AOvVaw24fuLz-A6zYbw78QWDyFdB)
+  - Ben Goertzel | Lex Fridman—[Artificial General Intelligence—Lex Fridman Podcast](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/7a1KzyIHHF51aTsuaEeejE?si%253D4b19f8aadfae4f4b%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170583337%26amp;usg%3DAOvVaw1cMbGASDyxMqUh8E2TvKlv&sa=D&source=docs&ust=1675571170632738&usg=AOvVaw0cllJzzs6-WJKBtw9nZvDH)
+  - Gary Marcus | Machine Learning Street Talk—[Prof. Gary Marcus 3.0](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/5E2fJ2F7cXvu0PJuvKvnmL?si%253D07f4e3f35da747ff%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170583932%26amp;usg%3DAOvVaw3Zlykcrei6lCoJlwx7qDMU&sa=D&source=docs&ust=1675571170632829&usg=AOvVaw2vyjlKUDWRkv4SFEeoilxi)
+  - Connor Leahy—[GPT-3 As An AI Fire Alarm](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/5zlcgQv37KZnS6i3Wlkd8A?si%253D6b868419a57a400e%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170584450%26amp;usg%3DAOvVaw2WRKjiFMVn6Z7JMKxaMCpM&sa=D&source=docs&ust=1675571170632917&usg=AOvVaw0MZ5XQpqkzoY3_48yqUXWl)
+  - Joscha Bach | Lex Fridman—[Artificial Consciousness And The Nature Of Reality](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/1jj1KRKXwPnj77ybmvjWKD?si%253D8UMuLEeJQ5yVPuPmgkFNCQ%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170585372%26amp;usg%3DAOvVaw0LBoMoXoZpq4tueLBHWEun&sa=D&source=docs&ust=1675571170633021&usg=AOvVaw0Xe01CL-FpWQybPyLdLcmB)
+  - John Carmack | Lex Fridman—[Doom, Quake, VR, AGI, Programming, Video Games, And Rockets](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/3LddnZjkpflldHXnRZ0rrw?si%253D87689c23fb57467d%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170585936%26amp;usg%3DAOvVaw20RoJsxWeKzg_mo7ZprMGT&sa=D&source=docs&ust=1675571170633114&usg=AOvVaw3A6l5GUfxHWJ_VMWTT5OHC)
+
+#### Videos / Video Podcasts / Video Essays
+
+**S Tier (“Best Of The Best”)**
+
+  - Eliezer Yudkowsky (2007)—[Introducing The Singularity: Three Major Schools Of Thought](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DP6FXqVcLC9Y%2526t%253D2s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170587099%26amp;usg%3DAOvVaw3g02eysm3_IBC8Zznmt3QF&sa=D&source=docs&ust=1675571170633350&usg=AOvVaw2dD0DeljCAxnhJe-Uz1Vr9)
+  - Eliezer Yudkowsky (2017)—[Difficulties Of Artificial General Intelligence Alignment](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DYicCAgjsky8%2526t%253D1684s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170587518%26amp;usg%3DAOvVaw17IHECeeBxcj4cPTqd3196&sa=D&source=docs&ust=1675571170633447&usg=AOvVaw3JvmNspr94mVbKdhmsMY05)
+  - Eric Elliott (2020)—[What It’s Like To Be A Computer: An Interview With GPT-3](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DPqbB07n_uQ4%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D439%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170588010%26amp;usg%3DAOvVaw2ajPIYIuITR2PBaezYozzX&sa=D&source=docs&ust=1675571170633543&usg=AOvVaw1hcR53VTM3d1bzqDuZODRX)
+  - Ethan Caballero (2022)—[Broken Neural Scaling Laws](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DSV87S38M1J4%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170588445%26amp;usg%3DAOvVaw2HTXQ2vhkEwuQv8umeQCoZ&sa=D&source=docs&ust=1675571170633668&usg=AOvVaw1J2kNRFx0nDZyT96b8j8Jv)
+  - A Tier
+  - Yannic Kilcher (2017)—[Attention Is All You Need](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DiDulhoQ2pro%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170589338%26amp;usg%3DAOvVaw0jXWqt7PUyD7UUWRrUaIPn&sa=D&source=docs&ust=1675571170633816&usg=AOvVaw051wW4n5GvXw8c9Tv3t53i)
+  - OpenAI (2019)—[Multi Agent Hide And Seek](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DkopoLzvh5jY%2526list%253DFL9prNeWkI6ktwDLqP8675_w%2526index%253D15%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170589900%26amp;usg%3DAOvVaw3OwXYh-yDVOtQsS3EXc9hP&sa=D&source=docs&ust=1675571170633915&usg=AOvVaw3TcathgTgJ5N_haBPPLyD0)
+  - WSJ (2019)—[How China Is Using Artificial Intelligence In Classrooms](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DJMLsHI8aV0g%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D424%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170590336%26amp;usg%3DAOvVaw0QO7q3wwXJUUHHe7G5Iiy6&sa=D&source=docs&ust=1675571170634013&usg=AOvVaw2DZlyXRuAxs3jvvSrCkH8p)
+  - Yannic Kilcher (2020)—[GPT-3: Language Models Are Few Shot Learners (Paper Explained)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DSY5PvZrJhLE%2526t%253D7s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170590781%26amp;usg%3DAOvVaw0biyGTLvK_I9INDbbNptan&sa=D&source=docs&ust=1675571170634107&usg=AOvVaw1NNiTHVpDirnZVi1A85cUv)
+
+**Best Of The Rest**
+
+  - Eliezer Yudkowsky (2012)—[Intelligence Explosion](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DD6peN9LiTWA%2526t%253D1838s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170591408%26amp;usg%3DAOvVaw0IEMBD9It_QfR6y0Bvp6XD&sa=D&source=docs&ust=1675571170634253&usg=AOvVaw3fUZmJxIV8hCfEd_pWH6J9)
+  - OpenAI (2017)—[Dota2](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253Dl92J1UvHf6M%2526feature%253Demb_title%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170591897%26amp;usg%3DAOvVaw3VDRfs4Z0vl8E8pDxTqDnG&sa=D&source=docs&ust=1675571170634355&usg=AOvVaw2CiRQJqzEfY4ddmFdxTkIE)
+  - Fei Fei Li (2018)—[How To Make AI That’s Good For People](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.blog.google/perspectives/fei-fei-li/how-make-ai-good-for-people/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170592406%26amp;usg%3DAOvVaw3jgpSTCOOMEYWZXcCNjZsk&sa=D&source=docs&ust=1675571170634464&usg=AOvVaw2H4tsWeNm2m2zkx1fzAP1i)
+  - George Hotz (2019)—[Jailbreaking The Simulation With George Hotz](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DESXOAJRdcwQ%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D415%2526t%253D2065s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170592862%26amp;usg%3DAOvVaw2SzPk3bpmL3Jbhh-SQl3in&sa=D&source=docs&ust=1675571170634589&usg=AOvVaw20xroCHf2ECeDlqFjp8J6a)
+  - Lex Fridman (2019)—[Deep Learning Basics: Introduction And Overview](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DO5xeyoRL95U%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D402%2526t%253D2s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170593316%26amp;usg%3DAOvVaw3-EgQQqQmLS_dJaD2VcR6f&sa=D&source=docs&ust=1675571170634778&usg=AOvVaw1n74viYrg8rtYX3WJE_D44)
+  - Sam Altman (2020)—[Sam Altman Talks About AI At Big Compute 20 Tech Conference](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253D0TRtSk-ufu0%2526list%253DPLq3rkhTjKmZq3ZbWW_dFVaaNAJG0mSkEd%2526index%253D25%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170593778%26amp;usg%3DAOvVaw2skdLJiDd7fVbYARoY98ri&sa=D&source=docs&ust=1675571170634930&usg=AOvVaw3VX2TQkHQDcqJQFs64J0MH)
+  - Two Minute Papers (2020)—[OpenAI GPT-3 - Good At Almost Everything](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253D_x9AwxfjxvE%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D435%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170594256%26amp;usg%3DAOvVaw0vZ590BQh-Htz0QRdU-006&sa=D&source=docs&ust=1675571170635043&usg=AOvVaw3d42oLgR-3LYbVFVxYFH0w)
+  - Jack Soslow (2020)—[Two AIs Talking To Each Other](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253Djz78fSnBG0s%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D308%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170594699%26amp;usg%3DAOvVaw20MNykviZj7C1g0sYMBqUO&sa=D&source=docs&ust=1675571170635155&usg=AOvVaw1KVJiAZS7doo-zOGNrluAY)
+  - Lex Fridman (2020)—[GPT-3 Vs Human Brain](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DkpiY_LemaTc%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D365%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170595120%26amp;usg%3DAOvVaw1n8mtEZShbgvq3Xg5jHZem&sa=D&source=docs&ust=1675571170635256&usg=AOvVaw2wrLBSyMI7W8jGroJto_yo)
+  - Harrison Kinsley And Daniel Kukiela (2020)–[Neural Networks From Scratch - P.3 The Dot Product](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DtMrbN67U9d4%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D403%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170595551%26amp;usg%3DAOvVaw3ZAV79b6xnE1KEDEmDNy50&sa=D&source=docs&ust=1675571170635355&usg=AOvVaw3vCXlJRiQnLQhJPgohc1Fj)
+  - Lex Fridman (2020)—[Deep Learning State Of The Art](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253D0VH1Lim8gL8%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D405%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170596068%26amp;usg%3DAOvVaw1MGFO6CKBsGA2ePvS0A6yk&sa=D&source=docs&ust=1675571170635452&usg=AOvVaw2RPib139ALuS9Ycnw_BFKb)
+  - Bycloud (2020)—[What Happens When AI Robots Design Themselves](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DRAyQYCCYRP8%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D414%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170596578%26amp;usg%3DAOvVaw3CxMeKdB_8AKw0EaRuu1Nl&sa=D&source=docs&ust=1675571170635628&usg=AOvVaw14SaxRsRL-pLhbTDvuDthf)
+  - Two Minute Papers (2020)—[MuZero: DeepMind’s New AI Mastered More Than 50 Games](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DhYV4-m7_SK8%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D421%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170597092%26amp;usg%3DAOvVaw0smpqJZMDHwzD7yy_TKbb1&sa=D&source=docs&ust=1675571170635748&usg=AOvVaw0yS1sVyV2O526nu2tToKPf)
+  - Mira Murati (2020)—[Ensuring AGI Benefits All Of Humanity](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DSGY0WWsj1fA%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170597510%26amp;usg%3DAOvVaw0l8_kU6WICrULTcwePR5qS&sa=D&source=docs&ust=1675571170635845&usg=AOvVaw0RLOicQyS9n8Tzpo-xzUqo)
+  - Two Minute Papers (2020)—[Can An AI Design Our Tax Policy?](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DSr2ga3BBMTc%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D437%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170598021%26amp;usg%3DAOvVaw02llunPPRTVW6I3RhHYqBq&sa=D&source=docs&ust=1675571170635945&usg=AOvVaw2Qe58ozg4dLTqMQUebObx0)
+  - Neat AI (2021)—[Lenia—Conway’s Game Of Life Arrives In The 21st Century](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253D7-97RhAZhXI%2526list%253DFL9prNeWkI6ktwDLqP8675_w%2526index%253D3%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170598496%26amp;usg%3DAOvVaw19ZBZ8FqH5muDJUt3pNspf&sa=D&source=docs&ust=1675571170636045&usg=AOvVaw3ExfUl0FV5GHqepiMMeF3x)
+  - Sam Altman (2021)—[The Future Of AI Research From DALL-E To GPT-3](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253Drr8N5IOvTGk%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D99%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170598989%26amp;usg%3DAOvVaw2dp_G8jdvZTZnxYoyv6OY5&sa=D&source=docs&ust=1675571170636176&usg=AOvVaw0pPl6OJ-ZoDkXUxQJS1pJ3)
+  - Yannic Kilcher (2021)—[How Far Can We Scale Up? Deep Learning’s Diminishing Returns (Article Review)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DwTzvKB6D_34%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D191%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170599429%26amp;usg%3DAOvVaw3zJ4z6Ov1hmouENMwgRLB4&sa=D&source=docs&ust=1675571170636321&usg=AOvVaw3HG1bOyO_4-GIKnVvvQaqT)
+  - Two Minute Papers (2021)—[Watch Tesla’s Self-Driving Car Learning In A Simulation](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253D6hkiTejoyms%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D201%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170599935%26amp;usg%3DAOvVaw3o22xbrNNA_BmGP3UvoNvS&sa=D&source=docs&ust=1675571170636430&usg=AOvVaw3UkpZYKKyLvpoX6GSRtitw)
+  - Ethan Caballero (2022)—[Scale Is All You Need](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DUPlv-lFWITI%2526t%253D483s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170600476%26amp;usg%3DAOvVaw1-vAYRGtSGYGshj7hjD56Z&sa=D&source=docs&ust=1675571170636540&usg=AOvVaw3PQvduDfEHEHnGccrPBiTR)
+  - Two Minute Papers (2022)—[DeepMind AlphaFold A Gift To Humanity](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DFYVf0bRgO5Q%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D97%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170601003%26amp;usg%3DAOvVaw20XDvLgbYSDuklIBVyeh2K&sa=D&source=docs&ust=1675571170636651&usg=AOvVaw3rWn-6FFiXMWimDkxXSnIb)
+  - OpenAI (2022)—[Aligning AI Systems With Human Intent](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DyWDUzNiWPJA%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D102%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170602144%26amp;usg%3DAOvVaw38N1TzF7ajSYKmpdfewowt&sa=D&source=docs&ust=1675571170636750&usg=AOvVaw3WvlADcqQaul65K-jAP7Rf)
+  - NeatAI (2022)—[AI Learns NEAT Pacman Solution](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DiNSx-pB8t54%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D105%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170602746%26amp;usg%3DAOvVaw0gpyKsd65qJ19FLCMsJ8T2&sa=D&source=docs&ust=1675571170636846&usg=AOvVaw1B5R_EINgSI81rb8aJ7CA1)
+  - Yannic Kilcher (2022)—[Grokking: Generalization Beyond Overfitting On Small Algorithmic Datasets (Paper Explained)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253DdND-7llwrpw%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D189%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170603292%26amp;usg%3DAOvVaw007tUy_MJgYqFr2g0je09-&sa=D&source=docs&ust=1675571170636942&usg=AOvVaw3MMEUmSBfgpuNUNhHlP1e0)
+  - The Third Build (2022)—[How An AI Is Becoming The World’s Best Pokemon Player](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.youtube.com/watch?v%253Drhvj7CmTRkg%2526list%253DLL9prNeWkI6ktwDLqP8675_w%2526index%253D206%2526t%253D411s%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170603852%26amp;usg%3DAOvVaw2QMmTCo1BMKhHH0p_nV9Jp&sa=D&source=docs&ust=1675571170637053&usg=AOvVaw2s3M3sW2yjlD7uD5e-XB8c)
+
+### Resources
+
+- [AGI Labs](https://agilabs.org/ai-helpers-home) - Choose From Hundreds Of Our Highly Trained AI Helpers To Generate Customized High-quality AI Writings For Study, Work, And Life Applications, Or Get Human Services Besides Just AI!
+- [AI Art Apps](https://aiartapps.com/) - AI Art Resources, Tools & Inspiration For Designers And Prompt Engineers.
+- [AI2045](https://ai2045.com/) - A Platform For Discussing The Future Of AI.
+- [Fast AI](https://fast.ai/) - Fastai Is A Deep Learning Library Which Provides Practitioners With High-level Components That Can Quickly And Easily Provide State-of-the-art Results In Standard Deep Learning
+- [Phraser](https://phraser.tech/) - Phraser Is An App That Helps You Create Images Using Generative AI (Midjourney, Stable Diffusion, And DALLE 2)
+- [The AI Times](https://aitimespage.com/ai) - AI News
+
 ## AI-Text
 
 **In This Section, You Will Find All Things Related To Text Processing Using AI Technology.**
+
+
 
 ---
 
@@ -2806,48 +2826,18 @@ ___
 
 ---
 
-### Text To Speech
-
-- [Ad Auris](https://play.ad-auris.com/) - An AI-powered Music Generator That Creates Original Music In Real-time.
-- [Aiva](https://www.aiva.ai/) - An AI Platform That Helps Businesses Create Music, Audio Logos, And Sound Design.
-- [Apple Books](https://www.apple.com/in/apple-books/) - A Digital Book Reading Platform That Is Built Into Apple Devices.
-- [Article. Audio](http://article.audio) - Convert Articles In Audio. Too Lazy To Read An Article? No Problem, Listen To It! Powered By Thundercontent.
-- [Ask My Book](https://askmybook.com/) - An Online Book Platform That Allows Users To Read Books Online.
-- [Audioread](https://audioread.com/) - A Web-based Text-to-speech Tool That Can Read Out Loud Articles, Documents, And Webpages.
-- [Blubi.ai](https://blubi.ai/) - A Voice-based AI Assistant For Voice-activated Devices.
-- [Convai](https://www.convai.com/) - A Chatbot Platform That Allows You To Create Chatbots For Websites And Messaging Apps.
-- [Coqui](https://coqui.ai/) - An Open-source Project For Text-to-speech Synthesis Using Deep Learning.
-- [Descript](https://www.descript.com/overdub) - A Platform For Audio And Video Editing That Uses AI To Automate Repetitive Tasks.
-- [Eleven](https://beta.elevenlabs.io/) - Prime Voice AI. The Most Realistic And Versatile AI Speech Software, Ever. Eleven Brings The Most Compelling, Rich And Lifelike Voices To Creators And Publishers Seeking The Ultimate Tools For Storytelling.
-- [Fakeyou](https://fakeyou.com/) - A Platform For Creating Fake Social Media Profiles Using AI.
-- [Listnr 2.0](https://www.listnr.tech/) - AI Voice Generator - Text To Speech Converter - Listnr. Generate Realistic Text To Speech (TTS) - Audio Using Our AI Voice Generator With The Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download In MP3 And WAV Formats.
-- [Listnr](https://www.listnr.tech/) - A Voice AI Platform That Helps You Transcribe And Analyze Audio Files.
-- [Lovo](http://www.lovo.ai) - Lovo AI - Free Text To Speech Online With Natural Voices.
-- [Mubert](https://mubert.com/) - An AI Music Generator That Creates Original Music In Real-time.
-- [Murf.ai](http://murf.ai) - Go From Text To Speech With A Versatile AI Voice Generator. AI Enabled, Real People's Voices. Make Studio-quality Voice Overs In Minutes. Use Murf' S Lifelike AI Voices For Podcasts, Videos, And All Your Professional Presentations.
-- [Play.ht](http://play.ht) - AI Powered Text To Voice Generator. Generate Realistic Text To Speech (TTS) - Audio Using Our Online AI Voice Generator And The Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download As MP3 And WAV Audio Files.
-- [Replicastudios](https://www.replicastudios.com/) - A 3D Printing Service That Can Create High-quality, Accurate, And Affordable Parts For Various Industries.
-- [Resemble](https://www.listnr.tech/) - A Voice AI Platform That Allows You To Turn Text Into Speech Using AI.
-- [Speechelo](http://speechelo.com) - Speechelo - Generate Voice From Text With Only 3 Clicks. The Most Realistic Souding Text To Audio Converter. We GUARANTEE No One Will Tell Your Voiceover Is A. I. Generated With A Text To Voice Tool.
-- [Speechify](http://speechify.com) - The #1 Text To Speech Reader. Power Through Docs, Articles, PDFs, Email—anything You Read—by Listening With Our Leading Text-to-speech Reader.
-- [Speech-to-Speech](http://www.resemble.ai) - Your Complete Generative Voice AI Toolkit. Resemble' S AI Voice Generator Lets You Create Human–like Voice Overs In Seconds.
-- [Splashmusic](https://www.splashmusic.com/) - A Music Production And Licensing Company That Provides Original Music And Sound Effects.
-- [Symbl.ai](https://symbl.ai/) - A Platform For Real-time Transcription And Analysis Of Voice And Video.
-- [Unreal Speech](http://unrealspeech.up.railway.app) - Ultra Realistic Text-To-Speech Api. More Natural-sounding And Up To 4x Cheaper Than Amazon, Google And Microsoft.
-- [VERBATIK](http://verbatik.com) - AI Powered Text To Voice Generation. Generate Realistic Text To Speech (TTS) - Audio Using Online AI Voice Generator And Best Synthetic Voices. Instantly Convert Text In To Natural-sounding Speech And Download As MP3 And WAV Audio Files.
-- [Wellsaid](http://wellsaidlabs.com) - Convert Text To Voice In Real Time. With WellSaid, You And Your Team Can Create A Compelling Realistic AI Voice Over For All Your Digital Content.
-- [Whisper](https://github.com/openai/whisper) - An Open-source AI Platform For Text-to-speech Synthesis.
-
+## AI-Tools
 
 ---
 
-## AI-Tools
-
 **In This Section, You Will Find A Collection Of AI Tools And Utilities For A Variety Of Use Cases.**
 
-- **[Automation](#automation)**: AI Models And Tools For Automating Tasks And Processes.
-- **[Tools](#tools)**: Various AI Tools For Various Applications And Industries.
-- **[Translation & Transcript](#translation-&-transcript)**: AI Models And Tools For Translation And Transcriptions.
+- [Automation](#Automation)
+- [Templates](#Templates)
+- [Tools](#Tools)
+- [Translation & Transcript](#Translation%20&%20Transcript)
+
+---
 
 ### Automation
 
@@ -2870,8 +2860,8 @@ ___
 - [Future Tools](https://www.futuretools.io/) - A Platform That Provides AI-powered Tools For Innovation And Product Development  
 - [There's An AI For That](https://theresanaiforthat.com/) - A Directory Of AI Tools And Services That Are Available For Different Use Cases And Industries.  
 - [ABtesting AI](https://abtesting.ai/) - A Platform For A/B Testing.  
-- [AI App Ideas](http://www.aiappideas.com) - A Platform For Discovering AI-powered App Ideas   
-- [AI Car Diagnosis](http://cardiagnosis.softr.app) - Car Diagnosis AI. Get Real-time Diagnostics And Insights Into Your Car' S Performance With Our Cutting-edge Tool. 
+- [AI App Ideas](http://www.aiappideas.com) - A Platform For Discovering AI-powered App Ideas
+- [AI Car Diagnosis](http://cardiagnosis.softr.app) - Car Diagnosis AI. Get Real-time Diagnostics And Insights Into Your Car' S Performance With Our Cutting-edge Tool.
 - [Auxiliary Tools](https://www.auxiliary.tools/) - A Platform For Discovering And Sharing AI Tools.  
 - [AI Tool Hunt](https://www.aitoolhunt.com/) - A Platform For Discovering AI Tools.  
 - [AI Tool Master List](https://share-docs.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207) - A List Of AI Tools.  
@@ -2912,6 +2902,14 @@ ___
 ## AI-Video
 
 **In This Section, You Will Find All Things Related To Video Processing Using AI Technology.**
+
+- [Video](#Video)
+- [Video Animation](#Video%20Animation)
+- [Video Channels](#Video%20Channels)
+- [Video Editing](#Video%20Editing)
+- [Video Generator](#Video%20Generator)
+- [Video Interpolation](#Video%20Interpolation)
+- [Video Personalized](#Video%20Personalized)
 
 ---
 
@@ -3060,6 +3058,14 @@ ___
 
 **In This Section, You Will Find All Things Related To Writing And Language Processing Using AI Technology.**
 
+- [[#Assistant|Assistant]]
+- [[#Copywriting|Copywriting]]
+- [[#General|General]]
+- [[#Paraphraser|Paraphraser]]
+- [[#Story Teller|Story Teller]]
+- [[#Summarizing|Summarizing]]
+- [[#Writing|Writing]]
+
 ---
 
 ### Assistant
@@ -3183,7 +3189,6 @@ ___
 
 ### Story Teller
 
-
 - [Artflow AI](https://artflow.ai/) - A Digital Sketchbook For Android.
 - [BedtimeStory AI](https://www.bedtimestory.ai/) - AI-powered Bedtime Stories For Children.
 - [EndlessVN](https://endlessvn.io/) - A Website To Play Visual Novel Games Created By Users.
@@ -3200,6 +3205,10 @@ ___
 - [What On Earth?](https://www.whatonearth.xyz/) - A Fun And Educational Platform To Learn About Our Planet.
 
 ---
+
+### Summarizing
+
+- [TLDR This](http://tldrthis.com) - Article Summarizer & Online Text Summarizing Tool. This Helps You Summarize Any Piece Of Text Into Concise, Easy To Digest Content So You Can Free Yourself From Information Overload.
 
 ### Writing
 
