@@ -20,26 +20,26 @@
 
 %% Begin Waypoint %%
 
-- **[AI-MTHRFCKR](./AI-MTHRFCKR.md)**
-	- [AI-Art & Image](./AI-Art%20&%20Image.md)
-	- [AI-Audio](./AI-Audio.md)
-	- [AI-Business](./AI-Business.md)
-	- [AI-Content](./AI-Content.md)
-	- [AI-Data](./AI-Data.md)
-	- [AI-Design](./AI-Design.md)
-	- [AI-Development](./AI-Development.md)
-	- [AI-Education & Learning](./AI-Education%20&%20Learning.md)
-	- [AI-Fun](./AI-Fun.md)
-	- [AI-General](./AI-General.md)
-	- [AI-Health](./AI-Health.md)
-	- [AI-MTHRFCKR](./AI-MTHRFCKR.md)
-	- [AI-Other](./AI-Other.md)
-	- [AI-Productivity](./AI-Productivity.md)
-	- [AI-Software](./AI-Software.md)
-	- [AI-Text](./AI-Text.md)
-	- [AI-Tools](./AI-Tools.md)
-	- [AI-Video](./AI-Video.md)
-	- [AI-Writing](./AI-Writing.md)
+- **[AI-MTHRFCKR](../..//AI-MTHRFCKR/AI-MTHRFCKR.md)**
+	- [AI-Art & Image](AI-Art%20&%20Image.md)
+	- [AI-Audio](AI-Audio.md)
+	- [AI-Business](AI-Business.md)
+	- [AI-Content](AI-Content.md)
+	- [AI-Data](AI-Data.md)
+	- [AI-Design](AI-Design.md)
+	- [AI-Development](AI-Development.md)
+	- [AI-Education & Learning](AI-Education%20&%20Learning.md)
+	- [AI-Fun](AI-Fun.md)
+	- [AI-General](AI-General.md)
+	- [AI-Health](AI-Health.md)
+	- [AI-MTHRFCKR](../..//AI-MTHRFCKR/AI-MTHRFCKR.md)
+	- [AI-Other](AI-Other.md)
+	- [AI-Productivity](AI-Productivity.md)
+	- [AI-Software](AI-Software.md)
+	- [AI-Text](AI-Text.md)
+	- [AI-Tools](AI-Tools.md)
+	- [AI-Video](AI-Video.md)
+	- [AI-Writing](AI-Writing.md)
 
 %% End Waypoint %%
 
