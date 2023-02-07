@@ -46,10 +46,10 @@
 
 **In This Section, You Will Find All Things Related To Software Development Using AI Technology.**
 
-- [[#Android|Android]]
-- [[#IOS|IOS]]
-- [[#MacOS|MacOS]]
-- [[#Windows|Windows]]
+- [Android](#Android)
+- [IOS](#IOS)
+- [MacOS](#MacOS)
+- [Windows](#Windows)
 
 ---
 
@@ -2545,11 +2545,11 @@
 This Section Is From [@JackSoslow](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/JackSoslow%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170549616%26amp;usg%3DAOvVaw3Rfeq_6KP5QWlQaDS_Sgk0&sa=D&source=docs&ust=1675571170625334&usg=AOvVaw2F9G4vWFRlTdcsSCCDW2ZX) All Credit Goes To Him!
 [Music Playlist](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/playlist/0cYcPCDK2MBzKt4QXym5GM?si%253Da4d17192c8814a42%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170548835%26amp;usg%3DAOvVaw2YYr1D7e8n6cs57Te_KjVh&sa=D&source=docs&ust=1675571170625091&usg=AOvVaw1YzyoCd90UCt42Umo9OtUC)
 
-- [[#Blogs / Threads / Papers|Blogs / Threads / Papers]]
-- [[#Podcasts|Podcasts]]
-- [[#Videos / Video Podcasts / Video Essays|Videos / Video Podcasts / Video Essays]]
-- [[#Books|Books]]
-- [[#Movies|Movies]]
+- [Blogs / Threads / Papers](#Blogs%20/%20Threads%20/%20Papers)
+- [Podcasts](#Podcasts)
+- [Videos / Video Podcasts / Video Essays](#Videos%20/%20Video%20Podcasts%20/%20Video%20Essays)
+- [Books](#Books)
+- [Movies](#Movies)
 
 
 
