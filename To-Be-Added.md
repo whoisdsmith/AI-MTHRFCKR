@@ -1,118 +1,43 @@
-
-**In This Section, You Will Find Fun And Entertaining AI Applications And Tools.**
-
-- **[Fun With AI](#fun-with-ai)**: Fun AI Applications Like Games, Animations, And Art.
-- **[Gaming](#gaming)**: AI Tools And Models For Game Development, Like Game Engines And AI-powered Characters.
+# New 
 
 
-
----
-
-### Fun With AI
-
-- [Adept](https://www.adept.ai/) - Adept Is An AI-powered Writing Assistant.
-- [AI Pokemon Generator](http://nokemon.eloie.tech) Generate Fakemon Using AI
-- [AI Time Machine](https://www.myheritage.com/ai-time-machine) - AI Time Machine Is A Tool For Restoring Old Photos And Videos Using AI.
-- [AnimeAI](https://www.animeai.lol/) - AnimeAI Is An AI-powered Tool For Generating Anime-style Art And Animations.
-- [Anypod](https://www.anypod.ai/) - Anypod Is An AI-powered Virtual Assistant For Podcast Listening.
-- [Askmybook](http://askmybook.com) Ask My Book The Minimalist Entrepreneur. This Is An Experiment In Using AI To Make My Book's Content More Accessible. Ask A Question And AI'll Answer It In Real-time:.
-- [AskNow](https://www.asknow.ai/) - AskNow Is An AI-powered Virtual Assistant For Customer Service.
-- [Ask RBG](http://ask-rbg.ai) What Would Rbg (Probably) Say?. An AI Experiment Ask Justice Ruth Bader Ginsburg To Make A Decision About Any Question Your Heart Desires. The First AI Drop From AI21 Labs.
-- [AskThee](https://askthee.vercel.app/) - AskThee Is A Knowledge-based Chatbot.
-- [BlackInk](https://blackink.ai/) - BlackInk Is An AI-powered Platform For Creative Writing.
-- [Botify](http://botif.ai) Botify AI. Fun Chat With Your Favorite Characters.
-- [Chai](https://chai.ml/) - Chai Is A Platform For Machine Learning And AI Development.
-- [CharacterAI](http://beta.character.ai) Character AI  Lets You Create Characters And Talk To Them. Characters Can Be Anything. Our Breakthrough AI Technology Can Bring All Of Your Ideas To Life.
-- [Character AI](https://beta.character.ai/) - Character AI Is An AI-powered Tool For Character Development In Writing.
-- [ClipMatrix](https://colab.research.google.com/drive/1rT_NIYryAC1UNBsETm6XbgW3DWqIJnmf?usp=sharing) - Text Controlled 3D Mesh Deformation And Stylization
-- [CLIP-Mesh](https://colab.research.google.com/drive/15Fm4EhLlB20EugLUnTdhSJElvGVCU7Ys?usp=sharing) - Text To 3D Mesh With Texture And Normal Map (Still Pretty Simple And Mixed Results)
-- [Consensus](https://consensus.app/) - Consensus Is A Project Management And Collaboration Tool.
-- [Context](https://addcontext.xyz/) - Context Is An AI-powered Tool For Website Optimization.
-- [Cradle](https://cradle.bio/) - Cradle Is A Platform For Life Sciences And Biotechnology Research.
-- [DreamFields](https://colab.research.google.com/drive/1u5-zA330gbNGKVfXMW5e3cmllbfafNNB?usp=sharing) - Latest Text To 3D ([Github](https://github.com/shengyu-meng/dreamfields-3D))
-- [ELI5](https://explainlikeimfive.io/) - ELI5 Is A Platform That Helps People Understand Complex Topics In Simple Terms.
-- [Elicit](https://elicit.org/) - Elicit Is A Research Platform That Connects Researchers With Participants.
-- [Excuses AI](http://excuses.ai) Excuse Generator. Use AI To Generate The Perfect Professional Excuse.
-- [EZ Charts](https://docs.google.com/document/d/1ORymHm0Te18qKiHnhcdgGp-WSt8ZkLZvow3raiu2DVU/edit) - Google Doc Visual Reference Guides For CLIP-Guided Diffusion (See What All The Parameters Do!)
-- [FakeYou](https://fakeyou.com/) - FakeYou Is A Platform For Creating Fake Profiles And Personas.
-- [Find Your Next Book](https://www.findyournextbook.ai/) - Find Your Next Book Is An AI-powered Tool For Book Recommendations.
-- [Galactica](https://galactica.org/) - Galactica Is A Platform For Space Exploration And Research.
-- Great Explanation Of VQGAN+CLIP - [Https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)
-- [Guide To Install Disco Diffusion 5 On Windows With WSL](https://gist.github.com/MSFTserver/6212f85d79058a024b0e49f3d19a1115#file-wsl-disco-v5-tutorial-md) - Haven't Tried This Yet Challenge Is Pytorch3d
-- [HairstyleAI](https://www.hairstyleai.com/) - HairstyleAI Is An AI-powered Tool For Hairstyle Recommendations And Simulations.
-- [Hello History](https://www.hellohistory.ai/) - Hello History Is An AI-powered Tool For Historical Research And Information.
-- [Hitchhiker's Guide To The Latent Space](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit)  - A Guide That's Been Put Together With Lots Of Colab Notebooks Too
-- [ImageSorter](https://colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_ImageSorter.ipynb) By @Pharmapsychotic - Sort Images By Similarity (Nice For StyleGAN/FiLM Animated Loops)
-- [JAX CLIP Guided Diffusion 2.7 Guide](https://docs.google.com/document/d/11HWN5e57taWdpyZlW5s6gqzrwMsLlmOQivyJncOPPhE) - Google Doc From Huemin
-- [Jokelub](http://jokelub.com) Jokelub. Bring Humor Everywhere.
-- [Jokelub](https://jokelub.com/) - Jokelub Is An AI-powered Platform For Generating And Discovering Humor And Jokes.
-- [JustLearn](https://www.justlearn.com/) - JustLearn Is An AI-powered Platform For Online Language Learning.
-- [Kanye Tweet Generator](http://www.kanyegenerator.com) Kanye Tweet Generation. Generate Kanye Tweets Using AI. Built By Ryan Doyle.
-- [MovieToEmoji](https://movietoemoji.netlify.app/) - MovieToEmoji Is A Tool That Turns Movie Titles Into Emojis.
-- [Neural Canvas](https://neuralcanvas.io/) - Neural Canvas Is An AI-powered Platform For Creating Art And Animations.
-- Nice [Overview Of Lots Of Different Optimization Algorithms](https://ruder.io/optimizing-gradient-descent/) SGD, Adam, RMSProp Etc And Their Differences (Also Covered In This [Lecture](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7))
-- [Nostalgia Photo](https://www.nostalgia.photo/) - Nostalgia Photo Is An AI-powered Tool For Enhancing And Restoring Old Photos.
-- [Perplexity AI](https://www.perplexity.ai/) - Perplexity AI Is An AI-powered Personalized News Aggregator.
-- [PIFuHD Colab](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt) - Human Photo To 3D Mesh Of The Human
-- [PlaylistAI](https://www.playlistai.app/) - PlaylistAI Is An AI-powered Platform For Generating Personalized Playlists.
-- [Podcast](https://podcast.ai/) - Podcast.ai Is A Platform For Podcast Hosting And Creation.
-- [PolitePost](https://politepost.net/) - PolitePost Is An AI-powered Tool For Generating Polite And Professional Email Responses.
-- [Reface AI](https://hey.reface.ai/) - Reface AI Is An AI-powered Tool For Creating Face Swap Videos And Photos.
-- [Resources For GAN Artists](https://docs.google.com/document/d/18BrtW9RzI9rRAAYnmxES59HOxeC_QH1_BT7VDcP-32E/mobilebasic) - Another Big Google Doc With Notebooks And Resources For AI Art
-- [RestorePhotos](https://www.restorephotos.io/) - RestorePhotos Is An AI-powered Platform For Restoring And Enhancing Old Photos.
-- [Rosebud](https://www.rosebud.ai/) - Rosebud Is An AI-powered Tool For Generating And Discovering Video Content.
-- [Santa AI](https://www.santa.artflow.ai/) - Santa AI Is An AI-powered Platform For Generating Unique And Creative Holiday Greetings.
-- [Scholarcy](https://www.scholarcy.com/) - Scholarcy Is An AI-powered Research Tool That Helps Scholars And Students.
-- [Scispace](https://typeset.io/) - Scispace Is A Platform For Scientific Research And Collaboration.
-- [Silly Times](http://www.elbo.ai) A Simple Drawing App Using AI. Have A Fun Time Drawing And See What Silly Thing We Make From Your Drawing. Magic Is Just Button Press Away.
-- [Socratic By Google](https://socratic.org/) - Socratic By Google Is A Homework Helper And Learning App.
-- Stanford's Convolutional Neural Networks Class On YouTube - [Https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-- [Steno](https://steno.ai/) - Steno Is An AI-powered Platform For Voice-to-text Transcription.
-- [StoriesForKids](http://www.storiesforkids.ai) Storiesforkids. AI Personalized Kid'S Books Using AI. Turn Real-life Situations Into Fun Stories & Illustrations In Seconds.
-- [Summate](https://summate.it/) - Summate Is An AI-powered Tool For Summarizing Articles And Documents.
-- [Supermeme.ai](https://supermeme.ai/) - Supermeme.ai Is An AI-powered Platform For Creating And Sharing Memes.
-- [Talk To Books](https://books.google.com/talktobooks/) - Talk To Books Is A Tool That Allows You To Have A Conversation With Books Using AI.
-- [Tattoos AI](https://www.tattoosai.com/) - Tattoos AI Is An AI-powered Tool For Generating Unique And Creative Tattoo Designs.
-- [Text2mesh](https://www.kaggle.com/code/neverix/text2mesh/notebook) - Kaggle Notebook For Text To 3D Mesh
-- [TextStyler](http://www.textstyler.org) Re-Write Anything In Fun Styles, Using AI
-- [Tweet Emote](https://tweetemote.com/) - Tweet Emote Is A Tool That Turns Tweets Into Emojis.
-- [Unreal Meal](https://unrealmeal.ai/) - Unreal Meal Is An AI-powered Tool For Generating Unique And Creative Meal Ideas.
-- [Voicemod](https://www.voicemod.net/) - Voicemod Is A Tool For Voice Modification And Voice-over Work.
-- [Watermark Images](https://colab.research.google.com/drive/1OjKvOEYUOA8d1sMPL3hBVeCryGxZW-e2?usp=sharing) - Little Notebook To Add Text Watermark To Images
-- [Way Of The TTI Artist](https://docs.google.com/document/d/1EvkiHa12ButetruSBr82MJeomHfVRkvczB9-FgqtJ48/mobilebasic#) - Pytti Guide
-- [WolframAlpha](https://www.wolframalpha.com/) - WolframAlpha Is A Knowledge Engine And AI-powered Answer Engine.
-- [Zero-Shot Text-Guided Object Generation With Dream Fields](https://colab.research.google.com/drive/17GtPqdUCbG5CsmTnQFecPpoq_zpNKX7A?usp=sharing) - Text To 3D Render
-- [Zippy's Disco Diffusion Cheatsheet](https://docs.google.com/document/d/1l8s7uS2dGqjztYSjPpzlmXLjl5PM3IGkRWI3IiCuK7g/edit) - Google Doc Guide To Disco And All The Parameters
+- [AI Art Apps](https://www.aiartapps.com/) - A Platform That Provides AI Tools To Create Digital Art.
+- [Ai Sherpa](https://aisherpa.super.site/) - A Resource For Learning About AI And Its Applications.
+- [All Search AI](https://www.allsearch.ai/) - A Search Engine That Provides Results From Multiple Sources.
+- [All Things AI](https://allthingsai.com/) - A Blog That Provides Updates And Insights On AI Technology.
+- [Analysis Tools](https://analysis-tools.dev/) - A Platform That Provides Online Tools For Data Analysis.
+- [Artificial Genie](https://www.artificialgenie.ai/) - AI-powered Platform For Automating Writing And Content Creation.
+- [ArXiv Feed](https://arxiv-feed.vercel.app/) - A Platform That Provides Access To Recent Papers On ArXiv.
+- [Ask Corpora](https://www.askcorpora.com/) - A Tool For Exploring And Analyzing Large Text Datasets.
+- [BatchGPT](https://batchgpt.com/) - A Platform That Provides Scalable GPT-3 Based Models For Businesses.
+- [Chatbase](https://www.chatbase.co/) - A Platform For Analyzing And Improving Chatbot Performance.
+- [Cr8.art Studio](https://cr8.art/studio) - A Platform For Creating And Exploring AI-generated Art.
+- [CrowdView AI](https://crowdview.ai/) - A Platform That Uses AI And Computer Vision To Analyze Crowd Data.
+- [Elevenlabs](https://beta.elevenlabs.io/speech-synthesis) - A Platform For Speech Synthesis Technology.
+- [Futurepedia](https://www.futurepedia.io/) - A Platform That Provides Information On Emerging Technologies.
+- [Future Tools](https://www.futuretools.io/) - A Platform That Provides Tools For The Future.
+- [GPTfor.me](https://gptfor.me/) - A Platform That Provides GPT-3 Based Language Models.
+- [Intro AI](https://www.introai.me/) - A Resource For Learning About AI And Its Applications.
+- [Magic Brush](https://www.magicbru.sh/) - A Tool For Generating AI-powered Art.
+- [OpenSource Alternative](https://www.opensourcealternative.to/) - A Platform That Provides A Directory Of Open-source Alternatives.
+- [Ordinary People Prompts](https://www.ordinarypeopleprompts.com/) - A Platform That Provides GPT-3 Prompts From Real People.
+- [Petals ML](https://petals.ml/) - A Platform That Provides GPT-3 Based Models For NLP Tasks.
+- [Pheeds](http://Pheeds.com) - A Search Engine That Aggregates And Categorizes News Articles, Blog Posts, And Other Online Content.
+- [Promptable AI](https://promptable.ai/workspace) - A Platform That Provides GPT-3 Based Models And Tools.
+- [Prompt Extend](https://www.promptextend.com/) - A Tool That Generates Creative Writing Prompts To Help Users Overcome Writer's Block.
+- [Prompt Silo](https://pheeds.com/PromptSilo.php) - A Tool For Generating Writing Prompts Based On User Input.
+- [Promptstacks Community](https://www.promptstackscommunity.com/home#email) - A Platform For GPT-3 Related Resources And Community.
+- [Prompt Stacks](https://www.promptstacks.com/) - A Collection Of Creative Writing Prompts To Help Users Overcome Writer's Block.
+- [SEOVendor](https://seovendor.co/seo-gpt/) - A Platform That Provides GPT-3 Based SEO Services.
+- [There's AI For That](https://theresanaiforthat.com/) - A Directory Of AI-based Products And Services.
+- [The Warehouse](https://www.thewarehouse.ai/) - A Database Of AI-related Resources And Information.
+- [Tool Scout](https://toolscout.ai/) - A Database Of Tools For Developers And Product Managers.
+- [Uranus AI](https://uranus.ai/) - A Platform For Creating And Deploying AI Models.
+- [VoiceGPT](https://play.google.com/store/apps/details?id=com.aichatsystems.voicegpt) - A Mobile App For Interacting With GPT-3, The AI Language Model Developed By OpenAI.
+- [What Does This Company Do](https://wtfdoesthiscompanydo.vercel.app/) - A Database Of Company Information And Descriptions.
+- [Writer's Brew](https://writersbrew.app/#) - A Writing Tool That Provides Prompts, Resources, And Inspiration For Writers.
 
 ---
-
-### Gaming
-
-- [AI Careers](https://aicareers.io/) - A Website Dedicated To Helping Individuals Interested In Pursuing A Career In AI.
-- [AI Dungeon](http://play.aidungeon.io) - Play And Create AI-Generated Adventures With Infinite Possibilities
-- [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/) - A Video Game For Steam Platform That Uses AI.
-- [Assetsai](http://www.assetsai.art) - AI-Powered, Unique & Curated Assets For Your Games
-- [Chai](https://chai.ml/) - A Platform That Offers Natural Language Processing Services.
-- [Charisma](https://charisma.ai/) - Power Real-Time Digital Humans. For Games • Metaverses • VR • Education • TV & Film • Publishing And Beyond.
-- [Chess AI](http://betafish.gavinong.com) - Betafish. Js - Chess AI
-- [EndlessVN](https://endlessvn.io/) - A Platform That Allows Users To Create Visual Novels.
-- [GGPredict](https://ggpredict.io/) - A Platform That Uses AI To Make Predictions In E-sports.
-- [Hexagram](https://www.hexagram.io/) - A Platform That Offers AI-powered Image Analysis Services.
-- [Hidden Door](https://www.hiddendoor.co/) - Hello, Worlds. A New Kind Of Social Roleplaying Experience, Powered By Narrative AI.
-- [In3D](https://in3d.io/) - A Platform That Offers AI-powered 3D Modeling Services.
-- [Inworld](https://www.inworld.ai/) - A Virtual Reality Platform That Uses AI.
-- [IRMO](http://www.irmoai.com) - Made For Creation. The Very Best In AI Apps. Your Source For Mobile Entertainment & AI Art Creation.
-- [Latitude](https://latitude.io/) - The Future Of AI-Generated Games. We' Re Making AI A Tool Of Creativity And Freedom For Everyone.
-- [Leonardo.AI](https://leonardo.ai/) - A Platform That Uses AI To Help People Learn New Skills.
-- [LitRPG Adventures](https://www.litrpgadventures.com/) - A Website Dedicated To The Genre Of "LitRPG," A Combination Of Literature And Role-playing Games.
-- [Luma AI](https://lumalabs.ai/) - A Platform That Offers AI-powered Image Analysis Services.
-- [Opus](https://opus.ai/) - A Platform That Uses AI To Help People Discover New Music.
-- [PICLY: AI Generated Spot The Difference](https://www.picly.ai/) - A Website That Uses AI To Generate Spot-the-difference Games.
-- [Plailabs](https://plailabs.com/) - Play With AI. (Verb) - To Engage In Artificial Intelligence For The Purpose Of Enjoyment And Recreation With The Goal Of Growing An Ever-expanding Universe Of Gaming, Entertainment, Storytelling, And Technology.
-- [Playstrict](https://playstrict.com/) - A Platform That Uses AI To Analyze And Optimize Video Game Play.
-- [Ready Player Me](https://readyplayer.me/) - A Platform That Allows Users To Create Virtual Reality Avatars.
-- [Scenario](http://www.scenario.gg) - Scenario. Unlock The Power Of AI-generated Gaming Assets With Scenario. Generate Engaging Content Quickly And Easily To Save Time And Spark Creativity.
-- [The Simulation](https://fablesimulation.com/) - A Website Dedicated To Exploring The Concept Of Simulation And The Universe.
 
 # Art 
 
@@ -141,14 +66,7 @@ Natural
 - [Waifu XL](http://waifuxl.com) - A Platform For Finding, Creating And Sharing Anime And Manga-style Characters.  
 - [Pinegraph](http://pinegraph.com) - Magic Sketchpad. Pinegraph Is All You Need To Bring Your Creativity To Life. Generate AI Art For Free With Pinecasso For Styles Like Anime, Abstract Art, And More. Create Your Own Concept Characters Including Waifus And Husbandos, Game Art, And More.  
 
---- 
-
-
-
 ---
-# Audio 
-
-
 
 # Business
 
@@ -276,15 +194,6 @@ Natural
 
 
 
-# Fake 
-
-- [Userpersona](http://userpersona.dev) - AI-Generated User Personas 
-- [Not A Person](http://neuralactors.com) - Neural Actors 
-- [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com) - This Campsite Does Not Exist. AI Generated Campsites Featuring Stunning Locations, Tents, And Weather All Created By AI Using Stable Diffusion. 
-- [Thispersondoesnotexist](http://thispersondoesnotexist.com) - This Person Does Not Exist 
-- [FakeYou](http://fakeyou.com) - Deep Fake Text To Speech 
-
-
 # Fashion
 - [Riku.AI](https://riku.ai/) - AI Powered Fashion Personal Shopping Assistant 
 - [WardrobeAI](http://wardrobeai.com) - Our Service Uses AI To Automatically Change Hairstyles And Clothes In Your Images, Giving You Endless Possibilities For Customization. 
@@ -301,23 +210,6 @@ Natural
 - [Whiskey AI Beta](http://beta.whiskeyai.xyz) - A Website For A Beta Version Of An AI-powered Platform For Creating And Sharing Cocktail Recipes. 
 - [FoodAI](http://www.foodai.app) - Generate Cooking Recipes With AI 
 - [AI Recipe Generator](http://ai-recipes.softr.app) - AI Recipe Generator 
-
-# Fun
-
-
-- [HookShot](http://hookshot.ironwill.ai) - Hookshot Speed Reading Game 
-- [Nightcap Guru](http://www.nightcap.guru) - A Website That Provides Recommendations And Tips On Nightcap Drinks And Cocktails. 
-- [AI Pickup Lines Generator](http://www.aipickuplines.com) - An AI Tool That Generates Pickup Lines 
-- [Blackink](http://blackink.ai) - Create Your Own Unique Flash Tattoo In Seconds. Stop Spending Months Searching Pinterest For Your Next Tattoo. Generate Custom, Unique Tattoos In Seconds With BlackInk's AI, Designed To Create Tattoo-like Designs Just For You. 
-- [Gifts Genie](http://gen.gifts) - AI Gifts Generator 
-
-
-# Game 
-- [SparkChess](https://www.sparkchess.com/) - A Free Online Chess Game That You Can Play In Your Browser. 
-- [Inworld](http://www.inworld.ai) –Create AI Characters And Ask Them Anything. Create AI Characters And NPCs For Games, Metaverse, And Business Applications–or Just For Fun. You Can Talk To AI Characters About Anything. It's S Easy, Free, And Full Of Possibilities. 
-- [NMKD](http://nmkd.itch.io) - An Independent Game Development Studio That Creates And Sells Games. 
-- [Unreal Me](http://unrealme.io) - A Website That Provides A Virtual Platform For People To Connect, Socialize And Collaborate In A Gamified Environment. 
-
 
 # Health 
 - [Niji Journey](http://nijijourney.com) - A Platform That Provides Resources And Tools For Personal Growth And Self-discovery. 
@@ -454,6 +346,136 @@ Natural
 
 # Other
 
+- [Fake](#Fake)
+- [Fun With AI](#Fun%20With%20AI)
+- [Gaming](#Gaming)
+- [Misc](#Misc)
+
+
+---
+## Fake 
+
+- [Userpersona](http://userpersona.dev) - AI-Generated User Personas 
+- [Not A Person](http://neuralactors.com) - Neural Actors 
+- [Thiscampsitedoesnotexist](http://thiscampsitedoesnotexist.com) - This Campsite Does Not Exist. AI Generated Campsites Featuring Stunning Locations, Tents, And Weather All Created By AI Using Stable Diffusion. 
+- [Thispersondoesnotexist](http://thispersondoesnotexist.com) - This Person Does Not Exist 
+- [FakeYou](http://fakeyou.com) - Deep Fake Text To Speech 
+
+---
+
+## Fun With AI
+
+- [Adept](https://www.adept.ai/) - Adept Is An AI-powered Writing Assistant.
+- [AI Pickup Lines Generator](http://www.aipickuplines.com) - An AI Tool That Generates Pickup Lines 
+- [AI Pokemon Generator](http://nokemon.eloie.tech) Generate Fakemon Using AI
+- [AI Time Machine](https://www.myheritage.com/ai-time-machine) - AI Time Machine Is A Tool For Restoring Old Photos And Videos Using AI.
+- [AnimeAI](https://www.animeai.lol/) - AnimeAI Is An AI-powered Tool For Generating Anime-style Art And Animations.
+- [Anypod](https://www.anypod.ai/) - Anypod Is An AI-powered Virtual Assistant For Podcast Listening.
+- [Askmybook](http://askmybook.com) Ask My Book The Minimalist Entrepreneur. This Is An Experiment In Using AI To Make My Book's Content More Accessible. Ask A Question And AI'll Answer It In Real-time:.
+- [AskNow](https://www.asknow.ai/) - AskNow Is An AI-powered Virtual Assistant For Customer Service.
+- [Ask RBG](http://ask-rbg.ai) What Would Rbg (Probably) Say?. An AI Experiment Ask Justice Ruth Bader Ginsburg To Make A Decision About Any Question Your Heart Desires. The First AI Drop From AI21 Labs.
+- [AskThee](https://askthee.vercel.app/) - AskThee Is A Knowledge-based Chatbot.
+- [Blackink](http://blackink.ai) - Create Your Own Unique Flash Tattoo In Seconds. Stop Spending Months Searching Pinterest For Your Next Tattoo. Generate Custom, Unique Tattoos In Seconds With BlackInk's AI, Designed To Create Tattoo-like Designs Just For You. 
+- [Botify](http://botif.ai) Botify AI. Fun Chat With Your Favorite Characters.
+- [Chai](https://chai.ml/) - Chai Is A Platform For Machine Learning And AI Development.
+- [CharacterAI](http://beta.character.ai) Character AI  Lets You Create Characters And Talk To Them. Characters Can Be Anything. Our Breakthrough AI Technology Can Bring All Of Your Ideas To Life.
+- [ClipMatrix](https://colab.research.google.com/drive/1rT_NIYryAC1UNBsETm6XbgW3DWqIJnmf?usp=sharing) - Text Controlled 3D Mesh Deformation And Stylization
+- [CLIP-Mesh](https://colab.research.google.com/drive/15Fm4EhLlB20EugLUnTdhSJElvGVCU7Ys?usp=sharing) - Text To 3D Mesh With Texture And Normal Map (Still Pretty Simple And Mixed Results)
+- [Consensus](https://consensus.app/) - Consensus Is A Project Management And Collaboration Tool.
+- [Context](https://addcontext.xyz/) - Context Is An AI-powered Tool For Website Optimization.
+- [Cradle](https://cradle.bio/) - Cradle Is A Platform For Life Sciences And Biotechnology Research.
+- [DreamFields](https://colab.research.google.com/drive/1u5-zA330gbNGKVfXMW5e3cmllbfafNNB?usp=sharing) - Latest Text To 3D ([Github](https://github.com/shengyu-meng/dreamfields-3D))
+- [ELI5](https://explainlikeimfive.io/) - ELI5 Is A Platform That Helps People Understand Complex Topics In Simple Terms.
+- [Elicit](https://elicit.org/) - Elicit Is A Research Platform That Connects Researchers With Participants.
+- [Excuses AI](http://excuses.ai) Excuse Generator. Use AI To Generate The Perfect Professional Excuse.
+- [EZ Charts](https://docs.google.com/document/d/1ORymHm0Te18qKiHnhcdgGp-WSt8ZkLZvow3raiu2DVU/edit) - Google Doc Visual Reference Guides For CLIP-Guided Diffusion (See What All The Parameters Do!)
+- [Find Your Next Book](https://www.findyournextbook.ai/) - Find Your Next Book Is An AI-powered Tool For Book Recommendations.
+- [Galactica](https://galactica.org/) - Galactica Is A Platform For Space Exploration And Research.
+- [Gifts Genie](http://gen.gifts) - AI Gifts Generator 
+- [Guide To Install Disco Diffusion 5 On Windows With WSL](https://gist.github.com/MSFTserver/6212f85d79058a024b0e49f3d19a1115#file-wsl-disco-v5-tutorial-md) - Haven't Tried This Yet Challenge Is Pytorch3d
+- [HairstyleAI](https://www.hairstyleai.com/) - HairstyleAI Is An AI-powered Tool For Hairstyle Recommendations And Simulations.
+- [Hello History](https://www.hellohistory.ai/) - Hello History Is An AI-powered Tool For Historical Research And Information.
+- [Hitchhiker's Guide To The Latent Space](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit)  - A Guide That's Been Put Together With Lots Of Colab Notebooks Too
+- [HookShot](http://hookshot.ironwill.ai) - Hookshot Speed Reading Game 
+- [ImageSorter](https://colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_ImageSorter.ipynb) By @Pharmapsychotic - Sort Images By Similarity (Nice For StyleGAN/FiLM Animated Loops)
+- [JAX CLIP Guided Diffusion 2.7 Guide](https://docs.google.com/document/d/11HWN5e57taWdpyZlW5s6gqzrwMsLlmOQivyJncOPPhE) - Google Doc From Huemin
+- [Jokelub](https://jokelub.com/) - Jokelub Is An AI-powered Platform For Generating And Discovering Humor And Jokes.
+- [JustLearn](https://www.justlearn.com/) - JustLearn Is An AI-powered Platform For Online Language Learning.
+- [Kanye Tweet Generator](http://www.kanyegenerator.com) Kanye Tweet Generation. Generate Kanye Tweets Using AI. Built By Ryan Doyle.
+- [MovieToEmoji](https://movietoemoji.netlify.app/) - MovieToEmoji Is A Tool That Turns Movie Titles Into Emojis.
+- [Neural Canvas](https://neuralcanvas.io/) - Neural Canvas Is An AI-powered Platform For Creating Art And Animations.
+- Nice [Overview Of Lots Of Different Optimization Algorithms](https://ruder.io/optimizing-gradient-descent/) SGD, Adam, RMSProp Etc And Their Differences (Also Covered In This [Lecture](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7))
+- [Nightcap Guru](http://www.nightcap.guru) - A Website That Provides Recommendations And Tips On Nightcap Drinks And Cocktails. 
+- [Nostalgia Photo](https://www.nostalgia.photo/) - Nostalgia Photo Is An AI-powered Tool For Enhancing And Restoring Old Photos.
+- [Perplexity AI](https://www.perplexity.ai/) - Perplexity AI Is An AI-powered Personalized News Aggregator.
+- [PIFuHD Colab](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt) - Human Photo To 3D Mesh Of The Human
+- [PlaylistAI](https://www.playlistai.app/) - PlaylistAI Is An AI-powered Platform For Generating Personalized Playlists.
+- [Podcast](https://podcast.ai/) - Podcast.ai Is A Platform For Podcast Hosting And Creation.
+- [PolitePost](https://politepost.net/) - PolitePost Is An AI-powered Tool For Generating Polite And Professional Email Responses.
+- [Reface AI](https://hey.reface.ai/) - Reface AI Is An AI-powered Tool For Creating Face Swap Videos And Photos.
+- [Resources For GAN Artists](https://docs.google.com/document/d/18BrtW9RzI9rRAAYnmxES59HOxeC_QH1_BT7VDcP-32E/mobilebasic) - Another Big Google Doc With Notebooks And Resources For AI Art
+- [RestorePhotos](https://www.restorephotos.io/) - RestorePhotos Is An AI-powered Platform For Restoring And Enhancing Old Photos.
+- [Rosebud](https://www.rosebud.ai/) - Rosebud Is An AI-powered Tool For Generating And Discovering Video Content.
+- [Santa AI](https://www.santa.artflow.ai/) - Santa AI Is An AI-powered Platform For Generating Unique And Creative Holiday Greetings.
+- [Scholarcy](https://www.scholarcy.com/) - Scholarcy Is An AI-powered Research Tool That Helps Scholars And Students.
+- [Scispace](https://typeset.io/) - Scispace Is A Platform For Scientific Research And Collaboration.
+- [Silly Times](http://www.elbo.ai) A Simple Drawing App Using AI. Have A Fun Time Drawing And See What Silly Thing We Make From Your Drawing. Magic Is Just Button Press Away.
+- [Socratic By Google](https://socratic.org/) - Socratic By Google Is A Homework Helper And Learning App.
+- Stanford's Convolutional Neural Networks Class On YouTube - [Https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- [Steno](https://steno.ai/) - Steno Is An AI-powered Platform For Voice-to-text Transcription.
+- [StoriesForKids](http://www.storiesforkids.ai) Storiesforkids. AI Personalized Kid'S Books Using AI. Turn Real-life Situations Into Fun Stories & Illustrations In Seconds.
+- [Summate](https://summate.it/) - Summate Is An AI-powered Tool For Summarizing Articles And Documents.
+- [Supermeme.ai](https://supermeme.ai/) - Supermeme.ai Is An AI-powered Platform For Creating And Sharing Memes.
+- [Talk To Books](https://books.google.com/talktobooks/) - Talk To Books Is A Tool That Allows You To Have A Conversation With Books Using AI.
+- [Tattoos AI](https://www.tattoosai.com/) - Tattoos AI Is An AI-powered Tool For Generating Unique And Creative Tattoo Designs.
+- [Text2mesh](https://www.kaggle.com/code/neverix/text2mesh/notebook) - Kaggle Notebook For Text To 3D Mesh
+- [TextStyler](http://www.textstyler.org) Re-Write Anything In Fun Styles, Using AI
+- [Tweet Emote](https://tweetemote.com/) - Tweet Emote Is A Tool That Turns Tweets Into Emojis.
+- [Unreal Meal](https://unrealmeal.ai/) - Unreal Meal Is An AI-powered Tool For Generating Unique And Creative Meal Ideas.
+- [Voicemod](https://www.voicemod.net/) - Voicemod Is A Tool For Voice Modification And Voice-over Work.
+- [Watermark Images](https://colab.research.google.com/drive/1OjKvOEYUOA8d1sMPL3hBVeCryGxZW-e2?usp=sharing) - Little Notebook To Add Text Watermark To Images
+- [Way Of The TTI Artist](https://docs.google.com/document/d/1EvkiHa12ButetruSBr82MJeomHfVRkvczB9-FgqtJ48/mobilebasic#) - Pytti Guide
+- [WolframAlpha](https://www.wolframalpha.com/) - WolframAlpha Is A Knowledge Engine And AI-powered Answer Engine.
+- [Zero-Shot Text-Guided Object Generation With Dream Fields](https://colab.research.google.com/drive/17GtPqdUCbG5CsmTnQFecPpoq_zpNKX7A?usp=sharing) - Text To 3D Render
+- [Zippy's Disco Diffusion Cheatsheet](https://docs.google.com/document/d/1l8s7uS2dGqjztYSjPpzlmXLjl5PM3IGkRWI3IiCuK7g/edit) - Google Doc Guide To Disco And All The Parameters
+
+---
+
+## Gaming
+
+- [AI Careers](https://aicareers.io/) - A Website Dedicated To Helping Individuals Interested In Pursuing A Career In AI.
+- [AI Dungeon](http://play.aidungeon.io) - Play And Create AI-Generated Adventures With Infinite Possibilities
+- [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite/) - A Video Game For Steam Platform That Uses AI.
+- [Assetsai](http://www.assetsai.art) - AI-Powered, Unique & Curated Assets For Your Games
+- [Chai](https://chai.ml/) - A Platform That Offers Natural Language Processing Services.
+- [Charisma](https://charisma.ai/) - Power Real-Time Digital Humans. For Games • Metaverses • VR • Education • TV & Film • Publishing And Beyond.
+- [Chess AI](http://betafish.gavinong.com) - Betafish. Js - Chess AI
+- [EndlessVN](https://endlessvn.io/) - A Platform That Allows Users To Create Visual Novels.
+- [GGPredict](https://ggpredict.io/) - A Platform That Uses AI To Make Predictions In E-sports.
+- [Hexagram](https://www.hexagram.io/) - A Platform That Offers AI-powered Image Analysis Services.
+- [Hidden Door](https://www.hiddendoor.co/) - Hello, Worlds. A New Kind Of Social Roleplaying Experience, Powered By Narrative AI.
+- [In3D](https://in3d.io/) - A Platform That Offers AI-powered 3D Modeling Services.
+- [Inworld](http://www.inworld.ai) –Create AI Characters And Ask Them Anything. Create AI Characters And NPCs For Games, Metaverse, And Business Applications–or Just For Fun. You Can Talk To AI Characters About Anything. It's S Easy, Free, And Full Of Possibilities. 
+- [IRMO](http://www.irmoai.com) - Made For Creation. The Very Best In AI Apps. Your Source For Mobile Entertainment & AI Art Creation.
+- [Latitude](https://latitude.io/) - The Future Of AI-Generated Games. We' Re Making AI A Tool Of Creativity And Freedom For Everyone.
+- [Leonardo.AI](https://leonardo.ai/) - A Platform That Uses AI To Help People Learn New Skills.
+- [LitRPG Adventures](https://www.litrpgadventures.com/) - A Website Dedicated To The Genre Of "LitRPG," A Combination Of Literature And Role-playing Games.
+- [Luma AI](https://lumalabs.ai/) - A Platform That Offers AI-powered Image Analysis Services.
+- [NMKD](http://nmkd.itch.io) - An Independent Game Development Studio That Creates And Sells Games. 
+- [Opus](https://opus.ai/) - A Platform That Uses AI To Help People Discover New Music.
+- [PICLY: AI Generated Spot The Difference](https://www.picly.ai/) - A Website That Uses AI To Generate Spot-the-difference Games.
+- [Plailabs](https://plailabs.com/) - Play With AI. (Verb) - To Engage In Artificial Intelligence For The Purpose Of Enjoyment And Recreation With The Goal Of Growing An Ever-expanding Universe Of Gaming, Entertainment, Storytelling, And Technology.
+- [Playstrict](https://playstrict.com/) - A Platform That Uses AI To Analyze And Optimize Video Game Play.
+- [Ready Player Me](https://readyplayer.me/) - A Platform That Allows Users To Create Virtual Reality Avatars.
+- [Scenario](http://www.scenario.gg) - Scenario. Unlock The Power Of AI-generated Gaming Assets With Scenario. Generate Engaging Content Quickly And Easily To Save Time And Spark Creativity.
+- [SparkChess](https://www.sparkchess.com/) - A Free Online Chess Game That You Can Play In Your Browser. 
+- [The Simulation](https://fablesimulation.com/) - A Website Dedicated To Exploring The Concept Of Simulation And The Universe.
+- [Unreal Me](http://unrealme.io) - A Website That Provides A Virtual Platform For People To Connect, Socialize And Collaborate In A Gamified Environment. 
+
+---
+
+## Misc
+
 - [Namy.ai](http://www.namy.ai/) - AI Powered Personal Shopping Assistant 
 - [1Case](http://1case.io) - Custom Phone Cases Made By AI. Find Your 1 Of A Kind Case In Seconds. 
 - [Caktus Group](http://www.caktus.ai) - A Web And Mobile Software Development Company.  
@@ -563,6 +585,33 @@ Natural
 - [TypeDroid](http://typedroid.com) - Free AI Text Generator. 
 
 
+# Video 
+- [Rewind](http://www.rewind.ai) - An AI-powered Video Editing And Production Platform. 
+- [Typestudio](http://www.typestudio.co) - Edit Your Video By Editing Text. Type Studio Is A Fast, Simple, And Joyful Way To Edit And Growyour Podcasts, Streams, And Interviews. 
+- [Vidyo](http://vidyo.ai) - AI Based Content Repurposing - Vidyo. AI. Create Social Ready Short Clips From Your Videos With AI ✨ Save 90% Time And Effort. 
+- [Hour One](http://hourone.ai) - Make AI Videos To Train Anyone Or Explain Anything 
+- [Papercup](http://www.papercup.com) - AI Dubbing And Video Translation Software 
+- [Project Blink](http://labs.adobe.com) - Adobe Labs. A Place For Us To Share Some Of Our Explorations Into The Future Of Creativity, Expression, And Communication. 
+- [Summarize Tech](http://www.summarize.tech) - AI-Powered Video Summaries. Get A Summary Of Any Long YouTube Video, Like A Lecture, Live Event Or A Government Meeting. Powered By GPT-3. 
+- [TalkingPhoto By Movio](http://app.movio.la) - AI Spokesperson Video Creator 
+- [ToWords](http://www.towords.io) - Youtube To Words. Make Your Videos And Audio Come Alive With Written Words. 
+- [Feather AI](https://www.featherai.co/) - Summary For YouTube Video On Your Email 
+- [Bigmp4](http://bigmp4.com) - AI Video Enhancement, Using 2022 Cutting Edged AI Model To Lossless Enlarge Video, Enhance Video 
+ - [Chapter Me](http://chapterme.co) - AI Powered Chapters For Your Videos 
+- [Colossyan](http://www.colossyan.com) - Colossyan Creator Makes Video Creation Simple And Stress-free. Discover Our AI Video Creator With Real Actors. Create Videos In Less Than 5 Minutes. 
+- [Steve AI](http://www.steve.ai) - Worlds Fastest Way To Create Videos. With Our Patented AI Technology, You Can Make Professional Videos In MINUTES. See The MAGIC Happen As The AI Picks The Right Creative Media Assets For Your Video. 
+- [Synthesia](http://www.synthesia.io) - AI Video Generation Platform 
+- [SolidPoint AI](http://www.solidpoint.ai) - YouTube Video Sumarizer 
+- [Wisecut](http://www.wisecut.video) - Automatic Video Editor 
+- [Movio](http://www.movio.la) - AI Spokesperson Video Generator 
+- [Make A Video Studio](http://makeavideo.studio) - A Video Production Company. 
+- [Yepic AI](http://www.yepic.ai) - Your AI Video Toolkit - Create, Dub & Personalise Videos. Create, Dub And Personalise Videos Anywhere.  
+- [Dubverse AI](http://dubverse.ai) - Online Video Dubbing With Dubverse. AI 
+
+
+---
+
+
 # Writing
 
 - [Nichess](http://nichesss.com)  - AI Copywriting Software  
@@ -596,29 +645,4 @@ Natural
 
 ---
 
-# Video 
-- [Rewind](http://www.rewind.ai) - An AI-powered Video Editing And Production Platform. 
-- [Typestudio](http://www.typestudio.co) - Edit Your Video By Editing Text. Type Studio Is A Fast, Simple, And Joyful Way To Edit And Growyour Podcasts, Streams, And Interviews. 
-- [Vidyo](http://vidyo.ai) - AI Based Content Repurposing - Vidyo. AI. Create Social Ready Short Clips From Your Videos With AI ✨ Save 90% Time And Effort. 
-- [Hour One](http://hourone.ai) - Make AI Videos To Train Anyone Or Explain Anything 
-- [Papercup](http://www.papercup.com) - AI Dubbing And Video Translation Software 
-- [Project Blink](http://labs.adobe.com) - Adobe Labs. A Place For Us To Share Some Of Our Explorations Into The Future Of Creativity, Expression, And Communication. 
-- [Summarize Tech](http://www.summarize.tech) - AI-Powered Video Summaries. Get A Summary Of Any Long YouTube Video, Like A Lecture, Live Event Or A Government Meeting. Powered By GPT-3. 
-- [TalkingPhoto By Movio](http://app.movio.la) - AI Spokesperson Video Creator 
-- [ToWords](http://www.towords.io) - Youtube To Words. Make Your Videos And Audio Come Alive With Written Words. 
-- [Feather AI](https://www.featherai.co/) - Summary For YouTube Video On Your Email 
-- [Bigmp4](http://bigmp4.com) - AI Video Enhancement, Using 2022 Cutting Edged AI Model To Lossless Enlarge Video, Enhance Video 
- - [Chapter Me](http://chapterme.co) - AI Powered Chapters For Your Videos 
-- [Colossyan](http://www.colossyan.com) - Colossyan Creator Makes Video Creation Simple And Stress-free. Discover Our AI Video Creator With Real Actors. Create Videos In Less Than 5 Minutes. 
-- [Steve AI](http://www.steve.ai) - Worlds Fastest Way To Create Videos. With Our Patented AI Technology, You Can Make Professional Videos In MINUTES. See The MAGIC Happen As The AI Picks The Right Creative Media Assets For Your Video. 
-- [Synthesia](http://www.synthesia.io) - AI Video Generation Platform 
-- [SolidPoint AI](http://www.solidpoint.ai) - YouTube Video Sumarizer 
-- [Wisecut](http://www.wisecut.video) - Automatic Video Editor 
-- [Movio](http://www.movio.la) - AI Spokesperson Video Generator 
-- [Make A Video Studio](http://makeavideo.studio) - A Video Production Company. 
-- [Yepic AI](http://www.yepic.ai) - Your AI Video Toolkit - Create, Dub & Personalise Videos. Create, Dub And Personalise Videos Anywhere.  
-- [Dubverse AI](http://dubverse.ai) - Online Video Dubbing With Dubverse. AI 
-
-
----
 
