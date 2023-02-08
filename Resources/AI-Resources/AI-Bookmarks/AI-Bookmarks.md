@@ -171,6 +171,7 @@
 			- [Story Teller](./AI-Mthrfckr/Writing/Story%20Teller.md)
 			- [Summarizing](./AI-Mthrfckr/Writing/Summarizing.md)
 			- [Writing](./AI-Mthrfckr/Writing/Writing.md)
+	- [AIDB](./AIDB.md)
 	- [Free-AI-Image-Generator-Sites](./Free-AI-Image-Generator-Sites.md)
 	- [Singularity-AI](./Singularity-AI.md)
 
