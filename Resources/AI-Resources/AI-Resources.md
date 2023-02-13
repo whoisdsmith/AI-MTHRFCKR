@@ -6,6 +6,7 @@
 - **[AI-Resources](./AI-Resources.md)**
 	- [4-Easy-Ways-To-Make-Money-Through-Chatgpt](./4-Easy-Ways-To-Make-Money-Through-Chatgpt.md)
 	- [100-Best-Chatgpt-Prompts](./100-Best-Chatgpt-Prompts.md)
+	- [150 Prompts](./150%20Prompts.md)
 	- **[AI-Articles](./AI-Articles/AI-Articles.md)**
 		- [AI-Articles](./AI-Articles/AI-Articles.md)
 		- [The-Brilliance-And-Weirdness-Of-Chatgpt---The-New-York-Times](./AI-Articles/The-Brilliance-And-Weirdness-Of-Chatgpt---The-New-York-Times.md)
