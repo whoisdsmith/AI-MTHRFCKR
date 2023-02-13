@@ -2,42 +2,6 @@
 
 
 
-- [AI Art Apps](https://www.aiartapps.com/) - A Platform That Provides AI Tools To Create Digital Art.
-- [Ai Sherpa](https://aisherpa.super.site/) - A Resource For Learning About AI And Its Applications.
-- [All Search AI](https://www.allsearch.ai/) - A Search Engine That Provides Results From Multiple Sources.
-- [All Things AI](https://allthingsai.com/) - A Blog That Provides Updates And Insights On AI Technology.
-- [Analysis Tools](https://analysis-tools.dev/) - A Platform That Provides Online Tools For Data Analysis.
-- [Artificial Genie](https://www.artificialgenie.ai/) - AI-powered Platform For Automating Writing And Content Creation.
-- [ArXiv Feed](https://arxiv-feed.vercel.app/) - A Platform That Provides Access To Recent Papers On ArXiv.
-- [Ask Corpora](https://www.askcorpora.com/) - A Tool For Exploring And Analyzing Large Text Datasets.
-- [BatchGPT](https://batchgpt.com/) - A Platform That Provides Scalable GPT-3 Based Models For Businesses.
-- [Chatbase](https://www.chatbase.co/) - A Platform For Analyzing And Improving Chatbot Performance.
-- [Cr8.art Studio](https://cr8.art/studio) - A Platform For Creating And Exploring AI-generated Art.
-- [CrowdView AI](https://crowdview.ai/) - A Platform That Uses AI And Computer Vision To Analyze Crowd Data.
-- [Elevenlabs](https://beta.elevenlabs.io/speech-synthesis) - A Platform For Speech Synthesis Technology.
-- [Futurepedia](https://www.futurepedia.io/) - A Platform That Provides Information On Emerging Technologies.
-- [Future Tools](https://www.futuretools.io/) - A Platform That Provides Tools For The Future.
-- [GPTfor.me](https://gptfor.me/) - A Platform That Provides GPT-3 Based Language Models.
-- [Intro AI](https://www.introai.me/) - A Resource For Learning About AI And Its Applications.
-- [Magic Brush](https://www.magicbru.sh/) - A Tool For Generating AI-powered Art.
-- [OpenSource Alternative](https://www.opensourcealternative.to/) - A Platform That Provides A Directory Of Open-source Alternatives.
-- [Ordinary People Prompts](https://www.ordinarypeopleprompts.com/) - A Platform That Provides GPT-3 Prompts From Real People.
-- [Petals ML](https://petals.ml/) - A Platform That Provides GPT-3 Based Models For NLP Tasks.
-- [Pheeds](http://Pheeds.com) - A Search Engine That Aggregates And Categorizes News Articles, Blog Posts, And Other Online Content.
-- [Promptable AI](https://promptable.ai/workspace) - A Platform That Provides GPT-3 Based Models And Tools.
-- [Prompt Extend](https://www.promptextend.com/) - A Tool That Generates Creative Writing Prompts To Help Users Overcome Writer's Block.
-- [Prompt Silo](https://pheeds.com/PromptSilo.php) - A Tool For Generating Writing Prompts Based On User Input.
-- [Promptstacks Community](https://www.promptstackscommunity.com/home#email) - A Platform For GPT-3 Related Resources And Community.
-- [Prompt Stacks](https://www.promptstacks.com/) - A Collection Of Creative Writing Prompts To Help Users Overcome Writer's Block.
-- [SEOVendor](https://seovendor.co/seo-gpt/) - A Platform That Provides GPT-3 Based SEO Services.
-- [There's AI For That](https://theresanaiforthat.com/) - A Directory Of AI-based Products And Services.
-- [The Warehouse](https://www.thewarehouse.ai/) - A Database Of AI-related Resources And Information.
-- [Tool Scout](https://toolscout.ai/) - A Database Of Tools For Developers And Product Managers.
-- [Uranus AI](https://uranus.ai/) - A Platform For Creating And Deploying AI Models.
-- [VoiceGPT](https://play.google.com/store/apps/details?id=com.aichatsystems.voicegpt) - A Mobile App For Interacting With GPT-3, The AI Language Model Developed By OpenAI.
-- [What Does This Company Do](https://wtfdoesthiscompanydo.vercel.app/) - A Database Of Company Information And Descriptions.
-- [Writer's Brew](https://writersbrew.app/#) - A Writing Tool That Provides Prompts, Resources, And Inspiration For Writers.
-
 ---
 
 # Art
