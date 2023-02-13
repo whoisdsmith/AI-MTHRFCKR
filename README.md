@@ -8,7 +8,8 @@
 
 ---
 
-**This Is A Continuous Work In Progress.**
+- **This Is A Continuous Work In Progress.**
+- **I Use My Own Personal Aggregator That Pulls From Many Sites And Dumps It Into My Obsidian Vault, If Anything Posted Here Is Your Work And You Want Credit For It, Just Let Me Know And I Apologize If I Have Missed Given You Credit So Far!**
 
 ---
 
