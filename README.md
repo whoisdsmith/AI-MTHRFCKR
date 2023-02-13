@@ -40,6 +40,31 @@
 
 ---
 
+## Recently Added
+
+---
+
+- [AICyclopedia](https://www.aicyclopedia.com) - A comprehensive encyclopedia of Artificial Intelligence
+- [AISTA](https://aista.com/chatgpt-website-chatbot) - A platform for building chatbots using OpenAI's GPT-3
+- [ChatGPT-Phantom](https://chatgpt-phantom.vercel.app) - An AI-powered website chatbot built using OpenAI's GPT-3
+- [Codenull.ai](https://codenull.ai) - A platform for quickly generating code snippets with AI
+- [Code Snippets AI](https://codesnippets.ai) - A platform for quickly generating code snippets with AI
+- [CustomGPT.ai](https://customgpt.ai) - A platform for creating custom language models using OpenAI's GPT-3
+- [DeepCuts.ai](https://deepcuts.ai) - A platform for building and deploying deep learning models
+- [Felvin Apps](https://apps.felvin.com) - A collection of AI-powered tools and apps
+- [Handy AI](https://handyai.app) - An AI-powered virtual assistant for personal and business tasks
+- [Intro AI](https://www.introai.me) - A platform for learning AI and building AI-powered projects
+- [Lore](https://lore.com/ai-software) - A directory of AI software and tools
+- [Magicbrush](https://www.magicbru.sh) - A platform for creating AI-powered designs and graphics
+- [Microsaasgpt.com](https://microsaasgpt.com) - A platform for building microservices and applications with GPT-3
+- [NeuralFrames](https://www.neuralframes.com) - A platform for building and deploying deep learning models
+- [Podcast AI](https://podcast.ai) - A platform for discovering, subscribing, and listening to podcasts with AI
+- [SuperChat.ai](https://superchat.ai/home) - An AI-powered virtual assistant for chat and voice
+- [Top AI Startups](https://topaistartups.com) - A directory of top AI startups in various industries
+- [Voila AI](https://www.getvoila.ai) - An AI-powered virtual assistant for personal and business tasks
+
+---
+
 ## AI-Apps
 
 **In This Section, You Will Find All Things Related To Software Development Using AI Technology.**

@@ -1,5 +1,7 @@
 # New
 
+
+
 - [AI Art Apps](https://www.aiartapps.com/) - A Platform That Provides AI Tools To Create Digital Art.
 - [Ai Sherpa](https://aisherpa.super.site/) - A Resource For Learning About AI And Its Applications.
 - [All Search AI](https://www.allsearch.ai/) - A Search Engine That Provides Results From Multiple Sources.
