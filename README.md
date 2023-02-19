@@ -47,27 +47,35 @@
 
 ---
 
-### 2023-02-13
+## 2023-02-18 
 
-- [AICyclopedia](https://www.aicyclopedia.com) - A comprehensive encyclopedia of Artificial Intelligence
-- [AISTA](https://aista.com/chatgpt-website-chatbot) - A platform for building chatbots using OpenAI's GPT-3
-- [ChatGPT-Phantom](https://chatgpt-phantom.vercel.app) - An AI-powered website chatbot built using OpenAI's GPT-3
-- [Codenull.ai](https://codenull.ai) - A platform for quickly generating code snippets with AI
-- [Code Snippets AI](https://codesnippets.ai) - A platform for quickly generating code snippets with AI
-- [CustomGPT.ai](https://customgpt.ai) - A platform for creating custom language models using OpenAI's GPT-3
-- [DeepCuts.ai](https://deepcuts.ai) - A platform for building and deploying deep learning models
-- [Felvin Apps](https://apps.felvin.com) - A collection of AI-powered tools and apps
-- [Handy AI](https://handyai.app) - An AI-powered virtual assistant for personal and business tasks
-- [Intro AI](https://www.introai.me) - A platform for learning AI and building AI-powered projects
-- [Lore](https://lore.com/ai-software) - A directory of AI software and tools
-- [Magicbrush](https://www.magicbru.sh) - A platform for creating AI-powered designs and graphics
-- [Microsaasgpt.com](https://microsaasgpt.com) - A platform for building microservices and applications with GPT-3
-- [NeuralFrames](https://www.neuralframes.com) - A platform for building and deploying deep learning models
-- [Podcast AI](https://podcast.ai) - A platform for discovering, subscribing, and listening to podcasts with AI
-- [SuperChat.ai](https://superchat.ai/home) - An AI-powered virtual assistant for chat and voice
-- [Top AI Startups](https://topaistartups.com) - A directory of top AI startups in various industries
-- [Voila AI](https://www.getvoila.ai) - An AI-powered virtual assistant for personal and business tasks
-
+- [AICyclopedia](https://www.aicyclopedia.com) - A Comprehensive Encyclopedia Of Artificial Intelligence
+- [AI Photo Robot](https://aiphotorobot.com/): A Website That Provides An AI-powered Photo Editing Tool That Can Transform Photos Into Paintings, Sketches, And Other Artistic Styles.
+- [AISTA](https://aista.com/chatgpt-website-chatbot) - A Platform For Building Chatbots Using OpenAI's GPT-3
+- [Apps.felvin.com](https://apps.felvin.com/): A Website That Provides A Suite Of Free Online Tools For Developers, Including Code Generators, Converters, And Validators.
+- [ChatGPT Cheatsheet](https://quickref.me/chatgpt): A Website That Provides A Quick Reference Guide To Using OpenAI's GPT-3 Natural Language Processing Model.
+- [ChatGPT-Phantom](https://chatgpt-phantom.vercel.app) - An AI-powered Website Chatbot Built Using OpenAI's GPT-3
+- [Codenull.ai](https://codenull.ai/): A Website That Offers A Collection Of Free And Open-source AI-powered Tools For Developers.
+- [Code Snippets AI](https://codesnippets.ai) - A Platform For Quickly Generating Code Snippets With AI
+- [Customgpt.ai](https://customgpt.ai/): A Website That Provides A Custom GPT (Generative Pre-trained Transformer) Service For Generating Natural Language Text.
+- [DeepCuts.ai](https://deepcuts.ai) - A Platform For Building And Deploying Deep Learning Models
+- [Diffuse.ba](https://diffuse.ba-students.uz/): A Website That Offers A Set Of AI-powered Tools For Natural Language Processing, Including Sentiment Analysis And Text Summarization.
+- [Felvin Apps](https://apps.felvin.com) - A Collection Of AI-powered Tools And Apps
+- [Getvoila.ai](https://www.getvoila.ai/): A Website That Provides An AI-powered Tool For Generating Custom User Interfaces For Web Applications.
+- [HandyAI](https://handyai.app/): A Website That Provides An AI-powered Personal Assistant That Can Help With Tasks Like Scheduling Appointments And Sending Emails.
+- [Intro AI](https://www.introai.me) - A Platform For Learning AI And Building AI-powered Projects
+- [Introai.me](https://www.introai.me/): A Website That Provides An AI-powered Tool For Creating Custom Video Intros For Businesses And Individuals.
+- [Kapa.ai](https://www.kapa.ai/): A Website That Provides An AI-powered Tool For Generating Summaries Of Long Articles And Documents.
+- [Laputa Punk](https://laputapunk.com/?ref=producthunt): A Website That Provides A Tool For Creating Custom Digital Art In A Variety Of Styles.
+- [Lore](https://lore.com/ai-software): A Website That Offers A Suite Of AI-powered Software Tools For Businesses, Including Data Analysis, Customer Engagement, And Chatbots.
+- [Magicbru.sh](https://www.magicbru.sh/): A Website That Provides An AI-powered Tool For Enerating Custom Magic: The Gathering Card Designs. Users Can Select Different Artwork And Card Properties To Create Their Own Unique Card Designs.
+- [Micro SAAS GPT](https://microsaasgpt.com/): A Website That Provides A Service For Creating Custom AI-powered Chatbots For Websites And Other Applications.
+- [NeuralFrames](https://www.neuralframes.com) - A Platform For Building And Deploying Deep Learning Models
+- [Podcast AI](https://podcast.ai) - A Platform For Discovering, Subscribing, And Listening To Podcasts With AI
+- [Shello-ai.com](https://shello-ai.com): A Website That Provides An AI-powered Customer Service Platform That Can Help Businesses Automate Their Customer Support.
+- [Superchat AI](https://superchat.ai/home): A Website That Provides An AI-powered Chatbot Platform For Businesses.
+- [Top AI Startups](https://topaistartups.com) - A Directory Of Top AI Startups In Various Industries
+- [Voila AI](https://www.getvoila.ai) - An AI-powered Virtual Assistant For Personal And Business Tasks
 
 ---
 

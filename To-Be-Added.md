@@ -1,5 +1,1372 @@
 # New
 
+## AIMRKS 
+
+- [- Archives Page 1 | NVIDIA Blog](https://blogs.nvidia.com/blog/category/deep-learning/the-ai-podcast/)
+
+- [#1 AI Writing Software | AI Writer & Assistant | WordHero](https://wordhero.co/)
+
+- [🤖 🖼 AI Art Generator, AI Art Maker - NightCafe Creator](https://creator.nightcafe.studio/)
+
+- [10Web - AI -Powered WordPress Platform](https://10web.io/)
+
+- [A generative AI platform for content creators - GoCharlie](https://gocharlie.ai/)
+
+- [A timeline-like tool for AI ML video creation](https://pyttipanna.xyz/)
+
+- [abhagsain/ai-cli: Get answers for CLI commands from GPT3 right from your terminal](https://github.com/abhagsain/ai-cli/)
+
+- [Accelerate the Development of AI Applications | Scale AI](https://scale.com/)
+
+- [Adept: Useful General Intelligence](https://www.adept.ai/)
+
+- [Adobe Podcast | AI audio recording and editing, all on the web](https://podcast.adobe.com/)
+
+- [Affordable AI Writer | Easy-Peasy.AI: The AI Content Assistant](https://easy-peasy.ai/)
+
+- [AI (Artificial Intelligence) by WiziShop](https://wizishop.com/ai)
+
+- [AI & Security Podcast](https://belenus.libsyn.com/)
+
+- [AI | Fig](https://fig.io/user-manual/ai)
+
+- [AI and the Future of Work](https://feeds.buzzsprout.com/520474)
+
+- [AI Art Generator: Text to Image in All Art Styles - PicSo](https://picso.ai/)
+
+- [AI assistant for software developers | Tabnine](https://www.tabnine.com/)
+
+- [AI Based Content Repurposing - vidyo.ai](https://vidyo.ai/)
+
+- [AI Content Generation - Contents.com](https://www.contents.com/)
+
+- [AI Copywriter & Content Writer - Copymatic](https://copymatic.ai/)
+
+- [AI Copywriting Robot - ClosersCopy](https://www.closerscopy.com/)
+
+- [AI Education Podcast](https://aipodcast.education/)
+
+- [AI Governance software that goes beyond good intentions | Monitaur](https://www.monitaur.ai/)
+
+- [AI Holiday Cards by designstripe](https://designstripe.com/ai-cards/)
+
+- [AI Host for your Live Show | LiveReacting](https://www.livereacting.com/ai-host-for-live-stream/)
+
+- [AI Ignition: Exploring the future of AI in the enterprise](https://aiignitionnaturalconversations.libsyn.com/)
+
+- [AI Image Enlarger | Enlarge Image Without Losing Quality!](https://imglarger.com/)
+
+- [AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI](https://stockimg.ai/)
+
+- [AI Image Generator - Online Text to Image App | AI2image](https://www.ai2image.com/)
+
+- [AI Image Search Tool For Generated Art and Images - Imaiger](https://imaiger.com/)
+
+- [AI in Automotive Podcast — AI in Automotive](https://www.ai-in-automotive.com/aiia)
+
+- [AI Jobs, Find Jobs in AI (Artificial Intelligence).](https://aicareers.io/)
+
+- [AI landing page builder](https://www.sitekick.ai/)
+
+- [AI meets Automations](https://www.bardeen.ai/ai)
+
+- [AI Music Generator - Royalty Free Music For Creators | Soundful](https://soundful.com/)
+
+- [AI Office Bot](https://aiofficebot.com/)
+
+- [Ai Pencil on the App Store](https://apps.apple.com/us/app/ai-pencil/id6444737491/)
+
+- [AI Picasso](https://www.aipicasso.app/)
+
+- [AI Playlist Maker: PlaylistAI](https://www.playlistai.app/)
+
+- [AI Powered Site Search & Discovery Platform](https://www.zevi.ai/)
+
+- [AI Powered Story Creator | Bedtimestory.ai](https://www.bedtimestory.ai/)
+
+- [AI Profile Picture Generator and Maker | PFP.AI](https://www.profilepicture.ai/)
+
+- [AI Room Planner - Interior Design By AI](https://airoomplanner.com/)
+
+- [AI Sales Email Assistant - Reply.io](https://reply.io/sales-email-assistant/)
+
+- [AI Scoop](https://www.thenews.plus/ai-scoop)
+
+- [AI Text Rewriter | WordAi](https://wordai.com/)
+
+- [AI Time Machine™: Create AI avatars & travel through time](https://www.myheritage.com/ai-time-machine/)
+
+- [AI to Impact](https://www.buzzsprout.com/839242)
+
+- [AI Voice Generator - Text to Speech Converter | Listnr](https://www.listnr.tech/?gr_pk=vYP4&gr_uid=aRxw)
+
+- [AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/)
+
+- [AI with AI | CNA](https://www.cna.org/our-media/podcasts/ai-with-ai/)
+
+- [AI Writer & AI Content Generator - Kafkai](https://kafkai.com/en/)
+
+- [AI Writer™ - The best AI Text Generator, promised.](https://ai-writer.com/)
+
+- [AI-driven Replies Generator for Twitter](https://replai.so/)
+
+- [AI-Optimized Customer and Employee Experiences | Kore.ai](https://kore.ai/)
+
+- [AI-powered Tattoo Artist | TattoosAI](https://www.tattoosai.com/)
+
+- [AI-powered tools for Excel & Google Sheets | Sheet+](https://sheetplus.ai/)
+
+- [AI-Responder for HostAway - AI Duh](https://aiduh.com/)
+
+- [AIAW Podcast](https://www.buzzsprout.com/1409674)
+
+- [Airbrush - Generate AI-powered images - in 1 click](https://www.airbrush.ai/)
+
+- [AirOps | Data unlocked. ‍10x faster with AI.](https://www.airops.com/)
+
+- [AIVA - The AI composing emotional soundtrack music](https://www.aiva.ai/)
+
+- [Alethea AI - Enabling Ownership of Generative AI](https://alethea.ai/)
+
+- [Alfred - AI Assistant on Mobile](https://www.alfredsearch.com/)
+
+- [Alignment Newsletter Podcast](https://alignment-newsletter.libsyn.com/)
+
+- [analogenie- the best free analogy maker](https://analogenie.com/)
+
+- [Anchor - The easiest way to make a podcast](https://anchor.fm/alldus-international)
+
+- [Anchor - The easiest way to make a podcast](https://anchor.fm/ask-ai)
+
+- [Anchor - The easiest way to make a podcast](https://anchor.fm/inference/)
+
+- [Anchor - The easiest way to make a podcast](https://anchor.fm/machinelearningstreettalk)
+
+- [Anchor - The easiest way to make a podcast](https://anchor.fm/pronojit-saha)
+
+- [AnimeAI.lol: Become top anime heroes with AI 2023](https://www.animeai.lol/)
+
+- [Anypod](https://www.anypod.ai/)
+
+- [Appicons AI | Create beautiful AI-generated app icons.](https://appicons.ai/)
+
+- [Apple Books - Apple (IN)](https://www.apple.com/in/apple-books/)
+
+- [approximatelabs/sketch: AI code-writing assistant that understands data content](https://github.com/approximatelabs/sketch/)
+
+- [Archives: Podcast | Mind Matters](https://mindmatters.ai/podcast/)
+
+- [Artflow](https://artflow.ai/)
+
+- [Artificial Intelligence and You | a podcast by aiandyou](https://aiandyou.net/)
+
+- [Artificial Intelligence Podcast | Marketing AI Institute](https://www.marketingaiinstitute.com/podcast-showcase)
+
+- [ArtRoom AI](https://artroom.ai/download-app/)
+
+- [Artssy - Let your creativity flow.](https://www.artssy.co/)
+
+- [Ask My Book: The Minimalist Entrepreneur](https://askmybook.com/)
+
+- [AskCodi - Your AI code assistant](https://www.askcodi.com/)
+
+- [askThee](https://askthee.vercel.app/)
+
+- [Audioread (Audiblogs) | Turn Reads📖 into Podcasts🎧](https://audioread.com/)
+
+- [AutoDraw](https://www.autodraw.com/)
+
+- [AutoRegex: Convert from English to RegEx with Natural Language Processing](https://www.autoregex.xyz/)
+
+- [Autumn | Prevent burnout and improve your team's well-being with Autumn.](https://www.getautumn.com/)
+
+- [Avatar AI - Create AI Avatars, Magic Avatars, AI Profile Pictures (PFPs), AI Photography, Photorealistic AI, Pet Portraits, Dating Photos, Couples Photoshoot, LinkedIn Professional Profile Photos with Artificial Intelligence using Stable Diffusion and Dreambooth](https://avatarai.me/?promo=valentine)
+
+- [avatarify - AI Avatar generator](https://avatarify.art/)
+
+- [AweMyFace — skincare app on the App Store](https://apps.apple.com/app/apple-store/id1621101995/)
+
+- [B12 | Website Builder for Professional Services](https://www.b12.io/)
+
+- [Bearly | The world's best Ai at your fingertips.](https://bearly.ai/)
+
+- [beb.ai](https://beb.ai/)
+
+- [Best Free Text To Speech Voice Reader | Speechify](https://speechify.com/)
+
+- [Beyond The Hype](https://mmcventures.libsyn.com/)
+
+- [Bg Eraser | Magic Eraser for Picture Clean Up](https://bgeraser.com/)
+
+- [BHuman | AI personalized videos at scale](https://www.bhuman.ai//)
+
+- [BlogNLP | The AI Writing Tool for Effortless Content Creation](https://www.blognlp.com/)
+
+- [blubi.ai](https://blubi.ai/)
+
+- [BlueWillow](https://www.bluewillow.ai/)
+
+- [Book Planning & Writer's Block Cure in One App](https://storypath.app/)
+
+- [BotDistrikt - UX-Focused Chatbot Platform](https://www.botdistrikt.com/)
+
+- [Botika | Reinvent fashion photoshoots](https://botika.io/)
+
+- [Brandmark - tools](https://brandmark.io/tools/)
+
+- [Bright Eye on the App Store](https://apps.apple.com/us/app/bright-eye/id1593932475/)
+
+- [broadn](https://www.broadn.io/)
+
+- [Buildt](https://www.buildt.ai/)
+
+- [Business Name Generator - free AI-powered naming tool - Namelix](https://namelix.com/)
+
+- [Caktus Home](https://www.caktus.ai/caktus_student?resume=1676337871800x857661708878239000)
+
+- [CALA · Run your fashion brand](https://ca.la/)
+
+- [CaliberAI - Risky content solutions](https://www.caliberai.net/)
+
+- [CandyIcons - Find the most beautiful app icon for your product](https://www.candyicons.com/)
+
+- [Censius | AI Observability For Everyone](https://censius.ai/)
+
+- [Chai - Chat with AI](https://chai.ml/)
+
+- [Channel](https://www.usechannel.com/)
+
+- [ChatBotKit](https://chatbotkit.com/)
+
+- [ChatGPT for Search Engines - Chrome Web Store](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/)
+
+- [ChatGPT Writer - Write emails and messages using AI](https://chatgptwriter.ai/)
+
+- [Cheat Layer](https://cheatlayer.com/)
+
+- [CheckforAi](https://checkforai.com/)
+
+- [checklist.gg](https://checklist.gg/)
+
+- [ChefGPT - Your AI-Powered Personal Chef](https://www.chefgpt.xyz/)
+
+- [Cleanvoice AI | Get rid of filler words from your audio recordings](https://cleanvoice.ai/)
+
+- [ClickAI Radio](https://clickairadio.libsyn.com/)
+
+- [ClipDrop](https://clipdrop.co/)
+
+- [Clips AI](https://www.clipsai.com/)
+
+- [Code Generator for Arduino](https://www.duinocodegenerator.com/)
+
+- [CodeAssist - IntelliJ IDEs Plugin | Marketplace](https://plugins.jetbrains.com/plugin/20085-codeassist/)
+
+- [CodeGeeX - a Hugging Face Space by THUDM](https://huggingface.co/spaces/THUDM/CodeGeeX)
+
+- [Cogniflow | No-code AI platform - Sign up for free](https://www.cogniflow.ai/)
+
+- [Colourlab Artifical Intelligence for Colorists - Colourlab.ai](https://colourlab.ai/)
+
+- [Community of creators building with state of the art Artificial Intelligence](https://lablab.ai/)
+
+- [Compar.ai | AI Powered Content Analyses – People don't read, They scan. What sticks?](https://compar.ai/)
+
+- [Comprehensive Online Image Tools | Quicktools by Picsart](https://tools.picsart.com/image//)
+
+- [Connecting to Apple Music.](https://apps.apple.com/us/app/character-creator-digirama/id6444673721/)
+
+- [Consensus - Evidence-Based Answers, Faster](https://consensus.app/)
+
+- [Continual | Operational AI for the Modern Data Stack](https://continual.ai/)
+
+- [Convai - Conversational AI Platform](https://www.convai.com/)
+
+- [Conversational AI Platform for Customer Support | Cohere](https://cohere.io/)
+
+- [Conversations on Applied AI - Stories from Experts in Artificial Intelligence](https://appliedai.buzzsprout.com/)
+
+- [Cool Gift Ideas | AI-Powered Gift Suggestions](https://www.coolgiftideas.io/)
+
+- [CoolAIid - Interior design ideas and virtual staging using AI](https://coolaiid.com/)
+
+- [Cover Letter AI](https://coverletterai.app/)
+
+- [CoWriter - Your AI buddy for speeding up creative writing](https://cowriter.org/login)
+
+- [Cradle](https://cradle.bio/)
+
+- [CrawlQ AI Audience Research](https://crawlq.ai/)
+
+- [Creaitor.ai - the #1 AI writing tool](https://www.creaitor.ai/)
+
+- [Create AI Apps with Agent](https://www.gptagent.com/)
+
+- [Create any image using text | IMGCreator.ai](https://imgcreator.zmo.ai/)
+
+- [Create Graphics in Seconds with AI](https://aigraphics.io/)
+
+- [Create Optimized Amazon Listing in seconds | CopyMonkey](https://copymonkey.ai/)
+
+- [Create Presentation Slides With AI in seconds with SlidesAI](https://www.slidesai.io/)
+
+- [Create pro quality product photography with AI | Booth.AI](https://www.booth.ai/)
+
+- [Creating 2d and 3d floor plans with AI](https://getfloorplan.com/)
+
+- [CSM – Common Sense Machines](https://csm.ai/)
+
+- [CTRify | The AI SEO tool](https://www.ctrify.com/)
+
+- [Custom Webflow Websites | Holy Moly](https://www.holymolycreativestudio.com/)
+
+- [Customer-Led Conversational Assistants | PolyAI](https://poly.ai/)
+
+- [DALL·E 2](https://openai.com/dall-e-2/)
+
+- [Dallelist - Dall-E 2 Prompt Helper](https://www.dallelist.com/)
+
+- [Data Crunch Podcast | DataCrunchCorp](https://datacrunchcorp.com/data-crunch-podcast/)
+
+- [Data Science Podcast - Data Science Salon](https://www.datascience.salon/podcast/)
+
+- [Data Stories – A podcast on data visualization with Enrico Bertini and Moritz Stefaner](https://datastori.es/)
+
+- [Debuild - Build web apps fast](https://debuild.app/)
+
+- [DeepL Translate: The world's most accurate translator](https://www.deepl.com/translator)
+
+- [DEEPMOTION - AI Motion Capture & Body Tracking](https://www.deepmotion.com/)
+
+- [Delve AI: Create data-driven personas automatically](https://www.delve.ai/)
+
+- [Demo of PapersGPT](https://jessezhang.org/llmdemo)
+
+- [Designify - Turn any photo into awesome](https://www.designify.com/)
+
+- [Designs.ai - Creative work done effortlessly](https://designs.ai/)
+
+- [Detangle — Summarize any video, audio or text](https://detangle.ai/)
+
+- [Detect GPT - Chrome Web Store](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg/related/)
+
+- [Diagram](https://diagram.com/)
+
+- [DiffusionBee - Stable Diffusion App for AI Art](https://diffusionbee.com/)
+
+- [Digital First AI - Future-proof Marketing Platform](https://www.digitalfirst.ai/)
+
+- [Discover apps - Canva](https://www.canva.com/your-apps/text-to-image/)
+
+- [Discover, Create, and Publish your research paper | SciSpace by Typeset](https://typeset.io/)
+
+- [DoNotPay - The World's First Robot Lawyer](https://donotpay.com/)
+
+- [DraftLab: Your AI-powered Gmail copilot to write better emails faster](https://draftlab.ai/)
+
+- [drayk.it — Make AI Drake Songs About Anything!](https://drayk.it/)
+
+- [Dream Interpreter AI](https://dreaminterpreter.ai/)
+
+- [DREAM.page - AI Assisted Personal Publishing - Sign Up](https://dream.page/)
+
+- [DreamPic.AI - AI Generated Pictures Starring You](https://dreampic.ai/)
+
+- [durable](https://durable.ai/)
+
+- [Durable: AI Website Builder and service business software](https://durable.co/)
+
+- [Dust - whoisdsmith](https://dust.tt/whoisdsmith/apps)
+
+- [echowin - AI Powered Call Management With Full Natural Language Understanding and Personalized Responses For Every Scenario.](https://echo.win/)
+
+- [Edaly - Revolutionizing Remote Education Using AI](https://edaly.co/)
+
+- [Editby | Twitter writting tool to grow your audience with AI](https://www.editby.ai/)
+
+- [Eilla AI - AI Content Generation Assistant](https://eilla.ai/)
+
+- [ElevenLabs || Prime Voice AI](https://beta.elevenlabs.io/speech-synthesis)
+
+- [Elf Help](https://www.elfhelp.ai/)
+
+- [Elicit: The AI Research Assistant](https://elicit.org/)
+
+- [EmailMagic AI](https://www.emailmagic.ai/)
+
+- [Embrace the future with Shutterstock.AI](https://www.shutterstock.com/discover/shutterstock-ai)
+
+- [Emergent Drums by Audialab - Generate infinite, royalty-free, drum samples with AI](https://audialab.com/)
+
+- [Endel - Personalized soundscapes to help you focus, relax, and sleep. Backed by neuroscience.](https://endel.io/)
+
+- [Endless Visual Novel](https://endlessvn.io/)
+
+- [Episodes – Voices in AI](https://voicesinai.com/episodes/)
+
+- [Episodes | Applied AI Pod](https://appliedaipod.simplecast.com/episodes)
+
+- [Episodes | Talking Machines](https://www.thetalkingmachines.com/episodes)
+
+- [Episodes | The AI Health Podcast](https://theaihealthpodcast.com/episodes)
+
+- [EVOTO, AI-powered Image Editor](https://www.evoto.ai/)
+
+- [ExamCram - AI for Students on the App Store](https://apps.apple.com/us/app/examcram-ai-for-students/id1595934993/)
+
+- [Excel & Google Sheets AI Formula Generator - Excelformulabot.com](https://excelformulabot.com/)
+
+- [ExperAI](https://www.experai.com/)
+
+- [Explain Like I'm Five | The Best Way to Understand Complex Concepts Fast](https://explainlikeimfive.io/)
+
+- [ExplainThis.AI](https://explainthis.ai/)
+
+- [Exponential View](https://hbr.org/2019/04/podcast-exponential-view)
+
+- [Eye for AI - Eye for AI](https://eyeforai.xyz/)
+
+- [Eye On A.I.](https://aneyeonai.libsyn.com/)
+
+- [facebookresearch/shumai: Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight](https://github.com/facebookresearch/shumai/)
+
+- [FashionAdvisor.AI - Ask Questions & Get Answer's from FashionAdvisor.AI](https://www.fashionadvisorai.com/)
+
+- [fast.ai - fast.ai—Making neural nets uncool again](https://www.fast.ai/)
+
+- [FeedHive - Create content at scale ⚡](https://www.feedhive.com/)
+
+- [Felvin - Generative AI App Store](https://felvin.com/)
+
+- [Ferret | Relationship Intelligence in your pocket](https://www.ferret.ai/)
+
+- [Financial Advisor Search | Find someone who meets your needs and wants](https://www.onestafinance.com/)
+
+- [Find All You Need For AI Art | aiart[apps]](https://www.aiartapps.com/)
+
+- [Fingerprint for Success](https://www.fingerprintforsuccess.com/for-individuals/)
+
+- [Finta For Fundraising](https://www.trustfinta.com/)
+
+- [Fireflies.ai - Fireflies AI Notetaker & Conversation Intelligence](https://fireflies.ai/)
+
+- [Flair](https://flair.ai/)
+
+- [Free AI Writing And SEO Tools | Frase](https://www.frase.io/tools/)
+
+- [Free AI Writing, PDF, Image, and other Online Tools - TinyWow](https://tinywow.com/)
+
+- [Free Background Image Remover: Remove BG from HD Images Online - Erase.bg](https://www.erase.bg/)
+
+- [Free Live Chat with Chatbots, WhatsApp and Agents UNLIMITED](https://tiledesk.com/)
+
+- [Free Paraphrasing For All Languages](https://paraphrasetool.com/)
+
+- [G3D.AI {Jedi}](https://g3d.ai/)
+
+- [Galactica Demo](https://galactica.org/)
+
+- [genei | AI-powered summarisation & research tool](https://www.genei.io/)
+
+- [Generate AI Avatars of your Pets! 🐈 | Generate AI Avatars of your Pets! 🐈](https://aipetavatar.com/)
+
+- [Generate Memes with AI | Supermeme.ai](https://app.supermeme.ai/login)
+
+- [Generate unit tests and refactor code using AI — Refraction](https://www.refraction.dev/)
+
+- [Generated Photos | Unique, worry-free model photos](https://generated.photos/)
+
+- [Generative AI Platform for CX Automation | Forethought](https://forethought.ai/)
+
+- [Generative Design | Architecture Design Software | Maket](https://www.maket.ai/)
+
+- [Genie - AI Gifts Generator](https://gen.gifts/)
+
+- [GeniusReview - 360° AI Performance Reviews](https://geniusreview.xyz/)
+
+- [Genmo](https://alpha.genmo.ai/)
+
+- [Get Dost - AI assistant for Inclusive Communication](https://getdost.com/)
+
+- [Get In Touch With Us Today I Symanto](https://www.symanto.com/get-in-touch/)
+
+- [Get Swiped Right! Tinder, Bumble, Hinge Dating Tips - ROAST](https://roast.dating/)
+
+- [Get unstuck. Learn better. | Socratic](https://socratic.org/)
+
+- [Getaiway I Create Personalised Travel Plans](https://getaiway.com/)
+
+- [GETitOUT - Essential Marketing Tools](https://getitout.io/)
+
+- [GGPredict.io](https://ggpredict.io/)
+
+- [Ghostwrite: ChatGPT Email Assistant - Chrome Web Store](https://chrome.google.com/webstore/detail/ghostwrite-chatgpt-email/fbjnnjochaopepfjpngghafgnafebkjh?hl=en&authuser=0/)
+
+- [GiftasticAI - Perfect gift for your special one!](https://giftastic.ai/)
+
+- [Gimme Summary AI - Summarize articles using ChatGPT AI](https://gimmesummary.ai/)
+
+- [GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot/)
+
+- [GitHub Data Explorer: Discover insights in GitHub event data with AI-generated SQL | OSS Insight](https://ossinsight.io/explore/)
+
+- [GitHub Next | Hey, GitHub!](https://githubnext.com/projects/hey-github/)
+
+- [goodlookup](https://www.goodlookup.com/)
+
+- [GPTDuck](https://www.gptduck.com/)
+
+- [GPUX](https://gpux.ai/)
+
+- [Green Screen AI](https://greenscreenai.com/)
+
+- [Grid Splitter Midjourney - Free tool](https://www.mjsplitter.com/)
+
+- [Grow your podcast with AI-created short video clips](https://www.audiolabs.io/)
+
+- [GrowthBar - The Ultimate AI Writing Tool for Bloggers & Content Teams](https://www.growthbarseo.com/)
+
+- [Hama](https://www.hama.app/)
+
+- [Handywriter — HandyPlugins](https://handyplugins.co/handywriter/)
+
+- [Hatena Blog](https://blog.hatena.ne.jp/login?blog=https%3A%2F%2Fwww.machine-learning.news%2Flist%2Fgeneral%2F)
+
+- [Hexagram](https://www.hexagram.io/)
+
+- [Heyday - AI-powered Memory Assistant | Heyday](https://heyday.xyz/)
+
+- [High quality, AI content generator - Article Forge](https://www.articleforge.com/)
+
+- [Hire ChatGPT To Sell Your Product](https://www.magicform.ai/)
+
+- [HireYaY, a hiring platform for startups](https://hireyay.com/)
+
+- [Home](https://play.aidungeon.io/main/home)
+
+- [Home](https://quasi.market/)
+
+- [Home](https://www.glean.com/)
+
+- [Home](https://www.rephrase.ai/)
+
+- [Home - Industrial Data Labs](https://industrialdatalabs.com/)
+
+- [Home - MarketPlan.io](https://marketplan.io/)
+
+- [Home - Whisper AI](https://whisper.ai/)
+
+- [Home – Moonbeam](https://moonbeam.ai/)
+
+- [Home | Create Images and Video at Scale | Bria](https://bria.ai/)
+
+- [Home | DreamUp](https://www.dreamup.com/)
+
+- [Home | Gemsouls](https://www.mygemsouls.com/)
+
+- [Home | Helicone - Providing meaningful and insightful analytics for your GPT-3 usage](https://www.helicone.ai/)
+
+- [Home | Programming Helper](https://www.programming-helper.com/)
+
+- [Home | Text GPT](https://textgpt.net/)
+
+- [Home | texti.app](https://texti.app/)
+
+- [Home | Tweet Emote](https://www.tweetemote.com/)
+
+- [Home | VEG3](https://veg3.ai/)
+
+- [Home 2022 - DaVinciFace Project](https://www.davinciface.com/)
+
+- [Home: MetaGenieAI – AI Tool for Content Creation and Optimization](https://www.metagenieai.com/)
+
+- [How To Reply To | Reply to messages smartly with AI](https://howtoreplyto.com/)
+
+- [HTTPie – API testing client that flows with you](https://httpie.io/)
+
+- [https://app.kailualabs.com/image-search?q=dog+with+sunglasses&fq=](https://app.kailualabs.com/image-search?q=dog+with+sunglasses&fq=)
+
+- [https://avanty.app](https://avanty.app/)
+
+- [https://blackink.ai](https://blackink.ai/)
+
+- [https://eyeq.photos/automatic-ai-video-enhancement/](https://eyeq.photos/automatic-ai-video-enhancement/)
+
+- [https://how-ai-built-this.captivate.fm](https://how-ai-built-this.captivate.fm/)
+
+- [https://movietoemoji.netlify.app/#/](https://movietoemoji.netlify.app/#/)
+
+- [https://pitchgrade.com](https://pitchgrade.com/)
+
+- [https://promptable.ai](https://promptable.ai/)
+
+- [https://www.findyournextbook.ai](https://www.findyournextbook.ai/)
+
+- [HyperWrite](https://hyperwriteai.com/)
+
+- [illostrationAI](https://www.illostration.com/)
+
+- [Illustroke | Vector illustrations from text prompts AI](https://illustroke.com/)
+
+- [Imagine yourself in any style you want](https://www.arti.pics/)
+
+- [In Machines We Trust | MIT Technology Review](https://www.technologyreview.com/supertopic/in-machines-we-trust/)
+
+- [in3D: Create Photorealistic Avatars For Metaverse](https://in3d.io/)
+
+- [Increase data agility & Flexibility 5-10x with your existing team.](https://ai-surge.cloud/)
+
+- [Influencer Marketing Platform for Brands & Agencies | Affable](https://www.affable.ai/)
+
+- [InfraNodus: AI Text Network Analysis for Research and Exploration](https://infranodus.com/)
+
+- [Innovative Business Planning Software | IdeaBuddy](https://ideabuddy.com/)
+
+- [InstaNovel - Generate your Novel with AI](https://instanovel.ai/)
+
+- [Instantly](https://instantly.ai/)
+
+- [Instantly Interpret: Legalese Decoder - Translate Legal Docs To Plain English](https://legalesedecoder.com/)
+
+- [InstaSalesAI - Instagram content creation for busy people.](https://instasalesai.com/)
+
+- [Intel on AI – Podcast – Podtail](https://podtail.com/podcast/intel-on-ai/)
+
+- [intelli.gift - Gift smarter with the AI-powered gift advisor](https://intelli.gift/)
+
+- [Intelligent document processing with AI | Nanonets](https://nanonets.com/)
+
+- [Interior AI: Interior Design Ideas Inspiration, and Virtual Staging App using Artifical Intelligence](https://interiorai.com/)
+
+- [Ipso AI](https://ipso.ai/)
+
+- [iQuit.ai | Generate resignation letters in minutes](https://iquit.ai/)
+
+- [Iris.ai - Your Researcher Workspace – Leading AI for your research challenge](https://iris.ai/)
+
+- [Is This Image NSFW?](https://nsfw.m1guelpf.me/)
+
+- [JobtitlesAI • Accurately classify any job title with AI.](https://jobtitlesai.com/)
+
+- [Jokelub](https://jokelub.com/)
+
+- [‏Justice Intelligence Platform | Darrow](https://www.darrow.ai/)
+
+- [Katteb - Best AI Writer, Content Generation & Proofreading Tool](https://katteb.com/en/)
+
+- [Keywrds.ai | Find keywords your competition can only dream of](https://keywrds.ai/)
+
+- [Kickresume | Best Online Resume & Cover Letter Builder](https://www.kickresume.com/en/)
+
+- [Kili](https://www.kili.so/)
+
+- [Kinetix | Express yourself across virtual worlds](https://www.kinetix.tech/)
+
+- [Komo Search - Delightful Search Journeys](https://komo.ai/)
+
+- [LAION](https://laion.ai/)
+
+- [LanguageTool - Online Grammar, Style & Spell Checker](https://languagetool.org/)
+
+- [Latest Episodes – HumAIn Podcast](https://www.humainpodcast.com/episodes/)
+
+- [Lavender - The #1 AI Sales Email Coach](https://www.lavender.ai/)
+
+- [Learning Machines 101 - A Gentle Introduction to Artificial Intelligence and Machine Learning](https://www.learningmachines101.com/)
+
+- [Legal Robot](https://legalrobot.com/)
+
+- [Leonardo.ai](https://leonardo.ai/)
+
+- [Let’s Enhance - Image Quality Online App & Free Photo Enlarger](https://letsenhance.io/)
+
+- [Letterdrop - B2B Content Marketing on Autopilot](https://letterdrop.com/)
+
+- [Lex Fridman Podcast - Lex Fridman](https://lexfridman.com/podcast/)
+
+- [LitRPG Adventures: AI RPG Generators + Content Library](https://www.litrpgadventures.com/)
+
+- [Login - Webflow](https://webflow.com/dashboard/login?r=https%3A%2F%2Fwebflow.com%2Fdesign%2Faiob&m=WW91IGhhdmUgYmVlbiBsb2dnZWQgb3V0LiBQbGVhc2Ugc2lnbiBiYWNrIGluIHRvIGNvbnRpbnVlLg%3D%3D)
+
+- [LongShot AI - Best Long-Form AI Writing Assistant and Content Generator](https://www.longshot.ai/)
+
+- [Lookup - Analyze your data in seconds with AI](https://www.uselookup.com/)
+
+- [Low-code Front-end Design & Development Platform | TeleportHQ](https://teleporthq.io/)
+
+- [LuciaAI](https://luciaai.com/)
+
+- [Luma AI](https://lumalabs.ai/)
+
+- [Luma AI - Imagine 3D v1.2 (alpha)](https://captures.lumalabs.ai/imagine)
+
+- [Luna | Access Millions of Leads and Personalize Cold Emails Instantly with Luna.](https://getluna.dev/)
+
+- [Lunit Inc.](https://www.lunit.io/en/)
+
+- [Magic Studio - Powered by AI, Created by you](https://magicstudio.com/)
+
+- [Magic Thumbnails](https://magicthumbnails.com/)
+
+- [Magician for Figma](https://magician.design/)
+
+- [MagicSlides App - Create Presentation With AI in seconds](https://www.magicslides.app/)
+
+- [Make AI Videos To Train Anyone or Explain Anything | Hour One](https://hourone.ai/)
+
+- [MakeLogoAI: Unique Logos, 100% generated by AI.](https://makelogo.ai/)
+
+- [MarbleFlows](https://app.marbleflows.com/ai-generator/)
+
+- [Masterpiece Studio](https://masterpiecestudio.com/)
+
+- [MateAI: Create email campaigns, faster](https://mateai.io/)
+
+- [Maverick - AI Generated Personalized Videos at Scale | Ecommerce Video Marketing](https://www.trymaverick.com/)
+
+- [maya.ai™ | Helps Banks Deliver Real-Time Personalization](https://maya.ai/)
+
+- [Me, Myself, and AI](https://sloanreview.mit.edu/audio-series/me-myself-and-ai/)
+
+- [Medicine and the Machine](https://www.medscape.com/features/public/machine)
+
+- [Meet Millie](https://www.meetmillie.app/)
+
+- [Mem: The self-organizing workspace](https://get.mem.ai/)
+
+- [Mendel AI - Unlock the Power of Your Unstructured Clinical Data](https://www.mendel.ai/)
+
+- [Mentioned - Automating email outreach for your blog](https://mentioned.ai/)
+
+- [Merlin](https://merlin.foyer.work/)
+
+- [Metaverse 3D Avatar Creator | Ready Player Me](https://readyplayer.me/)
+
+- [methexis-inc/img2prompt – Run with an API on Replicate](https://replicate.com/methexis-inc/img2prompt)
+
+- [Microsoft Designer - Stunning designs in a flash](https://designer.microsoft.com/)
+
+- [Microsoft Excel Formulas Ai Powered Tool - Sheetgod](https://www.boloforms.com/sheetgod/)
+
+- [Midjourney](https://www.midjourney.com/home/)
+
+- [MidJourney Prompt Tool](https://prompt.noonshot.com/)
+
+- [Mindsmith: AI-powered Microlearning](https://www.mindsmith.ai/)
+
+- [Mintlify - Beautiful documentation that converts users](https://mintlify.com/)
+
+- [Mirage](https://www.mirageml.com/)
+
+- [Missive ‐ Team Email, Chat & Tasks](https://missiveapp.com/)
+
+- [Mixpeek | Intelligent File Storage](https://mixpeek.com/)
+
+- [More Intelligent Tomorrow: a DataRobot Podcast | Listen to Podcasts On Demand Free | TuneIn](https://tunein.com/podcasts/Technology-Podcasts/More-Intelligent-Tomorrow-p1364183/)
+
+- [Moveworks: Solve employee issues, reduce costs, unlock productivity](https://www.moveworks.com/)
+
+- [Mubert - Thousands of Staff-Picked Royalty-Free Music Tracks for Streaming, Videos, Podcasts, Commercial Use and Online Content](https://mubert.com/)
+
+- [Munch | Content Repurposing Done Smart.](https://www.getmunch.com/)
+
+- [mutable.ai. AI Accelerated Software Development.](https://mutable.ai/)
+
+- [Mutiny | Turn Your Website Into Your #1 Revenue Channel | Mutiny](https://www.mutinyhq.com/)
+
+- [My Grammarly - Grammarly](https://app.grammarly.com/)
+
+- [Namecheap](https://www.namecheap.com/logo-maker/app/new/)
+
+- [namewizard.ai - your AI-superpowered domain name generator](https://namewizard.ai/)
+
+- [Neeva - Search powered by AI](https://neeva.com/)
+
+- [NetworkAI by Wonsulting - AI in Networking for LinkedIn & More](https://www.wonsulting.com/networkai)
+
+- [Neural Canvas - AI Comic Generator.](https://neuralcanvas.io/)
+
+- [NeuralStudio](https://neural.cam/studio/)
+
+- [NeuronWriter - Content optimization with #semanticSEO](https://www.neuronwriter.com/)
+
+- [NeuroSpell : Universal Auto-Corrector (Deep Learning)](https://neurospell.com/)
+
+- [nichesss | AI Writer | AI Copywriting Software](https://nichesss.com/)
+
+- [niji・journey](https://nijijourney.com/en/)
+
+- [No code browser automation | axiom.ai](https://axiom.ai/)
+
+- [Nostalgia Photos - Restore old photographs with AI](https://www.nostalgia.photo/)
+
+- [Notes on AI - Notes on AI](https://notesonai.com/Notes+on+AI)
+
+- [Noty.ai - Meeting transcription software](https://noty.ai/)
+
+- [Nuclia | AI search engine for any data, including video.](https://nuclia.com/)
+
+- [OASIS - Create Video With Your Voice, Powered by Generative AI](https://theoasis.com/)
+
+- [Ocoya: Social Media Management & Content Generation](https://www.ocoya.com/)
+
+- [Omkar Birje](https://www.omkarbirje.com/)
+
+- [Once Upon a Bot • Create Children's Stories with AI](https://onceuponabot.com/)
+
+- [One More AI | AI-Generated Stock Images](https://onemoreai.com/)
+
+- [Online Book Writing Software now with AI Writing Assistant](https://sceneone.app/)
+
+- [Online Video Dubbing with Dubverse.ai](https://dubverse.ai/)
+
+- [Online Video Editor | Video Creator | InVideo](https://invideo.io/)
+
+- [openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper/)
+
+- [OpenVoiceOS an open-source voice AI platform for everyone](https://openvoiceos.com/)
+
+- [Optimize Conversions with Testing At Scale | VWO Testing](https://vwo.com/testing//)
+
+- [Options Flow and Stock Market trading tools - TradeUI](https://tradeui.com/)
+
+- [Opus | Home](https://opus.ai/)
+
+- [Oracle - Get Instant Answers from all your Knowledgebase](https://askoracle.app/)
+
+- [Ortto: Customer Data, Messaging & Analytics Working Together](https://ortto.com/)
+
+- [Otter.ai - Voice Meeting Notes & Real-time Transcription](https://otter.ai/)
+
+- [Outplay: Sales Engagement & Sales Automation Platform](https://outplayhq.com/)
+
+- [Overdub: Natural-Sounding Text-to-Speech | Descript](https://www.descript.com/overdub)
+
+- [Page blocked](chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/document-blocked.html?details=%7B%22url%22%3A%22https%3A%2F%2Flooka.grsm.io%2Ffuturepedia%22%2C%22hn%22%3A%22looka.grsm.io%22%2C%22dn%22%3A%22grsm.io%22%2C%22fs%22%3A%22%7C%7Cgrsm.io%5E%22%7D)
+
+- [Palette - Colorize Photos](https://palette.fm/)
+
+- [Paper Brain](https://www.paperbrain.study/)
+
+- [ParagraphAI •#1 AI Writing App •Free AI Writer •AI Writing Assistant](https://paragraphai.com/)
+
+- [Paraphrasing Tool - Best Free Online Paraphraser | WordfixerBot](https://www.wordfixerbot.com/)
+
+- [PatentPal](https://patentpal.com/)
+
+- [Pattern Maker AI - Generate seamless patterns using artificial intelligence](https://patternmakerai.com/)
+
+- [Penelope AI - The markdown editor that helps you write seamlessly](https://penelopeai.com/)
+
+- [Personal AI | Create Your AI](https://www.personal.ai/)
+
+- [Photo Editor | BeFunky: Free Online Photo Editing and Collage Maker](https://www.befunky.com/)
+
+- [PhotoAI - photoAI.me](https://photoai.me/)
+
+- [PhotoRoom - Remove Background and Create Product Pictures](https://www.photoroom.com/)
+
+- [Phraser — the collaborative creative AI tool](https://phraser.tech/landing)
+
+- [PictoDream.com - Generate Images of Yourself With AI](https://pictodream.com/)
+
+- [Pictory – Video Marketing Made Easy - Pictory.ai](https://pictory.ai/)
+
+- [Pinegraph | Magic Sketchpad](https://pinegraph.com/)
+
+- [Pipeline.ai | Serverless GPU inference for ML models](https://www.pipeline.ai/)
+
+- [pipl.ai - Outbound. Supercharged](https://pipl.ai/)
+
+- [Pixela.ai | AI Game Assets](https://pixela.ai/)
+
+- [PixelVibe: Your AI Partner for Visually Stunning Content Creation](https://www.pixelvibe.com/)
+
+- [Playstrict - Gaming Growth Platform](https://www.playstrict.com/)
+
+- [podcast](https://www.thepulseofai.com/blog/categories/podcast)
+
+- [Podcast • VUX World](https://vux.world/podcast/)
+
+- [Podcast | Brain Inspired](https://braininspired.co/podcast/)
+
+- [Podcast | Dr Peper MD](https://drpepermd.com/podcast-2/)
+
+- [podcast Archives - Data Science at Home Podcast](https://datascienceathome.com/episodes/podcast/)
+
+- [Podcast Vault — DATA FUTUROLOGY](https://www.datafuturology.com/episodes-1)
+
+- [Podcastle: Seamless Podcast Recording & Editing](https://podcastle.ai/)
+
+- [Podcasts Archive](https://www.cleanconnect.ai/digital-roughnecks)
+
+- [Podcasts Archives - AI & Data Today](https://www.aidatatoday.com/category/ai-today/podcasts/)
+
+- [PolitePost.net | Rewriting your emails with AI to be professional](https://politepost.net/)
+
+- [Poly: Generate design assets with A.I. · Poly](https://withpoly.com/)
+
+- [Pop2Piano](https://sweetcocoa.github.io/pop2piano_samples/)
+
+- [Postaga | AI-Powered Sales Outreach and Link Building Platform](https://postaga.com/)
+
+- [Posts | Ben's Bites](https://www.bensbites.co/)
+
+- [Preview your FUE/FUT hair transplant using AI | hairgen.ai](https://www.hairgen.ai/)
+
+- [Prodigy AI Coach](https://ai.prodi.gg/)
+
+- [Product Reviews | Explore and compare the most popular products](https://www.looria.com/)
+
+- [Promethean AI](https://www.prometheanai.com/)
+
+- [Prompt Silo from Pheeds.com](https://pheeds.com/PromptSilo.php/)
+
+- [Puzzle Labs](https://puzzlelabs.ai/)
+
+- [Qatalog | Your Bespoke Operating System for Work](https://qatalog.com/)
+
+- [Quality Management System & Regulatory Submission Platform](https://www.enzyme.com/)
+
+- [Quickchat AI | Technology to build AI Assistants](https://www.quickchat.ai/)
+
+- [Quicklines Lifetime Access | Only $59](https://www.quicklines.ai/)
+
+- [QuizGrowth - Turn your content into engaging quizzes ✨](https://quizgrowth.com/)
+
+- [Radiology AI Podcasts | RSNA](https://rsnaradiologyai.libsyn.com/)
+
+- [Rationale - a revolutionary decision-making AI powered by the latest GPT and in-context learning](https://rationale.jina.ai/)
+
+- [RE•WORK Podcasts](https://videos.re-work.co/podcast)
+
+- [Reach - The fastest way to personalize emails](https://www.magicreach.ai/)
+
+- [Real-Time Intelligence For Contact Centers | Cresta AI](https://cresta.com/)
+
+- [Reclaim | Smart Scheduling for Busy Teams](https://reclaim.ai/)
+
+- [Reface. Face swap videos](https://hey.reface.ai/)
+
+- [Reflect](https://reflect.app/)
+
+- [Relational Agent for Mental Health | Woebot Health](https://woebothealth.com/)
+
+- [Releasenote.ai - Effortlessly craft engaging release notes with GPT-3](https://releasenote.ai/)
+
+- [Remove Background from Image – remove.bg](https://www.remove.bg/)
+
+- [Remove Video Background – Unscreen](https://www.unscreen.com/)
+
+- [Rent Cloud GPUs from $0.2/hour](https://www.runpod.io/)
+
+- [Rephrasely | The FREE Rephrase Generator For All Languages!](https://rephrasely.com/)
+
+- [Rephraser AI](https://rephraser.vercel.app/)
+
+- [Replika](https://replika.com/)
+
+- [Replit: the collaborative browser based IDE - Replit](https://replit.com/)
+
+- [Resume Worded - Free instant feedback on your resume and LinkedIn profile](https://resumeworded.com/index.php/)
+
+- [Revive - Envision Business Ideas with AI](https://letsrevive.app/)
+
+- [Robin AI | The Future of Sales Automation](https://www.hellorobin.ai/)
+
+- [Roboflow: Give your software the power to see objects in images and video](https://roboflow.com/)
+
+- [Robovision | Product | Robovision Platform](https://robovision.ai/product/platform/)
+
+- [RocketAI - Your Graphic Design Co-pilot](https://rocketai.io/)
+
+- [RollArtDie](https://www.roll-art-die.com/)
+
+- [Royalty Free Music by Beatoven | Beatoven.ai](https://www.beatoven.ai/)
+
+- [Run AI models with our cloud API - Evoke](https://evoke-app.com/)
+
+- [Scalenut | AI Powered SEO & Content Marketing Platform](https://www.scalenut.com/)
+
+- [Scenario](https://www.scenario.gg/)
+
+- [Season 1 - Episodes — AI: Decodes the System](https://www.aidecodes.com/episodes)
+
+- [Shaped | APIs for ranking](https://www.shaped.ai/)
+
+- [SHUFFLL - Create incredible videos with the power of AI 🚀](https://shuffll.com/)
+
+- [Sign In | LinkedIn](https://www.linkedin.com/authwall?trkInfo=AQEPG-Ozd9AF5gAAAYZNh1BY4O9dPMDeBLz-5-wtxModyCg6Fg-INOTlnj5kN6eie2_pAwMZERqJ2AR7xf8MkGcHiYF2KlXZp09T1F_peDOj26orsnrT8gFGAgXCxly4L8FPUJM%3D&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjetmirhaxhiavdyli%2F)
+
+- [Sign up for Ellie - Your AI Email Assistant](https://tryellie.com/)
+
+- [Site Search & Discovery powered by AI | Algolia](https://www.algolia.com/)
+
+- [SkimIt.ai - Get an ai generated summary of any article delivered to your inbox](https://www.skimit.ai/)
+
+- [Smart Copy: AI Copywriting & Content Generator Tool | Unbounce](https://unbounce.com/product/smart-copy/)
+
+- [SmartWriter | Personalised AI Cold Emails](https://www.smartwriter.ai/)
+
+- [SMS Assistant AI driven Text Message | Klaviyo Product Features](https://www.klaviyo.com/product/whats-new/sms-assistant)
+
+- [Social Media Marketing made easy with AI | Predis.ai](https://predis.ai/)
+
+- [SocialBu - Social Media Management and Automation](https://socialbu.com/)
+
+- [Sonify – Audio | Data | Emerging Technologies](https://www.sonify.io/)
+
+- [Soofy](https://soofy.io/index/ref?&r=1674589108949x536014008447273100)
+
+- [Spatial.ai](https://www.spatial.ai/)
+
+- [Spell Check, Grammar Checker and Punctuation Checker (Free)](https://corrector.app/)
+
+- [SpellBox - AI programming assistant](https://spellbox.app/)
+
+- [Spin Rewriter - Article Rewriter Loved by 181,394 Users](https://www.spinrewriter.com/)
+
+- [Stable Horde](https://stablehorde.net/)
+
+- [Start For Free – Shakespeare](https://www.shakespeare.ai/lp/start-for-free/?fpr=vivek45)
+
+- [statpearls semantic search](https://hippocratic-medical-questions.herokuapp.com/)
+
+- [Steno](https://steno.ai/)
+
+- [Stocknews AI - AI picked stock news](https://stocknewsai.com/)
+
+- [StoriesForKids.ai: Personalized Kid's Books using AI](https://www.storiesforkids.ai/)
+
+- [Stream LISH | Listen to podcast episodes online for free on SoundCloud](https://soundcloud.com/laboratory-for-innovation-science-at-harvard)
+
+- [STUDIO, an AI-augmented design tool](https://studio.design/)
+
+- [Stylized | Virtual product staging](https://www.stylized.ai/)
+
+- [Suggest Gift - Find great gift suggestions using Artificial Intelligence.](https://suggest.gift/)
+
+- [Summari - We summarize text](https://www.summari.com/)
+
+- [summarize.tech: AI-powered video summaries](https://www.summarize.tech/)
+
+- [Summate.it - Quickly summarize web articles](https://summate.it/)
+
+- [SummerEyes: AI-powered summaries in your browser](https://summereyes.ai/)
+
+- [Super Data Science Podcast - Machine Learning | AI | Data Science Career | Analytics | Success](https://www.superdatascience.com/podcast)
+
+- [Supercharge Your Writing with Jenni AI](https://jenni.ai/)
+
+- [Superhuman](https://superhuman.com/)
+
+- [Supernormal - AI That Writes Your Meeting Notes](https://supernormal.com/)
+
+- [superReply | Get started for free | Upgrade Your Email Game](https://superreply.co/)
+
+- [SwagAI - Slingshot](https://www.useslingshot.com/swagai/)
+
+- [Symbl.ai | Conversation Intelligence Platform for Developers](https://symbl.ai/)
+
+- [Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica](https://www.replicastudios.com/)
+
+- [Synthetic Agency - Synthetic](https://www.syntheticagency.co/)
+
+- [syntheticAIdata - Creating accurate vision AI models with cost-effective data](https://syntheticaidata.com/)
+
+- [TableTalk](https://www.tabletalk.ai/)
+
+- [Talk to Books](https://books.google.com/talktobooks/)
+
+- [Tavus | The Most Advanced AI Video Personalization Platform](https://www.tavus.io/)
+
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+
+- [Teams | Operand](https://operand.ai/teams)
+
+- [Telegram: Contact @EvelynxAI](https://t.me/EvelynxAI/)
+
+- [Tests & Assessments made Easy - PrepAI - PrepAI](https://www.prepai.in/us/)
+
+- [Text Generator Plugin](https://text-gen.com/)
+
+- [TextCortex AI - One AI Copywriting Tool For All Your Content](https://textcortex.com/)
+
+- [Textomap | Turn text into interactive maps in seconds](https://www.textomap.com/)
+
+- [Texture Lab](https://www.texturelab.xyz/)
+
+- [The AI Australia Podcast - eliiza](https://eliiza.com.au/learn/ai-australia-podcast/)
+
+- [The AI Eye Podcast with AI stock news and trading ideas plus interviews about artificial intelligence at Investorideas.com](https://www.investorideas.com/Audio/Podcasts-AI-Eye.asp)
+
+- [The AI for Sales Podcast - Chad Burmeister | Listen Notes](https://www.listennotes.com/podcasts/the-ai-for-sales-podcast-chad-burmeister-tchN2BqyKi6/)
+
+- [The AI Powered Quiz Generator - Quizgecko](https://quizgecko.com/)
+
+- [The AI Report](https://thepodcastplayground.com/the-ai-report/)
+
+- [The AI Search Engine You Control | AI Chat & Apps](https://you.com/)
+
+- [The AI Sidekick that makes teams more productive](https://hiverhq.com/harvey-ai-customer-support)
+
+- [The AI Times](https://www.aitimespage.com/ai)
+
+- [The ConversAItion | a podcast by Interactions LLC](https://conversaition.podbean.com/)
+
+- [The Darius Gant Show](https://thedariusgantshow.libsyn.com/)
+
+- [The Fy! Studio - Create AI Generated Art](https://www.iamfy.co/studio)
+
+- [The Practical AI Podcast |> Changelog](https://changelog.com/practicalai)
+
+- [The Radical AI Podcast | a podcast by Radical AI](https://radicalai.podbean.com/)
+
+- [The Simulation](https://fablesimulation.com/)
+
+- [The Voicebot Podcast with Bret Kinsella - Voicebot.ai](https://voicebot.ai/voicebot-podcasts/)
+
+- [The You+AI Podcast](https://www.buzzsprout.com/1068073)
+
+- [theGist AI- Summarize Slack thread and channels - Get the gist of it](https://www.thegist.ai/)
+
+- [This model does not exist | Meet Ailice](https://www.thismodeldoesnotexist.co/)
+
+- [Tinq.ai | Ready-to-use NLP API Toolkit - NLP as a Service](https://tinq.ai/)
+
+- [TLDR This - Article Summarizer & Online Text Summarizing Tool](https://tldrthis.com/)
+
+- [to teach - The artificial intelligence for your classes.](https://www.to-teach.ai/)
+
+- [Topaz Photo AI - Maximize Image Quality on Autopilot](https://www.topazlabs.com/topaz-photo-ai)
+
+- [Topic Research Tool - Free Forever - Topic Mojo](https://topicmojo.com/)
+
+- [Topics | TWIML](https://twimlai.com/podcast/twimlai/topics/)
+
+- [Trip Planner | BuildAI.space](https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961)
+
+- [Try Out New Hairstyles With AI - Hairstyle AI](https://www.hairstyleai.com/)
+
+- [TTSLabs - Home](https://ttslabs.ai/home)
+
+- [Turn your videos into dozens of pieces of content](https://www.contentfries.com/)
+
+- [Twain - AI communication assistant for outreach](https://www.usetwain.com/)
+
+- [Tweet Hunter | Get More Twitter Followers | Tweets, Threads, Scheduler, Analytics](https://tweethunter.io/)
+
+- [TweetMe — Your AI Tweet Writer](https://no-code-ai-model-builder.com/tweet-me/)
+
+- [Twitter Generator](https://www.twitterbio.com/)
+
+- [Typewise: AI Text Prediction & Writing Solution](https://www.typewise.app/)
+
+- [Typli.Ai - AI Writer & SEO Writing Assistant](https://typli.ai/)
+
+- [Typly | Conversation level next!](https://typly.app/)
+
+- [Uizard | App, Web, & UI Design Made Easy | Powered By AI](https://uizard.io/)
+
+- [Una (@unatravelplanner) • Instagram photos and videos](https://www.instagram.com/unatravelplanner/)
+
+- [Unbound](https://www.unboundcontent.ai/)
+
+- [Unreal me](https://unrealme.io/)
+
+- [UpCat - Upwork Assistant](https://upcat.app/)
+
+- [Upskill & Reskill with BEPEC](https://www.buzzsprout.com/174534)
+
+- [Use AI generated images with Stable Diffusion for Notion.](https://slashdreamer.com/)
+
+- [Using an AI assistant - happier customers and lower costs](https://ebi.ai/)
+
+- [Utilizing AI - Utilizing AI](https://utilizing-ai.com/)
+
+- [ValidatorAI.com – Instant help and feedback with our startup validator tools for entrepreneurs](https://www.validatorai.com/)
+
+- [Valideo : Get best Amazon recommendations with AI](https://www.valideo.xyz/)
+
+- [Vee – Smart consultant you enjoy talking to](https://vee.ai/en/)
+
+- [Video Conferencing & Meeting Software | Powered by AI - Vowel](https://www.vowel.com/)
+
+- [Video Library](https://studio.d-id.com/)
+
+- [Vieutopia on the App Store](https://apps.apple.com/gb/app/vieutopia/id1660264569/)
+
+- [Visio Studio by Gaspard+Bruno | Visio Studio](https://visio.studio/)
+
+- [VisualHound - Prototype your fashion design ideas with AI](https://visualhound.com/)
+
+- [vivek@futurepedia.io | vidIQ](https://vidiq.com/futurepedia/)
+
+- [Vizcom AI: the AI design tool.](https://www.vizcom.ai/)
+
+- [WARMER.ai - AI Email Writer](https://warmer.ai/)
+
+- [Waverly](https://mywaverly.com/)
+
+- [Waymark, AI Video Creator](https://waymark.com/)
+
+- [We Write Cards – Messages Crafted With Love](https://wewritecards.com/)
+
+- [What The Diff – AI powered code review assistant](https://whatthediff.ai/)
+
+- [WhatOnEarth by @naklecha](https://www.whatonearth.xyz/)
+
+- [Whisper Memos](https://whispermemos.com/)
+
+- [Why of AI](https://podcast.whyofai.com/)
+
+- [Windsor.io - Personalized Videos for E-Commerce](https://www.windsor.io/)
+
+- [Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/)
+
+- [Wonder Dynamics](https://www.wonderdynamics.com/)
+
+- [Word Spinner: The Best Free Article Rewriter and Paraphrase Tool Online](https://word-spinner.com/)
+
+- [World’s #1 Noise Cancelling App | Krisp](https://krisp.ai/)
+
+- [WowTo - Free Video Knowledge Base Software](https://wowto.ai/)
+
+- [Write articles with AI-assistant — Thundercontent](https://thundercontent.com/)
+
+- [Write Me A Cover Letter](https://writemeacoverletter.com/)
+
+- [Writely | Using AI to Improve Your Writing](https://www.writelyai.com/)
+
+- [Writer - Generative AI That Your People Will Love](https://writer.com/)
+
+- [Writey A.I](https://writey.ai/)
+
+- [Writing online media content made simple with A.I. 🤩 - jibewith.com](https://www.jibewith.com/)
+
+- [www.gptprompter.com](https://www.gptprompter.com/)
+
+- [Xembly | An automated Chief of Staff for every worker -](https://www.xembly.com/)
+
+- [xno.ai - text-to-image AI](https://xno.ai/)
+
+- [xpression camera](https://xpressioncamera.com/)
+
+- [Yippity | Convert your notes into quizzes or flashcards automatically](https://yippity.io/)
+
+- [Your photos — simply RADIANT - Radiant Imaging Labs](https://radiantimaginglabs.com/)
+
+- [YouTube Video Summaries with Eightify AI ChatGPT](https://www.eightify.app/)
+
+---
+
+## New  
+
+- [AI Image Generator - Free online AI art generator](https://www.aiimagegenerator.org/)
+
+- [AI-MOVIES CLUB](https://www.ai-movie.club/ai-movies)
+
+- [AiSherpa(Beta)](https://aisherpa.super.site/)
+
+- [AllSearch.ai](https://www.allsearch.ai/)
+
+- [arXiv Feed](https://arxiv-feed.vercel.app/)
+
+- [AskNow](https://www.asknow.ai/)
+
+- [Astria - Tailor-made AI image generation](https://www.astria.ai/community/video)
+
+- [Bing](https://www.bing.com/)
+
+- [Chatbase](https://www.chatbase.co/)
+
+- [ChatGPT Prompts, Tools, and Tips](https://entreresource.notion.site/ChatGPT-Prompts-Tools-and-Tips-91a2343b03f3428cb7b2f4298f938733)
+
+- [Corpora - Intelligent Search](https://www.askcorpora.com/)
+
+- [Create AI Art | cr8 Studio](https://cr8.art/studio)
+
+- [CrowdView](https://crowdview.ai/)
+
+- [Dashboard | BatchGPT](https://batchgpt.com/)
+
+- [Duckling's Link Dumpster](https://rentry.org/ducklink)
+
+- [Feed | Operand](https://operand.ai/feed)
+
+- [FREE SEO GPT Content Creation Tool for Titles, Topics, and Descriptions](https://seovendor.co/seo-gpt/)
+
+- [GPTflix · Streamlit](https://gptflix.streamlit.app/)
+
+- [GPTForMe](https://gptfor.me/)
+
+- [Heark](https://heark.app/)
+
+- [HelloScribe](https://app.helloscribe.ai/saved-drafts/projects)
+
+- [Home | Promptstacks](https://www.promptstackscommunity.com/home#email)
+
+- [https://promptable.ai/workspace](https://promptable.ai/workspace)
+
+- [Midjourney Prompts Generator for Notion - Philipp Stelzel | Digital Product Creator](https://philipp-stelzel.com/en/midjourney-prompts-generator/)
+
+- [Ordinary Prompts for Ordinary People. No more Garbage In, Garbage Out in Front of ChatGPT.](https://www.ordinarypeopleprompts.com/)
+
+- [OSX](https://raindrop.io/whoisdsmith/osx-29092243)
+
+- [Petals – Decentralized platform for running 100B+ language models](https://petals.ml/)
+
+- [Plain English Text Analyzer Tool - Textbuddy.com](https://textbuddy.com/)
+
+- [Pliny](https://pliny.app/)
+
+- [Posts | Artificial Genie](https://www.artificialgenie.ai/)
+
+- [Prompt Silo from Pheeds.com](https://pheeds.com/PromptSilo.php)
+
+- [PromptExtend - Extend or Generate Ai Art Prompts.](https://www.promptextend.com/)
+
+- [Promptstacks - ChatGPT Prompt Engineering Community](https://www.promptstacks.com/)
+
+- [SD RESOURCE GOLDMINE](https://rentry.org/sdgoldmine)
+
+- [Simplified | One app to design, collaborate and scale](https://app.simplified.com/design)
+
+- [Uranus AI](https://uranus.ai/)
+
+- [Writers brew AI for macOS](https://writersbrew.app/#)
+
+- [WTF DOES THIS COMPANY DO](https://wtfdoesthiscompanydo.vercel.app/)
+
+---
+
+## Resources 
+
+- [Ai Business Tool – Find the best AI tools to help you build your next awesome project faster and easier.](https://aibusinesstool.com/)
+
+- [AI Tool MAster List](https://share-docs.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207)
+
+- [AIcyclopedia | The largest AI encyclopedia](https://www.aicyclopedia.com/)
+
+- [All Things AI - The Complete Resource Of Artificial Intelligence Tools & Services](https://allthingsai.com/)
+
+- [Discover Innovative AI Solutions - Top AI Startups](https://topaistartups.com/)
+
+- [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
+
+- [Futurepedia](https://www.futurepedia.io/)
+
+- [Home - AI Tool Tracker](https://aitooltracker.com/)
+
+- [Igniter.ai](https://www.igniter.ai/)
+
+- [The AI Warehouse](https://www.thewarehouse.ai/)
+
+- [There's An AI For That](https://theresanaiforthat.com/)
+
+- [ToolScout - Discover New AI Tools | Home](https://toolscout.ai/)
+
+- [topai.tools](https://topai.tools/)
 
 
 ---
