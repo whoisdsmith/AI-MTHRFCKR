@@ -86,7 +86,6 @@
 - [AI Art Apps](https://www.aiartapps.com/) - A Platform That Provides AI Tools To Create Digital Art.
 - [Ai Sherpa](https://aisherpa.super.site/) - A Resource For Learning About AI And Its Applications.
 - [All Search AI](https://www.allsearch.ai/) - A Search Engine That Provides Results From Multiple Sources.
-- [All Things AI](https://allthingsai.com/) - A Blog That Provides Updates And Insights On AI Technology.
 - [Analysis Tools](https://analysis-tools.dev/) - A Platform That Provides Online Tools For Data Analysis.
 - [Artificial Genie](https://www.artificialgenie.ai/) - AI-powered Platform For Automating Writing And Content Creation.
 - [ArXiv Feed](https://arxiv-feed.vercel.app/) - A Platform That Provides Access To Recent Papers On ArXiv.
