@@ -183,7 +183,6 @@
 - [Feeds.buzzsprout.com/520474](https://feeds.buzzsprout.com/520474): A Podcast Called "Data Science At Home", Where The Host Francesco Gadaleta Discusses Machine Learning And Artificial Intelligence From A Practitioner's Perspective.
 - [Felvin.com](https://felvin.com/): An AI-based Language Learning Platform That Uses Natural Language Processing (NLP) And Machine Learning (ML) Techniques To Help You Learn New Languages More Effectively.
 - [Fig.io/user-manual/ai](https://fig.io/user-manual/ai): A User Manual For Fig, An AI-powered Autocomplete Tool For Developers That Uses Machine Learning To Suggest Code Snippets And Functions.
-- [Fireflies.ai](https://fireflies.ai/): An AI-powered Virtual Assistant That Automatically Transcribes And Summarizes Your Meetings, Syncs Them To Your Calendar, And Creates Action Items For You.
 - [Flair.ai](https://flair.ai/): An NLP Library For Python That Allows You To Easily Train Your Own Text Classification Models Using State-of-the-art Techniques.
 - [Forethought.ai](https://forethought.ai/): A Platform That Uses AI To Help Customer Support Teams Quickly And Accurately Respond To Customer Inquiries.
 - [G3d.ai](https://g3d.ai/): A Platform That Allows You To Create 3D Models Of Real-world Objects Using Your Smartphone's Camera And AI.
