@@ -1,6 +1,6 @@
-# List of architectures
+# List Of Architectures
 
-Please refer to the list of useful acronyms used in deep learning and music: [acronyms.md](AI-Music/awesome-deep-learning-music-master/acronyms.md).
+Please Refer To The List Of Useful Acronyms Used In Deep Learning And Music: [Acronyms.md](AI-Music/awesome-deep-learning-music-master/acronyms.md).
 
 - ANN
 - ARNN
@@ -31,4 +31,4 @@ Please refer to the list of useful acronyms used in deep learning and music: [ac
 - Transformer
 - U-Net
 - VPNN
-- tensor2tensor
+- Tensor2tensor

@@ -2,58 +2,60 @@
 
 ---
 
-Classify the audios. In this repo, I train a model on [UrbanSound8K][data-urban] dataset,  
-and achieve about `80%` accuracy on test dataset.
+Classify The Audios. In This Repo, I Train A Model On [UrbanSound8K][data-urban] Dataset,  
+And Achieve About `80%` Accuracy On Test Dataset.
 
-There is a pre-trained model in [urban_sound_train][i-ckpt], trained epoch is `1000`
+There Is A Pre-trained Model In [Urban_sound_train][i-ckpt], Trained Epoch Is `1000`
 
 ## Usage
 
-- [`audio_train.py`][i-train]: Train audio model from scratch or restore from checkpoint.
-- [`audio_params.py`][i-params]: Configuration for training a model.
-- [`audio_inference_demo.py`][i-demo]: Demo for test the trained model.
-- [`./audio/*`][i-audio]: Dependencies of training, model and datasets.
-- [`./vggish/*`][i-vggish]: Dependencies of [VGGish][tool-vggish] for feature extracting.
+- [`Audio_train.py`][i-train]: Train Audio Model From Scratch Or Restore From Checkpoint.
+- [`Audio_params.py`][i-params]: Configuration For Training A Model.
+- [`Audio_inference_demo.py`][i-demo]: Demo For Test The Trained Model.
+- [`./Audio/*`][i-audio]: Dependencies Of Training, Model And Datasets.
+- [`./Vggish/*`][i-vggish]: Dependencies Of [VGGish][tool-vggish] For Feature Extracting.
 
-### Env setup
+### Env Setup
 
-Conda are recommended, just need one line: `conda env create -f conda.env.yml`
+Conda Are Recommended, Just Need One Line: `Conda Env Create -F Conda.env.yml`
 
 ### Train & Test
 
-1. Config parameters: `audio_params.py`.
-2. Train the model: `python audio_train.py`. (It will **create tfrecords automatically** if not exists)
-3. Check the training process from tensorboard: `tensorboard --logdir=./data/tensorboard`
-4. Test the model: `python audio_inference_demo.py`.
+1. Config Parameters: `Audio_params.py`.
+2. Train The Model: `Python Audio_train.py`. (It Will **Create Tfrecords Automatically** If Not Exists)
+3. Check The Training Process From Tensorboard: `Tensorboard --Logdir=./data/tensorboard`
+4. Test The Model: `Python Audio_inference_demo.py`.
 
 ### Tools
 
 - [TensorFlow: VGGish][tool-vggish]
 - [Google AudioSet][tool-as]
-    - [VGGish model checkpoint][tool-as-ckpt]
-    - [Embedding PCA parameters][tool-as-pca]
-- [pyAudioAnalysis][tool-pyaa](Ref.)
+    - [VGGish Model Checkpoint][tool-as-ckpt]
+    - [Embedding PCA Parameters][tool-as-pca]
+- [PyAudioAnalysis][tool-pyaa](Ref.)
 
 ### Dataset
 
-- [urban sound dataset][data-urban]
+- [Urban Sound Dataset][data-urban]
 
 ### Ref. Blogs
 
-- [AudioSet: An ontology and human-labelled dataset for audio events][blog-as]
-- [CNN Architectures for Large-Scale Audio Classification][blog-accnn]
+- [AudioSet: An Ontology And Human-labelled Dataset For Audio Events][blog-as]
+- [CNN Architectures For Large-Scale Audio Classification][blog-accnn]
 
-[i-train]: ./audio_train.py
-[i-params]: ./audio_params.py
-[i-demo]: ./audio_inference_demo.py
-[i-audio]: ./audio
-[i-vggish]: ./vggish
-[i-ckpt]: ./data/train/urban_sound_train
-[tool-vggish]: https://github.com/tensorflow/models/tree/master/research/audioset
-[tool-pyaa]: https://github.com/tyiannak/pyAudioAnalysis
-[tool-as]: https://research.google.com/audioset/index.html
-[tool-as-ckpt]: https://storage.googleapis.com/audioset/vggish_model.ckpt
-[tool-as-pca]: https://storage.googleapis.com/audioset/vggish_pca_params.npz
-[data-urban]: https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html
-[blog-as]: https://research.google.com/pubs/pub45857.html
-[blog-accnn]: https://research.google.com/pubs/pub45611.html
+[I-train]: ./Audio_train.py
+[I-params]: ./Audio_params.py
+[I-demo]: ./Audio_inference_demo.py
+[I-audio]: ./Audio
+[I-vggish]: ./Vggish
+[I-ckpt]: ./Data/train/urban_sound_train
+[Tool-vggish]: Https://github.com/tensorflow/models/tree/master/research/audioset
+[Tool-pyaa]: Https://github.com/tyiannak/pyAudioAnalysis
+[Tool-as]: Https://research.google.com/audioset/index.html
+[Tool-as-ckpt]: Https://storage.googleapis.com/audioset/vggish_model.ckpt
+[Tool-as-pca]: Https://storage.googleapis.com/audioset/vggish_pca_params.npz
+[Data-urban]: Https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html
+[Blog-as]: Https://research.google.com/pubs/pub45857.html
+[Blog-accnn]: Https://research.google.com/pubs/pub45611.html
+
+---

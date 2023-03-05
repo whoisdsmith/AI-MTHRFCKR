@@ -156,7 +156,7 @@
 - [Dream Page](https://dream.page/) - A Platform That Uses AI To Help Individuals And Businesses Create And Optimize Landing Pages, Providing Templates And Tools For Design And Optimization.
 - [Dreampic AI](https://dreampic.ai/) - A Platform That Uses AI To Generate Images And Illustrations Based On Written Descriptions, Allowing Users To Bring Their Ideas To Life Visually.
 - [Dr. PeperMD Podcast](https://drpepermd.com/podcast-2/) - A Podcast That Explores The Latest Trends And Research In Healthcare And Medicine, Featuring Interviews With Experts In The Field.
-- [DubVerse AI](https://dubverse.ai/) - A Platform That Uses AI To Help Musicians And Producers Create And Remix Music, Providing Tools For Beatmatching, Key Detection, And More.
+- [DubVerse AI](https://dubverse.ai/) - A Platform That Uses AI To Help Musicians And Producers Create And Remix Music, Providing Tools For Beatmatching, Key Detection, And More. #music
 - [Durable AI](https://durable.ai/) - A Platform That Provides AI-powered Tools For Natural Language Processing And Understanding, Allowing Businesses To Automate Customer Service And Other Interactions.
 - [Durable](https://durable.co/) - A Platform That Provides Tools For Creating And Managing Decentralized Applications (DApps) On The Blockchain, Allowing Developers To Create Secure And Scalable Applications.
 - [Dust](https://dust.tt/whoisdsmith/apps) - A Messaging App That Uses AI To Provide Disappearing Messages And Other Privacy-focused Features, Allowing Users To Communicate Securely And Anonymously.
@@ -289,7 +289,7 @@
 - [Mindmatters.ai/podcast](https://mindmatters.ai/podcast/)- Mind Matters Is A Podcast That Explores The Intersection Of Technology, AI, And Human Consciousness.
 - [Mintlify.com](https://mintlify.com/)- Mintlify Is An AI-powered Web Development Platform That Helps Users To Create Responsive Websites And Web Applications With Ease.
 - [Missiveapp.com](https://missiveapp.com/)- Missive Is An AI-powered Team Communication Tool That Allows Teams To Collaborate And Communicate More Efficiently Across Email, Chat, And Tasks.
-- [Mixpeek.com](https://mixpeek.com/)- Mixpeek Is An AI-powered Music Discovery Platform That Helps Users To Discover New Music Based On Their Personal Preferences.
+- [Mixpeek.com](https://mixpeek.com/)- Mixpeek Is An AI-powered Music Discovery Platform That Helps Users To Discover New Music Based On Their Personal Preferences. #music 
 - [Mmcventures.libsyn.com](https://mmcventures.libsyn.com/)- MMC Ventures Is A Venture Capital Firm That Hosts A Podcast Featuring Conversations With Experts On The Latest Trends And Developments In The Tech Industry.
 - [Moonbeam.ai](https://moonbeam.ai/)- Moonbeam Is An AI-powered Video Creation Platform That Allows Users To Create Engaging And Professional-looking Videos In Minutes.
 - [Movietoemoji.netlify.app/#/](https://movietoemoji.netlify.app/#/)- Movie To Emoji Is A Fun And Interactive Game That Challenges Users To Guess The Name Of A Movie Based On A Series Of Emojis.
@@ -1662,7 +1662,6 @@
 - [Aiva](http://aiva.ai) - The AI Composing Emotional Soundtrack Music
 - [Amadeus Code](http://amadeuscode.com) - A Music Composition Tool Powered By AI
 - [Amper AI](http://www.ampermusic.com) - AI Music Composition Tools For Content Creators. Amper Is An AI Music Composition Company That Develops Tools For Content Creators Of All Kinds.
-- [Ampermusic.com](https://www.ampermusic.com/) - A Website Offering AI-powered Music Composition Services.
 - [Artistator](http://artistator.com) - Generate Artist Names Of Your Favourite Music Genres.  
 - [Beatoven AI](https://www.beatoven.ai/) - Beatoven Is A Platform That Enables Users To Create Custom Music With AI.
 - [Boomy](https://boomy.com/) - Boomy Is An AI-powered Music Composition And Mixing Tool.

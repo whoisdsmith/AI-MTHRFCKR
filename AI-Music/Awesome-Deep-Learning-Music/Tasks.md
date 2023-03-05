@@ -1,38 +1,38 @@
-# List of tasks
+# List Of Tasks
 
-Please refer to the list of useful acronyms used in deep learning and music: [acronyms.md](AI-Music/awesome-deep-learning-music-master/acronyms.md).
+Please Refer To The List Of Useful Acronyms Used In Deep Learning And Music: [Acronyms.md](AI-Music/awesome-deep-learning-music-master/acronyms.md).
 
-- Artist recognition
-- Audio generation
-- Beat detection
-- Boundary detection
-- Chord recognition
+- Artist Recognition
+- Audio Generation
+- Beat Detection
+- Boundary Detection
+- Chord Recognition
 - Comparison
 - Composition
-- DCASE 2016 Task 4 Domestic audio tagging
-- Event recognition
+- DCASE 2016 Task 4 Domestic Audio Tagging
+- Event Recognition
 - F0
-- General audio classification
-- Instrument recognition
+- General Audio Classification
+- Instrument Recognition
 - MER
 - MGR
 - MSR
 - Manifesto
 - Mixing
-- Music/Noise segmentation
-- Noise suppression
-- Onset detection
-- Pitch determination
-- Playlist generation
-- Polyphonic music sequence modelling
+- Music/Noise Segmentation
+- Noise Suppression
+- Onset Detection
+- Pitch Determination
+- Playlist Generation
+- Polyphonic Music Sequence Modelling
 - Recommendation
 - Remixing
 - Review
 - SVD
 - SVS
-- Source separation
-- Speaker gender recognition
+- Source Separation
+- Speaker Gender Recognition
 - Survey
-- Syllable segmentation
+- Syllable Segmentation
 - Transcription
 - VAD

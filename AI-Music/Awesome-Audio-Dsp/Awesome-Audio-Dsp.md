@@ -1,35 +1,35 @@
 # Awesome Audio DSP
 
-My curated list of audio DSP (digital signal processing) and plugin development resources. New resources may be added in the future. Feel free to open a PR if you wish!
+My Curated List Of Audio DSP (Digital Signal Processing) And Plugin Development Resources. New Resources May Be Added In The Future. Feel Free To Open A PR If You Wish!
 
-- [`Free Online Textbooks & Courses`] - A list of free online textbooks and courses on audio DSP.
-- [`Paid Textbooks`] - A list of non-free textbooks on audio DSP.
-- [`DSP Playgrounds`] - Software tools that are useful for quickly and easily prototyping DSP.
-- [`Mathematics`] - Learning resources and tools for the mathematics of audio DSP.
-- [`Algorithms & Technical Papers`] - A list of useful articles, blogs, and scientific papers on modern algorithms and techniques for audio DSP.
-- [`Electronics & Embedded`] - Resources for developing analog and embedded hardware systems.
-- [`Machine Learning`] - Resources on using this powerful emerging technology for audio DSP.
-- [`Open Source Plugins & Software`] - A list of open source audio software that you can inspect and learn from.
-- [`DSP Cookbooks`] - A list of ready-made libraries and algorithms for audio DSP.
-- [`Sound Design & Music Production`] - While this is not *strictly* development related, knowing how plugins are actually used to make and edit sound can give valuable insight.
-- [`Software Optimization`] - Tips and tools for optimizing audio software.
-- [`System Tools`] - A list of system tools useful in developing audio plugins and software.
-- [`Low-Level Programming Languages`] - A list of low-level programming languages used to make audio software, along with their pros and cons.
-- [`Plugin APIs`] - A list of audio plugin APIs/specs along with their pros and cons.
-- [`Plugin Development Frameworks`] - A list of software stacks/frameworks used to make audio plugins, along with their pros and cons.
-- [`Forums`] - A list of audio-development-related forums you can join.
-- [`More Lists`] - Here I'll link curated lists of resources that others have made.
+- [`Free Online Textbooks & Courses`] - A List Of Free Online Textbooks And Courses On Audio DSP.
+- [`Paid Textbooks`] - A List Of Non-free Textbooks On Audio DSP.
+- [`DSP Playgrounds`] - Software Tools That Are Useful For Quickly And Easily Prototyping DSP.
+- [`Mathematics`] - Learning Resources And Tools For The Mathematics Of Audio DSP.
+- [`Algorithms & Technical Papers`] - A List Of Useful Articles, Blogs, And Scientific Papers On Modern Algorithms And Techniques For Audio DSP.
+- [`Electronics & Embedded`] - Resources For Developing Analog And Embedded Hardware Systems.
+- [`Machine Learning`] - Resources On Using This Powerful Emerging Technology For Audio DSP.
+- [`Open Source Plugins & Software`] - A List Of Open Source Audio Software That You Can Inspect And Learn From.
+- [`DSP Cookbooks`] - A List Of Ready-made Libraries And Algorithms For Audio DSP.
+- [`Sound Design & Music Production`] - While This Is Not *Strictly* Development Related, Knowing How Plugins Are Actually Used To Make And Edit Sound Can Give Valuable Insight.
+- [`Software Optimization`] - Tips And Tools For Optimizing Audio Software.
+- [`System Tools`] - A List Of System Tools Useful In Developing Audio Plugins And Software.
+- [`Low-Level Programming Languages`] - A List Of Low-level Programming Languages Used To Make Audio Software, Along With Their Pros And Cons.
+- [`Plugin APIs`] - A List Of Audio Plugin APIs/specs Along With Their Pros And Cons.
+- [`Plugin Development Frameworks`] - A List Of Software Stacks/frameworks Used To Make Audio Plugins, Along With Their Pros And Cons.
+- [`Forums`] - A List Of Audio-development-related Forums You Can Join.
+- [`More Lists`] - Here I'll Link Curated Lists Of Resources That Others Have Made.
 
-<hr/>
+<Hr/>
 
-## *"If I'm a total noob, where should I start?"*
+## *"If I'm A Total Noob, Where Should I Start?"*
 
-- [`project μ`]: An excellent and free online blog that neatly explains the basics of DSP.
-- [`Think DSP`]: A great free online book that teaches many fundamental DSP concepts using Python.
-- [`Designing Software Synthesizer Plug-Ins in C++`] and [`Designing Audio Effect Plugins in C++`] by Will Pirkle
-    - These textbooks are a common recommendation for beginners.
-    - The synthesizer one is better than the effect one imo, so go for that if you plan on only buying one.
-    - ISBN-10: 0367510480 and 1138591939, ISBN-13: 978-0367510480 and 978-1138591936
+- [`Project μ`]: An Excellent And Free Online Blog That Neatly Explains The Basics Of DSP.
+- [`Think DSP`]: A Great Free Online Book That Teaches Many Fundamental DSP Concepts Using Python.
+- [`Designing Software Synthesizer Plug-Ins In C++`] And [`Designing Audio Effect Plugins In C++`] By Will Pirkle
+    - These Textbooks Are A Common Recommendation For Beginners.
+    - The Synthesizer One Is Better Than The Effect One Imo, So Go For That If You Plan On Only Buying One.
+    - ISBN-10: 0367510480 And 1138591939, ISBN-13: 978-0367510480 And 978-1138591936
 
 [`Free Online Textbooks & Courses`]: FREE_ONLINE_TEXTBOOKS_AND_COURSES.md
 [`Paid Textbooks`]: PAID_TEXTBOOKS.md
@@ -48,7 +48,7 @@ My curated list of audio DSP (digital signal processing) and plugin development 
 [`Plugin Development Frameworks`]: PLUGIN_DEVELOPMENT_FRAMEWORKS.md
 [`Forums`]: FORUMS.md
 [`More Lists`]: MORE_LISTS.md
-[`project μ`]: https://mu.krj.st/
-[`Think DSP`]: https://github.com/AllenDowney/ThinkDSP
-[`Designing Software Synthesizer Plug-Ins in C++`]: https://www.amazon.com/Designing-Software-Synthesizer-Plug-Ins-Audio/dp/0367510480
-[`Designing Audio Effect Plugins in C++`]: https://www.amazon.com/Designing-Audio-Effect-Plugins-C/dp/1138591939
+[`Project μ`]: Https://mu.krj.st/
+[`Think DSP`]: Https://github.com/AllenDowney/ThinkDSP
+[`Designing Software Synthesizer Plug-Ins In C++`]: Https://www.amazon.com/Designing-Software-Synthesizer-Plug-Ins-Audio/dp/0367510480
+[`Designing Audio Effect Plugins In C++`]: Https://www.amazon.com/Designing-Audio-Effect-Plugins-C/dp/1138591939

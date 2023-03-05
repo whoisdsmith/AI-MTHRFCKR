@@ -1,19 +1,21 @@
-## AI-Infinity - A set of cutting-edge AI tools for experimenting with new ideas💡technologies🌐, and algorithms👨‍💻.
-<!-- MarkDown Badges -->
-![GitHub Repo stars](https://img.shields.io/github/stars/meetpateltech/AI-Infinity?style=social) 
-<a href='https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fmeetpateltech%2FAI-Infinity&text=If%20you%27re%20looking%20for%20the%20latest%20and%20greatest%20AI%20tools%2C%20you%20won%27t%20want%20to%20miss%20the%20AI%20Infinity%20GitHub%20repository.%20Check%20it%20out%20now%21' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Tweet-100000?style=flat-square&logo=Twitter&logoColor=1DA1F2&labelColor=DCE0DC&color=0399F6'/></a>
+# AI-Infinity
 
+---
+
+## AI-Infinity - A set of cutting-edge AI tools for experimenting with new ideas technologies, and algorithms
+
+![GitHub Repo stars](https://img.shields.io/github/stars/meetpateltech/AI-Infinity?style=social)  
+<a href='https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fmeetpateltech%2FAI-Infinity&text=If%20you%27re%20looking%20for%20the%20latest%20and%20greatest%20AI%20tools%2C%20you%20won%27t%20want%20to%20miss%20the%20AI%20Infinity%20GitHub%20repository.%20Check%20it%20out%20now%21' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Tweet-100000?style=flat-square&logo=Twitter&logoColor=1DA1F2&labelColor=DCE0DC&color=0399F6'/></a>
 
 > We are excited to share our AI tools list with the community and we would greatly appreciate your support! Read FAQs [Here](https://fentolia.github.io/FAQ/)
 
- 
-
 > Submit New Tool [Here](https://forms.gle/Ze6pdWzmweCfKWnLA) or go to GitHub issues and submit there. Share your thoughts and help us improve! Submit your feedback and suggestions [here](https://forms.gle/5jU4u2kuWh2AocjU6)
 
-### Categories :
+### Categories
+
 [AI Detection 🕵️](#ai-detection) | [Audio 📣](#audio) | [Avatars 👤](#avatars) | [Chat 💬](#chat) | [Coding 🖥️](#coding-tools) | [Copywriting ⌨️](#copywriting) | [Customer Support 💁](#customer-support) | [Design Assistant 🎨](#design-assistant) | [Developer 👨‍💻](#developer-tools) | [Education 👨‍🏫️](#education) | [Email 📧](#email-assistant) | [Fashion 👜](#fashion) | [Gift Ideas 🎁](#gift-ideas) | [Healthcare 🏥](#healthcare) | [Image Editing 📷](#image-editing) | [Image Generator 🖼️](#image-generator) | [Legal Assistant ⚖️](#legal-assistant) | [Logo Generator 👨‍🎨️](#logo-generator) | [Music 🎵](#music) | [Paraphraser 📝](#paraphraser) | [Personalised Video 📼](#personalised-video) | [Presentation 📖](#presentation) | [Productivity 💻](#productivity) | [Prompts 💭](#prompts) | [Real Estate 🏠](#real-estate) | [Research 🔬](#research) | [Search Engine 🔍](#search-engine) | [SEO 🌐](#seo) | [Social Media Assistant 📱](#social-media-assistant) | [Spreadsheets 🗂️](#spreadsheets) | [Summarizer 📃](#summarizer) | [Text To Speech 📜🎙️](#text-to-speech) | [Transcriber 🎧](#transcriber) | [Video Editing 📽️](#video-editing) | [Video Generator 📹](#video-generator)
 
-### •AI Detection:
+### •AI Detection
 
 [BusterAI](https://aiinfinity.blogspot.com/p/ai-detection-busterai.html) - Is your text written by a human or AI? Uncover the truth with BusterAI.
 
@@ -21,7 +23,7 @@
 
 [GLTR AI Detection](https://aiinfinity.blogspot.com/p/ai-detectiongltr.html) - Catching a Unicorn with GLTR: A tool to detect automatically generated text.
 
-[GPTZero](https://aiinfinity.blogspot.com/p/ai-detectiongptzero.html),[Other](https://etedward-gptzero-main-zqgfwb.streamlit.app/) - GPTZero turns the very technologies used to build ChatGPT around — to detect AI
+[GPTZero](https://aiinfinity.blogspot.com/p/ai-detectiongptzero.html),[Other](https://etedward-gptzero-main-zqgfwb.streamlit.app/) - GPTZero turns the very technologies used to build ChatGPT around—to detect AI
 
 [OpenAI Classifier](https://aiinfinity.blogspot.com/p/ai-detectionopenai-classifierai.html) - A classifier trained to distinguish between AI-written and human-written text.
 
@@ -31,7 +33,7 @@
 
 [ZeroGPT](https://aiinfinity.blogspot.com/p/ai-detectionzerogpt.html) - Detect chatGPT content for Free, simple way & High accuracy. OpenAI detection tool.
 
-### •Audio:
+### •Audio
 
 [Adobe Audition](https://aiinfinity.blogspot.com/p/audioadobe-audition.html) - Create, mix and design sound effects with the industry’s best digital audio editing software.
 
@@ -53,11 +55,11 @@
 
 [Podcast AI](https://aiinfinity.blogspot.com/p/audiopodcast-ai.html) - The AI-generated podcast.
 
-[Podcastle](https://aiinfinity.blogspot.com/p/audiopodcastle.html) - Studio-quality recording, AI-powered editing, and seamless exporting – all in a single web-based platform.
+[Podcastle](https://aiinfinity.blogspot.com/p/audiopodcastle.html) - Studio-quality recording, AI-powered editing, and seamless exporting–all in a single web-based platform.
 
 [VoiceMod](https://aiinfinity.blogspot.com/p/audiovoicemod.html) - Free Real-Time Voice Changer.
 
-### •Avatars:
+### •Avatars
 
 [AI Time Machine](https://aiinfinity.blogspot.com/p/avatarsai-time-machine.html) - Create and share mind-blowing AI avatars.
 
@@ -79,7 +81,7 @@
 
 [HairGen AI](https://aiinfinity.blogspot.com/p/avatarshairgenai.html) - See your hairline lowered with AI right now.
 
-[HairStyle AI](https://aiinfinity.blogspot.com/p/avatarshairstyleai.html) - Try new hairstyles
+[HairStyle AI](https://aiinfinity.blogspot.com/p/avatarshairstyleai.html) - Try new hairstyles  
 with the power of AI.
 
 [HeroPack](https://aiinfinity.blogspot.com/p/avatarsheropack.html) - Make gaming avatars with AI, inspired by video games.
@@ -98,7 +100,7 @@ with the power of AI.
 
 [PictoDream](https://aiinfinity.blogspot.com/p/avatarspictodream.html) - Generate any images of yourself (or another person) in any style or setting using a simple text description.
 
-[Profile Picture AI](https://aiinfinity.blogspot.com/p/avatarsprofile-picture-ai.html) - Create your perfect profile picture with AI.
+[Profile Picture AI](https://aiinfinity.blogspot.com/p/avatarsprofile-picture-ai.html) - Create your perfect profile picture with AI.  
 Choose Your Character, Create Magical Avatars.
 
 [ReadyPlayer Me](https://aiinfinity.blogspot.com/p/avatarsreadyplayer-me.html) - Cross-game Avatar Platform for the Metaverse.
@@ -109,7 +111,7 @@ Choose Your Character, Create Magical Avatars.
 
 [Vana](https://aiinfinity.blogspot.com/p/avatarsvana.html) - "Portrait” by Vana is a generative art studio that can create self-portraits of you in infinite styles.
 
-### •Chat:
+### •Chat
 
 [AskNow](https://aiinfinity.blogspot.com/p/chatasknow.html) - Ask Anyone, Anything.
 
@@ -121,11 +123,11 @@ Choose Your Character, Create Magical Avatars.
 
 [Context](https://aiinfinity.blogspot.com/p/chatcontext.html) - Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.
 
-[Didi AI](https://aiinfinity.blogspot.com/p/chatdidi-ai.html) - Didi AI is a digital diviner that can be consulted to answer questions based on artificial intelligence.
+[Didi AI](https://aiinfinity.blogspot.com/p/chatdidi-ai.html) - Did AI is a digital diviner that can be consulted to answer questions based on artificial intelligence.
 
 [Hello History](https://aiinfinity.blogspot.com/p/chathello-history.html) - Chat with AI generated historical figures.
 
-### •Coding Tools:
+### •Coding Tools
 
 [AI CLI](https://aiinfinity.blogspot.com/p/codingai-cli.html) - Get answers for CLI commands from GPT3 right from your terminal.
 
@@ -191,7 +193,7 @@ Choose Your Character, Create Magical Avatars.
 
 [What the diff](https://aiinfinity.blogspot.com/p/codingwhat-diff.html) - Your AI-powered code review assistant.
 
-### •CopyWriting:
+### •CopyWriting
 
 [Adcreative AI](https://aiinfinity.blogspot.com/p/copywritingadcreative-ai.html) - Generate conversion focused ad creatives and social media post creatives in a matter of seconds using Artificial Intelligence.
 
@@ -203,14 +205,16 @@ Choose Your Character, Create Magical Avatars.
 
 [Botowski](https://aiinfinity.blogspot.com/p/copywritingbotowski.html) - Botowski is an AI content generator that can be used by copywriters, business owners, and others to create high-quality content. It can create articles, blog posts, and even essays on a variety of topics. Botowski is designed to be user-friendly; all you need to do is input a topic, and it will take care of the rest.
 
-[Closers Copy](https://aiinfinity.blogspot.com/p/copywritingclosers-copy.html) - Leverage the secrets of the most powerful copy in the world...and let your copywriting robot bring them to life!
+[Closers Copy](https://aiinfinity.blogspot.com/p/copywritingclosers-copy.html) - Leverage the secrets of the most powerful copy in the world…and let your copywriting robot bring them to life!
 
 [Contents](https://aiinfinity.blogspot.com/p/copywritingcontents.html) - The Generative AI platform to make content creation easy and built for performance.
 
 [Copy.ai](https://aiinfinity.blogspot.com/p/copywritingcopy-ai.html) - Leverage AI to write your content and copy in minutes.Generate high-converting copy for all your campaigns with just a few clicks.
 
 [Copymatic](https://aiinfinity.blogspot.com/p/copywritingcopymatic.html) -Generate Content, Copy & Images with AI Use AI to boost your traffic and save hours of work.Automatically write unique, engaging and high-quality copy or content: from long-form blog posts or landing pages to digital ads in seconds.
+
  
+
 [CopyMonkey](https://aiinfinity.blogspot.com/p/copywritingcopymonkey.html) - CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page.
 
 [Copysmith](https://aiinfinity.blogspot.com/p/copywritingcopysmith.html) - Copysmith is the AI content creation solution for Enterprise & eCommerce.
@@ -221,7 +225,7 @@ Choose Your Character, Create Magical Avatars.
 
 [Daydrm AI](https://aiinfinity.blogspot.com/p/copywritingdaydrm-ai.html) - AI tool for creative advertising ideas
 
-[DigitalFirst AI](https://aiinfinity.blogspot.com/p/copywritingdigitalfirst-ai.html) - Find the best growth-hacking tactics for your business with AI
+[DigitalFirst AI](https://aiinfinity.blogspot.com/p/copywritingdigitalfirst-ai.html) - Find the best growth-hacking tactics for your business with AI  
 Switch marketing to autopilot and grow.
 
 [Easy-Peasy AI](https://aiinfinity.blogspot.com/p/copywritingeasy-peasy-ai.html) - Easy-Peasy.AI is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
@@ -250,11 +254,11 @@ Switch marketing to autopilot and grow.
 
 [Simplified](https://aiinfinity.blogspot.com/p/copywritingsimplified.html) - Generate 50+ types of copy in seconds with the AI Writer. Write unique & plagiarism-free content for blogs, articles, ads, products, websites & social media.
 
-[Texti](https://aiinfinity.blogspot.com/p/copywritingtexti.html) - AI that lives in your browser! It will cooperate with you to boost  your content quality!
+[Texti](https://aiinfinity.blogspot.com/p/copywritingtexti.html) - AI that lives in your browser! It will cooperate with you to boost your content quality!
 
 [Typli](https://aiinfinity.blogspot.com/p/copywritingtypli.html) - The most intuitive AI Content tool which combines AI Writing and an SEO Assistant.
 
-[unbounce](https://aiinfinity.blogspot.com/p/copywritingunbounce.html) - With Smart Copy, you'll be able to ideate, iterate, and write  custom, high-quality, engaging professional copy for your company, website, or blog quickly and easily. 
+[unbounce](https://aiinfinity.blogspot.com/p/copywritingunbounce.html) - With Smart Copy, you'll be able to ideate, iterate, and write custom, high-quality, engaging professional copy for your company, website, or blog quickly and easily.
 
 [Unbound](https://aiinfinity.blogspot.com/p/copywritingunbound.html) - Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators.
 
@@ -266,7 +270,7 @@ Switch marketing to autopilot and grow.
 
 [WordTune](https://aiinfinity.blogspot.com/p/copywritingwordtune.html) - Your thoughts in words! Say exactly what you mean through clear, compelling and authentic writing.
 
-### •Customer Support:
+### •Customer Support
 
 [Adobe Sensei](https://aiinfinity.blogspot.com/p/customer-supportadobe-sensei.html) - Designing and delivering the perfect customer experience can be complicated. Sensei uses AI and machine learning to make it easier.
 
@@ -308,7 +312,7 @@ Switch marketing to autopilot and grow.
 
 [viable](https://aiinfinity.blogspot.com/p/customer-supportviable.html) - Save hundreds of hours analyzing feedback.Harness the power of our AI and GPT-3 to automate your qualitative data analysis without compromising quality.
 
-### •Design Assistant:
+### •Design Assistant
 
 [AI2image](https://aiinfinity.blogspot.com/p/design-assistantai2image.html) - You can generate images for your website,blogs or social media from a simple description in English.
 
@@ -332,11 +336,13 @@ Switch marketing to autopilot and grow.
 
 [IconifyAI](https://aiinfinity.blogspot.com/p/design-assistanticonifyai.html) - Elevate your app's design with AI-generated app icons!
 
-[IllostrationAI](https://aiinfinity.blogspot.com/p/design-assistantillustration-ai.html) - Create AI-generated illustrations.
+[IllostrationAI](https://aiinfinity.blogspot.com/p/design-assistantillustration-ai.html) - Create AI-generated illustrations.  
 Uniqueness in seconds.
 
 [Illustroke](https://aiinfinity.blogspot.com/p/design-assistantillustroke.html) - Stunning vector illustrations from text prompts.
+
   
+
 [Magician (Figma)](https://aiinfinity.blogspot.com/p/design-assistantmagicianfigma.html) - A magical design tool for Figma powered by AI.
 
 [Microsoft Designer](https://aiinfinity.blogspot.com/p/design-assistantmicrosoft-designer.html) - Stunning design in a flash with Microsoft Designer.
@@ -344,7 +350,9 @@ Uniqueness in seconds.
 [Pattern Maker AI](https://aiinfinity.blogspot.com/p/design-assistantpattern-maker-ai.html) - Generate beautiful pattern concepts using Artificial Intelligence.
 
 [Patterned AI](https://aiinfinity.blogspot.com/p/design-assistantpatterned-ai.html) - Generate unique patterns for your product using AI!
+
  
+
 [Photoroom](https://aiinfinity.blogspot.com/p/design-assistantphotoroom.html) - Create professional designs for free with our all-in-one creative photo editing platform.
 
 [Pictorial](https://aiinfinity.blogspot.com/p/design-assistantpictorial.html) - Effortlessly create graphics for your ads/blog/website.
@@ -363,22 +371,22 @@ Uniqueness in seconds.
 
 [Vizcom](https://aiinfinity.blogspot.com/p/design-assistantvizcom.html) - AI tools to express your creativity!
 
-### •Developer Tools:
+### •Developer Tools
 
-[AutoRegex](https://aiinfinity.blogspot.com/p/developerautoregx.html) - Effortless conversions from English to Regex! Regex is difficult to write and comprehend to the average human. 
+[AutoRegex](https://aiinfinity.blogspot.com/p/developerautoregx.html) - Effortless conversions from English to Regex! Regex is difficult to write and comprehend to the average human.
 
-[Chatbotkit](https://aiinfinity.blogspot.com/p/developerchatbotkit.html) - The simplest way to buildadvanced AI chat bots.
+[Chatbotkit](https://aiinfinity.blogspot.com/p/developerchatbotkit.html) - The simplest way to buildadvanced AI chat bots.  
 Platform makes it easy for developers and non-developers alike to build chatbots that can communicate with users in natural language
 
 [Convai](https://aiinfinity.blogspot.com/p/developerconvai.html) - Design your conversation based Characters and Speech based games.
 
-[CSM](https://aiinfinity.blogspot.com/p/developercsm.html) - Common Sense Machines provides APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation. 
+[CSM](https://aiinfinity.blogspot.com/p/developercsm.html) - Common Sense Machines provides APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation.
 
 [Dust](https://aiinfinity.blogspot.com/p/developerdust.html) - Design and Deploy Large Language Model Apps.
 
 [GptDuck](https://aiinfinity.blogspot.com/p/developergptduck.html) - GPTDuck is a tool that helps you find the answer to your questions about a Github repository.
 
-[GPUX AI](https://aiinfinity.blogspot.com/p/developergpux-ai.html) - Deploy 'X' Fast.Run anything Dockerized
+[GPUX AI](https://aiinfinity.blogspot.com/p/developergpux-ai.html) - Deploy 'X' Fast.Run anything Dockerized  
 Run autoscale Inference!
 
 [HTTPie AI](https://aiinfinity.blogspot.com/p/developerhttpie-ai.html) - HTTPie is making APIs simple and intuitive for those building the tools of our time.
@@ -391,15 +399,15 @@ Run autoscale Inference!
 
 [Mintlify](https://aiinfinity.blogspot.com/p/developermintlify.html) - Build the documentation you've always wanted. Beautiful out of the box, easy to maintain, and optimized for user engagement.
 
-[Nuclia](https://aiinfinity.blogspot.com/p/developernuclia.html) - The AI search engine delivering the right answers from your data!
+[Nuclia](https://aiinfinity.blogspot.com/p/developernuclia.html) - The AI search engine delivering the right answers from your data!  
 Effortless integration. For any data, including video, wherever it is. 
 
 [Pipeline AI](https://aiinfinity.blogspot.com/p/developerpipeline-ai.html) - Serverless GPU inference for ML models! Pay-per-millisecond API to run ML in production.
 
 [PromptLayer](https://aiinfinity.blogspot.com/p/developerpromptlayer.html) - The first platform built for prompt engineers! Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
 
-[Retune](https://aiinfinity.blogspot.com/p/developerretune.html) - The missing frontend for GPT-3
-Build GPT-3 powered apps,
+[Retune](https://aiinfinity.blogspot.com/p/developerretune.html) - The missing frontend for GPT-3  
+Build GPT-3 powered apps,  
 without writing any code.
 
 [Riku AI](https://aiinfinity.blogspot.com/p/developerriku-ai.html) - Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.
@@ -422,7 +430,7 @@ without writing any code.
 
 [Valyr](https://aiinfinity.blogspot.com/p/developervalyr.html) - Simplify GPT-3 monitoring with one line of code.
 
-### •Education:
+### •Education
 
 [Caktus](https://aiinfinity.blogspot.com/p/educationcaktus.html) - Writing,Coding,CV,Resume Maker!
 
@@ -434,7 +442,7 @@ without writing any code.
 
 [Yip](https://aiinfinity.blogspot.com/p/educationyip.html) - Enter your Notes or any URL and Yip 🤖 will generate a quiz automatically from them.
 
-### •Email Assistant:
+### •Email Assistant
 
 [ChatGPT Writer](https://aiinfinity.blogspot.com/p/email-assistantchatgpt-writer.html) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.
 
@@ -476,13 +484,12 @@ without writing any code.
 
 [Postaga](https://aiinfinity.blogspot.com/p/email-assistantpostaga.html) - No one likes to receive template emails. Postaga’s all-in-one outreach platform helps you build personalized outreach campaigns, with AI-powered tools to connect you with the right people.
 
-[Quicklines](https://aiinfinity.blogspot.com/p/email-assistantquicklines.html) - Quicklines helps you 
+[Quicklines](https://aiinfinity.blogspot.com/p/email-assistantquicklines.html) - Quicklines helps you  
 create personalized cold emails that get more replies at scale.
 
 [Regie](https://aiinfinity.blogspot.com/p/email-assistantregie.html) - Regie.ai is your all-in-one content creation and management system.
 
 [Reply IO](https://aiinfinity.blogspot.com/p/email-assistantreply-io.html) - Generate human-like sales emails in seconds! Sales Email Assistant by Reply.io is an AI-powered tool that helps you create 100% human-like emails in seconds while focusing on personalization.
-
 
 [Robin](https://aiinfinity.blogspot.com/p/email-assistantrobin.html) - Robin AI writes and sends emails from your email address, adjusting the copy based on the lead information.
 
@@ -492,17 +499,17 @@ create personalized cold emails that get more replies at scale.
 
 [Warmer AI](https://aiinfinity.blogspot.com/p/email-assistantwarmer-ai.html) - Sky rocket your cold emails with unique personalizations generated by AI.
 
-### •Fashion:
+### •Fashion
 
 [Botika](https://aiinfinity.blogspot.com/p/fashionbotika.html) - Reinvent fashion photoshoots! Generate an endless variety of hyper-realistic on-model photos. 10X faster, at a fraction of the costs.
 
-[Cala](https://aiinfinity.blogspot.com/p/fashioncala.html) - CALA is the leading fashion design interface that unifies the entire design process – from product ideation all the way through e-commerce enablement and order fulfillment – into a single digital platform. 
+[Cala](https://aiinfinity.blogspot.com/p/fashioncala.html) - CALA is the leading fashion design interface that unifies the entire design process–from product ideation all the way through e-commerce enablement and order fulfillment–into a single digital platform.
 
 [FashionAdvisorAI](https://aiinfinity.blogspot.com/p/fashionfashionadvisorai.html) - having trouble deciding what to wear with what? i had to so here i am writing about it.
 
 [VisualHound](https://aiinfinity.blogspot.com/p/fashionvisualhound.html) - Prototype your fashion design ideas with AI.
 
-### •Gift Ideas:
+### •Gift Ideas
 
 [Cool Gift Ideas](https://aiinfinity.blogspot.com/p/giftcool-gift-ideas.html) - Give the perfect gift! Discover creative gift ideas for anyone based on who they are.
 
@@ -514,22 +521,24 @@ create personalized cold emails that get more replies at scale.
 
 [Suggest Gift](https://aiinfinity.blogspot.com/p/giftsuggest-gift.html) - AI Powered Gift Suggestions!
 
-### •Healthcare:
+### •Healthcare
 
 [Cradle](https://cradle.bio/) - Cradle helps biologists design improved proteins in record time using powerful prediction algorithms and AI design suggestions.
 
 [Whisper AI](https://whisper.ai/) - Meet Whisper, the new hearing system that gets better over time.
 
-### •Image Editing:
+### •Image Editing
 
 [AI Image Enlarger](https://aiinfinity.blogspot.com/p/image-editingai-image-enlarger.html) - All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality.
 
-[Befunky](https://aiinfinity.blogspot.com/p/image-editingbefunky.html) - BeFunky has an amazing collection of tools and features for photo editing, collage making, and graphic design. 
+[Befunky](https://aiinfinity.blogspot.com/p/image-editingbefunky.html) - BeFunky has an amazing collection of tools and features for photo editing, collage making, and graphic design.
 
 [Bg Eraser](https://aiinfinity.blogspot.com/p/image-editingbg-eraser.html) - Remove objects and Clean up pics.
 
 [Bgsub](https://aiinfinity.blogspot.com/p/image-editingbgsub.html) - Automatically replace the background by AI!
+
  
+
 [Booth AI](https://aiinfinity.blogspot.com/p/image-editingbooth-ai.html) - Create pro quality product photography with AI.
 
 [Bria](https://aiinfinity.blogspot.com/p/image-editingbria.html) - The easiest way to find, create, and edit visuals content.
@@ -566,9 +575,9 @@ create personalized cold emails that get more replies at scale.
 
 [Visio Studio](https://aiinfinity.blogspot.com/p/image-editingvisio-studio.html) - Advanced background removal tool, powered by computer vision technology.
 
-### •Image Generator:
+### •Image Generator
 
-[Aragon-Image Generation](https://aiinfinity.blogspot.com/p/image-generatoraragon.html) - PROFESSIONAL HEADSHOTS
+[Aragon-Image Generation](https://aiinfinity.blogspot.com/p/image-generatoraragon.html) - PROFESSIONAL HEADSHOTS  
 WITHOUT THE HASSLE
 
 [Artssy](https://aiinfinity.blogspot.com/p/image-generatorartssy.html) - Create unique AI generated images in 1-click.
@@ -583,8 +592,8 @@ WITHOUT THE HASSLE
 
 [Diffusion Land](https://aiinfinity.blogspot.com/p/image-generatordiffusion-land.html) - Generate images with AI.
 
-[Dreamer](https://aiinfinity.blogspot.com/p/image-generatordreamer.html) - Are you using Notion?
-You want to use AI generated images without friction?
+[Dreamer](https://aiinfinity.blogspot.com/p/image-generatordreamer.html) - Are you using Notion?  
+You want to use AI generated images without friction?  
 SlashDreamer introduces a new command: /dream
 
 [Getalpaca](https://aiinfinity.blogspot.com/p/image-generatorgetalpaca.html) - Combining Human skill and AI generative power! Photoshop Plugin.
@@ -605,7 +614,7 @@ SlashDreamer introduces a new command: /dream
 
 [Xno AI](https://aiinfinity.blogspot.com/p/image-generatorxno-ai.html) - Text to Image Generator.
 
-### •Legal Assistant:
+### •Legal Assistant
 
 [Activazon](https://aiinfinity.blogspot.com/p/legal-assistantactivazon.html) - AI crime analytics for travellers and residence.
 
@@ -617,7 +626,7 @@ SlashDreamer introduces a new command: /dream
 
 [Spellbook](https://aiinfinity.blogspot.com/p/legal-assistantspellbook.html) - Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word.
 
-### •Logo Generator:
+### •Logo Generator
 
 [Brandmark](https://aiinfinity.blogspot.com/p/logobrandmark.html) - AI-powered design tools to get color and font ideas for your next logo project.
 
@@ -625,9 +634,9 @@ SlashDreamer introduces a new command: /dream
 
 [Make Logo AI](https://aiinfinity.blogspot.com/p/logomake-logo-ai.html) - Make Unique logos with AI.
 
-[Tailor Brands](https://aiinfinity.blogspot.com/p/logotailor-brands.html) -  Tailor brands logo creator uses AI to create custom logos in just a few clicks. 
+[Tailor Brands](https://aiinfinity.blogspot.com/p/logotailor-brands.html) - Tailor brands logo creator uses AI to create custom logos in just a few clicks.
 
-### •Music:
+### •Music
 
 [Aiva](https://aiinfinity.blogspot.com/p/musicaiva.html) - AIVA, the AI music composer that creates original & personalized music for your projects.
 
@@ -645,7 +654,7 @@ SlashDreamer introduces a new command: /dream
 
 [Harmonai](https://aiinfinity.blogspot.com/p/musicharmonai.html) - open-source generative audio tools to make music production more accessible and fun for everyone.
 
-[Jukebox](https://aiinfinity.blogspot.com/p/musicjukebox.html) - A neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. 
+[Jukebox](https://aiinfinity.blogspot.com/p/musicjukebox.html) - A neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles.
 
 [Mubert](https://aiinfinity.blogspot.com/p/musicmubert.html) - Worldwide copyright-protected AI-generated music via API.
 
@@ -659,7 +668,7 @@ SlashDreamer introduces a new command: /dream
 
 [Splash](https://aiinfinity.blogspot.com/p/musicsplash.html) - Bringing the joy of music making to everyone.
 
-### •Paraphraser:
+### •Paraphraser
 
 [Language Tool](https://aiinfinity.blogspot.com/p/paraphraserlanguage-tool.html) - Write. Correct. Paraphrase.
 
@@ -679,7 +688,7 @@ SlashDreamer introduces a new command: /dream
 
 [Yaara AI](https://aiinfinity.blogspot.com/p/paraphraseryaara-ai.html) - Your go-to paraphrasing tool for unique and high-performing content.
 
-### •Personalised Video:
+### •Personalised Video
 
 [Bhuman](https://aiinfinity.blogspot.com/p/personalised-videobhuman.html) - BHuman's AI Studio enables human connections at scale with personalized video.
 
@@ -697,7 +706,7 @@ SlashDreamer introduces a new command: /dream
 
 [Windsor](https://aiinfinity.blogspot.com/p/personalised-videowindsor.html) - Record one video and use Windsor's AI platform to send millions of personalized videos to your customers.
 
-### •Presentation:
+### •Presentation
 
 [Beutiful AI](https://aiinfinity.blogspot.com/p/presentationbeutiful-ai.html) - Presentation software that designs for you.
 
@@ -711,13 +720,13 @@ SlashDreamer introduces a new command: /dream
 
 [SlidesAI](https://aiinfinity.blogspot.com/p/presentationslidesai.html) - Create Presentation Slides with AI in seconds.
 
-### •Productivity:
+### •Productivity
 
 [Albus](https://aiinfinity.blogspot.com/p/productivityalbus.html) - Albus is not just an Assistant He is a Friend/mentor.
 
 [ChatGPT Chrome Extension](https://aiinfinity.blogspot.com/p/productivitychatgpt-chrome-extension.html)- Display ChatGPT response alongside Google, Bing, DuckDuckGo Search results.
 
-[ChatGPT Writer](https://aiinfinity.blogspot.com/p/productivitychatgpt-writer.html) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. 
+[ChatGPT Writer](https://aiinfinity.blogspot.com/p/productivitychatgpt-writer.html) - Free Chrome extension to generate entire emails and messages using ChatGPT AI.
 
 [Cogniflow](https://aiinfinity.blogspot.com/p/productivitycogniflow.html) - Boost your productivity. Integrate AI into your workflow.
 
@@ -753,7 +762,7 @@ SlashDreamer introduces a new command: /dream
 
 [Xembly](https://aiinfinity.blogspot.com/p/productivityxembly.html) - An automated chief of staff to handle the tasks that slow you down.
 
-### •Prompts:
+### •Prompts
 
 [Dallelist](https://aiinfinity.blogspot.com/p/promptsdallelist.html) - Select category then copy it!
 
@@ -769,7 +778,7 @@ SlashDreamer introduces a new command: /dream
 
 [PromptBase](https://aiinfinity.blogspot.com/p/promptspromptbase.html) - DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.
 
-[PromptHero](https://aiinfinity.blogspot.com/p/promptsprompthero.html) - Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney...
+[PromptHero](https://aiinfinity.blogspot.com/p/promptsprompthero.html) - Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney…
 
 [Promptist](https://aiinfinity.blogspot.com/p/promptspromptist.html) - Promptist is a prompt interface for Stable Diffusion v1-4 that optimizes user input into model-preferred prompts.
 
@@ -781,7 +790,7 @@ SlashDreamer introduces a new command: /dream
 
 [Pyttipanna](https://aiinfinity.blogspot.com/p/promptspyttipanna.html) - Pyttipanna is an interface for Pytti 5. It allows you to structure, narrate and experiment with prompts for video creation.
 
-### •Real Estate:
+### •Real Estate
 
 [AI Room Planner](https://aiinfinity.blogspot.com/p/real-estateai-room-planner.html) - Get hundreds of interior design ideas for your room - free with no limit.
 
@@ -793,7 +802,7 @@ SlashDreamer introduces a new command: /dream
 
 [Maket](https://aiinfinity.blogspot.com/p/real-estatemaket.html) - Generative Design for Architectural Planning.
 
-### •Research:
+### •Research
 
 [Consensus](https://aiinfinity.blogspot.com/p/researchconsensus.html) - Evidence-Based Answers, Faster!
 
@@ -803,7 +812,7 @@ SlashDreamer introduces a new command: /dream
 
 [Scite](https://aiinfinity.blogspot.com/p/researchscite.html) - scite is a Brooklyn-based startup that helps researchers better discover and understand research articles through Smart Citations.
 
-### •Search Engine:
+### •Search Engine
 
 [Andi](https://aiinfinity.blogspot.com/p/search-engineandi.html) - Your smart search assistant.
 
@@ -823,7 +832,7 @@ SlashDreamer introduces a new command: /dream
 
 [You](https://aiinfinity.blogspot.com/p/search-engineyou.html) - The AI Search Engine You Control
 
-### •SEO:
+### •SEO
 
 [Compar](https://aiinfinity.blogspot.com/p/seocompar.html) - AI Powered Content Analyses.
 
@@ -841,7 +850,7 @@ SlashDreamer introduces a new command: /dream
 
 [Vidlq](https://aiinfinity.blogspot.com/p/seovidlq.html) - Designed to boost your YouTube views.
 
-### •Social Media Assistant:
+### •Social Media Assistant
 
 [AI Social Bio](https://aiinfinity.blogspot.com/p/smaai-social-bio.html) - Your social media bio, created by artificial intelligence.
 
@@ -873,7 +882,7 @@ SlashDreamer introduces a new command: /dream
 
 [TweetEmote](https://aiinfinity.blogspot.com/p/smatweetemote.html) - The AI-Powered Tweet Assistant.
 
-### •Spreadsheets:
+### •Spreadsheets
 
 [Excel Formula Bot](https://excelformulabot.com/) - Transform your text instructions into Excel formulas in seconds with the help of AI for free.
 
@@ -887,8 +896,7 @@ SlashDreamer introduces a new command: /dream
 
 [SheetGod](https://www.boloforms.com/sheetgod/) - The AI Tool That Turns English Into Excel Formulas In Seconds.
 
-
-### •Summarizer:
+### •Summarizer
 
 [Bearly](https://aiinfinity.blogspot.com/p/summarybearly.html) - Drop in research papers, pdfs, articles, word docs and more to get a thorough summary of the content.
 
@@ -898,7 +906,7 @@ SlashDreamer introduces a new command: /dream
 
 [Genei](https://aiinfinity.blogspot.com/p/summarygenei.html) - Automatically summarise background reading and produce blogs, articles, and reports faster.
 
-[Otter AI](https://aiinfinity.blogspot.com/p/summaryotter-ai.html) - Otter is your AI assistant that writes and summarizes meeting notes for your team, 30x faster than you can. 
+[Otter AI](https://aiinfinity.blogspot.com/p/summaryotter-ai.html) - Otter is your AI assistant that writes and summarizes meeting notes for your team, 30x faster than you can.
 
 [Scholarcy](https://aiinfinity.blogspot.com/p/summaryscholarcy.html) - The AI-powered article summarizer.
 
@@ -916,7 +924,7 @@ SlashDreamer introduces a new command: /dream
 
 [Upword](https://aiinfinity.blogspot.com/p/summaryupword.html) - Create online summary docs.Grow your knowledge.
 
-### •Text To Speech:
+### •Text To Speech
 
 [Ad Auris](https://aiinfinity.blogspot.com/p/text2speechad-auris.html) - Create a playlist of articles and listen to them on Spotify, Apple Podcasts, and Google Podcasts.
 
@@ -924,7 +932,7 @@ SlashDreamer introduces a new command: /dream
 
 [Ask my Book](https://aiinfinity.blogspot.com/p/text2speechask-my-book.html) - This is an experiment in using AI to make my book's content more accessible.
 
-[Audioread](https://aiinfinity.blogspot.com/p/text2speechaudioread.html) - Turn your reads
+[Audioread](https://aiinfinity.blogspot.com/p/text2speechaudioread.html) - Turn your reads  
 into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 
 [ConvAI](https://aiinfinity.blogspot.com/p/text2speechconvai.html) - Easy to use, Conversational AI APIs for Speech Recognition, Language Understanding and generation, and Text To Speech to design your games and speech enabled applications.
@@ -945,15 +953,15 @@ into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 
 [Resemble AI](https://aiinfinity.blogspot.com/p/text2speech-resemble-ai.html) - AI Voice Generator that sounds real. Create speech-to-speech and text-to-speech AI voices with Resemble's realtime voice cloning software.
 
-[Speechify](https://aiinfinity.blogspot.com/p/text2speechspeechify.html) - Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.
+[Speechify](https://aiinfinity.blogspot.com/p/text2speechspeechify.html) - Power through docs, articles, PDFs, email—anything you read—by listening with our leading text-to-speech reader.
 
-[Symbl AI](https://aiinfinity.blogspot.com/p/text2speechsymbl-ai.html) - Integrate real-time speech-to-text and context understanding, powered by advanced deep learning models, to enable live captioning, track user intents, generate summaries and more from unstructured conversation data.   
+[Symbl AI](https://aiinfinity.blogspot.com/p/text2speechsymbl-ai.html) - Integrate real-time speech-to-text and context understanding, powered by advanced deep learning models, to enable live captioning, track user intents, generate summaries and more from unstructured conversation data.
 
 [Uberduck](https://aiinfinity.blogspot.com/p/text2speechuberduck.html) - Make AI voiceovers with 5,000+ expressive voices.
 
 [Wellsaidlabs](https://aiinfinity.blogspot.com/p/text2speechwellsaidlabs.html) - Beautiful voices at your fingertips with text-to-speech that captivates.
 
-### •Transcriber:
+### •Transcriber
 
 [AssembleAI](https://aiinfinity.blogspot.com/p/transcriberassembleai.html) - Access powerful AI models to transcribe and understand speech.
 
@@ -977,7 +985,7 @@ into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 
 [YouTube Transcript](https://aiinfinity.blogspot.com/p/transcriberyoutube-transcript.html) - Enter Youtube Video URL and get a transcript text.
 
-### •Video Editing:
+### •Video Editing
 
 [Clickdrop](https://aiinfinity.blogspot.com/p/video-editingclickdrop.html) - Create stunning visuals in seconds
 
@@ -1003,7 +1011,7 @@ into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 
 [Xpression Camera](https://aiinfinity.blogspot.com/p/video-editingxpression-camera.html) - The only real-time generative AI app for video chatting and live streaming.
 
-### •Video Generator:
+### •Video Generator
 
 [Colossyan](https://aiinfinity.blogspot.com/p/video-generatorcolossyan.html) - Simply type in your text and have a video ready in 70+ languages within minutes.
 

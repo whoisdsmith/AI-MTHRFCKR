@@ -1,8 +1,8 @@
-# Acronyms used
+# Acronyms Used
 
-A list of useful acronyms used in deep learning and music sorted alphabetically.
+A List Of Useful Acronyms Used In Deep Learning And Music Sorted Alphabetically.
 
-| Acronym | Full name |
+| Acronym | Full Name |
 |--------------|-----------|
 | ADT | Automatic Drum Transcription |
 | AE | AutoEncoder |
@@ -19,7 +19,7 @@ A list of useful acronyms used in deep learning and music sorted alphabetically.
 | ConvNet | Convolutional Neural Network |
 | CRBM | Conditional Restricted Boltzmann Machine |
 | CRNN | Convolutional Recurrent Neural Network |
-| DAE | Denoising AutoEncoder or Deep AutoEncoder |
+| DAE | Denoising AutoEncoder Or Deep AutoEncoder |
 | DBM | Deep Boltzmann Machine |
 | DBN | Deep Belief Network |
 | DeconvNet | DeConvolutional Neural Network |
@@ -48,7 +48,7 @@ A list of useful acronyms used in deep learning and music sorted alphabetically.
 | MSE | Mean Squared Error |
 | MSR | Music Style Recognition |
 | NN | Neural Network |
-| NNMODFF | Neural Network based Multi-Onset Detection Function Fusion |
+| NNMODFF | Neural Network Based Multi-Onset Detection Function Fusion |
 | ODF | Onset Detection Function |
 | PNN | Probabilistic Neural Network |
 | PReLU | Parametric Rectified Linear Unit |

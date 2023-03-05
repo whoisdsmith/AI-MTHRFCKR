@@ -2,6 +2,8 @@
 tags: ['atmosphere','ambient','generative','dark','sample','vcv2']  
 ---
 
+# Tape Memories
+
 ![[../../99_Media/Img/TapeMemories.jpg]]
 
 ![[TapeMemories.vcv]]
@@ -11,29 +13,29 @@ tags: ['atmosphere','ambient','generative','dark','sample','vcv2']
 
 ---
 
-#### Note
+## Note
 
 Generative ambient with the random sampler.
 
 ---
 
-### Modules
+# Modules
 
-- Voxglitch
+- Voxglitch  
   **Grain Fx**
-- Valley
+- Valley  
 **Plateau**
-- VCV
+- VCV  
 **Recorder, Audio 2**
-- Squinky Labs
+- Squinky Labs  
 **EV3, Mixer-8**
-- Nonlinear Circuits
+- Nonlinear Circuits  
 **Divide & Conquer**
-- FLAG
+- FLAG  
 **Electric Ensemble**
-- ChowDSP
+- ChowDSP  
 **Credit**
-- Bogaudio
+- Bogaudio  
 **4FO, LVCF,S&H**
-- Audible Instruments
+- Audible Instruments  
 **Macro Oscillator 2, Modal Synthesizer, Random Sampler, Resonator**

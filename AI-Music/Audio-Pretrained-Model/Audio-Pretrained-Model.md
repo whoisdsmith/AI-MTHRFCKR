@@ -1,12 +1,12 @@
-# Audio and Speech Pre-trained Models
+# Audio And Speech Pre-trained Models
 
 ---
 
 ![](Logo.jpg)
 
-## What is pre-trained Model?
+## What Is Pre-trained Model?
 
-A pre-trained model is a model created by some one else to solve a similar problem. Instead of building a model from scratch to solve a similar problem, we can use the model trained on other problem as a starting point. A pre-trained model may not be 100% accurate in your application.
+A Pre-trained Model Is A Model Created By Some One Else To Solve A Similar Problem. Instead Of Building A Model From Scratch To Solve A Similar Problem, We Can Use The Model Trained On Other Problem As A Starting Point. A Pre-trained Model May Not Be 100% Accurate In Your Application.
 
 ## Other Pre-trained Models
 
@@ -21,83 +21,83 @@ A pre-trained model is a model created by some one else to solve a similar probl
 * [MXNet](#mxnet)
 * [Caffe](#caffe)
 
-### Model visualization
+### Model Visualization
 
-You can see visualizations of each model's network architecture by using [Netron](https://github.com/lutzroeder/Netron).
+You Can See Visualizations Of Each Model's Network Architecture By Using [Netron](https://github.com/lutzroeder/Netron).
 
 ![](Logo.jpg)
 
-### Tensorflow <a name="tensorflow"/>
+### Tensorflow <A Name="tensorflow"/>
 
 | Model Name | Description | Framework |
 |   :---:      |     :---:      |     :---:     |
-| [Wavenet]( https://github.com/ibab/tensorflow-wavenet)  | This is a TensorFlow implementation of the WaveNet generative neural network architecture for audio generation.     | `Tensorflow`
-| [Lip Reading]( https://github.com/astorfi/lip-reading-deeplearning)  | Cross Audio-Visual Recognition using 3D Architectures in TensorFlow     | `Tensorflow`
-| [MusicGenreClassification]( https://github.com/mlachmish/MusicGenreClassification)  | Academic research in the field of Deep Learning (Deep Neural Networks) and Sound Processing, Tel Aviv University.     | `Tensorflow`
-| [Audioset](https://github.com/tensorflow/models/tree/master/research/audioset)  | Models and supporting code for use with AudioSet.     | `Tensorflow`
-| [DeepSpeech]( https://github.com/tensorflow/models/tree/master/research/deep_speech)  | Automatic speech recognition.     | `Tensorflow`
+| [Wavenet]( Https://github.com/ibab/tensorflow-wavenet)  | This Is A TensorFlow Implementation Of The WaveNet Generative Neural Network Architecture For Audio Generation.     | `Tensorflow`
+| [Lip Reading]( Https://github.com/astorfi/lip-reading-deeplearning)  | Cross Audio-Visual Recognition Using 3D Architectures In TensorFlow     | `Tensorflow`
+| [MusicGenreClassification]( Https://github.com/mlachmish/MusicGenreClassification)  | Academic Research In The Field Of Deep Learning (Deep Neural Networks) And Sound Processing, Tel Aviv University.     | `Tensorflow`
+| [Audioset](https://github.com/tensorflow/models/tree/master/research/audioset)  | Models And Supporting Code For Use With AudioSet.     | `Tensorflow`
+| [DeepSpeech]( Https://github.com/tensorflow/models/tree/master/research/deep_speech)  | Automatic Speech Recognition.     | `Tensorflow`
 
-<div align="right">
-    <b><a href="#framework">↥ Back To Top</a></b>
-</div>
+<Div Align="right">
+    <B><a Href="#framework">↥ Back To Top</a></b>
+</Div>
 
 ***
 
-### Keras <a name="keras"/>
+### Keras <A Name="keras"/>
 
 | Model Name | Description | Framework |
 |   :---:      |     :---:      |     :---:     |
-| [Ultrasound nerve segmentation]( https://github.com/jocicmarko/ultrasound-nerve-segmentation)  | This tutorial shows how to use Keras library to build deep neural network for ultrasound image nerve segmentation.     | `Keras`
+| [Ultrasound Nerve Segmentation]( Https://github.com/jocicmarko/ultrasound-nerve-segmentation)  | This Tutorial Shows How To Use Keras Library To Build Deep Neural Network For Ultrasound Image Nerve Segmentation.     | `Keras`
 
-<div align="right">
-    <b><a href="#framework">↥ Back To Top</a></b>
-</div>
+<Div Align="right">
+    <B><a Href="#framework">↥ Back To Top</a></b>
+</Div>
 
 ***
 
-### PyTorch <a name="pytorch"/>
+### PyTorch <A Name="pytorch"/>
 
 | Model Name | Description | Framework |
 |   :---:      |     :---:      |     :---:     |
-| [espnet]( https://github.com/espnet/espnet)  | End-to-End Speech Processing Toolkit espnet.github.io/espnet     | `PyTorch`
-| [TTS]( https://github.com/mozilla/TTS)  | Deep learning for Text2Speech     | `PyTorch`
-| [Neural Sequence labeling model]( https://github.com/jiesutd/NCRFpp)  | Sequence labeling models are quite popular in many NLP tasks, such as Named Entity Recognition (NER), part-of-speech (POS) tagging and word segmentation.     | `PyTorch`
-| [waveglow]( https://github.com/NVIDIA/waveglow)  | A Flow-based Generative Network for Speech Synthesis.     | `PyTorch`
-| [deepvoice3_pytorch]( https://github.com/r9y9/deepvoice3_pytorch)  | PyTorch implementation of convolutional networks-based text-to-speech synthesis models.     | `PyTorch`
-| [deepspeech2]( https://github.com/SeanNaren/deepspeech.pytorch)  | Implementation of DeepSpeech2 using Baidu Warp-CTC. Creates a network based on the DeepSpeech2 architecture, trained with the CTC activation function.     | `PyTorch`
-| [loop]( https://github.com/facebookarchive/loop)  | A method to generate speech across multiple speakers.    | `PyTorch`
-| [audio]( https://github.com/pytorch/audio)  | Simple audio I/O for pytorch.     | `PyTorch`
-| [speech]( https://github.com/awni/speech)  | PyTorch ASR Implementation.     | `PyTorch`
-| [samplernn-pytorch]( https://github.com/deepsound-project/samplernn-pytorch)  | PyTorch implementation of SampleRNN: An Unconditional End-to-End Neural Audio Generation Model.     | `PyTorch`
-| [torch_waveglow]( https://github.com/npuichigo/waveglow)  | A PyTorch implementation of the WaveGlow: A Flow-based Generative Network for Speech Synthesis.     | `PyTorch`
+| [Espnet]( Https://github.com/espnet/espnet)  | End-to-End Speech Processing Toolkit Espnet.github.io/espnet     | `PyTorch`
+| [TTS]( Https://github.com/mozilla/TTS)  | Deep Learning For Text2Speech     | `PyTorch`
+| [Neural Sequence Labeling Model]( Https://github.com/jiesutd/NCRFpp)  | Sequence Labeling Models Are Quite Popular In Many NLP Tasks, Such As Named Entity Recognition (NER), Part-of-speech (POS) Tagging And Word Segmentation.     | `PyTorch`
+| [Waveglow]( Https://github.com/NVIDIA/waveglow)  | A Flow-based Generative Network For Speech Synthesis.     | `PyTorch`
+| [Deepvoice3_pytorch]( Https://github.com/r9y9/deepvoice3_pytorch)  | PyTorch Implementation Of Convolutional Networks-based Text-to-speech Synthesis Models.     | `PyTorch`
+| [Deepspeech2]( Https://github.com/SeanNaren/deepspeech.pytorch)  | Implementation Of DeepSpeech2 Using Baidu Warp-CTC. Creates A Network Based On The DeepSpeech2 Architecture, Trained With The CTC Activation Function.     | `PyTorch`
+| [Loop]( Https://github.com/facebookarchive/loop)  | A Method To Generate Speech Across Multiple Speakers.    | `PyTorch`
+| [Audio]( Https://github.com/pytorch/audio)  | Simple Audio I/O For Pytorch.     | `PyTorch`
+| [Speech]( Https://github.com/awni/speech)  | PyTorch ASR Implementation.     | `PyTorch`
+| [Samplernn-pytorch]( Https://github.com/deepsound-project/samplernn-pytorch)  | PyTorch Implementation Of SampleRNN: An Unconditional End-to-End Neural Audio Generation Model.     | `PyTorch`
+| [Torch_waveglow]( Https://github.com/npuichigo/waveglow)  | A PyTorch Implementation Of The WaveGlow: A Flow-based Generative Network For Speech Synthesis.     | `PyTorch`
 
-<div align="right">
-    <b><a href="#framework">↥ Back To Top</a></b>
-</div>
+<Div Align="right">
+    <B><a Href="#framework">↥ Back To Top</a></b>
+</Div>
 
 ***
 
-### MXNet <a name="mxnet"/>
+### MXNet <A Name="mxnet"/>
 
 | Model Name | Description | Framework |
 |   :---:      |     :---:      |     :---:     |
-| [deepspeech]( https://github.com/samsungsds-rnd/deepspeech.mxnet)  | This example based on DeepSpeech2 of Baidu helps you to build Speech-To-Text (STT) models at scale using     | `MXNet`
-| [mxnet-audio]( https://github.com/chen0040/mxnet-audio)  | Implementation of music genre classification, audio-to-vec, song recommender, and music search in mxnet.     | `MXNet`
+| [Deepspeech]( Https://github.com/samsungsds-rnd/deepspeech.mxnet)  | This Example Based On DeepSpeech2 Of Baidu Helps You To Build Speech-To-Text (STT) Models At Scale Using     | `MXNet`
+| [Mxnet-audio]( Https://github.com/chen0040/mxnet-audio)  | Implementation Of Music Genre Classification, Audio-to-vec, Song Recommender, And Music Search In Mxnet.     | `MXNet`
 
-<div align="right">
-    <b><a href="#framework">↥ Back To Top</a></b>
-</div>
+<Div Align="right">
+    <B><a Href="#framework">↥ Back To Top</a></b>
+</Div>
 
 ***
 
-### Caffe <a name="caffe"/>
+### Caffe <A Name="caffe"/>
 
 | Model Name | Description | Framework |
 |   :---:      |     :---:      |     :---:     |
-| [Speech Recognition](https://github.com/pannous/caffe-speech-recognition)  | Speech Recognition with the caffe deep learning framework.     | `Caffe`
+| [Speech Recognition](https://github.com/pannous/caffe-speech-recognition)  | Speech Recognition With The Caffe Deep Learning Framework.     | `Caffe`
 
-<div align="right">
-    <b><a href="#framework">↥ Back To Top</a></b>
-</div>
+<Div Align="right">
+    <B><a Href="#framework">↥ Back To Top</a></b>
+</Div>
 
 ***

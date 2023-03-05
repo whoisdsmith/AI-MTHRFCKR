@@ -1,19 +1,19 @@
 # More Lists
 
-Here I'll link curated lists of resources that others have made.
+Here I'll Link Curated Lists Of Resources That Others Have Made.
 
-- [`More Awesome Music DSP`] - Another big list of audio DSP and plugin development resources.
-- [`Valhalla Blog`] - Valhalla DSP has an excellent blog linking many resources that helped them create their industry-leading reverbs.
-- [`dsp-learning`] by crsaracco
-- [`Awesome Rust Audio`] by kfrncs
-- [`Useful Links for DSP and Audio Programming`] from rust.audio
-- [`Awesome Electronics`] - An excellent and detailed list of resources for electronics engineering, focused on low-power DC circuits.
-- [`Freeverb3 - DSP References`] - A list of technical DSP resources focused mainly on reverb design.
+- [`More Awesome Music DSP`] - Another Big List Of Audio DSP And Plugin Development Resources.
+- [`Valhalla Blog`] - Valhalla DSP Has An Excellent Blog Linking Many Resources That Helped Them Create Their Industry-leading Reverbs.
+- [`Dsp-learning`] By Crsaracco
+- [`Awesome Rust Audio`] By Kfrncs
+- [`Useful Links For DSP And Audio Programming`] From Rust.audio
+- [`Awesome Electronics`] - An Excellent And Detailed List Of Resources For Electronics Engineering, Focused On Low-power DC Circuits.
+- [`Freeverb3 - DSP References`] - A List Of Technical DSP Resources Focused Mainly On Reverb Design.
 
-[`More Awesome Music DSP`]: https://github.com/olilarkin/awesome-musicdsp
-[`Valhalla Blog`]: https://valhalladsp.com/blog/
-[`dsp-learning`]: https://github.com/crsaracco/dsp-learning
-[`Awesome Rust Audio`]: https://github.com/kfrncs/awesome-rust-audio
-[`Useful Links for DSP and Audio Programming`]: https://rust.audio/articles/useful-resources/
-[`Awesome Electronics`]: https://github.com/kitspace/awesome-electronics
-[`Freeverb3 - DSP References`]: https://freeverb3vst.osdn.jp/ref.shtml
+[`More Awesome Music DSP`]: Https://github.com/olilarkin/awesome-musicdsp
+[`Valhalla Blog`]: Https://valhalladsp.com/blog/
+[`Dsp-learning`]: Https://github.com/crsaracco/dsp-learning
+[`Awesome Rust Audio`]: Https://github.com/kfrncs/awesome-rust-audio
+[`Useful Links For DSP And Audio Programming`]: Https://rust.audio/articles/useful-resources/
+[`Awesome Electronics`]: Https://github.com/kitspace/awesome-electronics
+[`Freeverb3 - DSP References`]: Https://freeverb3vst.osdn.jp/ref.shtml

@@ -2,10 +2,13 @@
 tags: ['learning/vcv','vcv2']  
 ---
 
+# 0001-Patch-Modules-Colors
+
 ![[0000-PatchModulesColors.vcv]]
 
 ---
-### Notes
+
+## Notes
 
 This patch does not sound and is only for getting familiar with the basic mechanisms of VCV:
 

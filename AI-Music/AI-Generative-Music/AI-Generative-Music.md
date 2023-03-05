@@ -1,19 +1,19 @@
 # Generative Music
 
-This repository contains materials of different kinds, all related to generative music. The repository is organized in the form of an Obsidian Vault, so you should get [Obsidian](https://obsidian.md/) first and then open the main directory as a *vault*.
+This Repository Contains Materials Of Different Kinds, All Related To Generative Music. The Repository Is Organized In The Form Of An Obsidian Vault, So You Should Get [Obsidian](https://obsidian.md/) First And Then Open The Main Directory As A *Vault*.
 
-The main directories contain:
+The Main Directories Contain:
 
-- [VCV Rack](https://vcvrack.com/) 
-- [Wotjia](https://intermorphic.com/) related patches and materials;
-- [Norns Shield](https://monome.org/docs/norns/shield/) related scripts and materials;
--  miscellaneous materials and utilities.
+- [VCV Rack](https://vcvrack.com/)
+- [Wotjia](https://intermorphic.com/) Related Patches And Materials;
+- [Norns Shield](https://monome.org/docs/norns/shield/) Related Scripts And Materials;
+- Miscellaneous Materials And Utilities.
 
-Please note that, since these are mostly tools and recipes that I use for my own compositions, this repository does not involve any "issues" interactions. However, you can participate in [discussions](https://github.com/davideriboli/Generative-Music/discussions) and, through those, propose contributions and/or changes. You will also find useful information on the [wiki](https://github.com/davideriboli/Generative-Music/wiki). 
+Please Note That, Since These Are Mostly Tools And Recipes That I Use For My Own Compositions, This Repository Does Not Involve Any "Issues" Interactions. However, You Can Participate In [Discussions](https://github.com/davideriboli/Generative-Music/discussions) And, Through Those, Propose Contributions And/or Changes. You Will Also Find Useful Information On The [Wiki](https://github.com/davideriboli/Generative-Music/wiki).
 
-Everything created by me and published here is released under the MIT License. Materials by other authors are released under their respective licenses.
+Everything Created By Me And Published Here Is Released Under The MIT License. Materials By Other Authors Are Released Under Their Respective Licenses.
 
-*Stormy Weather* is the podcast with my compositions of generative music and natural soundscapes, available via:
+*Stormy Weather* Is The Podcast With My Compositions Of Generative Music And Natural Soundscapes, Available Via:
 
 - [Amazon Music](https://music.amazon.it/podcasts/e0b81e52-bf7b-40cb-b173-06281782b3bd/stormy-weather)
 - [Anchor RSS](https://anchor.fm/s/b0514b44/podcast/rss)
@@ -21,4 +21,4 @@ Everything created by me and published here is released under the MIT License. M
 - [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iMDUxNGI0NC9wb2RjYXN0L3Jzcw)
 - [Spotify](https://open.spotify.com/show/5gYvj12S8zWB7ZVpLJ83DI)
 
-![norns](https://user-images.githubusercontent.com/623043/186886820-d668ae8b-6a92-4922-b85c-dc0215545ca9.png)
+![Norns](https://user-images.githubusercontent.com/623043/186886820-d668ae8b-6a92-4922-b85c-dc0215545ca9.png)

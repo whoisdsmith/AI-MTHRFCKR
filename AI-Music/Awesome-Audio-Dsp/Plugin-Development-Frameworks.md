@@ -1,69 +1,69 @@
 # Plugin Development Frameworks
 
-A list of software stacks/frameworks used to make audio plugins, along with their pros and cons.
+A List Of Software Stacks/frameworks Used To Make Audio Plugins, Along With Their Pros And Cons.
 
-- Please note that you must have a licensing agreement with Steinberg to *distribute* any VST2 and any non-GPLv3 VST3 plugins as per [`Steinberg's VST3 License`]. If you don't already have a VST2 license, you're out of luck since Steinberg doesn't support it anymore (yeah it stinks). Target VST3 instead in that case. Or better yet, target the new [`CLAP`] standard ;).
+- Please Note That You Must Have A Licensing Agreement With Steinberg To *Distribute* Any VST2 And Any Non-GPLv3 VST3 Plugins As Per [`Steinberg's VST3 License`]. If You Don't Already Have A VST2 License, You're Out Of Luck Since Steinberg Doesn't Support It Anymore (Yeah It Stinks). Target VST3 Instead In That Case. Or Better Yet, Target The New [`CLAP`] Standard ;).
 
-## [`nih-plug`]
+## [`Nih-plug`]
 
-  - Full-stack and modular framework with GUI in [`Rust`].
-  - Fully open-source using a permissive license.
-  - Targets CLAP and VST3 plugin formats.
-  - Targets Linux, Mac, and Windows platforms.
-  - Has several different options for GUI such as [`Vizia`], [`Iced`], and [`egui`].
-  - Very new and still somewhat a work in progress, but the essential features you need to get started are there.
-  - There is now a [`cookiecutter template`] to help get you started faster.
+  - Full-stack And Modular Framework With GUI In [`Rust`].
+  - Fully Open-source Using A Permissive License.
+  - Targets CLAP And VST3 Plugin Formats.
+  - Targets Linux, Mac, And Windows Platforms.
+  - Has Several Different Options For GUI Such As [`Vizia`], [`Iced`], And [`Egui`].
+  - Very New And Still Somewhat A Work In Progress, But The Essential Features You Need To Get Started Are There.
+  - There Is Now A [`Cookiecutter Template`] To Help Get You Started Faster.
 
 ## [`DISTRHO Plugin Framework`]
 
-  - Full-stack framework with GUI in C++.
-  - Fully open-source using a permissive license.
-  - Targets LADSPA, DSSI, LV2, VST2, and Jack plugin formats.
-  - Targets Linux, Mac, and Windows platforms.
+  - Full-stack Framework With GUI In C++.
+  - Fully Open-source Using A Permissive License.
+  - Targets LADSPA, DSSI, LV2, VST2, And Jack Plugin Formats.
+  - Targets Linux, Mac, And Windows Platforms.
 
 ## [`Dplug`]
 
-  - Full-stack framework with GUI in te D programming language.
-  - Fully open-source using a permissive license.
-  - The GUI framework has fancy physically-modeled rendering inspired by game engines.
-  - Targets VST2, VST3, AUv2, AAX, and LV2 plugin formats.
-  - Targets Linux, Mac, Windows, and Raspberry Pi platforms.
-  - Used by several commercial plugins.
+  - Full-stack Framework With GUI In Te D Programming Language.
+  - Fully Open-source Using A Permissive License.
+  - The GUI Framework Has Fancy Physically-modeled Rendering Inspired By Game Engines.
+  - Targets VST2, VST3, AUv2, AAX, And LV2 Plugin Formats.
+  - Targets Linux, Mac, Windows, And Raspberry Pi Platforms.
+  - Used By Several Commercial Plugins.
 
 ## [`JUCE`]
 
-  - Full-stack framework with GUI in C++.
-  - Open source, but some of its modules require a hefty commercial license to distribute any non-GPLv3 plugins.
-  - Targets VST2, VST3, AUv2, AUv3, RTAS, and AAX plugin formats. Unofficial support for the CLAP standard is also in the works [`here`](https://github.com/free-audio/clap-juce-extensions).
-  - Targets Linux, Mac, Windows, iOS, Android, and Raspberry Pi platforms.
-  - Well known in the industry, and many commercial plugins are built with it.
+  - Full-stack Framework With GUI In C++.
+  - Open Source, But Some Of Its Modules Require A Hefty Commercial License To Distribute Any Non-GPLv3 Plugins.
+  - Targets VST2, VST3, AUv2, AUv3, RTAS, And AAX Plugin Formats. Unofficial Support For The CLAP Standard Is Also In The Works [`Here`](https://github.com/free-audio/clap-juce-extensions).
+  - Targets Linux, Mac, Windows, IOS, Android, And Raspberry Pi Platforms.
+  - Well Known In The Industry, And Many Commercial Plugins Are Built With It.
 
 ## [`Tracktion Engine`]
 
-  - Full-stack framework in C++ with GUI. It is built on top of [`JUCE`].
-  - Same licensing as [`JUCE`] since it's built on top of it.
-  - Targeted formats and platforms are the same as [`JUCE`].
-  - Made and used by the commercial company Tracktion.
+  - Full-stack Framework In C++ With GUI. It Is Built On Top Of [`JUCE`].
+  - Same Licensing As [`JUCE`] Since It's Built On Top Of It.
+  - Targeted Formats And Platforms Are The Same As [`JUCE`].
+  - Made And Used By The Commercial Company Tracktion.
 
-## [`iPlug2`]
+## [`IPlug2`]
 
-  - Full-stack framework in C++ with GUI.
-  - Fully open-source using a permissive license.
-  - Targets VST2, VST3, AUv2, AUv3, AAX and the Web Audio Module (WAM) plugin formats (also support for CLAP is in the works).
-  - Targets Mac, Windows, iOS, and Web. It does not target Linux, so I'm personally not a fan of this one.
+  - Full-stack Framework In C++ With GUI.
+  - Fully Open-source Using A Permissive License.
+  - Targets VST2, VST3, AUv2, AUv3, AAX And The Web Audio Module (WAM) Plugin Formats (Also Support For CLAP Is In The Works).
+  - Targets Mac, Windows, IOS, And Web. It Does Not Target Linux, So I'm Personally Not A Fan Of This One.
 
-[`Steinberg's VST3 License`]: https://developer.steinberg.help/display/VST/VST+3+Licensing
+[`Steinberg's VST3 License`]: Https://developer.steinberg.help/display/VST/VST+3+Licensing
 
-[`Rust`]: https://www.rust-lang.org/
-[`CLAP`]: https://github.com/free-audio/clap
+[`Rust`]: Https://www.rust-lang.org/
+[`CLAP`]: Https://github.com/free-audio/clap
 
-[`DISTRHO Plugin Framework`]: https://github.com/DISTRHO/DPF
-[`Dplug`]: https://github.com/AuburnSounds/Dplug
-[`JUCE`]: https://github.com/juce-framework/JUCE
-[`Tracktion Engine`]: https://github.com/Tracktion/tracktion_engine/
-[`iPlug2`]: https://github.com/iPlug2/iPlug2
-[`nih-plug`]: https://github.com/robbert-vdh/nih-plug
-[`Vizia`]: https://github.com/vizia/vizia
-[`Iced`]: https://github.com/iced-rs/iced
-[`egui`]: https://github.com/emilk/egui
-[`cookiecutter template`]: https://github.com/robbert-vdh/nih-plug-template
+[`DISTRHO Plugin Framework`]: Https://github.com/DISTRHO/DPF
+[`Dplug`]: Https://github.com/AuburnSounds/Dplug
+[`JUCE`]: Https://github.com/juce-framework/JUCE
+[`Tracktion Engine`]: Https://github.com/Tracktion/tracktion_engine/
+[`IPlug2`]: Https://github.com/iPlug2/iPlug2
+[`Nih-plug`]: Https://github.com/robbert-vdh/nih-plug
+[`Vizia`]: Https://github.com/vizia/vizia
+[`Iced`]: Https://github.com/iced-rs/iced
+[`Egui`]: Https://github.com/emilk/egui
+[`Cookiecutter Template`]: Https://github.com/robbert-vdh/nih-plug-template

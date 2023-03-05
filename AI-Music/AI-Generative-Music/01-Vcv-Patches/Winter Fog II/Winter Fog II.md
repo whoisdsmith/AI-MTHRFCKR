@@ -2,6 +2,8 @@
 tags: ['aleatoric','ambient','generative','dark', 'vcv2']  
 ---
 
+# Winter Fog II
+
 ![[../../99_Media/Img/Winter-Fog-II.jpg]]
 
 ![[WinterFogII.vcv]]
@@ -11,7 +13,7 @@ tags: ['aleatoric','ambient','generative','dark', 'vcv2']
 
 ---
 
-#### Note
+## Note
 
 There are four instruments: an articulated drone which comes and goes, a wandering melodic line which is a simple arpeggiation of a hexachord that I’ve used often, a polyphonic wind rattle which is layered amplitude-modulated noise, and a claves-like strike which focuses our attention. It is held together with plenty of random movement and reverb.
 
@@ -19,7 +21,7 @@ The piece is generative. It could run for hours. It is ambient. Except for the o
 
 ---
 
-### Modules
+# Modules
 
 - **AS** | Flow
 - **Audible Instruments** | Bernoulli Gate

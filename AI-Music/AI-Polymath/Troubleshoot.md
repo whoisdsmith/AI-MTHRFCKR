@@ -1,3 +1,5 @@
+# Troubleshoot
+
 ```
 tensorboard 2.9.1 has requirement setuptools>=41.0.0, but you'll have setuptools 39.0.1 which is incompatible.
 Installing collected packages: urllib3, certifi, charset-normalizer, idna, requests, packaging, typing-extensions, platformdirs, pooch, numpy, soxr, scipy, threadpoolctl, joblib, scikit-learn, msgpack, decorator, pycparser, cffi, soundfile, audioread, llvmlite, zipp, importlib-metadata, numba, lazy-loader, librosa, future, six, mir-eval, mido, pretty-midi, resampy, keras-preprocessing, opt-einsum, libclang, google-pasta, wrapt, gast, protobuf, tensorflow-estimator, MarkupSafe, werkzeug, cachetools, pyasn1, rsa, pyasn1-modules, google-auth, oauthlib, requests-oauthlib, google-auth-oauthlib, wheel, absl-py, tensorboard-data-server, grpcio, markdown, tensorboard-plugin-wit, tensorboard, astunparse, h5py, tensorflow-io-gcs-filesystem, flatbuffers, keras, termcolor, tensorflow, basic-pitch
@@ -87,7 +89,6 @@ Separated tracks will be stored in C:\Users\Ninja\polymath\separated\htdemucs_6s
 
 Separating track C:\Users\Ninja\polymath\library\a-letter-to-write_6efb86a5da47e3e7ad5c2a1242a080128b95e964f51f6efb22dce052c62df8af.wav
 ```
-
 
 ```
 C:\Users\Ninja\polymath>python polymath.py -a C:/Users/Ninja/polymath/input/edited/

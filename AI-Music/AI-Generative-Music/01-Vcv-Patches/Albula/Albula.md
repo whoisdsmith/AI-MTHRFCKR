@@ -2,6 +2,8 @@
 tags: ['arpeggio','ambient','generative','light','vcv2']  
 ---
 
+# Albula
+
 ![[../../99_Media/Img/albula.png]]
 
 ![[Albula.vcv]]
@@ -10,38 +12,40 @@ tags: ['arpeggio','ambient','generative','light','vcv2']
 - Author: [robb62](https://patchstorage.com/author/robb62/ "Posts by robb62")
 
 ---
-### Modules
-- Amalgamated Harmonics
+
+## Modules
+
+- Amalgamated Harmonics  
   **Galaxy**
-- AS
+- AS  
   **MonoVUmeter**
-- Audible Instruments
+- Audible Instruments  
   **Bernoulli Gate**
-- Autodafe
+- Autodafe  
 **Drums - Closed Hats, Drums - Rim/Claves**
-- Befaco
+- Befaco  
   **Even VCO, Kickall, Mixer**
-- Bogaudio
+- Bogaudio  
   **FM-OP, LLFO, S&H, VCO**
-- Chowdsp
+- Chowdsp  
   **Credit**
-- Count Modula
+- Count Modula  
   **8 x 8 Gate Sequencer**
-- Hampton Harmonics
+- Hampton Harmonics  
   **Arp**
-- Impromptu
+- Impromptu  
   **Impromptu, Clocked**
-- MindMeld
+- MindMeld  
   **AuxSpanderJr, MixMasterJr**
-- Squinky Labs
+- Squinky Labs  
   **Comp, Saws**
-- Valley
+- Valley  
   **Feline, Plateau**
-- VCV Core
+- VCV Core  
   **Audio 2, Blank**
-- VCV Fundamental
+- VCV Fundamental  
   **ADSR, Octave, Quantizer, Sequential Switch 4 to 1, VCA**
-- Vult Modules Free
+- Vult Modules Free  
   **Jorus, Lateralus (Free)**
-- XTRTN (Extratone)
+- XTRTN (Extratone)  
   **Hallucigenia**

@@ -2,6 +2,8 @@
 tags: ['atmosphere','ambient','generative','melodie','vcv2']  
 ---
 
+# Self Generating Ambient
+
 ![[../../99_Media/Img/SelfGeneratingAmbient.jpg]]
 
 ![[SelfGeneratingAmbient.vcv]]
@@ -11,7 +13,7 @@ tags: ['atmosphere','ambient','generative','melodie','vcv2']
 
 ---
 
-#### Note
+## Note
 
 - On the NoteSeq, pick a scale that you wish to play with.
 - On the first Basal oscillator, that is the so called bass strings.
@@ -28,63 +30,82 @@ Tyler-Ray
 
 ---
 
-### Modules
+# Modules
+
 **dBiz**
+
 - TROSCMK2
 
 **cf**
+
 - Master
 
 **Vult**
+
 - Basal (Free)
 
 **Valley**
+
 - Plateau
 - Terrorform
 - Topograph
 
 **VCV**
+
 - Audio 8
 
 **Submarine**
+
 - TD-202
 
 **NYSTHI**
+
 - complexSimpler Sampler
 
 **MindMeld**
+
 - MixMaster
 
 **MSM**
+
 - Dual Delay
 
 **Little Utils**
+
 - Teleport In
 - Teleport Out
 
 **LifeFormModular**
+
 - AdditiveVibration
 
 **JW-Modules**
+
 - NoteSeq
 
 **Instruō**
+
 - cèis
 
 **Impromptu**
+
 - Clocked
 
 **Hampton Harmonics**
+
 - Arp
 
 **Geodesics**
+
 - Pulsars
 
 **Count Modula**
+
 - Burst Generator
 - Chances - bernoulli gate
 
 **Bogaudio**
+
 - ADSR
 - BOOL
 - FM-OP
@@ -96,14 +117,18 @@ Tyler-Ray
 - WALK
 
 **Audible Instruments**
+
 - Liquid Filter
 - Texture Synthesizer
 
 **Atelier**
+
 - Palette
 
 **Alright Devices**
+
 - Chronoblob2
 
 **AS**
+
 - VCA

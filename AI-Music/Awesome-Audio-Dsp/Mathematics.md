@@ -1,57 +1,59 @@
 # Mathematics
 
-Learning resources and tools for the mathematics of audio DSP.
+---
 
-DSP (Digital Signal Processing) is the study of using a digital computer to process what is normally thought of as an analogue signal (such as sound). Unfortunately (or fortunately depending on who you are 😉), the reality is that DSP is quite a math heavy field. However, the math needed to get started is not *too* difficult in my opinion. Knowing high-school level math and some of the basics of college-level math will get you most of the way there.
+Learning Resources And Tools For The Mathematics Of Audio DSP.
+
+DSP (Digital Signal Processing) Is The Study Of Using A Digital Computer To Process What Is Normally Thought Of As An Analogue Signal (Such As Sound). Unfortunately (Or Fortunately Depending On Who You Are 😉), The Reality Is That DSP Is Quite A Math Heavy Field. However, The Math Needed To Get Started Is Not *Too* Difficult In My Opinion. Knowing High-school Level Math And Some Of The Basics Of College-level Math Will Get You Most Of The Way There.
 
 ## Prerequisites
 
-I recommend knowing at least these fundamental concepts in order best get started with learning DSP:
+I Recommend Knowing At Least These Fundamental Concepts In Order Best Get Started With Learning DSP:
 
-- Algebra dealing with polynomials, fractions, and exponents (exponents are especially important here)
-- Basic trigonometry like sine, cosine, tangent, arctangent, etc.
-- Logarithms (especially the natural logarithm and the number "e")
-- Complex (imaginary) numbers & complex algebra (using algebra with complex numbers). (Yes, imaginary numbers do actually have a real-world use and are a core pillar of DSP mathematics.)
-- Basic knowledge of linear algebra (the study of transforming data with matrices). (You *can* get by without this, but this is really helpful when it comes to actually implementing the mathematics into code.)
-- Basic knowledge of calculus such as derivatives and integrals. (You *can* get by without this, but it will really help you to understand why things are the way they are.)
-  - In the topic of calculus, basic knowledge of what differential equations are and why they are important will also help (although I'm not talking about how to actually *solve* differential equations, because they are "really freakin' hard to solve" to put it lightly)
+- Algebra Dealing With Polynomials, Fractions, And Exponents (Exponents Are Especially Important Here)
+- Basic Trigonometry Like Sine, Cosine, Tangent, Arctangent, Etc.
+- Logarithms (Especially The Natural Logarithm And The Number "E")
+- Complex (Imaginary) Numbers & Complex Algebra (Using Algebra With Complex Numbers). (Yes, Imaginary Numbers Do Actually Have A Real-world Use And Are A Core Pillar Of DSP Mathematics.)
+- Basic Knowledge Of Linear Algebra (The Study Of Transforming Data With Matrices). (You *Can* Get By Without This, But This Is Really Helpful When It Comes To Actually Implementing The Mathematics Into Code.)
+- Basic Knowledge Of Calculus Such As Derivatives And Integrals. (You *Can* Get By Without This, But It Will Really Help You To Understand Why Things Are The Way They Are.)
+  - In The Topic Of Calculus, Basic Knowledge Of What Differential Equations Are And Why They Are Important Will Also Help (Although I'm Not Talking About How To Actually *Solve* Differential Equations, Because They Are "Really Freakin' Hard To Solve" To Put It Lightly)
 
 ## Learning Resources
 
-- [`3Blue1Brown`] - An excellent YouTube channel on complex algebra, linear algebra, calculus, and differential equations.
-  - His videos on [`Euler's Formula`] and the [`Fourier Transform`] are particularly excellent.
-- [`Paul's Online Math Notes`] - Excellent resources written and used by a professor at Lamar University.
-- [`Paul's Cheat Sheets`] - Cheat sheets for many common identities and formulas in algebra, trig, calculus, and laplace transformations. Because who can remember all this stuff?
-- [`katjaas`] - Neat visual explanations of DSP mathematics and techniques.
-- This video on the [`Laplace Transform`] by Zach Star.
-- [`Khan Academy`] - Free college-level courses.
+- [`3Blue1Brown`] - An Excellent YouTube Channel On Complex Algebra, Linear Algebra, Calculus, And Differential Equations.
+  - His Videos On [`Euler's Formula`] And The [`Fourier Transform`] Are Particularly Excellent.
+- [`Paul's Online Math Notes`] - Excellent Resources Written And Used By A Professor At Lamar University.
+- [`Paul's Cheat Sheets`] - Cheat Sheets For Many Common Identities And Formulas In Algebra, Trig, Calculus, And Laplace Transformations. Because Who Can Remember All This Stuff?
+- [`Katjaas`] - Neat Visual Explanations Of DSP Mathematics And Techniques.
+- This Video On The [`Laplace Transform`] By Zach Star.
+- [`Khan Academy`] - Free College-level Courses.
 
 ## Tools
 
-- [`Desmos`] - Free online graphing calculator.
-- [`Wolfram Alpha`] - A helpful math partner.
-- [`Symbolab`] - Another helpful math partner.
-- [`GNU Octave`] - An open-source alternative to MATLAB. There is also an [`online version of GNU Octave`] available.
-  - [`Signal package`] - Signal processing tools for [`GNU Octave`], including filtering, windowing and display functions.
-- [`Curcuit JS`] - A cool little circuit simulation tool.
-- [`Awesome Electronics - Simulators`]: This awesome list has a list of useful circuit simulation tools.
-- [`Russell`] - A collection of tools that assist in the development of scientific computations (and by extension audio DSP). It includes numerical methods and solvers for differential equations, tools for statistical analysis, and other linear algebra tools. It is written in the [`Rust`] programming language.
+- [`Desmos`] - Free Online Graphing Calculator.
+- [`Wolfram Alpha`] - A Helpful Math Partner.
+- [`Symbolab`] - Another Helpful Math Partner.
+- [`GNU Octave`] - An Open-source Alternative To MATLAB. There Is Also An [`Online Version Of GNU Octave`] Available.
+  - [`Signal Package`] - Signal Processing Tools For [`GNU Octave`], Including Filtering, Windowing And Display Functions.
+- [`Curcuit JS`] - A Cool Little Circuit Simulation Tool.
+- [`Awesome Electronics - Simulators`]: This Awesome List Has A List Of Useful Circuit Simulation Tools.
+- [`Russell`] - A Collection Of Tools That Assist In The Development Of Scientific Computations (And By Extension Audio DSP). It Includes Numerical Methods And Solvers For Differential Equations, Tools For Statistical Analysis, And Other Linear Algebra Tools. It Is Written In The [`Rust`] Programming Language.
 
-[`3Blue1Brown`]: https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
-[`Euler's Formula`]: https://www.youtube.com/watch?v=mvmuCPvRoWQ
-[`Fourier Transform`]: https://www.youtube.com/watch?v=spUNpyF58BY
-[`Paul's Online Math Notes`]: https://tutorial.math.lamar.edu/
-[`Paul's Cheat Sheets`]: https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx
-[`katjaas`]: http://www.katjaas.nl/home/home.html
-[`Laplace Transform`]: https://www.youtube.com/watch?v=n2y7n6jw5d0
-[`Khan Academy`]: https://www.khanacademy.org/math
-[`Desmos`]: https://www.desmos.com/calculator
-[`Wolfram Alpha`]: https://www.wolframalpha.com/
-[`Symbolab`]: https://www.symbolab.com/
-[`GNU Octave`]: https://www.gnu.org/software/octave/index
-[`online version of GNU Octave`]: https://octave-online.net/
-[`Signal package`]: https://octave.sourceforge.io/signal/index.html
-[`Curcuit JS`]: https://www.falstad.com/circuit/circuitjs.html
-[`Awesome Electronics - Simulators`]: https://github.com/kitspace/awesome-electronics#analog-and-mixed-signal-circuit-simulators
-[`Russell`]: https://github.com/cpmech/russell
-[`Rust`]: https://www.rust-lang.org/
+[`3Blue1Brown`]: Https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+[`Euler's Formula`]: Https://www.youtube.com/watch?v=mvmuCPvRoWQ
+[`Fourier Transform`]: Https://www.youtube.com/watch?v=spUNpyF58BY
+[`Paul's Online Math Notes`]: Https://tutorial.math.lamar.edu/
+[`Paul's Cheat Sheets`]: Https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx
+[`Katjaas`]: Http://www.katjaas.nl/home/home.html
+[`Laplace Transform`]: Https://www.youtube.com/watch?v=n2y7n6jw5d0
+[`Khan Academy`]: Https://www.khanacademy.org/math
+[`Desmos`]: Https://www.desmos.com/calculator
+[`Wolfram Alpha`]: Https://www.wolframalpha.com/
+[`Symbolab`]: Https://www.symbolab.com/
+[`GNU Octave`]: Https://www.gnu.org/software/octave/index
+[`Online Version Of GNU Octave`]: Https://octave-online.net/
+[`Signal Package`]: Https://octave.sourceforge.io/signal/index.html
+[`Curcuit JS`]: Https://www.falstad.com/circuit/circuitjs.html
+[`Awesome Electronics - Simulators`]: Https://github.com/kitspace/awesome-electronics#analog-and-mixed-signal-circuit-simulators
+[`Russell`]: Https://github.com/cpmech/russell
+[`Rust`]: Https://www.rust-lang.org/

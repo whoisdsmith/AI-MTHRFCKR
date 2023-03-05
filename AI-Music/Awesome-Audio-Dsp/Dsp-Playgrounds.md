@@ -1,59 +1,61 @@
 # DSP Playgrounds
 
-A list of software tools that are useful for quickly and easily prototyping DSP. These can be a great start for learning and experimenting with DSP for those with little or no programming experience.
+---
+
+A List Of Software Tools That Are Useful For Quickly And Easily Prototyping DSP. These Can Be A Great Start For Learning And Experimenting With DSP For Those With Little Or No Programming Experience.
 
 ## Codeless
 
-- [`Reaktor 6`] by Native Instruments
-  - A popular modular environment for creating DSP without code.
-  - Has a sizeable community.
-  - Full version is expensive at $200 USD at the time of this writing. Free version is limited in functionality.
-  - Mac and Windows only. Although some have had success running it in Linux using Wine.
+- [`Reaktor 6`] By Native Instruments
+  - A Popular Modular Environment For Creating DSP Without Code.
+  - Has A Sizeable Community.
+  - Full Version Is Expensive At $200 USD At The Time Of This Writing. Free Version Is Limited In Functionality.
+  - Mac And Windows Only. Although Some Have Had Success Running It In Linux Using Wine.
 - [`Alpha Forever`]
-  - A Reaktor-like environment for creating DSP without code.
-  - Commercial software that is $80 USD at the time of this writing. Although the free demo lets you use all the features, just without the ability to save.
-  - Windows only.
-- [`The Grid`] by Bitwig Studio
-  - A built-in Reaktor-like plugin environment tightly integrated with the highly modular Bitwig Studio DAW.
-  - Highly intuitive to use.
-  - Requires Bitwig Studio, which is a whopping $400 USD at the time of this writing. However, the demo version lets you use all the features, just without the ability to save.
-  - Sound quality is not the greatest.
-  - Runs on Linux, Mac, and Windows.
+  - A Reaktor-like Environment For Creating DSP Without Code.
+  - Commercial Software That Is $80 USD At The Time Of This Writing. Although The Free Demo Lets You Use All The Features, Just Without The Ability To Save.
+  - Windows Only.
+- [`The Grid`] By Bitwig Studio
+  - A Built-in Reaktor-like Plugin Environment Tightly Integrated With The Highly Modular Bitwig Studio DAW.
+  - Highly Intuitive To Use.
+  - Requires Bitwig Studio, Which Is A Whopping $400 USD At The Time Of This Writing. However, The Demo Version Lets You Use All The Features, Just Without The Ability To Save.
+  - Sound Quality Is Not The Greatest.
+  - Runs On Linux, Mac, And Windows.
 - [`VCV Rack`]
-  - A fully modular software environment that simulates the analogue Eurorack environment.
-  - Popular with a sizeable community.
-  - Arguably more "plugin"-like than actual DSP, but concepts still translate to DSP skills.
-  - Free and open source.
-  - Runs on Linux, Mac, and Windows.
+  - A Fully Modular Software Environment That Simulates The Analogue Eurorack Environment.
+  - Popular With A Sizeable Community.
+  - Arguably More "Plugin"-like Than Actual DSP, But Concepts Still Translate To DSP Skills.
+  - Free And Open Source.
+  - Runs On Linux, Mac, And Windows.
 
 ## Easy Code
 
 - [`CSound`]
-  - A custom scripting language that is easy to learn and use.
-  - Well-known and long standing in the industry.
-  - Free and open-source.
-- [`py-modular`]
-  - A modular and experimental programming environment with basic DSP routines.
-  - Uses the very popular [`Python`] programming language, which is a great those who are learning to code.
-  - Relatively new and experimental project.
-  - Free and open-source.
+  - A Custom Scripting Language That Is Easy To Learn And Use.
+  - Well-known And Long Standing In The Industry.
+  - Free And Open-source.
+- [`Py-modular`]
+  - A Modular And Experimental Programming Environment With Basic DSP Routines.
+  - Uses The Very Popular [`Python`] Programming Language, Which Is A Great Those Who Are Learning To Code.
+  - Relatively New And Experimental Project.
+  - Free And Open-source.
 - [`FunDSP`]
-  - A neat project for learning and prototyping DSP.
-  - Uses the [`Rust`] programming language, so it is not for those who are beginners to coding. However, the library itself does not require advance Rust skills.
-  - Relatively new and experimental project.
-  - Free and open-source.
+  - A Neat Project For Learning And Prototyping DSP.
+  - Uses The [`Rust`] Programming Language, So It Is Not For Those Who Are Beginners To Coding. However, The Library Itself Does Not Require Advance Rust Skills.
+  - Relatively New And Experimental Project.
+  - Free And Open-source.
 - [`Maximilian.js`]
-  - Javascript bindings to the Maximilian DSP library.
-  - Javascript can be great for those who are just learning to code, and it can be ran inside a web browser.
-  - Free and open source.
+  - Javascript Bindings To The Maximilian DSP Library.
+  - Javascript Can Be Great For Those Who Are Just Learning To Code, And It Can Be Ran Inside A Web Browser.
+  - Free And Open Source.
 
-[`Reaktor 6`]: https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/
-[`Alpha Forever`]: https://www.afmodular.com/
-[`The Grid`]: https://www.bitwig.com/the-grid/
-[`VCV Rack`]: https://vcvrack.com/
-[`CSound`]: https://csound.com/
-[`py-modular`]: http://py-modular.readthedocs.io/
-[`Python`]: https://www.python.org/
-[`FunDSP`]: https://github.com/SamiPerttu/fundsp
-[`Rust`]: https://www.rust-lang.org/
-[`Maximilian.js`]: https://mimicproject.com/guides/maximJS
+[`Reaktor 6`]: Https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/
+[`Alpha Forever`]: Https://www.afmodular.com/
+[`The Grid`]: Https://www.bitwig.com/the-grid/
+[`VCV Rack`]: Https://vcvrack.com/
+[`CSound`]: Https://csound.com/
+[`Py-modular`]: Http://py-modular.readthedocs.io/
+[`Python`]: Https://www.python.org/
+[`FunDSP`]: Https://github.com/SamiPerttu/fundsp
+[`Rust`]: Https://www.rust-lang.org/
+[`Maximilian.js`]: Https://mimicproject.com/guides/maximJS

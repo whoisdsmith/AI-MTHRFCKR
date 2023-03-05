@@ -1,4 +1,4 @@
-# List of authors
+# List Of Authors
 
 - Adavanne, Sharath
 - Alec Radford
@@ -75,7 +75,7 @@
 - Franklin, Judy A
 - First, Miriam
 - Gao, Guanglai
-- Garcez, Artur S d'Avila
+- Garcez, Artur S D'Avila
 - Garcia, Christophe
 - Gemmeke, Jort F.
 - Gencoglu, Oguzhan
@@ -305,7 +305,7 @@
 - Valin, Jean-Marc
 - Van Gemert, JC
 - Van Ghoul, Luc
-- Van den Oord, Aaron
+- Van Den Oord, Aaron
 - Vaswani, Ashish
 - Velarde, Gissel
 - Veličković, Petar

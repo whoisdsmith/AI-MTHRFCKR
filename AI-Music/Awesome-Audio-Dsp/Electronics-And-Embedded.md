@@ -1,6 +1,6 @@
 # Electronics & Embedded
 
-Resources for developing audio stuff with analog hardware and embedded microcontrollers.
+Resources For Developing Audio Stuff With Analog Hardware And Embedded Microcontrollers.
 
-- [`Awesome Electronics`](https://github.com/kitspace/awesome-electronics) - An excellent and detailed list of resources for electronics engineering, focused on low-power DC circuits.
-- [`signalo`](https://github.com/signalo/signalo) - A Rust DSP toolbox with focus on embedded environments.
+- [`Awesome Electronics`](https://github.com/kitspace/awesome-electronics) - An Excellent And Detailed List Of Resources For Electronics Engineering, Focused On Low-power DC Circuits.
+- [`Signalo`](https://github.com/signalo/signalo) - A Rust DSP Toolbox With Focus On Embedded Environments.
