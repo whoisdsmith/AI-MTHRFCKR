@@ -1,354 +1,349 @@
 # Audio Analysis With Machine Learning: Building AI-Fueled Sound Detection App | AltexSoft
 
-> ## Excerpt
-> We live in the world of sounds: Pleasant and annoying, low and high, quiet and loud, they impact our mood and our decisions. Our brains are constantly processin
-
 ---
-
-![Wave,File,Of,Sound,On,Monitor,/,Record,Sound,In](https://content.altexsoft.com/media/2022/05/shutterstock_1131853538-scaled.jpg.webp)
 
 ![Wave,File,Of,Sound,On,Monitor,/,Record,Sound,In](https://content.altexsoft.com/media/2022/05/shutterstock_1131853538-scaled.jpg)
 
-# Audio Analysis With Machine Learning: Building AI-Fueled Sound Detection App
+---
 
 CONTENTS
 
-- [What is audio analysis?](https://www.altexsoft.com/blog/audio-analysis//#what-is-audio-analysis)
-    - [Speech recognition](https://www.altexsoft.com/blog/audio-analysis//#speech-recognition)
-    - [Voice recognition](https://www.altexsoft.com/blog/audio-analysis//#voice-recognition)
-    - [Music recognition](https://www.altexsoft.com/blog/audio-analysis//#music-recognition)
-    - [Environmental sound recognition](https://www.altexsoft.com/blog/audio-analysis//#environmental-sound-recognition)
-- [What is audio data?](https://www.altexsoft.com/blog/audio-analysis//#what-is-audio-data)
-    - [Audio data file formats](https://www.altexsoft.com/blog/audio-analysis//#audio-data-file-formats)
-    - [Audio data transformation basics to know](https://www.altexsoft.com/blog/audio-analysis//#audio-data-transformation-basics-to-know)
-    - [Audio analysis software](https://www.altexsoft.com/blog/audio-analysis//#audio-analysis-software)
-    - [Audio data analysis steps](https://www.altexsoft.com/blog/audio-analysis//#audio-data-analysis-steps)
-- [Voice and sound data acquisition](https://www.altexsoft.com/blog/audio-analysis//#voice-and-sound-data-acquisition)
-    - [Free data sources](https://www.altexsoft.com/blog/audio-analysis//#free-data-sources)
-    - [Commercial datasets](https://www.altexsoft.com/blog/audio-analysis//#commercial-datasets)
-    - [Expert datasets](https://www.altexsoft.com/blog/audio-analysis//#expert-datasets)
-- [Audio data preparation](https://www.altexsoft.com/blog/audio-analysis//#audio-data-preparation)
-    - [Audio data labeling](https://www.altexsoft.com/blog/audio-analysis//#audio-data-labeling)
-    - [Audio data preprocessing](https://www.altexsoft.com/blog/audio-analysis//#audio-data-preprocessing)
-- [Feature extraction](https://www.altexsoft.com/blog/audio-analysis//#feature-extraction)
-    - [Time-domain features](https://www.altexsoft.com/blog/audio-analysis//#time-domain-features)
-    - [Frequency domain features](https://www.altexsoft.com/blog/audio-analysis//#frequency-domain-features)
-    - [Time-frequency domain features](https://www.altexsoft.com/blog/audio-analysis//#time-frequency-domain-features)
-- [Selecting and training machine learning models](https://www.altexsoft.com/blog/audio-analysis//#selecting-and-training-machine-learning-models)
-    - [Long short-term memory networks (LSTMs)](https://www.altexsoft.com/blog/audio-analysis//#long-short-term-memory-networks-lstms)
-    - [Convolutional neural networks (CNNs)](https://www.altexsoft.com/blog/audio-analysis//#convolutional-neural-networks-cnns)
-- [Building an app for snore and teeth grinding detection](https://www.altexsoft.com/blog/audio-analysis//#building-an-app-for-snore-and-teeth-grinding-detection)
+- [What Is Audio Analysis?](https://www.altexsoft.com/blog/audio-analysis//#what-is-audio-analysis)
+    - [Speech Recognition](https://www.altexsoft.com/blog/audio-analysis//#speech-recognition)
+    - [Voice Recognition](https://www.altexsoft.com/blog/audio-analysis//#voice-recognition)
+    - [Music Recognition](https://www.altexsoft.com/blog/audio-analysis//#music-recognition)
+    - [Environmental Sound Recognition](https://www.altexsoft.com/blog/audio-analysis//#environmental-sound-recognition)
+- [What Is Audio Data?](https://www.altexsoft.com/blog/audio-analysis//#what-is-audio-data)
+    - [Audio Data File Formats](https://www.altexsoft.com/blog/audio-analysis//#audio-data-file-formats)
+    - [Audio Data Transformation Basics To Know](https://www.altexsoft.com/blog/audio-analysis//#audio-data-transformation-basics-to-know)
+    - [Audio Analysis Software](https://www.altexsoft.com/blog/audio-analysis//#audio-analysis-software)
+    - [Audio Data Analysis Steps](https://www.altexsoft.com/blog/audio-analysis//#audio-data-analysis-steps)
+- [Voice And Sound Data Acquisition](https://www.altexsoft.com/blog/audio-analysis//#voice-and-sound-data-acquisition)
+    - [Free Data Sources](https://www.altexsoft.com/blog/audio-analysis//#free-data-sources)
+    - [Commercial Datasets](https://www.altexsoft.com/blog/audio-analysis//#commercial-datasets)
+    - [Expert Datasets](https://www.altexsoft.com/blog/audio-analysis//#expert-datasets)
+- [Audio Data Preparation](https://www.altexsoft.com/blog/audio-analysis//#audio-data-preparation)
+    - [Audio Data Labeling](https://www.altexsoft.com/blog/audio-analysis//#audio-data-labeling)
+    - [Audio Data Preprocessing](https://www.altexsoft.com/blog/audio-analysis//#audio-data-preprocessing)
+- [Feature Extraction](https://www.altexsoft.com/blog/audio-analysis//#feature-extraction)
+    - [Time-domain Features](https://www.altexsoft.com/blog/audio-analysis//#time-domain-features)
+    - [Frequency Domain Features](https://www.altexsoft.com/blog/audio-analysis//#frequency-domain-features)
+    - [Time-frequency Domain Features](https://www.altexsoft.com/blog/audio-analysis//#time-frequency-domain-features)
+- [Selecting And Training Machine Learning Models](https://www.altexsoft.com/blog/audio-analysis//#selecting-and-training-machine-learning-models)
+    - [Long Short-term Memory Networks (LSTMs)](https://www.altexsoft.com/blog/audio-analysis//#long-short-term-memory-networks-lstms)
+    - [Convolutional Neural Networks (CNNs)](https://www.altexsoft.com/blog/audio-analysis//#convolutional-neural-networks-cnns)
+- [Building An App For Snore And Teeth Grinding Detection](https://www.altexsoft.com/blog/audio-analysis//#building-an-app-for-snore-and-teeth-grinding-detection)
 
-Reading time: 15 minutes
+---
 
-We live in the world of sounds: Pleasant and annoying, low and high, quiet and loud, they impact our mood and our decisions. Our brains are constantly processing sounds to give us important information about our environment. But acoustic signals can tell us even more if analyze them using modern technologies.
+We Live In The World Of Sounds: Pleasant And Annoying, Low And High, Quiet And Loud, They Impact Our Mood And Our Decisions. Our Brains Are Constantly Processing Sounds To Give Us Important Information About Our Environment. But Acoustic Signals Can Tell Us Even More If Analyze Them Using Modern Technologies.  
 
-Today, we have AI and [machine learning](https://www.altexsoft.com/whitepapers/machine-learning-bridging-between-business-and-data-science/) to extract insights, inaudible to human beings, from speech, voices, snoring, music, industrial and traffic noise, and other types of acoustic signals. In this article, we’ll share what we’ve learned when creating AI-based sound recognition solutions for healthcare projects.
+Today, We Have AI And [Machine Learning](https://www.altexsoft.com/whitepapers/machine-learning-bridging-between-business-and-data-science/) To Extract Insights, Inaudible To Human Beings, From Speech, Voices, Snoring, Music, Industrial And Traffic Noise, And Other Types Of Acoustic Signals. In This Article, We’ll Share What We’ve Learned When Creating AI-based Sound Recognition Solutions For Healthcare Projects.  
 
-Particularly, we’ll explain how to obtain audio data, prepare it for analysis, and choose the right ML model to achieve the highest prediction accuracy. But first, let’s go over the basics: What is the audio analysis, and what makes audio data so challenging to deal with.
+Particularly, We’ll Explain How To Obtain Audio Data, Prepare It For Analysis, And Choose The Right ML Model To Achieve The Highest Prediction Accuracy. But First, Let’s Go Over The Basics: What Is The Audio Analysis, And What Makes Audio Data So Challenging To Deal With.  
 
-## What is audio analysis?
+## What Is Audio Analysis?
 
-Audio analysis is a process of transforming, exploring, and interpreting audio signals recorded by digital devices. Aiming at understanding sound data, it applies a range of technologies, including state-of-the-art [deep learning](https://www.altexsoft.com/blog/deep-learning/) algorithms. Audio analysis has already gained broad adoption in various industries, from entertainment to healthcare to manufacturing. Below we’ll give the most popular use cases.
+Audio Analysis Is A Process Of Transforming, Exploring, And Interpreting Audio Signals Recorded By Digital Devices. Aiming At Understanding Sound Data, It Applies A Range Of Technologies, Including State-of-the-art [Deep Learning](https://www.altexsoft.com/blog/deep-learning/) Algorithms. Audio Analysis Has Already Gained Broad Adoption In Various Industries, From Entertainment To Healthcare To Manufacturing. Below We’ll Give The Most Popular Use Cases.
 
-### Speech recognition
+### Speech Recognition
 
-**Speech recognition** is about the ability of computers to distinguish spoken words with [natural language processing](https://www.altexsoft.com/blog/natural-language-processing/) techniques. It allows us to control PCs, smartphones, and other devices via voice commands and dictate texts to machines instead of manual entering. Siri by Apple, Alexa by Amazon, Google Assistant, and Cortana by Microsoft are popular examples of how deeply the technology has penetrated into our daily lives.
+**Speech Recognition** Is About The Ability Of Computers To Distinguish Spoken Words With [Natural Language Processing](https://www.altexsoft.com/blog/natural-language-processing/) Techniques. It Allows Us To Control PCs, Smartphones, And Other Devices Via Voice Commands And Dictate Texts To Machines Instead Of Manual Entering. Siri By Apple, Alexa By Amazon, Google Assistant, And Cortana By Microsoft Are Popular Examples Of How Deeply The Technology Has Penetrated Into Our Daily Lives.
 
-### Voice recognition
+### Voice Recognition
 
-**Voice recognition** is meant to identify people by the unique characteristics of their voices rather than to isolate separate words. The approach finds applications in security systems for user authentication. For instance, [Nuance Gatekeeper](https://www.nuance.com/omni-channel-customer-engagement/authentication-and-fraud-prevention/biometric-authentication.html) biometric engine verifies employees and customers by their voices in the banking sector.
+**Voice Recognition** Is Meant To Identify People By The Unique Characteristics Of Their Voices Rather Than To Isolate Separate Words. The Approach Finds Applications In Security Systems For User Authentication. For Instance, [Nuance Gatekeeper](https://www.nuance.com/omni-channel-customer-engagement/authentication-and-fraud-prevention/biometric-authentication.html) Biometric Engine Verifies Employees And Customers By Their Voices In The Banking Sector.
 
-### Music recognition
+### Music Recognition
 
-**Music recognition** is a popular feature of such apps as [Shazam](https://www.shazam.com/gb/home) that helps you identify unknown songs from a short sample. Another application of musical audio analysis is genre classification: Say, [Spotify](https://www.spotify.com/ua-en/) runs its proprietary algorithm to group tracks into categories (their database holds more than [5,000 genres](https://crimsonnews.org/7630/entertainment/spotifys-newest-non-genre/))
+**Music Recognition** Is A Popular Feature Of Such Apps As [Shazam](https://www.shazam.com/gb/home) That Helps You Identify Unknown Songs From A Short Sample. Another Application Of Musical Audio Analysis Is Genre Classification: Say, [Spotify](https://www.spotify.com/ua-en/) Runs Its Proprietary Algorithm To Group Tracks Into Categories (Their Database Holds More Than [5,000 Genres](https://crimsonnews.org/7630/entertainment/spotifys-newest-non-genre/))
 
-### Environmental sound recognition
+### Environmental Sound Recognition
 
-**Environmental sound recognition** focuses on the identification of noises around us, promising a bunch of advantages to automotive and manufacturing industries. It’s vital for understanding surroundings in [IoT applications](https://www.altexsoft.com/blog/iot-architecture-layers-components/).
+**Environmental Sound Recognition** Focuses On The Identification Of Noises Around Us, Promising A Bunch Of Advantages To Automotive And Manufacturing Industries. It’s Vital For Understanding Surroundings In [IoT Applications](https://www.altexsoft.com/blog/iot-architecture-layers-components/).
 
-Systems like [Audio Analytic](https://www.audioanalytic.com/) ‘listen’ to the events inside and outside your car, enabling the vehicle to make adjustments in order to increase a driver’s safety. Another example is [SoundSee](https://www.bosch.com/research/know-how/success-stories/audio-ai/) technology by Bosch that can analyze machine noises and facilitate [predictive maintenance](https://www.altexsoft.com/blog/predictive-maintenance/) to monitor equipment health and prevent costly failures.
+Systems Like [Audio Analytic](https://www.audioanalytic.com/) ‘Listen’ To The Events Inside And Outside Your Car, Enabling The Vehicle To Make Adjustments In Order To Increase A Driver’s Safety. Another Example Is [SoundSee](https://www.bosch.com/research/know-how/success-stories/audio-ai/) Technology By Bosch That Can Analyze Machine Noises And Facilitate [Predictive Maintenance](https://www.altexsoft.com/blog/predictive-maintenance/) To Monitor Equipment Health And Prevent Costly Failures.
 
-Healthcare is another field where environmental sound recognition comes in handy. It offers a non-invasive type of [remote patient monitoring](https://www.altexsoft.com/blog/remote-patient-monitoring-systems/) to detect events like falling. Besides that, analysis of coughing, sneezing, snoring, and other sounds can facilitate pre-screening, identifying a patient’s status, assessing the infection level in public spaces, and so on.
+Healthcare Is Another Field Where Environmental Sound Recognition Comes In Handy. It Offers A Non-invasive Type Of [Remote Patient Monitoring](https://www.altexsoft.com/blog/remote-patient-monitoring-systems/) To Detect Events Like Falling. Besides That, Analysis Of Coughing, Sneezing, Snoring, And Other Sounds Can Facilitate Pre-screening, Identifying A Patient’s Status, Assessing The Infection Level In Public Spaces, And So On.
 
-A real-life use case of such analysis is [Sleep.ai](https://sleep.ai/) which detects teeth grinding and snoring sounds during sleep. The solution created by AltexSoft for a Dutch healthcare startup helps dentists identify and monitor bruxism to eventually understand the causes of this abnormality and treat it.
+A Real-life Use Case Of Such Analysis Is [Sleep.ai](https://sleep.ai/) Which Detects Teeth Grinding And Snoring Sounds During Sleep. The Solution Created By AltexSoft For A Dutch Healthcare Startup Helps Dentists Identify And Monitor Bruxism To Eventually Understand The Causes Of This Abnormality And Treat It.
 
-No matter what type of sounds you analyze, it all starts with an understanding of audio data and its specific characteristics.
+No Matter What Type Of Sounds You Analyze, It All Starts With An Understanding Of Audio Data And Its Specific Characteristics.
 
-## What is audio data?
+## What Is Audio Data?
 
-Audio data represents analog sounds in a digital form, preserving the main properties of the original. As we know from school lessons in physics, a sound is a wave of vibrations traveling through a medium like air or water and finally reaching our ears. It has three key characteristics to be considered when analyzing audio data—time period, amplitude, and frequency.
+Audio Data Represents Analog Sounds In A Digital Form, Preserving The Main Properties Of The Original. As We Know From School Lessons In Physics, A Sound Is A Wave Of Vibrations Traveling Through A Medium Like Air Or Water And Finally Reaching Our Ears. It Has Three Key Characteristics To Be Considered When Analyzing Audio Data—time Period, Amplitude, And Frequency.
 
-**Time** **period** is how long a certain sound lasts or, in other words, how many seconds it takes to complete one cycle of vibrations.
+**Time** **Period** Is How Long A Certain Sound Lasts Or, In Other Words, How Many Seconds It Takes To Complete One Cycle Of Vibrations.
 
-**Amplitude** is the sound intensity measured in decibels (dB) which we perceive as loudness.
+**Amplitude** Is The Sound Intensity Measured In Decibels (DB) Which We Perceive As Loudness.
 
-**Frequency** measured in Hertz (Hz) indicates how many sound vibrations happen per second. People interpret frequency as low or high **pitch.**
+**Frequency** Measured In Hertz (Hz) Indicates How Many Sound Vibrations Happen Per Second. People Interpret Frequency As Low Or High **Pitch.**
 
-While frequency is an objective parameter, the pitch is subjective. The human [hearing range](https://en.wikipedia.org/wiki/Hearing_range) lies between 20 and 20,000 Hz. Scientists claim that most people perceive as low pitch all sounds below 500 Hz—like the plane engine roar. In turn, high pitch for us is everything beyond 2,000 Hz (for example, a whistle.)
+While Frequency Is An Objective Parameter, The Pitch Is Subjective. The Human [Hearing Range](https://en.wikipedia.org/wiki/Hearing_range) Lies Between 20 And 20,000 Hz. Scientists Claim That Most People Perceive As Low Pitch All Sounds Below 500 Hz—like The Plane Engine Roar. In Turn, High Pitch For Us Is Everything Beyond 2,000 Hz (For Example, A Whistle.)
 
-### Audio data file formats
+### Audio Data File Formats
 
-Similar to texts and images, audio is [unstructured data](https://www.altexsoft.com/blog/structured-unstructured-data/) meaning that it’s not arranged in tables with connected rows and columns. Instead, you can store audio in various file formats like
+Similar To Texts And Images, Audio Is [Unstructured Data](https://www.altexsoft.com/blog/structured-unstructured-data/) Meaning That It’s Not Arranged In Tables With Connected Rows And Columns. Instead, You Can Store Audio In Various File Formats Like
 
-- WAV or WAVE (Waveform Audio File Format) developed by Microsoft and IBM. It’s a lossless or raw file format meaning that it doesn’t compress the original sound recording;
-- AIFF (Audio Interchange File Format) developed by Apple. Like WAV, it works with uncompressed audio;
-- FLAC (Free Lossless Audio Codec) developed by Xiph.Org Foundation that offers free multimedia formats and software tools. FLAC files are compressed without losing sound quality.
-- MP3 (mpeg-1 audio layer 3) developed by the Fraunhofer Society in Germany and supported globally. It’s the most common file format since it makes music easy to store on portable devices and send back and forth via the Internet. Though mp3 compresses audio, it still offers an acceptable sound quality.
+- WAV Or WAVE (Waveform Audio File Format) Developed By Microsoft And IBM. It’s A Lossless Or Raw File Format Meaning That It Doesn’t Compress The Original Sound Recording;
+- AIFF (Audio Interchange File Format) Developed By Apple. Like WAV, It Works With Uncompressed Audio;
+- FLAC (Free Lossless Audio Codec) Developed By Xiph.Org Foundation That Offers Free Multimedia Formats And Software Tools. FLAC Files Are Compressed Without Losing Sound Quality.
+- MP3 (Mpeg-1 Audio Layer 3) Developed By The Fraunhofer Society In Germany And Supported Globally. It’s The Most Common File Format Since It Makes Music Easy To Store On Portable Devices And Send Back And Forth Via The Internet. Though Mp3 Compresses Audio, It Still Offers An Acceptable Sound Quality.
 
-We recommend using aiff and wav files for analysis as they don’t miss any information present in analog sounds. At the same time, keep in mind that neither of those and other audio files can be fed directly to machine learning models. To make audio understandable for computers, data must undergo a transformation.
+We Recommend Using Aiff And Wav Files For Analysis As They Don’t Miss Any Information Present In Analog Sounds. At The Same Time, Keep In Mind That Neither Of Those And Other Audio Files Can Be Fed Directly To Machine Learning Models. To Make Audio Understandable For Computers, Data Must Undergo A Transformation.
 
-### Audio data transformation basics to know
+### Audio Data Transformation Basics To Know
 
-Before diving deeper into the processing of audio files, we need to introduce specific terms, that you will encounter at almost every step of our journey from sound data collection to getting ML predictions. It’s worth noting that audio analysis involves working with images rather than listening.
+Before Diving Deeper Into The Processing Of Audio Files, We Need To Introduce Specific Terms, That You Will Encounter At Almost Every Step Of Our Journey From Sound Data Collection To Getting ML Predictions. It’s Worth Noting That Audio Analysis Involves Working With Images Rather Than Listening.
 
-A **waveform** is a basic visual representation of an audio signal that reflects how an amplitude changes over time. The graph displays the time on the horizontal (X) axis and the amplitude on the vertical (Y) axis but it doesn’t tell us what’s happening to frequencies.
+A **Waveform** Is A Basic Visual Representation Of An Audio Signal That Reflects How An Amplitude Changes Over Time. The Graph Displays The Time On The Horizontal (X) Axis And The Amplitude On The Vertical (Y) Axis But It Doesn’t Tell Us What’s Happening To Frequencies.
 
-![](https://content.altexsoft.com/media/2022/05/word-image-6.png.webp)
+![](Https://content.altexsoft.com/media/2022/05/word-image-6.png.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image-6.png)
+![](Https://content.altexsoft.com/media/2022/05/word-image-6.png)
 
-*An example of a waveform. Source:* [*Audio Singal Processing for Machine Learning*](https://www.youtube.com/watch?v=bnHHVo3j124&list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&index=2&ab_channel=ValerioVelardo-TheSoundofAI)
+*An Example Of A Waveform. Source:* [*Audio Singal Processing For Machine Learning*](https://www.youtube.com/watch?v=bnHHVo3j124&list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&index=2&ab_channel=ValerioVelardo-TheSoundofAI)
 
-A **spectrum or spectral plot** is a graph where the X-axis shows the frequency of the sound wave while the Y-axis represents its amplitude. This type of sound [data visualization](https://www.altexsoft.com/blog/data-visualization-tools-types-techniques/) helps you analyze frequency content but misses the time component.
+A **Spectrum Or Spectral Plot** Is A Graph Where The X-axis Shows The Frequency Of The Sound Wave While The Y-axis Represents Its Amplitude. This Type Of Sound [Data Visualization](https://www.altexsoft.com/blog/data-visualization-tools-types-techniques/) Helps You Analyze Frequency Content But Misses The Time Component.
 
-**![](https://content.altexsoft.com/media/2022/05/word-image-7.png.webp)
+**![](Https://content.altexsoft.com/media/2022/05/word-image-7.png.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image-7.png)
+![](Https://content.altexsoft.com/media/2022/05/word-image-7.png)
 
 **
 
-*An example of a spectrum plot. Source:* [*Analytics Vidhya*](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53)
+*An Example Of A Spectrum Plot. Source:* [*Analytics Vidhya*](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53)
 
-A **spectrogram** is a detailed view of a signal that covers all three characteristics of sound. You can learn about time from the x-axis, frequencies from the y-axis, and amplitude from color. The louder the event the brighter the color, while silence is represented by black. Having three dimensions on one graph is very convenient: it allows you to track how frequencies change over time, examine the sound in all its fullness, and spot various problem areas (like noises) and patterns by sight.
+A **Spectrogram** Is A Detailed View Of A Signal That Covers All Three Characteristics Of Sound. You Can Learn About Time From The X-axis, Frequencies From The Y-axis, And Amplitude From Color. The Louder The Event The Brighter The Color, While Silence Is Represented By Black. Having Three Dimensions On One Graph Is Very Convenient: It Allows You To Track How Frequencies Change Over Time, Examine The Sound In All Its Fullness, And Spot Various Problem Areas (Like Noises) And Patterns By Sight.
 
-![](https://content.altexsoft.com/media/2022/05/word-image-8.png.webp)
+![](Https://content.altexsoft.com/media/2022/05/word-image-8.png.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image-8.png)
+![](Https://content.altexsoft.com/media/2022/05/word-image-8.png)
 
-*An example of a spectrogram. Source:* [*iZotope*](https://www.izotope.com/en/learn/understanding-spectrograms.html)
+*An Example Of A Spectrogram. Source:* [*IZotope*](https://www.izotope.com/en/learn/understanding-spectrograms.html)
 
-A **mel spectrogram** where mel stands for melody is a type of spectrogram based on the mel scale that describes how people perceive sound characteristics. Our ear can distinguish low frequencies better than high frequencies. You can check it yourself: Try to [play tones](https://www.youtube.com/watch?v=el-n-GdTjL8&ab_channel=HCSCARAUDIO) from 500 to 1000 Hz and then from 10,000 to 10,500 Hz. The former frequency range would seem much broader than the latter, though, in fact, they are the same. The mel spectrogram incorporates this unique feature of human hearing, converting the values in Hertz into the mel scale. This approach is widely used for genre classification, instrument detection in songs, and speech emotion recognition.
+A **Mel Spectrogram** Where Mel Stands For Melody Is A Type Of Spectrogram Based On The Mel Scale That Describes How People Perceive Sound Characteristics. Our Ear Can Distinguish Low Frequencies Better Than High Frequencies. You Can Check It Yourself: Try To [Play Tones](https://www.youtube.com/watch?v=el-n-GdTjL8&ab_channel=HCSCARAUDIO) From 500 To 1000 Hz And Then From 10,000 To 10,500 Hz. The Former Frequency Range Would Seem Much Broader Than The Latter, Though, In Fact, They Are The Same. The Mel Spectrogram Incorporates This Unique Feature Of Human Hearing, Converting The Values In Hertz Into The Mel Scale. This Approach Is Widely Used For Genre Classification, Instrument Detection In Songs, And Speech Emotion Recognition.
 
-![](https://content.altexsoft.com/media/2022/05/word-image.jpeg.webp)
+![](Https://content.altexsoft.com/media/2022/05/word-image.jpeg.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image.jpeg)
+![](Https://content.altexsoft.com/media/2022/05/word-image.jpeg)
 
-*An example of a mel spectrogram. Source:* [*Devopedia*](https://devopedia.org/audio-feature-extraction)
+*An Example Of A Mel Spectrogram. Source:* [*Devopedia*](https://devopedia.org/audio-feature-extraction)
 
-The **Fourier transform (FT)** is a mathematical function that breaks a signal into spikes of different amplitudes and frequencies. We use it to convert waveforms into corresponding spectrum plots to look at the same signal from a different angle and perform frequency analysis. It’s a powerful instrument to understand signals and troubleshooting errors in them.
+The **Fourier Transform (FT)** Is A Mathematical Function That Breaks A Signal Into Spikes Of Different Amplitudes And Frequencies. We Use It To Convert Waveforms Into Corresponding Spectrum Plots To Look At The Same Signal From A Different Angle And Perform Frequency Analysis. It’s A Powerful Instrument To Understand Signals And Troubleshooting Errors In Them.
 
-The **Fast Fourier Transform (FFT)** is the algorithm computing the Fourier transform.
+The **Fast Fourier Transform (FFT)** Is The Algorithm Computing The Fourier Transform.
 
-![](https://content.altexsoft.com/media/2022/05/word-image-9.png.webp)
+![](Https://content.altexsoft.com/media/2022/05/word-image-9.png.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image-9.png)
+![](Https://content.altexsoft.com/media/2022/05/word-image-9.png)
 
-*Applying FFT to view the same signal from time and frequency perspectives. Source:* [*NTi Audio*](https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft)
+*Applying FFT To View The Same Signal From Time And Frequency Perspectives. Source:* [*NTi Audio*](https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft)
 
-The **short-time Fourier transform (STFT)** is a sequence of Fourier transforms converting a waveform into a spectrogram.
+The **Short-time Fourier Transform (STFT)** Is A Sequence Of Fourier Transforms Converting A Waveform Into A Spectrogram.
 
-### Audio analysis software
+### Audio Analysis Software
 
-Of course, you don’t need to perform transformations manually. Neither need you to understand the complex mathematics behind FT, STFT, and other techniques used in audio analysis. All these and many other tasks are done automatically by audio analysis software that in most cases supports the following operations:
+Of Course, You Don’t Need To Perform Transformations Manually. Neither Need You To Understand The Complex Mathematics Behind FT, STFT, And Other Techniques Used In Audio Analysis. All These And Many Other Tasks Are Done Automatically By Audio Analysis Software That In Most Cases Supports The Following Operations:
 
-- import audio data
-- add annotations (labels),
-- edit recordings and split them into pieces,
-- remove noise,
-- convert signals into corresponding visual representations (waveforms, spectrum plots, spectrograms, mel spectrograms),
-- do preprocessing operations,
-- analyze time and frequency content,
-- extract audio features and more.
+- Import Audio Data
+- Add Annotations (Labels),
+- Edit Recordings And Split Them Into Pieces,
+- Remove Noise,
+- Convert Signals Into Corresponding Visual Representations (Waveforms, Spectrum Plots, Spectrograms, Mel Spectrograms),
+- Do Preprocessing Operations,
+- Analyze Time And Frequency Content,
+- Extract Audio Features And More.
 
-The most advanced platforms also allow you to train machine learning models and even provide you with pre-trained algorithms.
+The Most Advanced Platforms Also Allow You To Train Machine Learning Models And Even Provide You With Pre-trained Algorithms.
 
-Here is the list of the most popular tools used in audio analysis.
+Here Is The List Of The Most Popular Tools Used In Audio Analysis.
 
-[Audacity](https://www.audacityteam.org/) is a free and open-source audio editor to split recordings, remove noise, transform waveforms to spectrograms, and label them. Audacity doesn’t require coding skills. Yet, its toolset for audio analysis is not very sophisticated. For further steps, you need to load your dataset to [Python](https://www.altexsoft.com/blog/python-pros-and-cons/) or switch to a platform specifically focusing on analysis and/or machine learning.
+[Audacity](https://www.audacityteam.org/) Is A Free And Open-source Audio Editor To Split Recordings, Remove Noise, Transform Waveforms To Spectrograms, And Label Them. Audacity Doesn’t Require Coding Skills. Yet, Its Toolset For Audio Analysis Is Not Very Sophisticated. For Further Steps, You Need To Load Your Dataset To [Python](https://www.altexsoft.com/blog/python-pros-and-cons/) Or Switch To A Platform Specifically Focusing On Analysis And/or Machine Learning.
 
-![](https://content.altexsoft.com/media/2022/05/word-image-1.jpeg.webp)
+![](Https://content.altexsoft.com/media/2022/05/word-image-1.jpeg.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image-1.jpeg)
+![](Https://content.altexsoft.com/media/2022/05/word-image-1.jpeg)
 
-*Labeling of audio data in Audacity. Source:* [*Towards Data Science*](https://towardsdatascience.com/how-to-label-audio-for-deep-learning-in-4-simple-steps-6a2c33b343e6)
+*Labeling Of Audio Data In Audacity. Source:* [*Towards Data Science*](https://towardsdatascience.com/how-to-label-audio-for-deep-learning-in-4-simple-steps-6a2c33b343e6)
 
-[Tensorflow-io package](https://www.tensorflow.org/io/tutorials/audio) for preparation and augmentation of audio data lets you perform a wide range of operations—noise removal, converting waveforms to spectrograms, frequency, and time masking to make the sound clearly audible, and more. The tool belongs to the open-source TensorFlow ecosystem, covering end-to-end machine learning workflow. So, after preprocessing you can train an ML model on the same platform.
+[Tensorflow-io Package](https://www.tensorflow.org/io/tutorials/audio) For Preparation And Augmentation Of Audio Data Lets You Perform A Wide Range Of Operations—noise Removal, Converting Waveforms To Spectrograms, Frequency, And Time Masking To Make The Sound Clearly Audible, And More. The Tool Belongs To The Open-source TensorFlow Ecosystem, Covering End-to-end Machine Learning Workflow. So, After Preprocessing You Can Train An ML Model On The Same Platform.
 
-[Librosa](https://librosa.org/doc/latest/index.html) is an open-source Python library that has almost everything you need for audio and music analysis. It enables displaying characteristics of audio files, creating all types of audio data visualizations, and extracting features from them, to name just a few capabilities.
+[Librosa](https://librosa.org/doc/latest/index.html) Is An Open-source Python Library That Has Almost Everything You Need For Audio And Music Analysis. It Enables Displaying Characteristics Of Audio Files, Creating All Types Of Audio Data Visualizations, And Extracting Features From Them, To Name Just A Few Capabilities.
 
-[Audio Toolbox by MathWorks](https://www.mathworks.com/help/audio/) offers numerous instruments for audio data processing and analysis, from labeling to estimating signal metrics to extracting certain features. It also comes with pre-trained machine learning and deep learning models that can be used for speech analysis and sound recognition.
+[Audio Toolbox By MathWorks](https://www.mathworks.com/help/audio/) Offers Numerous Instruments For Audio Data Processing And Analysis, From Labeling To Estimating Signal Metrics To Extracting Certain Features. It Also Comes With Pre-trained Machine Learning And Deep Learning Models That Can Be Used For Speech Analysis And Sound Recognition.
 
-### Audio data analysis steps
+### Audio Data Analysis Steps
 
-Now that we have a basic understanding of sound data, let’s take a glance at the key stages of the end-to-end audio analysis project.
+Now That We Have A Basic Understanding Of Sound Data, Let’s Take A Glance At The Key Stages Of The End-to-end Audio Analysis Project.
 
-1. **Obtain** project-specific audio data stored in standard file formats.
-2. **Prepare data** for your machine learning project, using software tools
-3. **Extract** audio features from visual representations of sound data.
-4. **Select** the machine learning model and **train** it on audio features.
+1. **Obtain** Project-specific Audio Data Stored In Standard File Formats.
+2. **Prepare Data** For Your Machine Learning Project, Using Software Tools
+3. **Extract** Audio Features From Visual Representations Of Sound Data.
+4. **Select** The Machine Learning Model And **Train** It On Audio Features.
 
-![](https://content.altexsoft.com/media/2022/05/word-image-10.png.webp)
+![](Https://content.altexsoft.com/media/2022/05/word-image-10.png.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image-10.png)
+![](Https://content.altexsoft.com/media/2022/05/word-image-10.png)
 
-*Steps of audio analysis with machine learning*
+*Steps Of Audio Analysis With Machine Learning*
 
-## Voice and sound data acquisition
+## Voice And Sound Data Acquisition
 
-You have three options to obtain data to train machine learning models: use free sound libraries or audio datasets, purchase it from data providers, or collect it involving domain experts.
+You Have Three Options To Obtain Data To Train Machine Learning Models: Use Free Sound Libraries Or Audio Datasets, Purchase It From Data Providers, Or Collect It Involving Domain Experts.
 
-### Free data sources
+### Free Data Sources
 
-There are a lot of such sources out there on the web. But what we do not control in this case is [data quality](https://www.altexsoft.com/blog/data-quality-management-and-tools/) and quantity, and the general approach to recording.
+There Are A Lot Of Such Sources Out There On The Web. But What We Do Not Control In This Case Is [Data Quality](https://www.altexsoft.com/blog/data-quality-management-and-tools/) And Quantity, And The General Approach To Recording.
 
-**Sound libraries** are free audio pieces grouped by theme. Sources like [Freesound](https://freesound.org/browse/packs/?order=-last_updated) and [BigSoundBank](https://bigsoundbank.com/search) offer voice recordings, environment sounds, noises, and honestly all kinds of stuff. For example, you can find the soundscape of the [applause](https://bigsoundbank.com/detail-2479-applause-concert-bar-1.html), and the set with [skateboard](https://freesound.org/people/Rbrtbiehl/packs/34912/) sounds.
+**Sound Libraries** Are Free Audio Pieces Grouped By Theme. Sources Like [Freesound](https://freesound.org/browse/packs/?order=-last_updated) And [BigSoundBank](https://bigsoundbank.com/search) Offer Voice Recordings, Environment Sounds, Noises, And Honestly All Kinds Of Stuff. For Example, You Can Find The Soundscape Of The [Applause](https://bigsoundbank.com/detail-2479-applause-concert-bar-1.html), And The Set With [Skateboard](https://freesound.org/people/Rbrtbiehl/packs/34912/) Sounds.
 
-The most important thing is that sound libraries are not specifically prepared for machine learning projects. So, we need to perform extra work on set completion, labeling, and quality control.
+The Most Important Thing Is That Sound Libraries Are Not Specifically Prepared For Machine Learning Projects. So, We Need To Perform Extra Work On Set Completion, Labeling, And Quality Control.
 
-**Audio datasets** are, on the contrary, created with particular machine learning tasks in mind. For instance, the [Bird Audio Detection](https://dagshub.com/kingabzpro/Bird-Audio-Detection-challenge) dataset by the [Machine Listening Lab](http://machine-listening.eecs.qmul.ac.uk/#:~:text=In%20the%20Machine%20Listening%20Lab,extract%20useful%20information%20from%20sound.) has more than 7,000 excerpts collected during bio-acoustics monitoring projects. Another example is the [ESC-50: Environmental Sound Classification](https://dagshub.com/kinkusuma/esc50-dataset) dataset, containing 2,000 labeled audio recordings. Each file is 5 seconds long and belongs to one of the 50 semantical classes organized in five categories.
+**Audio Datasets** Are, On The Contrary, Created With Particular Machine Learning Tasks In Mind. For Instance, The [Bird Audio Detection](https://dagshub.com/kingabzpro/Bird-Audio-Detection-challenge) Dataset By The [Machine Listening Lab](http://machine-listening.eecs.qmul.ac.uk/#:~:text=In%20the%20Machine%20Listening%20Lab,extract%20useful%20information%20from%20sound.) Has More Than 7,000 Excerpts Collected During Bio-acoustics Monitoring Projects. Another Example Is The [ESC-50: Environmental Sound Classification](https://dagshub.com/kinkusuma/esc50-dataset) Dataset, Containing 2,000 Labeled Audio Recordings. Each File Is 5 Seconds Long And Belongs To One Of The 50 Semantical Classes Organized In Five Categories.
 
-One of the largest audio data collections is [AudioSet](https://research.google.com/audioset/index.html) by Google. It includes over 2 million human-labeled 10-second sound clips, extracted from YouTube videos. The dataset covers 632 classes, from music and speech to splinter and toothbrush sounds.
+One Of The Largest Audio Data Collections Is [AudioSet](https://research.google.com/audioset/index.html) By Google. It Includes Over 2 Million Human-labeled 10-second Sound Clips, Extracted From YouTube Videos. The Dataset Covers 632 Classes, From Music And Speech To Splinter And Toothbrush Sounds.
 
-### Commercial datasets
+### Commercial Datasets
 
-Commercial audio sets for machine learning are definitely more reliable in terms of [data integrity](https://www.altexsoft.com/blog/data-integrity/) than free ones. We can recommend [ProSoundEffects](https://www.prosoundeffects.com/machine-learning-audio-research-datasets/) selling datasets to train models for speech recognition, environmental sound classification, audio source separation, and other applications. In total, the company has 357,000 files recorded by experts in film sound and classified into 500+ categories.
+Commercial Audio Sets For Machine Learning Are Definitely More Reliable In Terms Of [Data Integrity](https://www.altexsoft.com/blog/data-integrity/) Than Free Ones. We Can Recommend [ProSoundEffects](https://www.prosoundeffects.com/machine-learning-audio-research-datasets/) Selling Datasets To Train Models For Speech Recognition, Environmental Sound Classification, Audio Source Separation, And Other Applications. In Total, The Company Has 357,000 Files Recorded By Experts In Film Sound And Classified Into 500+ Categories.
 
-But what if the sound data you’re looking for is way too specific or rare? What if you need full control of the recording and labeling? Well, then better do it in a partnership with reliable specialists from the same industry as your machine learning project.
+But What If The Sound Data You’re Looking For Is Way Too Specific Or Rare? What If You Need Full Control Of The Recording And Labeling? Well, Then Better Do It In A Partnership With Reliable Specialists From The Same Industry As Your Machine Learning Project.
 
-### Expert datasets
+### Expert Datasets
 
-When working with Sleep.ai, our task was to create a model capable of identifying grinding sounds that people with bruxism typically make during sleep. Clearly, we needed special data, not available through open sources. Also, the data reliability and quality had to be the best so we could get trustworthy results.
+When Working With Sleep.ai, Our Task Was To Create A Model Capable Of Identifying Grinding Sounds That People With Bruxism Typically Make During Sleep. Clearly, We Needed Special Data, Not Available Through Open Sources. Also, The Data Reliability And Quality Had To Be The Best So We Could Get Trustworthy Results.
 
-To obtain such a dataset, the startup partnered with sleep laboratories, where scientists monitor people while they are sleeping to define healthy sleep patterns and diagnose sleep disorders. Experts use various devices to record brain activity, movements, and other events. For us, they prepared a labeled data set with about 12,000 samples of grinding and snoring sounds.
+To Obtain Such A Dataset, The Startup Partnered With Sleep Laboratories, Where Scientists Monitor People While They Are Sleeping To Define Healthy Sleep Patterns And Diagnose Sleep Disorders. Experts Use Various Devices To Record Brain Activity, Movements, And Other Events. For Us, They Prepared A Labeled Data Set With About 12,000 Samples Of Grinding And Snoring Sounds.
 
-## Audio data preparation
+## Audio Data Preparation
 
-In the case of Sleep.io, our team skipped this step entrusting sleep experts with the task of data preparation for our project. The same relates to those who buy annotated sound collections from data providers. But if you have only raw data meaning recordings saved in one of the audio file formats you need to get them ready for machine learning.
+In The Case Of Sleep.io, Our Team Skipped This Step Entrusting Sleep Experts With The Task Of Data Preparation For Our Project. The Same Relates To Those Who Buy Annotated Sound Collections From Data Providers. But If You Have Only Raw Data Meaning Recordings Saved In One Of The Audio File Formats You Need To Get Them Ready For Machine Learning.
 
-### Audio data labeling
+### Audio Data Labeling
 
-[Data labeling](https://www.altexsoft.com/blog/data-labeling/) or annotation is about tagging raw data with correct answers to run [supervised machine learning](https://www.altexsoft.com/blog/business/supervised-learning-use-cases-low-hanging-fruit-in-data-science-for-businesses/). In the process of training, your model will learn to recognize patterns in new data and make the right predictions, based on the labels. So, their quality and accuracy are critical for the success of ML projects.
+[Data Labeling](https://www.altexsoft.com/blog/data-labeling/) Or Annotation Is About Tagging Raw Data With Correct Answers To Run [Supervised Machine Learning](https://www.altexsoft.com/blog/business/supervised-learning-use-cases-low-hanging-fruit-in-data-science-for-businesses/). In The Process Of Training, Your Model Will Learn To Recognize Patterns In New Data And Make The Right Predictions, Based On The Labels. So, Their Quality And Accuracy Are Critical For The Success Of ML Projects.
 
-Though labeling suggests assistance from software tools and some degree of automation, for the most part, it’s still performed manually, by professional annotators and/or domain experts. In our bruxism detection project, sleep experts listened to audio recordings and mark them with grinding or snoring labels.
+Though Labeling Suggests Assistance From Software Tools And Some Degree Of Automation, For The Most Part, It’s Still Performed Manually, By Professional Annotators And/or Domain Experts. In Our Bruxism Detection Project, Sleep Experts Listened To Audio Recordings And Mark Them With Grinding Or Snoring Labels.
 
-*Learn more about approaches to annotation from our article* [*How to Organize Data Labeling for Machine Learning*](https://www.altexsoft.com/blog/datascience/how-to-organize-data-labeling-for-machine-learning-approaches-and-tools/)
+*Learn More About Approaches To Annotation From Our Article* [*How To Organize Data Labeling For Machine Learning*](https://www.altexsoft.com/blog/datascience/how-to-organize-data-labeling-for-machine-learning-approaches-and-tools/)
 
-### Audio data preprocessing
+### Audio Data Preprocessing
 
-Besides enriching data with meaningful tags, we have to preprocess sound data to achieve better prediction accuracy. Here are the most basic steps for speech recognition and sound classification projects.
+Besides Enriching Data With Meaningful Tags, We Have To Preprocess Sound Data To Achieve Better Prediction Accuracy. Here Are The Most Basic Steps For Speech Recognition And Sound Classification Projects.
 
-**Framing** means cutting the continuous stream of sound into short pieces (frames) of the same length (typically, of 20-40 ms) for further segment-wise processing.
+**Framing** Means Cutting The Continuous Stream Of Sound Into Short Pieces (Frames) Of The Same Length (Typically, Of 20-40 Ms) For Further Segment-wise Processing.
 
-**Windowing** is a fundamental audio processing technique to minimize spectral leakage—the common error that results in smearing the frequency and degrading the amplitude accuracy. There are several window functions (Hamming, Hanning, Flat Top, etc) applied to different types of signals, though the Hanning variation works well for [95 percent](https://download.ni.com/evaluation/pxi/Understanding%20FFTs%20and%20Windowing.pdf) of cases.
+**Windowing** Is A Fundamental Audio Processing Technique To Minimize Spectral Leakage—the Common Error That Results In Smearing The Frequency And Degrading The Amplitude Accuracy. There Are Several Window Functions (Hamming, Hanning, Flat Top, Etc) Applied To Different Types Of Signals, Though The Hanning Variation Works Well For [95 Percent](https://download.ni.com/evaluation/pxi/Understanding%20FFTs%20and%20Windowing.pdf) Of Cases.
 
-Basically, all windows do the same thing: reduce or smooth the amplitude at the start and the end of each frame while increasing it at the center to preserve the average value.
+Basically, All Windows Do The Same Thing: Reduce Or Smooth The Amplitude At The Start And The End Of Each Frame While Increasing It At The Center To Preserve The Average Value.
 
-![](https://content.altexsoft.com/media/2022/05/word-image-11.png.webp)
+![](Https://content.altexsoft.com/media/2022/05/word-image-11.png.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image-11.png)
+![](Https://content.altexsoft.com/media/2022/05/word-image-11.png)
 
-*The signal waveform before and after windowing. Source:* [*National Instruments*](https://zone.ni.com/reference/en-XX/help/371361R-01/lvanlsconcepts/windowing_signals/).
+*The Signal Waveform Before And After Windowing. Source:* [*National Instruments*](https://zone.ni.com/reference/en-XX/help/371361R-01/lvanlsconcepts/windowing_signals/).
 
-**Overlap-add (OLA)** method prevents losing vital information that can be caused by windowing**.** OLA provides 30-50 percent overlap between adjacent frames, allowing to modify them without the risk of distortion. In this case, the original signal can be accurately reconstructed from windows.
+**Overlap-add (OLA)** Method Prevents Losing Vital Information That Can Be Caused By Windowing**.** OLA Provides 30-50 Percent Overlap Between Adjacent Frames, Allowing To Modify Them Without The Risk Of Distortion. In This Case, The Original Signal Can Be Accurately Reconstructed From Windows.
 
-![](https://content.altexsoft.com/media/2022/05/word-image-12.png.webp)
+![](Https://content.altexsoft.com/media/2022/05/word-image-12.png.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image-12.png)
+![](Https://content.altexsoft.com/media/2022/05/word-image-12.png)
 
-*An example of windowing with overlapping. Source:* [*Aalto University Wiki*](https://wiki.aalto.fi/display/ITSP/Windowing)
+*An Example Of Windowing With Overlapping. Source:* [*Aalto University Wiki*](https://wiki.aalto.fi/display/ITSP/Windowing)
 
-*Learn more about the preprocessing stage and techniques it uses from our article* [*Preparing Your Data For Machine Learning*](https://www.altexsoft.com/blog/datascience/preparing-your-dataset-for-machine-learning-8-basic-techniques-that-make-your-data-better/) *and the video below.*
+*Learn More About The Preprocessing Stage And Techniques It Uses From Our Article* [*Preparing Your Data For Machine Learning*](https://www.altexsoft.com/blog/datascience/preparing-your-dataset-for-machine-learning-8-basic-techniques-that-make-your-data-better/) *And The Video Below.*
 
-[*https://youtu.be/P8ERBy91Y90*](https://youtu.be/P8ERBy91Y90)
+[*Https://youtu.be/P8ERBy91Y90*](https://youtu.be/P8ERBy91Y90)
 
-## Feature extraction
+## Feature Extraction
 
-Audio features or descriptors are properties of signals, computed from visualizations of preprocessed audio data. They can belong to one of three domains
+Audio Features Or Descriptors Are Properties Of Signals, Computed From Visualizations Of Preprocessed Audio Data. They Can Belong To One Of Three Domains
 
-- time domain represented by waveforms,
-- frequency domain represented by spectrum plots, and
-- time and frequency domain represented by spectrograms.
+- Time Domain Represented By Waveforms,
+- Frequency Domain Represented By Spectrum Plots, And
+- Time And Frequency Domain Represented By Spectrograms.
 
-![](https://content.altexsoft.com/media/2022/05/word-image-13.png.webp)
+![](Https://content.altexsoft.com/media/2022/05/word-image-13.png.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image-13.png)
+![](Https://content.altexsoft.com/media/2022/05/word-image-13.png)
 
-*Audio data visualization: waveform for time domain, spectrum for frequency domain, and spectrogram for time-and-frequency domain. Source:* [*Types of Audio Features for ML.*](https://www.youtube.com/watch?v=ZZ9u1vUtcIA&list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&index=7)
+*Audio Data Visualization: Waveform For Time Domain, Spectrum For Frequency Domain, And Spectrogram For Time-and-frequency Domain. Source:* [*Types Of Audio Features For ML.*](https://www.youtube.com/watch?v=ZZ9u1vUtcIA&list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&index=7)
 
-### Time-domain features
+### Time-domain Features
 
-As we mentioned before, time domain or temporal features are extracted directly from original waveforms. Notice that waveforms don’t contain much information on how the piece would really sound. They indicate only how the amplitude changes with time. In the image below we can see that the air condition and siren waveforms look alike, but surely those sounds would not be similar.
+As We Mentioned Before, Time Domain Or Temporal Features Are Extracted Directly From Original Waveforms. Notice That Waveforms Don’t Contain Much Information On How The Piece Would Really Sound. They Indicate Only How The Amplitude Changes With Time. In The Image Below We Can See That The Air Condition And Siren Waveforms Look Alike, But Surely Those Sounds Would Not Be Similar.
 
-![](https://content.altexsoft.com/media/2022/05/word-image-14.png.webp)
+![](Https://content.altexsoft.com/media/2022/05/word-image-14.png.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image-14.png)
+![](Https://content.altexsoft.com/media/2022/05/word-image-14.png)
 
-*Waveforms examples. Source:* [*Towards Data Science*](https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis-615e286fcbbc)
+*Waveforms Examples. Source:* [*Towards Data Science*](https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis-615e286fcbbc)
 
-Now let’s move to some key features we can draw from waveforms.
+Now Let’s Move To Some Key Features We Can Draw From Waveforms.
 
-**Amplitude envelope (AE)** traces amplitude peaks within the frame and shows how they change over time. With AE, you can automatically measure the duration of distinct parts of a sound (as shown in the picture below). AE is widely used for the onset detection to indicate when a certain signal starts, and for music genre classification.
+**Amplitude Envelope (AE)** Traces Amplitude Peaks Within The Frame And Shows How They Change Over Time. With AE, You Can Automatically Measure The Duration Of Distinct Parts Of A Sound (As Shown In The Picture Below). AE Is Widely Used For The Onset Detection To Indicate When A Certain Signal Starts, And For Music Genre Classification.
 
-![](https://content.altexsoft.com/media/2022/05/word-image-15.png.webp)
+![](Https://content.altexsoft.com/media/2022/05/word-image-15.png.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image-15.png)
+![](Https://content.altexsoft.com/media/2022/05/word-image-15.png)
 
-*The amplitude envelope of a tico-tico bird singing. Source:* [*Seewave: Sound Anaysis principles*](https://cran.r-project.org/web/packages/seewave/vignettes/seewave_analysis.pdf)
+*The Amplitude Envelope Of A Tico-tico Bird Singing. Source:* [*Seewave: Sound Anaysis Principles*](https://cran.r-project.org/web/packages/seewave/vignettes/seewave_analysis.pdf)
 
-**Short-time energy (STE)** shows the energy variation within a short speech frame.
+**Short-time Energy (STE)** Shows The Energy Variation Within A Short Speech Frame.
 
-It’s a powerful tool to separate voiced and unvoiced segments.
+It’s A Powerful Tool To Separate Voiced And Unvoiced Segments.
 
-**Root mean square energy** (RMSE) gives you an understanding of the average energy of the signal. It can be computed from a waveform or a spectrogram. In the first case, you’ll get results faster. Yet, a spectrogram provides a more accurate representation of energy over time. RMSE is particularly useful for audio segmentation and music genre classification.
+**Root Mean Square Energy** (RMSE) Gives You An Understanding Of The Average Energy Of The Signal. It Can Be Computed From A Waveform Or A Spectrogram. In The First Case, You’ll Get Results Faster. Yet, A Spectrogram Provides A More Accurate Representation Of Energy Over Time. RMSE Is Particularly Useful For Audio Segmentation And Music Genre Classification.
 
-**Zero-crossing Rate (ZCR)** counts how many times the signal wave crosses the horizontal axis within a frame. It’s one of the most important acoustic features, widely used to detect the presence or absence of speech, and differentiate noise from silence and music from speech.
+**Zero-crossing Rate (ZCR)** Counts How Many Times The Signal Wave Crosses The Horizontal Axis Within A Frame. It’s One Of The Most Important Acoustic Features, Widely Used To Detect The Presence Or Absence Of Speech, And Differentiate Noise From Silence And Music From Speech.
 
-### Frequency domain features
+### Frequency Domain Features
 
-Frequency-domain features are more difficult to extract than temporal ones as the process involves converting waveforms into spectrum plots or spectrograms using FT or STFT. Yet, it’s the frequency content that reveals many important sound characteristics invisible or hard to see in the time domain.
+Frequency-domain Features Are More Difficult To Extract Than Temporal Ones As The Process Involves Converting Waveforms Into Spectrum Plots Or Spectrograms Using FT Or STFT. Yet, It’s The Frequency Content That Reveals Many Important Sound Characteristics Invisible Or Hard To See In The Time Domain.
 
-The most common frequency domain features include
+The Most Common Frequency Domain Features Include
 
-- mean or average frequency,
-- median frequency when the spectrum is divided into two regions with equal amplitude,
-- signal-to-noise ratio (SNR) comparing the strength of desired sound against the background nose,
-- band energy ratio (BER) depicting relations between higher and lower frequency bands. In other words. it measures how low frequencies are dominant over high ones.
+- Mean Or Average Frequency,
+- Median Frequency When The Spectrum Is Divided Into Two Regions With Equal Amplitude,
+- Signal-to-noise Ratio (SNR) Comparing The Strength Of Desired Sound Against The Background Nose,
+- Band Energy Ratio (BER) Depicting Relations Between Higher And Lower Frequency Bands. In Other Words. It Measures How Low Frequencies Are Dominant Over High Ones.
 
-Of course, there are numerous other properties to look at in this domain. To recap, it tells us how the sound energy spreads across frequencies while the time domain shows how a signal change over time.
+Of Course, There Are Numerous Other Properties To Look At In This Domain. To Recap, It Tells Us How The Sound Energy Spreads Across Frequencies While The Time Domain Shows How A Signal Change Over Time.
 
-### Time-frequency domain features
+### Time-frequency Domain Features
 
-This domain combines both time and frequency components and uses various types of spectrograms as a visual representation of a sound. You can get a spectrogram from a waveform applying the short-time Fourier transform.
+This Domain Combines Both Time And Frequency Components And Uses Various Types Of Spectrograms As A Visual Representation Of A Sound. You Can Get A Spectrogram From A Waveform Applying The Short-time Fourier Transform.
 
-One of the most popular groups of time-frequency domain features is **mel-frequency cepstral coefficients (MFCCs)**. They work within the human hearing range and as such are based on the mel scale and mel spectrograms we discussed earlier.
+One Of The Most Popular Groups Of Time-frequency Domain Features Is **Mel-frequency Cepstral Coefficients (MFCCs)**. They Work Within The Human Hearing Range And As Such Are Based On The Mel Scale And Mel Spectrograms We Discussed Earlier.
 
-No surprise that the initial application of MFCCs is speech and voice recognition. But they also proved to be effective for music processing and [acoustic diagnostics](https://www.researchgate.net/figure/a-Mel-frequency-cepstral-coefficients-MFCC-deformed-male-speech-laryngean-polypus_fig1_5766666) for medical purposes, including snoring detection. For example, one of the recent [deep learning models](https://www.mdpi.com/2079-9292/8/9/987) developed by the School of Engineering (Eastern Michigan University) was trained on 1000 MFCC images (spectrograms) of snoring sounds.
+No Surprise That The Initial Application Of MFCCs Is Speech And Voice Recognition. But They Also Proved To Be Effective For Music Processing And [Acoustic Diagnostics](https://www.researchgate.net/figure/a-Mel-frequency-cepstral-coefficients-MFCC-deformed-male-speech-laryngean-polypus_fig1_5766666) For Medical Purposes, Including Snoring Detection. For Example, One Of The Recent [Deep Learning Models](https://www.mdpi.com/2079-9292/8/9/987) Developed By The School Of Engineering (Eastern Michigan University) Was Trained On 1000 MFCC Images (Spectrograms) Of Snoring Sounds.
 
-![](https://content.altexsoft.com/media/2022/05/word-image-16.png.webp)
+![](Https://content.altexsoft.com/media/2022/05/word-image-16.png.webp)
 
-![](https://content.altexsoft.com/media/2022/05/word-image-16.png)
+![](Https://content.altexsoft.com/media/2022/05/word-image-16.png)
 
-*The waveform of snoring sound (a) and its MFCC spectrogram (b) compared with the waveform of the toilet flush sound (c) and corresponding MFCC image (d). Source: A Deep Learning Model for Snoring Detection (*[*Electronic Journal, Vol.8, Issue 9*](https://www.mdpi.com/2079-9292/8/9/987)*)*
+*The Waveform Of Snoring Sound (A) And Its MFCC Spectrogram (B) Compared With The Waveform Of The Toilet Flush Sound (C) And Corresponding MFCC Image (D). Source: A Deep Learning Model For Snoring Detection (*[*Electronic Journal, Vol.8, Issue 9*](https://www.mdpi.com/2079-9292/8/9/987)*)*
 
-To train a model for the Sleep.ai project, our data scientists selected a set of most relevant features from both the time and frequency domains. In combination, they created rich profiles of grinding and snoring sounds.
+To Train A Model For The Sleep.ai Project, Our Data Scientists Selected A Set Of Most Relevant Features From Both The Time And Frequency Domains. In Combination, They Created Rich Profiles Of Grinding And Snoring Sounds.
 
-## Selecting and training machine learning models
+## Selecting And Training Machine Learning Models
 
-Since audio features come in the visual form (mostly as spectrograms), it makes them an object of [image recognition](https://www.altexsoft.com/blog/image-recognition-neural-networks-use-cases/) that relies on deep neural networks. There are several popular architectures showing good results in sound detection and classification. Here, we only focus on two commonly used to identify sleep problems by sound.
+Since Audio Features Come In The Visual Form (Mostly As Spectrograms), It Makes Them An Object Of [Image Recognition](https://www.altexsoft.com/blog/image-recognition-neural-networks-use-cases/) That Relies On Deep Neural Networks. There Are Several Popular Architectures Showing Good Results In Sound Detection And Classification. Here, We Only Focus On Two Commonly Used To Identify Sleep Problems By Sound.
 
-### Long short-term memory networks (LSTMs)
+### Long Short-term Memory Networks (LSTMs)
 
-**Long short-term memory networks (LSTMs)** are known for their ability to spot long-term dependencies in data and remember information from numerous prior steps. According to sleep apnea detection research, LSTMs can achieve an accuracy of [87 percent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7787852/) when using MFCC features as input to separate normal snoring sounds from abnormal ones.
+**Long Short-term Memory Networks (LSTMs)** Are Known For Their Ability To Spot Long-term Dependencies In Data And Remember Information From Numerous Prior Steps. According To Sleep Apnea Detection Research, LSTMs Can Achieve An Accuracy Of [87 Percent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7787852/) When Using MFCC Features As Input To Separate Normal Snoring Sounds From Abnormal Ones.
 
-Another study shows even better results: the LSTM classified normal and abnormal snoring events with an accuracy of [95.3 percent](https://www.sciencedirect.com/science/article/abs/pii/S1746809421008351). The neural network was trained using five types of features including MFCCs and short-time energy from the time domain. Together, they represent different characteristics of snoring.
+Another Study Shows Even Better Results: The LSTM Classified Normal And Abnormal Snoring Events With An Accuracy Of [95.3 Percent](https://www.sciencedirect.com/science/article/abs/pii/S1746809421008351). The Neural Network Was Trained Using Five Types Of Features Including MFCCs And Short-time Energy From The Time Domain. Together, They Represent Different Characteristics Of Snoring.
 
-### Convolutional neural networks (CNNs)
+### Convolutional Neural Networks (CNNs)
 
-Convolutional neural networks lead the pack in [computer vision in healthcare](https://www.altexsoft.com/blog/computer-vision-healthcare/) and other industries. They are often referred to as *a natural choice for image recognition tasks*. The efficiency of CNN architecture in spectrogram processing proves the validity of this statement one more time.
+Convolutional Neural Networks Lead The Pack In [Computer Vision In Healthcare](https://www.altexsoft.com/blog/computer-vision-healthcare/) And Other Industries. They Are Often Referred To As *A Natural Choice For Image Recognition Tasks*. The Efficiency Of CNN Architecture In Spectrogram Processing Proves The Validity Of This Statement One More Time.
 
-In the above-mentioned project by the School of Engineering (Eastern Michigan University) a CNN-based deep learning model hit an accuracy of [96 percent](https://www.mdpi.com/2079-9292/8/9/987) in the classification of snoring vs non-snoring sounds.
+In The Above-mentioned Project By The School Of Engineering (Eastern Michigan University) A CNN-based Deep Learning Model Hit An Accuracy Of [96 Percent](https://www.mdpi.com/2079-9292/8/9/987) In The Classification Of Snoring Vs Non-snoring Sounds.
 
-Almost the same results are reported for the combination of CNN and LSTM architectures. The group of scientists from the Eindhoven University of Technology applied the CNN model to extract features from spectrograms and then run the LSTM to classify the CNN output into snore and non-snore events. The accuracy values range from [94.4 to 95.9 percent](https://www.sciencedirect.com/science/article/pii/S0169260720317508#!) depending on the location of the microphone used for recording snoring sounds.
+Almost The Same Results Are Reported For The Combination Of CNN And LSTM Architectures. The Group Of Scientists From The Eindhoven University Of Technology Applied The CNN Model To Extract Features From Spectrograms And Then Run The LSTM To Classify The CNN Output Into Snore And Non-snore Events. The Accuracy Values Range From [94.4 To 95.9 Percent](https://www.sciencedirect.com/science/article/pii/S0169260720317508#!) Depending On The Location Of The Microphone Used For Recording Snoring Sounds.
 
-For Sleep.io project, the AltexSoft data science team used two CNNs (for snoring and grinding detection) and trained it on the TensorFlow platform. After models achieved an accuracy of over 80 percent, they were launched to production. Their results have been constantly getting better with the growing number of inputs collected from real users.
+For Sleep.io Project, The AltexSoft Data Science Team Used Two CNNs (For Snoring And Grinding Detection) And Trained It On The TensorFlow Platform. After Models Achieved An Accuracy Of Over 80 Percent, They Were Launched To Production. Their Results Have Been Constantly Getting Better With The Growing Number Of Inputs Collected From Real Users.

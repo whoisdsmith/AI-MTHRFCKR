@@ -3,7 +3,7 @@
 ---
 
 **Muzic** is a research project on AI music that empowers music understanding and generation with deep learning and artificial intelligence.  
-Muzic is pronounced as [ˈmjuːzeik] and '谬贼客' (in Chinese). Besides the logo in image version (see above), Muzic also has a logo in video version (you can click here to watch
+Muzic is pronounced as [ˈmjuːzeik] Besides the logo in image version (see above), Muzic also has a logo in video version
 
 ---
 
