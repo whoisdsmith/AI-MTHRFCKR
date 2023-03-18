@@ -47,6 +47,105 @@
 
 ---
 
+## 2023-03-18
+
+**AI | Audio | Pro Audio**
+
+- [Audioalter](https://audioalter.com/) - Audioalter Is A Collection Of Online Audio Tools That Use Machine Learning To Modify, Transform, And Analyze Audio Files. It Includes Tools For Editing, Converting, And Generating Audio Files.
+- [AudioStrip](https://audiostrip.co.uk/#isolate) - AudioStrip Is A Web-based Tool For Isolating Vocals, Drums, Bass, And Other Individual Parts Of A Song Using AI. Users Can Upload A Song And Use AudioStrip's Algorithms To Isolate And Extract Specific Parts Of The Song.
+- [Beat Inspect](https://stefanrmmr-beatinspect-streamlit-app-gqaygo.streamlit.app/) - Beat Inspect Is A Web-based Tool That Analyzes The Tempo And Structure Of Music Tracks. It Uses Machine Learning To Identify The Beats And Rhythm Of A Song, And Provides A Visualization Of The Song Structure.
+- [Lemonaid Music](https://lemonaid.ai/) - Lemonaid Music Is A Music Production Platform That Uses Artificial Intelligence To Generate Unique And Customizable Music Tracks. Users Can Select A Genre And Customize The Mood, Tempo, And Other Parameters To Generate A Royalty-free Music Track.
+- [MIDI-GPT - Replit](https://replit.com/@somewheresy/MIDI-GPT) - MIDI-GPT Is A Neural Network That Generates MIDI Music Based On User Input. This Project Hosted On Replit Allows Users To Experiment With And Generate Music Using MIDI-GPT.
+- [RoEx Automix ](Https://automix.roexaudio.com/) - RoEx Automix Is An AI-powered Tool For Automatic Music Mixing And Mastering. It Uses Machine Learning Algorithms To Analyze And Balance The Levels Of Different Tracks, And Apply Effects Like EQ, Compression, And Reverb.
+- [Ultimate Vocal Remover GUI](https://github.com/anjok07/ultimatevocalremovergui) - Ultimate Vocal Remover GUI Is An Open-source Software For Removing Vocals From Songs Using Artificial Intelligence. The GUI Provides A Simple And Easy-to-use Interface For Users To Remove Vocals From Songs.
+
+**AI | Audio | Transcriptions**
+
+- [Rythmex](https://rythmex.com/) - Rythmex Is An AI-powered Tool For Transcribing Music Into Sheet Music. It Uses Machine Learning To Analyze And Transcribe Music Tracks, And Provides A Visualization Of The Sheet Music.
+- [Transkribieren](https://www.transkribieren.xyz/) - Transkribieren Is A Web-based Tool For Transcribing Audio And Video Files Into Text. It Uses Machine Learning To Automatically Transcribe Speech, And Allows Users To Edit And Correct The Transcription As Needed.
+
+**AI | ChatGPT**
+
+- [Andy's Collection Of Chatgpt Jailbreak Prompts](https://rentry.org/Chatgptjailbreak) - Andy's Collection Of Chatgpt Jailbreak Prompts Is A Curated List Of Prompts For OpenAI's GPT-3 Language Model. These Prompts Are Designed To "Jailbreak" The AI's Capabilities And Allow It To Perform Tasks Beyond Its Original Design. The List Includes Prompts For Generating Poetry, Music, And Even Computer Code.
+- [Jailbreak Chat](https://www.jailbreakchat.com/) - Jailbreak Chat Is A Chatbot Development Platform That Allows Users To Create And Deploy Chatbots For Various Messaging Platforms Like Facebook Messenger And Slack. It Includes Tools For Managing And Analyzing Chatbot Interactions.
+- [Mottle](https://mottle.com/) - Mottle Is A Chatbot Platform That Allows Businesses To Create And Customize Chatbots For Their Websites And Social Media Channels. It Uses Natural Language Processing To Understand Customer Queries And Provide Personalized Responses.
+- [TypingMind](https://www.typingmind.com/) - TypingMind Is A Chatbot Development Platform That Uses Machine Learning To Create Chatbots That Can Understand Natural Language And Provide Human-like Responses. It Includes A Visual Interface For Building And Customizing Chatbots.
+
+
+**AI | Code**
+
+- [CodeAssist](https://www.codeassist.tech/index.html) - CodeAssist Is An AI-powered Code Completion Tool That Uses Machine Learning To Suggest Code Snippets And Improve Developers' Productivity. It Supports Multiple Programming Languages And Integrates With Popular Code Editors Like VSCode And Atom.
+- [OpenAI Codex](https://openai.com/blog/openai-codex) - OpenAI Codex Is An AI System That Can Generate Code From Natural Language Descriptions. It Is Capable Of Understanding Programming Concepts And Can Write Functional Code In Multiple Languages.
+
+**AI | Data**
+
+- [Humata](https://app.humata.ai/) - Humata Is A Data Labeling Platform That Uses AI To Automate The Labeling Process. It Can Be Used For Tasks Like Image And Video Annotation, Text Labeling, And Sentiment Analysis.
+- [Luminal](https://getluminal.com/index.html) - Luminal Is A Data Analysis Platform That Uses Machine Learning To Identify Patterns And Insights In Large Datasets. It Includes Tools For Data Exploration, Modeling, And Visualization, And Can Be Used For A Variety Of Use Cases Like Fraud Detection And Customer Segmentation.
+
+**AI | Docs**
+
+- [ChatDOC](https://chatdoc.com/) - ChatDOC Is A Chatbot-based Platform For Document Collaboration And Management. It Uses Natural Language Processing To Understand User Queries And Provide Relevant Information, And Includes Features Like File Sharing And Version Control.
+- [Collato](https://collato.com/) - Collato Is A Document Management Platform That Uses AI To Extract And Organize Information From Documents Like Contracts And Invoices. It Includes Tools For OCR, Data Extraction, And Workflow Automation.
+
+**AI | Image**
+
+- [AI Gallery](https://aigallery.app/) - AI Gallery Is A Platform For Sharing And Exploring AI-generated Art. It Includes A Collection Of Artwork Generated By Various AI Algorithms, And Allows Users To Upload Their Own Artwork And Share It With The Community.
+- [CatBird](https://www.catbird.ai/) - CatBird Is An AI-powered Tool For Object Detection And Classification In Images And Videos. It Uses Machine Learning To Identify And Track Objects In Real-time, And Can Be Used For A Variety Of Applications Like Security Monitoring And Traffic Analysis.
+- [Illuminarty](https://illuminarty.ai/en/) - Illuminarty Is An AI-powered Tool For Generating Art From Photos. It Uses Machine Learning To Transform Photos Into Unique Art Styles, And Allows Users To Customize The Output By Adjusting Parameters Like Brush Size And Color Palette.
+- [Image Transfer](https://transpic.cn/) - Image Transfer Is A Web-based Tool That Uses AI To Transfer The Style Of One Image Onto Another. Users Can Upload Two Images And The Tool Will Generate A New Image That Combines The Content Of One Image With The Style Of The Other.
+- [Real-ESRGAN](https://replicate.com/nightmareai/real-esrgan) - Real-ESRGAN Is An AI-powered Tool For Upscaling And Enhancing Images. It Uses A Deep Learning Algorithm To Generate High-quality Images From Low-resolution Inputs.
+
+**AI | Prompt**
+
+- [AI Promts](https://promptsai.io/) - AI Prompts Is A Platform For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts, And Provides A Visualization Of The Model's Response.
+- [BotPrompts](https://botprompts.net/) - BotPrompts Is A Platform For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts, And Provides A Visualization Of The Model's Response.
+- [Easy Prompt](https://www.easyprompt.xyz/) - Easy Prompt Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Provides A Simple And Easy-to-use Interface For Generating Text On A Variety Of Topics.
+- [Effective GPT](https://www.effectivegpt.com/) - Effective GPT Is A Platform For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts
+- [EPromptly](https://epromptly.com/) - EPromptly Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Summarization, Translation, And Question-answering.
+- [Fusion](https://fusion.tiiny.site/) - Fusion Is A Web-based Tool For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts, And Provides A Visualization Of The Model's Response.
+- [Geniea](https://geniea.com/) - Geniea Is An AI-powered Platform For Generating Natural Language Content, Including Product Descriptions, News Articles, And Social Media Posts. It Uses Machine Learning To Understand User Preferences And Generate Customized Content.
+- [Learn Prompt Engineering By Exploring ChatGPT Examples](https://www.emergentmind.com/) - Learn Prompt Engineering By Exploring ChatGPT Examples Is A Guide For Using OpenAI's GPT-3 Language Model To Generate Chatbot Responses. It Includes A Variety Of Examples And Tips For Generating Effective Prompts And Responses.
+- [NoPrompt GPT](https://nopromptgpt.com/) - NoPrompt GPT Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model Without Using Any Prompts. It Allows Users To Generate Text Directly From The Model Without Providing Any Input, And Includes Features Like Conversation And Storytelling.
+- [Prompter](https://prompter.lennard.codes/) - Prompter Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Question-answering And Summarization, And Allows Users To Customize The Prompt And Model Settings.
+- [Prompter](https://prompter.so/) - Prompter Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Question-answering And Summarization, And Allows Users To Customize The Prompt And Model Settings.
+- [Prompt-Journey](https://promptjourney.app/dashboard) - Prompt-Journey Is A Platform For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts, And Provides A Visualization Of The Model's Response.
+- [PromptPal](https://www.promptpal.net/) - PromptPal Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Summarization, Question-answering, And Chat.
+- [PromptPerfect](https://promptperfect.jina.ai/) - PromptPerfect Is An AI System For Generating Natural Language Responses To User Queries. It Uses A Combination Of Machine Learning And Human Curation To Provide Accurate And Relevant Responses To User Questions.
+- [Stable Diffusion Prompting Cheatsheet](https://moritz.pm/posts/parameters) - Stable Diffusion Prompting Cheatsheet Is A Guide For Using The Stable Diffusion Method For Generating Prompts For OpenAI's GPT-3 Language Model. It Includes A List Of Parameters And Examples For Generating Effective Prompts.
+
+**AI | Resources**
+
+- [Aiwizard ](Https://www.aiwizard.ai/) - Aiwizard Is An AI-powered Platform That Allows Businesses To Create And Customize Chatbots For Their Websites And Social Media Channels. It Uses Natural Language Processing To Understand Customer Queries And Provide Personalized Responses.
+- [All Things AI](https://allthingsai.com/) - All Things AI Is A Community-driven Platform That Provides The Latest News, Articles, And Resources On Artificial Intelligence, Machine Learning, And Related Topics. It Also Includes A Job Board And A Directory Of AI Companies.
+- [Big AI List](https://bigailist.com/) - Big AI List Is A Curated List Of Resources For Learning And Practicing Artificial Intelligence, Including Online Courses, Books, Blogs, And Podcasts. It's Organized Into Categories Like Machine Learning, Deep Learning, And Natural Language Processing.
+- [Supertools](https://supertools.therundown.ai/) - Supertools Is A Collection Of Machine Learning And Data Science Tools That Can Help You With Tasks Like Data Analysis, Modeling, And Visualization. It's Designed To Be A One-stop-shop For All Your AI Needs.
+
+**AI | Search**
+
+- [Collie](https://collie.ai/) - Collie Is An AI-powered Search Tool For Finding Similar Images. It Uses Machine Learning To Identify Visual Patterns And Similarities Between Images, And Can Be Used For Applications Like Product Search And Content Discovery.
+- [Glarity](https://glarity.app/) - Glarity Is An AI-powered Search Engine That Uses Natural Language Processing To Understand User Queries And Provide Relevant Search Results. It Includes Features Like Topic Clustering And Personalized Search.
+
+**AI | Text**
+
+- [Text Generator](https://text-generator.io/) - Text Generator Is A Web-based Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Summarization, Translation, And Question-answering.
+
+**AI | Tools**
+
+- [Anywebsite.ai](https://anywebsite.ai/) - Anywebsite.ai Is An AI-powered Tool For Extracting Information From Websites. It Can Be Used For Tasks Like Web Scraping And Data Extraction, And Includes Features Like Data Cleaning And Formatting.
+- [OpenPlayground](https://nat.dev/compare) - OpenPlayground Is A Suite Of Tools For Experimenting With AI Models And Algorithms. It Includes Tools For Text Generation, Image Recognition, And Natural Language Processing, And Allows Users To Compare The Performance Of Different Models.
+- [Sheldon](https://www.heysheldon.com/) - Sheldon Is An AI-powered Virtual Assistant That Can Be Integrated With A Variety Of Platforms Like Slack And Trello. It Includes Features Like Natural Language Processing And Conversation Management.
+
+**AI | Video**
+
+- [Aug X Labs | Home](https://www.augxlabs.com/) - Aug X Labs Is A Platform For Creating And Deploying AI-powered Video Content. It Includes Tools For Video Editing, Animation, And Special Effects, And Can Be Used For Applications Like Marketing And Advertising.
+- [Genmo](https://alpha.genmo.ai/create) - Genmo Is A Platform For Creating Chatbots Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating Prompts And Responses, And Can Be Used For Applications Like Customer Support And Language Learning.
+- [Maimovie: AI-powered Movie Search Engine](https://maimovie.com/) - Maimovie Is An AI-powered Movie Search Engine That Uses Machine Learning To Provide Personalized Movie Recommendations. It Includes Features Like Genre Classification And Sentiment Analysis.
+- [Plazma Punk](https://www.plazmapunk.com/) - Plazma Punk Is A Tool For Generating Animated Videos Using AI-powered Algorithms. It Includes A Variety Of Customizable Templates And Styles, And Can Be Used For Applications Like Explainer Videos And Product Demos.
+- [Vid2txt - The Easiest Video (And Audio) Transcription App](https://vid2txt.com/) - Vid2txt Is A Web-based Tool For Transcribing Video And Audio Content. It Uses AI-powered Speech Recognition To Generate Accurate Transcripts, And Includes Features Like Speaker Identification And Punctuation.
+- [Video Automations - Create Videos With AI - Vidds.co](https://vidds.co/tools/video-automations/) - Video Automations Is A Platform For Creating And Editing Videos Using AI-powered Tools. It Includes Features Like Scene Recognition And Content Analysis, And Can Be Used For Applications Like Social Media Marketing And Content Creation.
+
+---
+
 ## 2023-02-19
 
 - [10Web](https://10web.io/) - A Platform For Building And Managing Websites Using WordPress, With A Focus On Speed And Ease Of Use.
