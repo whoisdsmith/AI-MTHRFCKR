@@ -6,7 +6,7 @@ tags: ['atmosphere','ambient','generative','melodie','vcv2']
 
 ![[../../99_Media/Img/SelfGeneratingAmbient.jpg]]
 
-![[SelfGeneratingAmbient.vcv]]
+![[Selfgeneratingambient.vcv]]
 
 - Patchstorage: https://patchstorage.com/self-generating-ambient/
 - Author: [tyler-ray](https://patchstorage.com/author/tyler-ray/ "Posts by tyler-ray")

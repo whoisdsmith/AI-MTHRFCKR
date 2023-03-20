@@ -4,7 +4,7 @@ tags: ['learning/vcv','vcv2']
 
 # 0001-Patch-Modules-Colors
 
-![[0000-PatchModulesColors.vcv]]
+![[0000-Patchmodulescolors.vcv]]
 
 ---
 

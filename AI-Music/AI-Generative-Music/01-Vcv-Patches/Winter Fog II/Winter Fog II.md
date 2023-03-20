@@ -6,7 +6,7 @@ tags: ['aleatoric','ambient','generative','dark', 'vcv2']
 
 ![[../../99_Media/Img/Winter-Fog-II.jpg]]
 
-![[WinterFogII.vcv]]
+![[Winterfogii.vcv]]
 
 - Patchstorage: https://patchstorage.com/winter-fog-ii/
 - Author: [robin_nicklas](https://patchstorage.com/author/robin_nicklas/ "Posts by robin_nicklas")

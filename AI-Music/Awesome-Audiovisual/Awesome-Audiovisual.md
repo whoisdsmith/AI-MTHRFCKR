@@ -127,7 +127,7 @@ Timecode Is A Sequence Of Numeric Codes Generated At Regular Intervals By A Timi
 
 **[`^        Back To Top        ^`](#Contents)**
 
-See [HARDWARE.md](HARDWARE.md).
+See [Hardware.md](HARDWARE.md).
 
 ## Graphics
 

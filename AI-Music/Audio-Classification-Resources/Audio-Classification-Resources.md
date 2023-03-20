@@ -4,7 +4,7 @@
 
 By [Yann Bayle](http://yannbayle.fr/english/index.php) ([Website](http://yannbayle.fr/english/index.php), [GitHub](https://github.com/ybayle)) from LaBRI ([Website](http://www.labri.fr/), [Twitter](https://twitter.com/labriOfficial/)), Univ. Bordeaux ([Website](https://www.u-bordeaux.fr/), [Twitter](https://twitter.com/univbordeaux)), CNRS ([Website](http://www.cnrs.fr/), [Twitter](https://twitter.com/CNRS)) and SCRIME ([Website](https://scrime.u-bordeaux.fr/)).
 
-**TL;DR** Non-exhaustive list of scientific articles on deep learning for music: [summary](#dl4m-summary) (Article title, pdf link and code), [details](dl4m.tsv) (table - more info), [details](dl4m.bib) (bib - all info)
+**TL;DR** Non-exhaustive list of scientific articles on deep learning for music: [summary](#dl4m-summary) (Article title, pdf link and code), [details](Dl4M.tsv) (table - more info), [details](Dl4M.bib) (bib - all info)
 
 The role of this curated list is to gather scientific articles, thesis and reports that use deep learning approaches applied to music.  
 The list is currently under construction but feel free to contribute to the missing fields and to add other resources! To do so, please refer to the [How To Contribute](#how-to-contribute) section.  
@@ -202,14 +202,14 @@ However, these surveys do not cover music information retrieval tasks that are i
 
 ## DL4M Details
 
-A human-readable table summarized version if displayed in the file [dl4m.tsv](dl4m.tsv). All details for each article are stored in the corresponding bib entry in [dl4m.bib](dl4m.bib). Each entry has the regular bib field:
+A human-readable table summarized version if displayed in the file [Dl4M.tsv](dl4m.tsv). All details for each article are stored in the corresponding bib entry in [Dl4M.bib](dl4m.bib). Each entry has the regular bib field:
 
 - `author`
 - `year`
 - `title`
 - `journal` or `booktitle`
 
-Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
+Each entry in [Dl4M.bib](dl4m.bib) also displays additional information:
 
 - `link` - HTML link to the PDF file
 - `code` - Link to the source code if available
@@ -244,25 +244,25 @@ Each entry in [dl4m.bib](dl4m.bib) also displays additional information:
 
 ## Statistics and visualisations
 
-- 165 papers referenced. See the details in [dl4m.bib](dl4m.bib).  
+- 165 papers referenced. See the details in [Dl4M.bib](dl4m.bib).  
 There are more papers from 2017 than any other years combined.  
 Number of articles per year:  
 ![Number of articles per year](../awesome-deep-learning-music-master/fig/articles_per_year.png)
-- If you are applying DL to music, there are [356 other researchers](authors.md) in your field.
-- 34 tasks investigated. See the list of [tasks](tasks.md).  
+- If you are applying DL to music, there are [356 other researchers](Authors.md) in your field.
+- 34 tasks investigated. See the list of [tasks](Tasks.md).  
 Tasks pie chart:  
 ![Tasks pie chart](../awesome-deep-learning-music-master/fig/pie_chart_task.png)
-- 53 datasets used. See the list of [datasets](datasets.md).  
+- 53 datasets used. See the list of [datasets](Datasets.md).  
 Datasets pie chart:  
 ![Datasets pie chart](../awesome-deep-learning-music-master/fig/pie_chart_dataset.png)
-- 30 architectures used. See the list of [architectures](architectures.md).  
+- 30 architectures used. See the list of [architectures](Architectures.md).  
 Architectures pie chart:  
 ![Architectures pie chart](../awesome-deep-learning-music-master/fig/pie_chart_architecture.png)
-- 9 frameworks used. See the list of [frameworks](frameworks.md).  
+- 9 frameworks used. See the list of [frameworks](Frameworks.md).  
 Frameworks pie chart:  
 ![Frameworks pie chart](../awesome-deep-learning-music-master/fig/pie_chart_framework.png)
 - Only 44 articles (26%) provide their source code.  
-Repeatability is the key to good science, so check out the [list of useful resources on reproducibility for MIR and ML](reproducibility.md).
+Repeatability is the key to good science, so check out the [list of useful resources on reproducibility for MIR and ML](Reproducibility.md).
 
 [Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
@@ -295,13 +295,13 @@ The list provided here does not guarantee the quality of the articles. You shoul
 
 ## Acronyms used
 
-A list of useful acronyms used in deep learning and music is stored in [acronyms.md](acronyms.md).
+A list of useful acronyms used in deep learning and music is stored in [Acronyms.md](acronyms.md).
 
 [Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 ## Sources
 
-The list of conferences, journals and aggregators used to gather the proposed materials is stored in [sources.md](sources.md).
+The list of conferences, journals and aggregators used to gather the proposed materials is stored in [Sources.md](sources.md).
 
 [Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 

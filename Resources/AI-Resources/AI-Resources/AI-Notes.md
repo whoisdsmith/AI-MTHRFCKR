@@ -14,14 +14,14 @@ Short form name refers to original paper, otherwise if short form not avialable 
 
 | Link | Topic |
 | --- | --- |
-| [resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/stylegan-series.md](stylegan-series.md) | ProGAN |
+| [resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/Resources/AI-Notes/Stylegan-Series.md](stylegan-series.md) | ProGAN |
 | | StyleGAN |
 | | StyleGAN 2 |
 | | StyleGAN 2 ADA |
 | | StyleGAN 3 |
-| [resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/resnet-series.md](resnet-series.md) | ResNet |
-| [neural-style-series.md](resources/ai-notes/nst-series.md).md](resources/ai-notes/nst-series.md) | Perceptual Losses for Real-Time St[vision-transformer-series.md](resources/ai-notes/vit-series.md).md](resources/ai-notes/vit-series.md) | ViT |
-| [resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/gaugan-series.md](gaugan-series.md) | GauGAN/SPADE |
-| [resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/knowledge-distillation-series.md](knowledge-distillation-series.md) | Distilling the Knowledge in a Neural Network |
+| [resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/Resources/AI-Notes/Resnet-Series.md](resnet-series.md) | ResNet |
+| [neural-style-series.md](Resources/AI-Notes/Nst-Series.md).md](resources/ai-notes/nst-series.md) | Perceptual Losses for Real-Time St[vision-transformer-series.md](Resources/AI-Notes/Vit-Series.md).md](resources/ai-notes/vit-series.md) | ViT |
+| [resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/Resources/AI-Notes/Gaugan-Series.md](gaugan-series.md) | GauGAN/SPADE |
+| [resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/Resources/AI-Notes/Knowledge-Distillation-Series.md](knowledge-distillation-series.md) | Distilling the Knowledge in a Neural Network |
 | | On the Efficacy of Knowledge Distillation |
 | | Does Knowledge Distillation Really Work? |

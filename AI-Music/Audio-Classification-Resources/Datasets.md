@@ -1,6 +1,6 @@
 # List of datasets
 
-Please refer to the list of useful acronyms used in deep learning and music: [acronyms.md](acronyms.md).
+Please refer to the list of useful acronyms used in deep learning and music: [Acronyms.md](acronyms.md).
 
 - Inhouse
 - No

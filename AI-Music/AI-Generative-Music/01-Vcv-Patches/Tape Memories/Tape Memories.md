@@ -6,7 +6,7 @@ tags: ['atmosphere','ambient','generative','dark','sample','vcv2']
 
 ![[../../99_Media/Img/TapeMemories.jpg]]
 
-![[TapeMemories.vcv]]
+![[Tapememories.vcv]]
 
 - Patchstorage: https://patchstorage.com/tape-memories/
 - Author: [glasspipe79](https://patchstorage.com/author/glasspipe79/ "Posts by glasspipe79")
