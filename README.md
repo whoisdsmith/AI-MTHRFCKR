@@ -2310,52 +2310,58 @@
 
 ### Code
 
-- [AI CLI](https://github.com/abhagsain/ai-cli) - AI CLI Is A Command Line Interface Tool For AI Services.
+- [AI CLI](https://aiinfinity.blogspot.com/p/codingai-cli.html) - Get answers for CLI commands from GPT3 right from your terminal.
 - [AI Code Reviewer](https://ai-code-reviewer.com/) - AI Code Reviewer Is An AI-powered Code Review Tool For Software Developers.
 - [AI For The Command Line](https://github.com/santinic/how2) - AI For The Command Line
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Amazon CodeWhisperer Is An AI-powered Code Analysis Tool For Software Engineers And Security Experts.
-- [AskCodi](https://www.askcodi.com/) - AskCodi Is An AI-powered Code Analysis And Debugging Platform.
+- [Amazon CodeWhisperer](https://aiinfinity.blogspot.com/p/codingamazon-codewhisperer.html) - Accelerate application development with automatic code recommendations based on the code and comments in your IDE.
+- [ArtroomAI](https://aiinfinity.blogspot.com/p/codingartroomai.html) - Make beautiful AI generated art without touching a single line of code.
+- [AskCodi](https://aiinfinity.blogspot.com/p/codingaskcodi.html) - AskCodi is made keeping in mind the needs of developers to avoid redundant tasks, therefore resulting in less time spent on development and more time to execute.
 - [Autocode](https://autocode.com/) - Autocode Is An AI-powered Platform For Building, Deploying, And Managing Code.
 - [AutoRegex](https://www.autoregex.xyz/) - AutoRegex Is An AI-powered Platform For Generating Regular Expressions.
-- [BlackBox AI](https://www.useblackbox.io/) - BlackBox AI Is An AI-powered Platform For Securing And Managing Cloud Infrastructure.
+- [Bito](https://aiinfinity.blogspot.com/p/codingbito.html) - Generate Amazing Code/code comments,10x faster with ChatGPT.
+- [BlackBox AI](https://aiinfinity.blogspot.com/p/codingblackbox-ai.html) - BLACKBOX is your AI-Powered Coding Assistant so you can {Code} 10X Faster and Better.
 - [Buildt](https://www.buildt.ai/) - Buildt Is An AI-powered Platform For Building, Testing, And Deploying Software.
 - [Cheat Layer](https://cheatlayer.com/) - Cheat Layer Is An AI-powered Cheat Sheet Platform For Software Developers.
-- [Clippy AI](https://marketplace.visualstudio.com/items?itemName=clippy-ai.clippy-ai) - Clippy AI Is An AI-powered Code Completion And Suggestion Tool For Visual Studio Code.
+- [Clippy AI](https://aiinfinity.blogspot.com/p/codingclippy-ai.html) - Clippy AI is a simple wrapper around OpenAI Codex. It allows you to send Codex your current file as well as some instructions in plain-text English.
+- [Clippy VSCode](https://aiinfinity.blogspot.com/p/codingclippy-vscode.html) - It shows you your mistakes! It's annoying! it moves!
 - [CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist) - CodeAssist Is An AI-powered Code Completion And Suggestion Tool For JetBrains IDEs.
-- [CodeGeeX](https://huggingface.co/spaces/THUDM/CodeGeeX) - CodeGeeX Is An AI-powered Code Generation Platform.
+- [CodeGeeX](https://aiinfinity.blogspot.com/p/codingcodegeex.html) - A large-scale multilingual code generation model with 13 billion parameters, pre-trained on a large code corpus of more than 20 programming languages. CodeGeeX supports 15+ programming languages for both code generation and translation. CodeGeeX is open source.
 - [Code](https://raindrop.io/whoisdsmith/code-29978195/sort=title&perpage=30&page=0) - This Is A Collection Of Code Snippets And Tutorials Shared On Raindrop.io By A User Named "Whoisdsmith".
 - [Code In AI](http://codeinai.com/) - Code In AI Is An AI-powered Platform For Coding, Testing, And Debugging Software.
 - [Codeium](https://www.codeium.com/) - Codeium Is An AI-powered Platform For Software Development And Collaboration.
 - [Code Language Converter](https://codelanguageconverter.com/) - Code Language Converter Is A Tool For Converting Code Between Different Programming Languages.
 - [CodePal](https://codepal.ai/) - CodePal Is An AI-powered Platform For Code Review And Analysis.
 - [CodeSquire](https://codesquire.ai/) - CodeSquire Is An AI-powered Platform For Software Development And Collaboration.
+- [Codex](https://aiinfinity.blogspot.com/p/codingcodex.html) - Codex interpret simple commands in natural language and execute them on the user’s behalf—making it possible to build a natural language interface to existing applications.
 - [Coding Redefined](https://epsilon.shreenabh.com/) - Coding Redefined Is A Platform For AI-assisted Software Development.
 - [Cohere](https://cohere.ai/) - Cohere Is An AI-powered Platform For Conversation Design And Management.
-- [Continual](https://continual.ai/) - Continual Is An AI-powered Platform For Software Development And Collaboration.
+- [Continual](https://aiinfinity.blogspot.com/p/codingcontinual.html) - Continual is an operational AI platform for the modern data stack. Build predictive models that never stop improving without complex engineering.
 - [Copilot](https://github.com/features/copilot) - Copilot Is An AI-powered Code Completion And Suggestion Tool For GitHub.
 - [Debuild](https://debuild.app/) - Debuild Is An AI-powered Platform For Building, Testing, And Deploying Software.
 - [Denigma](https://denigma.app/#demo) - Denigma Is An AI-powered Platform For Knowledge Management And Discovery.
 - [Duino Code Generator](https://www.duinocodegenerator.com/) - Duino Code Generator Is A Tool For Generating Code For The Arduino Platform.
 - [Eden AI](https://app.edenai.run/bricks/default) - Eden AI Is An AI-powered Platform For Software Development And Collaboration.
 - [Fig AI](https://fig.io/user-manual/ai) - Fig AI Is An AI-powered Platform For Design Collaboration And Management.
+- [Fronty](https://aiinfinity.blogspot.com/p/codingfronty.html) - Get the HTML CSS code of your project in no time! AI-Powered tool to create a website in few minutes.Convert image to HTML CSS World's first image to HTML converter.
 - [Ghostwriter](https://replit.com/site/ghostwriter) - Ghostwriter Is An AI-powered Code Completion Tool.
 - [Hey, Github!](https://githubnext.com/projects/hey-github) - Hey, Github! Is A Platform For AI-assisted Code Review And Analysis On GitHub.
 - [Home Page BBX](https://www.useblackbox.io/) - BBX Is An AI-powered Platform For Software Development And Collaboration.
 - [How2Terminal](https://how2terminal.com/) - how2 Finds The Simplest Way To Do Something In A Unix Shell. It's Like `man`, But You Can Query It In Natural Language. It Uses A Mix Of AI Code-Completion And StackOverflow Search.
 - [Kodezi AI](https://kodezi.com/) - Kodezi AI Is An AI-powered Platform For Software Development And Collaboration.
 - [Kubiya](https://kubiya.ai/) - Kubiya Is An AI-powered Platform For Software Development And Collaboration.
-- [Lookup](https://app.uselookup.com/) - Lookup Is An AI-powered Platform For Code Search And Discovery.
+- [Lookup](https://aiinfinity.blogspot.com/p/codinglookup.html) - Import your data, ask questions in plain english, and get answers instantly with the power of AI.
 - [Maverick](https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick) - Maverick Is An AI-powered Code Completion And Suggestion Tool For Visual Studio Code.
-- [Mutable](https://mutable.ai/) - Mutable Is An AI-powered Platform For Software Development And Collaboration.
+- [Mutable](https://aiinfinity.blogspot.com/p/codingmutable.html) - Build fast with production quality using AI Accelerated Software Development.
 - [OpenAI Coda](https://coda.io/@coda/openai-for-coda) - Generate Text, Images, And Connect Them To Your Data.
 - [OSS Insight](https://ossinsight.io/) - OSS Insight Is A Platform For AI-assisted Open-source Software Analysis And Management.
-- [Programminghelper](https://www.programming-helper.com/) - Programming Helper Is A Platform For AI-assisted Coding, Testing, And Debugging.
+- [Programming helper](https://aiinfinity.blogspot.com/p/codingprogramming-helper.html) - Generate code just by typing a text description. AI will create the code for you. Test it now
 - [Replit](https://replit.com/) - An Online Platform For Coding And Development That Provides A Browser-based, Collaborative And Fast Way Of Coding.
 - [Scale Spellbook](https://scale.com/spellbook) - A Collection Of Tools And Techniques That Scale Uses To Manage, Scale And Operate Their Services And Infrastructure.
-- [Spellbox](https://spellbox.app/) - A Platform For Building And Sharing Models That Enhance The Software Development Process.
+- [Spellbox](https://aiinfinity.blogspot.com/p/codingspellbox.html) - SpellBox uses artificial intelligence to create the code you need from simple prompts. Solve your toughest programming problems with AI in seconds!
 - [Stenography](https://stenography.dev/) - A Tool For Helping Developers And Other Technical Users Quickly Find And Access The Information They Need While They Work.
 - [Tabnine](https://www.tabnine.com/) - A Code Completion AI Platform That Uses Machine Learning To Suggest The Most Likely Next Code Snippet Based On The Context Of The Current Code.
 - [Taskade](https://www.taskade.com/) - A Web-based Collaboration Platform For Teams That Provides Tools For Note-taking, Task Management, And Real-time Communication.
+- [Testkit](https://aiinfinity.blogspot.com/p/codingtestkit.html) - Browser extension to record entire tests in seconds, run them in the Testkit dashboard or your CI pipeline, and see how Testkit automagically fixes tests for you when they break.
 - [WhatTheDiff](https://whatthediff.ai/) - A Platform For Finding The Differences Between Source Code Across Various Development And Staging Environments.
 - [Zebrium](https://www.zebrium.com/) - An AI-powered Logging Platform That Provides Deep Visibility And Insights Into The Behavior Of Applications And Infrastructure.
 
@@ -2405,16 +2411,17 @@
 - [GptDuck](https://www.gptduck.com/) - GptDuck Is A Platform For Building Conversational AI Applications. It Provides A Suite Of Tools For Building Chatbots, Including A Drag-and-drop Interface, Pre-built Templates, And Integration With Popular Messaging Platforms.
 - [GPUX.AI](https://gpux.ai/) - GPUX.AI Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
 - [HTTPie AI](https://httpie.io/) - HTTPie Is A Command-line HTTP Client That Makes It Easy To Make HTTP Requests.
+- [Hugging Face](https://aiinfinity.blogspot.com/p/developerhugging-face.html) - The AI community building the future.Build, train and deploy state of the art models powered by the reference open source in machine learning.
 - [Lightning AI](https://lightning.ai/) - Lightning AI Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
-- [Liner.ai](https://liner.ai/) - Liner.ai Is A Platform For Building AI-powered Chatbots. It Provides A Suite Of Tools For Building Conversational AI Applications, Including A Drag-and-drop Interface, Pre-built Templates, And Integration With Popular Messaging Platforms.
+- [Liner AI](https://aiinfinity.blogspot.com/p/developerliner-ai.html) - Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.
 - [Mintlify](https://mintlify.com/) - Mintlify Is A Platform For Building AI-powered Websites. It Provides A Suite Of Tools For Building And Deploying Websites, Including A Drag-and-drop Interface, Pre-built Templates, And Integration With Popular Hosting Platforms.
 - [Moonbeam Exchange](https://moonbeam.ai/) - Moonbeam Exchange Is A Decentralized Exchange Platform That Allows You To Trade Cryptocurrencies And Other Digital Assets.
 - [Nuclia](https://nuclia.com/) - Nuclia Is A Platform For Building Cloud-based AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
 - [Pipeline AI](https://www.pipeline.ai/) - Pipeline AI Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
 - [PromptLayer](https://promptlayer.com/) - PromptLayer Is A Platform For Building Conversational AI Applications. It Provides A Suite Of Tools For Building Chatbots, Including A Drag-and-drop Interface, Pre-built Templates, And Integration With Popular Messaging Platforms.
 - [Retune](https://retune.so/) - Retune Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
-- [Riku.ai](https://riku.ai/) - Riku.ai Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
-- [Rtutor](http://rtutor.ai/) - Rtutor Is A Platform For Building Educational AI Applications. It Provides A Suite Of Tools For Building And Deploying Educational Chatbots And Interactive Tutorials.
+- [Riku AI](https://aiinfinity.blogspot.com/p/developerriku-ai.html) - Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.
+- [Rtutor](https://aiinfinity.blogspot.com/p/developerrtutor.html) - Chat with your data via AI.
 - [RunPod](https://www.runpod.io/) - RunPod Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
 - [Shaped](https://www.shaped.ai/) - Shaped Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
 - [Shumai (Meta)](https://github.com/facebookresearch/shumai) - Shumai Is A Platform For Building AI Models. It Is An Open-source Library That Provides Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
@@ -2423,7 +2430,7 @@
 - [SyntheticAl Data](https://syntheticaidata.com/) - SyntheticAl Data Is A Platform For Generating Synthetic Data. It Provides Tools For Generating Data That Can Be Used For Machine Learning And AI Applications, Including Data For Training And Testing Models.
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) - Teachable Machine Is A Platform For Building AI Models. It Provides A Simple And Intuitive Interface For Building And Training Machine Learning Models, Without Requiring Any Prior Knowledge Of Programming Or Machine Learning.
 - [Textomap](https://www.textomap.com/) - Textomap Is A Platform For Visualizing And Exploring Text Data. It Provides Tools For Visualizing Text Data, Including Word Clouds, Network Graphs, And Interactive Maps.
-- [Tinq.ai-NLP API](https://tinq.ai/) - Tinq.ai Is An NLP API. It Provides A Suite Of NLP Tools, Including Text Analysis, Sentiment Analysis, And Topic Modeling.
+- [Tinq AI-NLP API](https://aiinfinity.blogspot.com/p/developertinq.html) - Tinq.ai is a simple natural language processing tool. It helps you easily implement text analysis within your projects.
 - [Valyr](https://valyr.vercel.app/) - Valyr Is A Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
 - [Whisper](https://github.com/openai/whisper) - Whisper Is An Open-source Platform For Building AI Applications. It Provides A Suite Of Tools For Building And Deploying AI Models, Including Data Preparation, Model Training, And Deployment.
 
@@ -2997,26 +3004,37 @@
 - [Everyprompt](https://everyprompt.com/) - A Playground For GPT-3]
 - [Eye For Al](https://eyeforai.xyz/) - Prompt Builder / Editor
 - [FlowGPT](https://flowgpt.com/) - Amplify Your Workflow With Best Prompts
+- [Img2prompt](https://aiinfinity.blogspot.com/p/promptsimg2prompt.html) - Get an approximate text prompt, with style, matching an image.
 - [Img2prompt](https://replicate.com/methexis-inc/img2prompt) - Get An Approximate Text Prompt, With Style, Matching An Image. (Optimized For Stable-Diffusion (Clip ViT-L/14)
+- [Jrnylist](https://aiinfinity.blogspot.com/p/promptsjrnylist.html) - Same as dallelist but advanced version.
 - [Jrnylist](https://jrnylist.com/) - Midjourney Prompt Helper
+- [Krea](https://aiinfinity.blogspot.com/p/promptskrea.html) - Generative visuals for everyone.
 - [KREA](https://krea.ai/) - Create Collections Of Prompts
 - [Latentspace](https://latentspace.dev/) - Exploring Stable Diffusion Latent Space
 - [Learn Prompting](https://learnprompting.org/) - Learn Prompting
 - [Metaphor](https://metaphor.systems/) - Search The Internet With Large Language Models
 - [Metaverse Post](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts) - Best 100+ Stable Diffusion Prompts: The Most Beautiful AI Text-to-Image Prompts
 - [NoPrompt GPT](https://nopromptgpt.com/) - Pre-Prompted ChatGPT For Frequent Users.
+- [Openart](https://aiinfinity.blogspot.com/p/promptsopenart.html) - Search 10M+ of prompts, and generate AI Art via Stable Diffusion, DALL·E 2.
 - [Openart](https://openart.ai/) - Search 10M+ Of Prompts, And Generate AI Art Via Stable Diffusion, DALL·E 2.
+- [PromptBase](https://aiinfinity.blogspot.com/p/promptspromptbase.html) - DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.
 - [PromptBase](https://promptbase.com/) - Prompt Marketplace: DALL·E, Midjourney, Stable Diffusion & GPT-3
 - [Prompt Box](https://promptbox.ai/) - Organize And Save Your AI Prompts
 - [PromptCircle](https://promptcircle.xyz/) - Create, Share And Discover The Best Prompts
 - [PromptDB AI](https://promptdb.ai/) - Marketplace For Prompts
 - [Prompter](https://prompter.so/) - AI Prompt Sharing Community Where People Can Share ChatGPT, Midjourney And Other AI Prompts.
+- [PromptHero](https://aiinfinity.blogspot.com/p/promptsprompthero.html) - Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney…
 - [PromptHero](https://prompthero.com/) - Prompter Is An AI Prompt Sharing Community Where People Can Share ChatGPT, Midjourney And Other AI Prompts. Discover Prompts That Rock!
+- [Promptist](https://aiinfinity.blogspot.com/p/promptspromptist.html) - Promptist is a prompt interface for Stable Diffusion v1-4 that optimizes user input into model-preferred prompts.
 - [Promptist](https://huggingface.co/spaces/microsoft/Promptist) - Promptist Is A Prompt Interface For Stable Diffusion V1-4 That Optimizes User Input Into Model-preferred Prompts.
+- [PromptLayer](https://aiinfinity.blogspot.com/p/promptspromptlayer.html) - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
 - [PromptLayer](https://promptlayer.com/) - The First Platform Built For Prompt Engineers
 - [Prompt Lovers](https://trello.com/b/4BPkSY1w/100-ai-prompts-resources-prompt-lovers?ref=producthunt) - 100+ AI Prompts & Resources
 - [PromptoMANIA](https://promptomania.com/generic-prompt-builder/) - Prompt Builder For AI Art Generators
+- [PromtBox](https://aiinfinity.blogspot.com/p/promptspromtbox.html) - - Beautifully store your prompts!
+- [Public Prompts](https://aiinfinity.blogspot.com/p/promptspublic-prompts.html) - Collection of ‎ High Quality/Free/Public Prompts!
 - [Public Prompts](https://publicprompts.art/) - Collection Of Public Prompts
+- [Pyttipanna](https://aiinfinity.blogspot.com/p/promptspyttipanna.html) - Pyttipanna is an interface for Pytti 5. It allows you to structure, narrate and experiment with prompts for video creation.
 - [Pyttipanna](https://pyttipanna.xyz/) - An Interface For Pytti 5. It Allows You To Structure, Narrate And Experiment With Prompts For Video Creation. Pytti Is A Framework For Creating And Rendering Videos Using Machine Learning Models.
 - [Tulpa Prompter](https://dreamingtulpa.com/tools/prompter) - Tool To Create [Deforum Stable Diffusion](https://deforum.github.io/) Animations
 
@@ -3771,38 +3789,7 @@ ___
 - [Didi AI](https://aiinfinity.blogspot.com/p/chatdidi-ai.html) - Did AI is a digital diviner that can be consulted to answer questions based on artificial intelligence.
 - [Hello History](https://aiinfinity.blogspot.com/p/chathello-history.html) - Chat with AI generated historical figures.
 ## Coding Tools
-- [AI CLI](https://aiinfinity.blogspot.com/p/codingai-cli.html) - Get answers for CLI commands from GPT3 right from your terminal.
-- [AI code reviewer](https://aiinfinity.blogspot.com/p/codingai-code-reviewer.html) - Reviews your code.
-- [Amazon CodeWhisperer](https://aiinfinity.blogspot.com/p/codingamazon-codewhisperer.html) - Accelerate application development with automatic code recommendations based on the code and comments in your IDE.
-- [ArtroomAI](https://aiinfinity.blogspot.com/p/codingartroomai.html) - Make beautiful AI generated art without touching a single line of code.
-- [AskCodi](https://aiinfinity.blogspot.com/p/codingaskcodi.html) - AskCodi is made keeping in mind the needs of developers to avoid redundant tasks, therefore resulting in less time spent on development and more time to execute.
-- [Bito](https://aiinfinity.blogspot.com/p/codingbito.html) - Generate Amazing Code/code comments,10x faster with ChatGPT.
-- [BlackBox AI](https://aiinfinity.blogspot.com/p/codingblackbox-ai.html) - BLACKBOX is your AI-Powered Coding Assistant so you can {Code} 10X Faster and Better.
-- [Buildt](https://aiinfinity.blogspot.com/p/codingblackdt.html) - Find, Generate & Replace Anything In Your Code.
-- [Clippy AI](https://aiinfinity.blogspot.com/p/codingclippy-ai.html) - Clippy AI is a simple wrapper around OpenAI Codex. It allows you to send Codex your current file as well as some instructions in plain-text English.
-- [Clippy VSCode](https://aiinfinity.blogspot.com/p/codingclippy-vscode.html) - It shows you your mistakes! It's annoying! it moves!
-- [CodeAssist](https://aiinfinity.blogspot.com/p/codingcodeassist.html) - CodeAssist is an AI assistant / chatbot / copilot for programming. It generates, changes, completes the code and answers questions.
-- [CodeGeeX](https://aiinfinity.blogspot.com/p/codingcodegeex.html) - A large-scale multilingual code generation model with 13 billion parameters, pre-trained on a large code corpus of more than 20 programming languages. CodeGeeX supports 15+ programming languages for both code generation and translation. CodeGeeX is open source.
-- [Codeium](https://aiinfinity.blogspot.com/p/codingcodeium.html) - The modern coding superpower.
-- [CodeSquire](https://codesquire.ai/)- Turn your thoughts into code.
-- [Codex](https://aiinfinity.blogspot.com/p/codingcodex.html) - Codex interpret simple commands in natural language and execute them on the user’s behalf—making it possible to build a natural language interface to existing applications.
-- [Continual](https://aiinfinity.blogspot.com/p/codingcontinual.html) - Continual is an operational AI platform for the modern data stack. Build predictive models that never stop improving without complex engineering.
-- [Copilot](https://aiinfinity.blogspot.com/p/codingcopilot.html) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
-- [Duino Code Generator](https://aiinfinity.blogspot.com/p/codingduino-code-generator.html) - Let's generate code for Arduino.
-- [Fig AI](https://aiinfinity.blogspot.com/p/codingfig-ai.html) - Translate English → Bash commands in any shell.
-- [Fronty](https://aiinfinity.blogspot.com/p/codingfronty.html) - Get the HTML CSS code of your project in no time! AI-Powered tool to create a website in few minutes.Convert image to HTML CSS World's first image to HTML converter.
-- [Hey,GitHub](https://githubnext.com/projects/hey-github/) - Write code without the keyboard! Difficulty typing? Use your voice to code without spelling things out by talking with GitHub Copilot.
-- [Kodezi AI](https://aiinfinity.blogspot.com/p/codingkodezi-ai.html) - Let Kodezi auto generate/correct/comment/optimize your code in seconds.
-- [Lookup](https://aiinfinity.blogspot.com/p/codinglookup.html) - Import your data, ask questions in plain english, and get answers instantly with the power of AI.
-- [Maverick](https://aiinfinity.blogspot.com/p/codingmaverick.html) - Maverick focuses on delivering the best code completion on your local machine without reaching out to any APIs or knowledge bases.
-- [Mutable](https://aiinfinity.blogspot.com/p/codingmutable.html) - Build fast with production quality using AI Accelerated Software Development.
-- [Programming helper](https://aiinfinity.blogspot.com/p/codingprogramming-helper.html) - Generate code just by typing a text description. AI will create the code for you. Test it now
-- [Replit](https://aiinfinity.blogspot.com/p/codingreplit.html) - Build software collaboratively from anywhere in the world, on any device, without spending a second on setup.
-- [Spellbox](https://aiinfinity.blogspot.com/p/codingspellbox.html) - SpellBox uses artificial intelligence to create the code you need from simple prompts. Solve your toughest programming problems with AI in seconds!
-- [Stenography](https://aiinfinity.blogspot.com/p/codingstenography.html) - Finally. Automatic Documentation.
-- [Tabnine](https://aiinfinity.blogspot.com/p/codingtabnine.html) - AI assistant for software developers Code faster with whole-line & full-function code completions.
-- [Testkit](https://aiinfinity.blogspot.com/p/codingtestkit.html) - Browser extension to record entire tests in seconds, run them in the Testkit dashboard or your CI pipeline, and see how Testkit automagically fixes tests for you when they break.
-- [What the diff](https://aiinfinity.blogspot.com/p/codingwhat-diff.html) - Your AI-powered code review assistant.
+
 ## CopyWriting
 - [Adcreative AI](https://aiinfinity.blogspot.com/p/copywritingadcreative-ai.html) - Generate conversion focused ad creatives and social media post creatives in a matter of seconds using Artificial Intelligence.
 - [Anyword](https://aiinfinity.blogspot.com/p/copywritinganyword.html) - Get more conversions and drive more sales with an AI writer that generates and optimizes your copy. Powerful predictive analytics tells you what works before you publish.
@@ -3891,37 +3878,7 @@ ___
 - [Unbound](https://aiinfinity.blogspot.com/p/design-assistantunbound.html) - Automate content creation for your small business!
 - [Vizcom](https://aiinfinity.blogspot.com/p/design-assistantvizcom.html) - AI tools to express your creativity!
 ## Developer Tools
-- [AutoRegex](https://aiinfinity.blogspot.com/p/developerautoregx.html) - Effortless conversions from English to Regex! Regex is difficult to write and comprehend to the average human.
-- [Chatbotkit](https://aiinfinity.blogspot.com/p/developerchatbotkit.html) - The simplest way to buildadvanced AI chat bots.  
-- Platform makes it easy for developers and non-developers alike to build chatbots that can communicate with users in natural language
-- [Convai](https://aiinfinity.blogspot.com/p/developerconvai.html) - Design your conversation based Characters and Speech based games.
-- [CSM](https://aiinfinity.blogspot.com/p/developercsm.html) - Common Sense Machines provides APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation.
-- [Dust](https://aiinfinity.blogspot.com/p/developerdust.html) - Design and Deploy Large Language Model Apps.
-- [GptDuck](https://aiinfinity.blogspot.com/p/developergptduck.html) - GPTDuck is a tool that helps you find the answer to your questions about a Github repository.
-- [GPUX AI](https://aiinfinity.blogspot.com/p/developergpux-ai.html) - Deploy 'X' Fast.Run anything Dockerized  
-- Run autoscale Inference!
-- [HTTPie AI](https://aiinfinity.blogspot.com/p/developerhttpie-ai.html) - HTTPie is making APIs simple and intuitive for those building the tools of our time.
-- [Hugging Face](https://aiinfinity.blogspot.com/p/developerhugging-face.html) - The AI community building the future.Build, train and deploy state of the art models powered by the reference open source in machine learning.
-- [Lightning AI](https://aiinfinity.blogspot.com/p/developerlighting-ai.html) - Use platform to build AI products, train, finetune and deploy models on the cloud without worrying about infrastructure, cost management, scaling, and other technical headaches.
-- [Liner AI](https://aiinfinity.blogspot.com/p/developerliner-ai.html) - Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.
-- [Mintlify](https://aiinfinity.blogspot.com/p/developermintlify.html) - Build the documentation you've always wanted. Beautiful out of the box, easy to maintain, and optimized for user engagement.
-- [Nuclia](https://aiinfinity.blogspot.com/p/developernuclia.html) - The AI search engine delivering the right answers from your data!  
-- Effortless integration. For any data, including video, wherever it is. 
-- [Pipeline AI](https://aiinfinity.blogspot.com/p/developerpipeline-ai.html) - Serverless GPU inference for ML models! Pay-per-millisecond API to run ML in production.
-- [PromptLayer](https://aiinfinity.blogspot.com/p/developerpromptlayer.html) - The first platform built for prompt engineers! Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
-- [Retune](https://aiinfinity.blogspot.com/p/developerretune.html) - The missing frontend for GPT-3  
-- Build GPT-3 powered apps,  
-- without writing any code.
-- [Riku AI](https://aiinfinity.blogspot.com/p/developerriku-ai.html) - Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.
-- [Rtutor](https://aiinfinity.blogspot.com/p/developerrtutor.html) - Chat with your data via AI.
-- [RunPod](https://aiinfinity.blogspot.com/p/developerrunpod.html) - Save over 80% on GPUs. GPU rental made easy with Jupyter for PyTorch, Tensorflow or any other AI framework.
-- [Shaped](https://aiinfinity.blogspot.com/p/developershaped.html) - Recommendation APIs that increase your metrics 🚀
-- [Stable Diffusion](https://aiinfinity.blogspot.com/p/developerstable-diffusion.html) - Designing and implementing solutions using collective intelligence and augmented technology.
-- [SyntheticAldata](https://aiinfinity.blogspot.com/p/developersyntheticaidata.html) - Synthetic data is a cost-effective way to train and improve AI models.
-- [Teachable Machine](https://aiinfinity.blogspot.com/p/developerteachable-machine.html) - Train a computer to recognize your own images, sounds, & poses.
-- [Textomap](https://aiinfinity.blogspot.com/p/developertexttomap.html) - Turn text into interactive maps in seconds! Create insightful maps for travel, education, current events, and storytelling.No code, spreadsheets, or complex tools - your words are enough.
-- [Tinq AI-NLP API](https://aiinfinity.blogspot.com/p/developertinq.html) - Tinq.ai is a simple natural language processing tool. It helps you easily implement text analysis within your projects.
-- [Valyr](https://aiinfinity.blogspot.com/p/developervalyr.html) - Simplify GPT-3 monitoring with one line of code.
+
 ## Education
 - [Caktus](https://aiinfinity.blogspot.com/p/educationcaktus.html) - Writing,Coding,CV,Resume Maker!
 - [MindSmith](https://aiinfinity.blogspot.com/p/educationmindsmith.html) - Mindsmith is a learning platform that uses generative AI to make it easy to create and share course material and training.
@@ -4114,19 +4071,7 @@ ___
 
 ## Prompts
 
-- [Dallelist](https://aiinfinity.blogspot.com/p/promptsdallelist.html) - Select category then copy it!
-- [Eye for Al](https://aiinfinity.blogspot.com/p/promptseye-for-al.html) - Visual "prompt builder" to craft complex prompts, easily.
-- [Img2prompt](https://aiinfinity.blogspot.com/p/promptsimg2prompt.html) - Get an approximate text prompt, with style, matching an image.
-- [Jrnylist](https://aiinfinity.blogspot.com/p/promptsjrnylist.html) - Same as dallelist but advanced version.
-- [Krea](https://aiinfinity.blogspot.com/p/promptskrea.html) - Generative visuals for everyone.
-- [Openart](https://aiinfinity.blogspot.com/p/promptsopenart.html) - Search 10M+ of prompts, and generate AI Art via Stable Diffusion, DALL·E 2.
-- [PromptBase](https://aiinfinity.blogspot.com/p/promptspromptbase.html) - DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.
-- [PromptHero](https://aiinfinity.blogspot.com/p/promptsprompthero.html) - Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney…
-- [Promptist](https://aiinfinity.blogspot.com/p/promptspromptist.html) - Promptist is a prompt interface for Stable Diffusion v1-4 that optimizes user input into model-preferred prompts.
-- [PromptLayer](https://aiinfinity.blogspot.com/p/promptspromptlayer.html) - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
-- [PromtBox](https://aiinfinity.blogspot.com/p/promptspromtbox.html) - - Beautifully store your prompts!
-- [Public Prompts](https://aiinfinity.blogspot.com/p/promptspublic-prompts.html) - Collection of ‎ High Quality/Free/Public Prompts!
-- [Pyttipanna](https://aiinfinity.blogspot.com/p/promptspyttipanna.html) - Pyttipanna is an interface for Pytti 5. It allows you to structure, narrate and experiment with prompts for video creation.
+
 
 ## Real Estate
 
