@@ -1,0 +1,4 @@
+-   [Lines](https://llllllll.co)
+-   [Monome](https://github.com/monome)
+-   [Norns Community](https://norns.community)
+-   [Norns Shield Docs](https://monome.org/docs/norns/shield/)
