@@ -44,7 +44,6 @@
 ---
 
 ## Recently Added
-
 ### 2023-03-21
    
    - [A.I. Apps 🤖  On AppRaven](https://appraven.net/collection.php?listId=6416a370904afd2a981d73ed) - A Curated List Of Productivity Apps Related To Artificial Intelligence On AppRaven.
@@ -64,7 +63,404 @@
    
 ---
 
-### New
+### 2023-03-18
+
+**AI | Audio | Pro Audio**
+
+- [Audioalter](https://audioalter.com/) - Audioalter Is A Collection Of Online Audio Tools That Use Machine Learning To Modify, Transform, And Analyze Audio Files. It Includes Tools For Editing, Converting, And Generating Audio Files.
+- [AudioStrip](https://audiostrip.co.uk/#isolate) - AudioStrip Is A Web-based Tool For Isolating Vocals, Drums, Bass, And Other Individual Parts Of A Song Using AI. Users Can Upload A Song And Use AudioStrip's Algorithms To Isolate And Extract Specific Parts Of The Song.
+- [Beat Inspect](https://stefanrmmr-beatinspect-streamlit-app-gqaygo.streamlit.app/) - Beat Inspect Is A Web-based Tool That Analyzes The Tempo And Structure Of Music Tracks. It Uses Machine Learning To Identify The Beats And Rhythm Of A Song, And Provides A Visualization Of The Song Structure.
+- [Lemonaid Music](https://lemonaid.ai/) - Lemonaid Music Is A Music Production Platform That Uses Artificial Intelligence To Generate Unique And Customizable Music Tracks. Users Can Select A Genre And Customize The Mood, Tempo, And Other Parameters To Generate A Royalty-free Music Track.
+- [MIDI-GPT - Replit](https://replit.com/@somewheresy/MIDI-GPT) - MIDI-GPT Is A Neural Network That Generates MIDI Music Based On User Input. This Project Hosted On Replit Allows Users To Experiment With And Generate Music Using MIDI-GPT.
+- [RoEx Automix ](Https://automix.roexaudio.com/) - RoEx Automix Is An AI-powered Tool For Automatic Music Mixing And Mastering. It Uses Machine Learning Algorithms To Analyze And Balance The Levels Of Different Tracks, And Apply Effects Like EQ, Compression, And Reverb.
+- [Ultimate Vocal Remover GUI](https://github.com/anjok07/ultimatevocalremovergui) - Ultimate Vocal Remover GUI Is An Open-source Software For Removing Vocals From Songs Using Artificial Intelligence. The GUI Provides A Simple And Easy-to-use Interface For Users To Remove Vocals From Songs.
+
+**AI | Audio | Transcriptions**
+
+- [Rythmex](https://rythmex.com/) - Rythmex Is An AI-powered Tool For Transcribing Music Into Sheet Music. It Uses Machine Learning To Analyze And Transcribe Music Tracks, And Provides A Visualization Of The Sheet Music.
+- [Transkribieren](https://www.transkribieren.xyz/) - Transkribieren Is A Web-based Tool For Transcribing Audio And Video Files Into Text. It Uses Machine Learning To Automatically Transcribe Speech, And Allows Users To Edit And Correct The Transcription As Needed.
+
+**AI | ChatGPT**
+
+- [Andy's Collection Of Chatgpt Jailbreak Prompts](https://rentry.org/Chatgptjailbreak) - Andy's Collection Of Chatgpt Jailbreak Prompts Is A Curated List Of Prompts For OpenAI's GPT-3 Language Model. These Prompts Are Designed To "Jailbreak" The AI's Capabilities And Allow It To Perform Tasks Beyond Its Original Design. The List Includes Prompts For Generating Poetry, Music, And Even Computer Code.
+- [Jailbreak Chat](https://www.jailbreakchat.com/) - Jailbreak Chat Is A Chatbot Development Platform That Allows Users To Create And Deploy Chatbots For Various Messaging Platforms Like Facebook Messenger And Slack. It Includes Tools For Managing And Analyzing Chatbot Interactions.
+- [Mottle](https://mottle.com/) - Mottle Is A Chatbot Platform That Allows Businesses To Create And Customize Chatbots For Their Websites And Social Media Channels. It Uses Natural Language Processing To Understand Customer Queries And Provide Personalized Responses.
+- [TypingMind](https://www.typingmind.com/) - TypingMind Is A Chatbot Development Platform That Uses Machine Learning To Create Chatbots That Can Understand Natural Language And Provide Human-like Responses. It Includes A Visual Interface For Building And Customizing Chatbots.
+
+
+**AI | Code**
+
+- [CodeAssist](https://www.codeassist.tech/index.html) - CodeAssist Is An AI-powered Code Completion Tool That Uses Machine Learning To Suggest Code Snippets And Improve Developers' Productivity. It Supports Multiple Programming Languages And Integrates With Popular Code Editors Like VSCode And Atom.
+- [OpenAI Codex](https://openai.com/blog/openai-codex) - OpenAI Codex Is An AI System That Can Generate Code From Natural Language Descriptions. It Is Capable Of Understanding Programming Concepts And Can Write Functional Code In Multiple Languages.
+
+**AI | Data**
+
+- [Humata](https://app.humata.ai/) - Humata Is A Data Labeling Platform That Uses AI To Automate The Labeling Process. It Can Be Used For Tasks Like Image And Video Annotation, Text Labeling, And Sentiment Analysis.
+- [Luminal](https://getluminal.com/index.html) - Luminal Is A Data Analysis Platform That Uses Machine Learning To Identify Patterns And Insights In Large Datasets. It Includes Tools For Data Exploration, Modeling, And Visualization, And Can Be Used For A Variety Of Use Cases Like Fraud Detection And Customer Segmentation.
+
+**AI | Docs**
+
+- [ChatDOC](https://chatdoc.com/) - ChatDOC Is A Chatbot-based Platform For Document Collaboration And Management. It Uses Natural Language Processing To Understand User Queries And Provide Relevant Information, And Includes Features Like File Sharing And Version Control.
+- [Collato](https://collato.com/) - Collato Is A Document Management Platform That Uses AI To Extract And Organize Information From Documents Like Contracts And Invoices. It Includes Tools For OCR, Data Extraction, And Workflow Automation.
+
+**AI | Image**
+
+- [AI Gallery](https://aigallery.app/) - AI Gallery Is A Platform For Sharing And Exploring AI-generated Art. It Includes A Collection Of Artwork Generated By Various AI Algorithms, And Allows Users To Upload Their Own Artwork And Share It With The Community.
+- [CatBird](https://www.catbird.ai/) - CatBird Is An AI-powered Tool For Object Detection And Classification In Images And Videos. It Uses Machine Learning To Identify And Track Objects In Real-time, And Can Be Used For A Variety Of Applications Like Security Monitoring And Traffic Analysis.
+- [Illuminarty](https://illuminarty.ai/en/) - Illuminarty Is An AI-powered Tool For Generating Art From Photos. It Uses Machine Learning To Transform Photos Into Unique Art Styles, And Allows Users To Customize The Output By Adjusting Parameters Like Brush Size And Color Palette.
+- [Image Transfer](https://transpic.cn/) - Image Transfer Is A Web-based Tool That Uses AI To Transfer The Style Of One Image Onto Another. Users Can Upload Two Images And The Tool Will Generate A New Image That Combines The Content Of One Image With The Style Of The Other.
+- [Real-ESRGAN](https://replicate.com/nightmareai/real-esrgan) - Real-ESRGAN Is An AI-powered Tool For Upscaling And Enhancing Images. It Uses A Deep Learning Algorithm To Generate High-quality Images From Low-resolution Inputs.
+
+**AI | Prompt**
+
+- [AI Promts](https://promptsai.io/) - AI Prompts Is A Platform For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts, And Provides A Visualization Of The Model's Response.
+- [BotPrompts](https://botprompts.net/) - BotPrompts Is A Platform For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts, And Provides A Visualization Of The Model's Response.
+- [Easy Prompt](https://www.easyprompt.xyz/) - Easy Prompt Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Provides A Simple And Easy-to-use Interface For Generating Text On A Variety Of Topics.
+- [Effective GPT](https://www.effectivegpt.com/) - Effective GPT Is A Platform For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts
+- [EPromptly](https://epromptly.com/) - EPromptly Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Summarization, Translation, And Question-answering.
+- [Fusion](https://fusion.tiiny.site/) - Fusion Is A Web-based Tool For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts, And Provides A Visualization Of The Model's Response.
+- [Geniea](https://geniea.com/) - Geniea Is An AI-powered Platform For Generating Natural Language Content, Including Product Descriptions, News Articles, And Social Media Posts. It Uses Machine Learning To Understand User Preferences And Generate Customized Content.
+- [Learn Prompt Engineering By Exploring ChatGPT Examples](https://www.emergentmind.com/) - Learn Prompt Engineering By Exploring ChatGPT Examples Is A Guide For Using OpenAI's GPT-3 Language Model To Generate Chatbot Responses. It Includes A Variety Of Examples And Tips For Generating Effective Prompts And Responses.
+- [NoPrompt GPT](https://nopromptgpt.com/) - NoPrompt GPT Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model Without Using Any Prompts. It Allows Users To Generate Text Directly From The Model Without Providing Any Input, And Includes Features Like Conversation And Storytelling.
+- [Prompter](https://prompter.lennard.codes/) - Prompter Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Question-answering And Summarization, And Allows Users To Customize The Prompt And Model Settings.
+- [Prompter](https://prompter.so/) - Prompter Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Question-answering And Summarization, And Allows Users To Customize The Prompt And Model Settings.
+- [Prompt-Journey](https://promptjourney.app/dashboard) - Prompt-Journey Is A Platform For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts, And Provides A Visualization Of The Model's Response.
+- [PromptPal](https://www.promptpal.net/) - PromptPal Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Summarization, Question-answering, And Chat.
+- [PromptPerfect](https://promptperfect.jina.ai/) - PromptPerfect Is An AI System For Generating Natural Language Responses To User Queries. It Uses A Combination Of Machine Learning And Human Curation To Provide Accurate And Relevant Responses To User Questions.
+- [Stable Diffusion Prompting Cheatsheet](https://moritz.pm/posts/parameters) - Stable Diffusion Prompting Cheatsheet Is A Guide For Using The Stable Diffusion Method For Generating Prompts For OpenAI's GPT-3 Language Model. It Includes A List Of Parameters And Examples For Generating Effective Prompts.
+
+**AI | Resources**
+
+- [Aiwizard ](Https://www.aiwizard.ai/) - Aiwizard Is An AI-powered Platform That Allows Businesses To Create And Customize Chatbots For Their Websites And Social Media Channels. It Uses Natural Language Processing To Understand Customer Queries And Provide Personalized Responses.
+- [All Things AI](https://allthingsai.com/) - All Things AI Is A Community-driven Platform That Provides The Latest News, Articles, And Resources On Artificial Intelligence, Machine Learning, And Related Topics. It Also Includes A Job Board And A Directory Of AI Companies.
+- [Big AI List](https://bigailist.com/) - Big AI List Is A Curated List Of Resources For Learning And Practicing Artificial Intelligence, Including Online Courses, Books, Blogs, And Podcasts. It's Organized Into Categories Like Machine Learning, Deep Learning, And Natural Language Processing.
+- [Supertools](https://supertools.therundown.ai/) - Supertools Is A Collection Of Machine Learning And Data Science Tools That Can Help You With Tasks Like Data Analysis, Modeling, And Visualization. It's Designed To Be A One-stop-shop For All Your AI Needs.
+
+**AI | Search**
+
+- [Collie](https://collie.ai/) - Collie Is An AI-powered Search Tool For Finding Similar Images. It Uses Machine Learning To Identify Visual Patterns And Similarities Between Images, And Can Be Used For Applications Like Product Search And Content Discovery.
+- [Glarity](https://glarity.app/) - Glarity Is An AI-powered Search Engine That Uses Natural Language Processing To Understand User Queries And Provide Relevant Search Results. It Includes Features Like Topic Clustering And Personalized Search.
+
+**AI | Text**
+
+- [Text Generator](https://text-generator.io/) - Text Generator Is A Web-based Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Summarization, Translation, And Question-answering.
+
+**AI | Tools**
+
+- [Anywebsite.ai](https://anywebsite.ai/) - Anywebsite.ai Is An AI-powered Tool For Extracting Information From Websites. It Can Be Used For Tasks Like Web Scraping And Data Extraction, And Includes Features Like Data Cleaning And Formatting.
+- [OpenPlayground](https://nat.dev/compare) - OpenPlayground Is A Suite Of Tools For Experimenting With AI Models And Algorithms. It Includes Tools For Text Generation, Image Recognition, And Natural Language Processing, And Allows Users To Compare The Performance Of Different Models.
+- [Sheldon](https://www.heysheldon.com/) - Sheldon Is An AI-powered Virtual Assistant That Can Be Integrated With A Variety Of Platforms Like Slack And Trello. It Includes Features Like Natural Language Processing And Conversation Management.
+
+**AI | Video**
+
+- [Aug X Labs | Home](https://www.augxlabs.com/) - Aug X Labs Is A Platform For Creating And Deploying AI-powered Video Content. It Includes Tools For Video Editing, Animation, And Special Effects, And Can Be Used For Applications Like Marketing And Advertising.
+- [Genmo](https://alpha.genmo.ai/create) - Genmo Is A Platform For Creating Chatbots Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating Prompts And Responses, And Can Be Used For Applications Like Customer Support And Language Learning.
+- [Maimovie: AI-powered Movie Search Engine](https://maimovie.com/) - Maimovie Is An AI-powered Movie Search Engine That Uses Machine Learning To Provide Personalized Movie Recommendations. It Includes Features Like Genre Classification And Sentiment Analysis.
+- [Plazma Punk](https://www.plazmapunk.com/) - Plazma Punk Is A Tool For Generating Animated Videos Using AI-powered Algorithms. It Includes A Variety Of Customizable Templates And Styles, And Can Be Used For Applications Like Explainer Videos And Product Demos.
+- [Vid2txt - The Easiest Video (And Audio) Transcription App](https://vid2txt.com/) - Vid2txt Is A Web-based Tool For Transcribing Video And Audio Content. It Uses AI-powered Speech Recognition To Generate Accurate Transcripts, And Includes Features Like Speaker Identification And Punctuation.
+- [Video Automations - Create Videos With AI - Vidds.co](https://vidds.co/tools/video-automations/) - Video Automations Is A Platform For Creating And Editing Videos Using AI-powered Tools. It Includes Features Like Scene Recognition And Content Analysis, And Can Be Used For Applications Like Social Media Marketing And Content Creation.
+
+---
+
+### 2023-02-19
+
+#### Art
+
+- [ArtFlow AI](http://artflow.ai) - An AI-powered Digital Art Creation And Collaboration Platform.  
+Natural
+- [ArtRoom AI](http://artroom.ai) - An AI-powered Platform For Artists And Creatives.  
+- [ARTSIO](http://artsio.xyz) - An AI-powered Art Creation And Discovery Platform
+- [Auto Draw](http://www.autodraw.com) - Fast Drawing For Everyone. AutoDraw Pairs Machine Learning With Drawings From Talented Artists To Help You Draw Stuff Fast.  
+- [B^ DISCOVER](http://bdiscover.kakaobrain.com) - You Will Have A New Experience Of Discovering Your Story In Images.  
+- [Bloomoon](http://www.bloomoon.art) - Discover Unique AI-generated Paintings At Bloomoon.
+- [CheapNFT. Art](http://cheapnft.art) - Cheap NFTs  
+- [Kive](http://www.kive.ai) - AI Canvas. All Your Inspiration In One Place.  
+- [MakeGirlsMoe](https://make.girls.moe/) - Generates Anime Characters Using AI  
+- [MyAnima](http://myanima.ai) - A Platform That Provides Tools And Resources For Animators And Digital Artists.  
+- [Neural Blender](http://neuralblender.com) - A Platform That Uses AI To Create Unique Art Pieces And Design Assets.  
+- [Neural Frames](http://www.neuralframes.com) - A Platform That Provides A Deep Learning Framework For Building AI Models.  
+- [Neural. Love](http://neural.love) - Free AI Image Generator & AI Enhance - Neural. Love. Use AI Image Generator For Free Or AI Enhance, Or Access Millions Of Public Domain Images - AI Enhance & Easy-to-use Online AI Tools.  
+- [Neural.love](https://neural.love/ai-art-generator) - A Website That Uses AI To Generate Unique, Abstract Art Pieces  
+- [Phantasmagoria](http://www.phantasmagoria.me) - A Website That Provides A Virtual Experience In Which Users Can Explore And Interact With A Surreal World.  
+- [Phase Art](http://www.phase.art) - A Platform For Discovering And Showcasing Emerging Artists And Their Work.  
+- [Phygital Plus](http://phygital.plus) - We make it possible for anyone to become an AI creator of the future.  
+- [Pixelmind](http://beta.pixelmind.ai) - AI-Powered Art & Minting To Nfts. Your Journey Into AI-powered Art. Create And Collect NFTs Through The Pixelmind Portal. Evolve Your Style. Raise Your Game.  
+- [Promethean AI](http://prometheanai.com) - Promethean AI is world's first Artificial Intelligence that works together with Artists, assists them in the process of building virtual worlds, helps creative problem solving by suggesting ideas and takes on a lot of mundane and non-creative work, so You can focus on what's important. All while learning from and adapting to individual tastes of every single Artist.  
+- [Super Prompt](http://superprompts.com) - Create A Gallery For Your AI Art. Next Time Someone Asks To See All Your Art, You'll Have Somewhere To Point Them To. Showcase All Your AI Art In One Place.  
+- [Waifulabs](http://waifulabs.com) - Magical Anime Portraits. A State-of-the-art AI That Draws Custom Anime Portraits, Just For You! This Machine Learning Artist Figures Out Your Preferences And Creates A Perfect Character Illustration In 4 Easy Steps. If It Sounds Like Magic, That's Because It Is.  
+- [Waifu XL](http://waifuxl.com) - A Platform For Finding, Creating And Sharing Anime And Manga-style Characters.  
+- [Pinegraph](http://pinegraph.com) - Magic Sketchpad. Pinegraph Is All You Need To Bring Your Creativity To Life. Generate AI Art For Free With Pinecasso For Styles Like Anime, Abstract Art, And More. Create Your Own Concept Characters Including Waifus And Husbandos, Game Art, And More.  
+
+---
+
+#### Business
+
+- [AI Resume Editor](http://www.rezi.ai) - The Leading AI Resume Builder
+- [Aspen](http://www.getaspenai.com) - An AI-powered Platform For Managing Investment Portfolios  
+- [Athena](http://www.apac.ai) - An AI-powered Portal For Managing Accounts In The Asia-Pacific Region  
+- [Braiain](https://www.braiain.com/) - A Platform That Provides AI Solutions For Various Business And Industrial Needs.
+- [Briefly](http://www.trybriefly.com) - The AI Powered Briefing Platform. Marketing Briefs That Get To The Best Creative Work. Improve Your Marketing Effectiveness And Reduce The Cost Of Badly Written Briefs.  
+- [Business Idea Generator](http://www.bizideas.ai) - Brainstorm Business Ideas
+- [ChatBridge.ai](https://www.chatbridge.ai/) - An AI Platform That Helps Businesses Build Chatbots.  
+- [Cogram](http://www.cogram.com) - Effortless Meeting Notes And Action Items. Cogram Uses Artificial Intelligence To Create High-quality Meeting Minutes And Propose Action Items.  
+- [Contenda](https://contenda.co/) - A Platform That Uses AI To Help Businesses Automate Their Sales Processes.  
+- [Coverquick](http://www.coverquick.co) - Your AI Powered Job Application Assistant  
+- [Cowriter](http://cowriter.org) - Your AI Buddy For Inspiring Marketing Content  
+- [Daydrm](http://www.daydrm.ai) - The Future Of Advertising Is Using Machine Learning To Perform Creative Thinking.  
+- [Deck.rocks](https://www.deck.rocks/) - Generate Pitch Decks Using Gpt-3  
+- [Detangle AI](http://detangle.ai) - A Platform That Provides Machine Learning Solutions For Businesses.  
+- [Dewey](http://www.withdewey.com) - Accountability Buddy  
+- [Echowin](http://echo.win) - AI Powered Call Management With Full Natural Language Understanding And Personalized Responses For Every Scenario  
+- [Favird](https://favird.com/) - A Platform For Discovering And Investing In Cutting-edge Startups And Emerging Technologies  
+- [Flexberry AI Assistant](http://ai.flexberry.net) - AI Assistant. This Helps To Reduce 30% Of The Time Business Analyst Uses For Processing Requirements And Also To Generate Artifacts.  
+- [Futurepedia](https://www.futurepedia.io/) - A Platform That Connects Entrepreneurs, Investors, And Thought Leaders To Explore The Future Of Innovation And Create New Business Opportunities
+- [H2O AI](http://h2o.ai) - AI Cloud Platform  
+- [Hubble](http://www.hubble.team) - Product Feedback And Insights From Users. Create World Class Products By Gathering High-Quality Feedback From Users On Prototypes, Betas, And Live Features.
+- [Ideas AI](http://ideasai.com) - An AI-powered Platform That Helps Businesses And Individuals Generate New Ideas And Turn Them Into Products, Services, Or Campaigns.  
+- [Kaizan](https://kaizan.ai/) - A Platform That Provides AI-powered Process Automation Solutions For Businesses.  
+- [Kira SystemsKira Systems](https://kirasystems.com/) - A Provider Of AI-powered Contract Analysis Solutions For Legal And Financial Professionals.  
+- [Kore.ai](http://kore.ai) - AI-First Experience Optimization Platform For Enterprises. Kore.AI Automates Front-office And Back-office Interactions For Every Industry By Deploying Conversational AI-first Virtual Assistants And Process Assistants.  
+- [Lightning AI](https://lightning.ai/) - A Platform That Provides AI-powered Enterprise Solutions.  
+- [LongShot AI](https://www.longshot.ai/pricing) - A Platform That Provides AI-powered Sales Forecasting And Pipeline Management Solutions.  
+- [Mokker](http://mokker.ai) - AI-Powered Photo Generation For E-Commerce.  
+- [Mrgn](http://Mrgn.ai) - Enterprise Intelligence For Small Business.  
+- [My Pitch Deck](http://mypitchdeck.com) - AI-Generated Pitch Deck Templates For Startups  
+- [OpenText](https://www.opentext.de/) - Enterprise Information Management Software  
+- [ResumAI](http://www.wonsulting.com) - We Find Dream Jobs. We've Helped Over 100, 000 People Land Their Dream Jobs. Let Our Job Search Strategies Take You From Resumes To Better Days.  
+- [Resume Studio Careers](http://resumestudio.careers) - A Platform For Creating And Managing Professional Resumes Using AI.  
+- [Revive](http://letsrevive.app) - Envision Business Ideas With AI  
+- [Titan](http://www.compliancequarter.com.au) - Expert Compliance Systems And Resources - Compliance Quarter. Regulatory Compliance Management System And Expertise For Energy, Financial Services And Other Regulated Industries. We Offer Expert Systems And Services To Take Regulatory Burden Off Your Shoulders.  
+- [Torto.ai](http://torto.ai) - Stock Market Made Simple  
+- [Traq AI](http://www.traq.ai) - A Platform For Tracking, Analyzing And Optimizing Your Sales Process.  
+- [Userevaluation](http://www.userevaluation.com) - Unlock the power of artificial intelligence for customer research. Create a smart research repository that evolves with you.  
+- [Wizishop](http://wizishop.com) - Wizishop Ecommerce Solution Create Your Online Store. 15-day Free Trial - No Credit Card Needed - Access All Of Our Features.  
+
+#### Chat
+
+- [Alfred](http://www.alfredsearch.com) - Gpt Chat On Mobile
+- [Dust XP1](https://xp1.dust.tt/) - A Platform For Creating And Managing Chatbots.
+- [Originality.ai](https://originality.ai/) - Detect If A Text Has Been Produced With GPT With A Whopping 94% Accuracy
+- [Sharegpt.com](https://sharegpt.com/) - Extension For Chrome That Allows ChatGPT To Share Conversations Via Easily Shareable Links
+- [Welma](https://welma.org/) - A Platform For Creating Chatbots And Virtual Assistants, With A Focus On Natural Language Processing And Conversational AI.
+
+#### Code
+
+- [Nicepage](https://nicepage.com/) - A Website Builder That Allows Users To Create Custom Websites Without Any Coding Knowledge.  
+- [Sitekick](http://www.sitekick.ai) - AI Landing Page Builder  
+- [WebAPI AI](http://webapi.ai) - A Platform That Provides AI-powered APIs For Various Use Cases.
+
+#### Content
+
+- [Beb AI](http://beb.ai) - The Possibilities Are Limitless, Beb.
+- [Library Of AI Tools For Creators](https://library.phygital.plus/) - A Library Of AI Tools And Resources For Creators.
+- [Peppertype.ai](http://www.peppertype.ai) - Create Quality Content Faster. Generate Content That Converts In Seconds.
+- [ReContent AI](http://recontent.ai/) - A Platform That Uses AI To Help Users Create High-quality And Relevant Content.
+- [Snackable AI](http://snackable.ai) - An AI-powered Platform For Creating And Sharing Short, Snackable Content.
+- [Thundercontent](http://thundercontent.com) - Write Articles With AI-Assistant—Thundercontent. Thundercontent Uses Artificial Intelligence To Help You Write Unique Articles On Any Topic At The Speed Of Light. Scale Your Content Strategy. Overcome Writer's Block.
+- [Viral Post Generator Clone](https://viralpostgenerator.com/) - A Tool For Generating Viral-style Content For Social Media, Including Memes And Motivational Quotes.  
+- [Viral Post Generator](http://viralpostgenerator.taplio.com) - Viral Post Generator Clone. Go Mega-viral On Linkedin - Generate A Successful Post With The Power Of AI.
+- [WhisperAPI](http://whisperapi.com) - An API That Provides Real-time Secure Messaging Capabilities For Your Applications.
+
+#### Customer
+
+- [CharacterAI](https://beta.character.ai/) - A Conversational AI Platform For Enhancing Customer Engagement.
+- [ChatBCG](https://www.chatbcg.com/) - A Conversational AI Platform For Automating Customer Service.
+- [Jinnee](http://jinnee.co) - A Platform That Provides Conversational AI Solutions For Customer Service And Sales.
+- [Mimosa](https://mimosa.so/) - A Platform That Helps Businesses Automate Their Customer Service Using AI.
+- [Replier.ai](https://www.replier.ai/) - AI Powered Customer Service And Support
+
+#### Data
+
+- [AI Data Sidekick](http://www.airops.com) - Data Unlocked. 10X Faster With AI
+- [AI Query](http://www.aiquery.co) - AI Query - Generate Sql Queries With AI In Seconds. Use Simple English And Let AI Do The Heavy Lifting For You. With AI Query Anyone Can Create Efficient SQL Queries, Without Even Knowing A Thing About It.
+- [AI SQL BOT](http://aihelperbot.com) - AI Sql Query Builder Easiest Way To Build Sql Queries Without Prior Sql Knowledge - Sql Query Builder Using AI  
+- [Bito](http://bito.co) - A Platform For AI-powered Financial Analytics And Data Visualization.
+- [DDIQ](https://www.ddiq.com/) - A Platform For Automating Data Analysis Tasks Using AI.
+- [Kineviz GraphXR](https://www.kineviz.com/) - A Platform For Data Visualization And Exploration In Virtual Reality.
+- [Olli](http://www.olli.ai) - Your Personal Data Analyst. Olli Is The AI Platform For Creating Data Visualizations 10x Faster - It's Like Having An Assistant That Deals With The Annoying Parts Of Finding Data, Creating Visualizations, And Getting Them Ready For Presentations.  
+- [OSS Insight Eplorer](https://ossinsight.io/explore) - Query 5 Billion GitHub Data With No SQL
+- [Patterned AI](http://www.patterned.ai) - An AI-powered Platform For Analyzing And Visualizing Data.
+- [Pollinations AI](http://pollinations.ai) - A Platform That Provides Data And Insights On Consumer Behavior And Preferences.
+- [SQLgenius](http://sqlgenius.app) - English To Sql Query AI Translator
+- [Text2SQL](http://www.text2sql.ai/) - Generate Sql Queries With AI For Free.  
+
+#### Design
+
+- [Rayst Gradients](http://gradients.ray.st) - A Collection Of 64 Beautiful Gradients Generated By AI.
+- [Summon](http://www.figma.com) - Figma The Collaborative Interface Design Tool. Build Better Products As A Team. Design, Prototype, And Gather Feedback All In One Place With Figma.  
+- [Masterpiece Studio](http://masterpiecestudio.com) - A Company That Provides AI-powered Design Solutions.
+- [WithPoly](http://withpoly.com) - Poly Generate Design Assets With A. I. · Poly  
+- [Studio Design](http://studio.design) - An AI-Augmented Design Tool  
+- [Pictorial](http://www.pictorial.ai) - Effortlessly Create Graphics For Your Web Applications. Inspiration Is Hard To Come By. Get Your Message Across Hustle-free By Leveraging An AI Able To Generate Reliable, Ready-to-use Visual Masterpieces.  
+- [Pattern Maker AI](http://patternmakerai.com) - Generate Seamless Patterns Using Artificial Intelligence. Generate Seamless Vector Patterns Using Artificial Intelligence.  
+- [Uizard](http://uizard.io) - App, Web, & Ui Design Made Easy - Powered By AI  
+- [ICONS8](http://icons8.com) - Icons, Illustrations, Photos, Music, And Design Tools. Change Faces Of Stock Photos, Smart Upscaler, Update Your Website Right From Lunacy And More.  
+- [Creative Fabrica](http://www.creativefabrica.com) - A Platform That Provides Digital Design Resources, Including Fonts, Graphics, And Crafts.  
+- [AI TWO](http://aitwo.co/) - The AI-Powered All-In-One Design Platform
+- [Designs AI](http://designs.ai) - Create Logos, Videos, Banners, Voiceovers With AI. Create Anything Online In 2 Minutes! Make A Logo, Video, Social Media Banner, Business Card, Flyer, Mockup And More With AI.  
+
+#### Dev
+
+- [AI21 Labs](https://www.ai21.com/) - A Research And Development Lab For AI.
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer) - A Platform For Automating Code Reviews.
+- [Code Language Converter](http://codelanguageconverter.com) - Convert Code To Other Languages Using AI
+- [Codium](http://www.codium.ai/) - Code Fast. Break Fewer Things
+- [Copianto AI](https://copianto.ai/) - A Platform That Provides Solutions For Automating Document-based Processes Using AI.
+- [Debuild](http://debuild.app) - Build Web Apps Fast
+- [DREAM.page](http://dream.page) - A Platform That Generates And Visualizes AI-generated Websites  
+- [Durable](https://durable.co/ai-website-builder) - A Platform For Building Websites Using AI.  
+- [Dyno](https://embed.trydyno.com/) - Embed Prompt Box For Testing Like Code Sandbox
+- [Equally AI](http://equally.ai) - Web Accessibility Compliance For All. Achieve ADA & WCAG Compliance Easily.  
+- [HTTPie](https://httpie.io/app) - A User-friendly Command Line HTTP Client For Making HTTP Requests
+- [Synth](http://app.synth.run) - An AI-powered Code Generation Platform.
+
+#### Fashion
+
+- [Riku.AI](https://riku.ai/) - AI Powered Fashion Personal Shopping Assistant
+- [WardrobeAI](http://wardrobeai.com) - Our Service Uses AI To Automatically Change Hairstyles And Clothes In Your Images, Giving You Endless Possibilities For Customization.
+- [MagicMate](http://www.getmagicmate.com) - A Platform That Provides AI-powered Personal Shopping And Styling Services.
+
+#### Finance
+
+- [Stable Dojo](http://www.stabledojo.com) - A Platform For Creating And Managing Stablecoins Using AI.
+- [Bertha](http://bertha.ai) - An AI-powered Investment Management Platform.
+- [Genius Sheets](http://www.geniussheets.com) - Genius Sheets Financial Automation. Genius Sheets AI Text To Reports Solutions Help You Analyze Financial Data Faster - Empowering Teams To Make Better Decisions. Stay In Excel And Google Sheets And Automate Your Financial Reporting Process With Live Data Connections.
+
+#### Food
+
+- [What Cake To Bake?](http://www.whatcaketobake.com) - What Cake To Bake?
+- [Whiskey AI Beta](http://beta.whiskeyai.xyz) - A Website For A Beta Version Of An AI-powered Platform For Creating And Sharing Cocktail Recipes.
+- [FoodAI](http://www.foodai.app) - Generate Cooking Recipes With AI
+- [AI Recipe Generator](http://ai-recipes.softr.app) - AI Recipe Generator
+
+#### Health
+
+- [Niji Journey](http://nijijourney.com) - A Platform That Provides Resources And Tools For Personal Growth And Self-discovery.
+- [Dreamily AI](http://dreamily.ai) - A Platform That Provides AI-powered Dream Interpretation And Analysis Services.
+- [Elektrif](http://www.elektrif.ai) - Your 🤖 Powered Dating Assistant. The First Suite Of AI-powered Tools To Supercharge Your Dating Life ⚡️.
+- [Good Snooze](http://goodsnooze.gumroad.com) - A Platform For Creating And Sharing Sleep-based Content Using AI.
+- [Ask Poppy](http://www.poppylist.com) - Be The Parent You Want To Be. You Know Your Lifestyle. We Know The Products. Let's Build Your Baby Registry Together.
+
+#### Image
+
+- [HotConvo Art](http://hotconvo.art) - A Platform For Discovering And Showcasing Artists And Their Work, With A Focus On Illustration And Comics.
+- [Spatial.io](https://spatial.io/) - A Platform For Creating And Deploying Mixed Reality Experiences, Including AR And VR.
+- [VQGAN_CLIP](https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP) - A Generative Model Developed By EleutherAI.
+- [Portrait By Vana](http://portrait.vana.com) - Generative Art Studio That Can Create Self-portraits Of You In Infinite Styles.  
+- [Pixelz AI](http://pixelz.ai) - Art Generator. Create Unique AI Artwork Using Text, Phrases, Images & Presets, Share, Download, Print & Mint As NFTs.  
+- [RestorePhotos.io](https://www.restorephotos.io/) - Restoring Old Photos Using AI For Everyone. Have Old And Blurry Face Photos? Let Our AI Restore Them So Those Memories Can Live On. 100% Free–restore Your Photos Today.  
+- [SUPERMACHINE](http://supermachine.art) - Generate Stock Photos, Art, And Images With AI. SUPERMACHINE Enables You To Generate Images With The Latest In Artificial Intelligence Technology.  
+- [USP](http://usp.ai) - Maximize Your Blog - Usp. AI. Awesome AI Generated ROYALTY FREE IMAGES For Your Stories And Blog Posts.  
+- [Visuali](http://visuali.io) - AI Image Generation Made Easy.  
+- [Text To Image Editor](http://imgeditor.zmo.ai) - Create Any Image Using Text - Imgcreator. AI  
+- [Thumbsnap](http://art.thumbsnap.com) - AI Art Generator! Powered By Stable Diffusion - Thumbsnap - Free Photo & Video Hosting. ThumbSnap Free Photo And Video Sharing.  
+- [Watermark Remover](http://www.watermarkremover.io) - Remove Watermarks Online From Images For Free. Get Rid Of The Watermarks From Your Images Using Our Powerful AI Technology.  
+- [Reface](http://hey.reface.ai) - Be Anyone. Create Realistic Face Swap Videos, GIFs And Memes With Just One Selfie.  
+- [Patience](http://patience.ai) - AI Art With Stable Diffusion  
+- [Every Pixel](http://www.everypixel.com) - Stock Image Search Engine - More Than 50 Best Sources  
+- [DrawAnyone](http://drawanyone.ai) - Draw Anyone, Any Way You Want  
+- [Craiyon](http://www.craiyon.com) - Formerly Dall-E Mini. Craiyon Is An AI Model That Can Draw Images From Any Text Prompt.  
+- [AI Image Upscaler](http://www.upscale.media) - AI Image Upscaler - Enlarge & Enhance Your Photos For Free. Upscale Your Image To 2x Or 4x Without Losing Any Textures Or Details With Our AI Tool. Use Our Super-resolution Tool And Bring New Life To Your Images. upscale
+- [BigJpg](http://bigjpg.com) - Bigjpg - AI Super-Resolution Lossless Image Enlarging / Upscaling Tool Using Deep Convolutional Neural Networks. Bigjpg - Image Super-Resolution For Anime-style Artworks Using The Deep Convolutional Neural Networks Without Quality Loss. Photos Are Also Supported. upscale
+- [Archillect](https://archillect.com/) - An AI-powered Image Generator.
+- [Blimey](http://blimeycreate.com) - Blimey Is An AI Image Generator Where You Can Go From Idea To Reality In A Minute. With Full Control Over Composition, Colors And Style.  
+- [BRIA](http://commercial.bria.ai/) - Create Images And Video At Scale  
+- [Pfpmaker](http://pfpmaker.com) - Free Profile Picture Maker - Create An Awesome Pfp Online. Upload Your Photo To Create A Professional-looking Profile Picture And A Matching Background Cover.  
+- [Omneky](https://www.omneky.com/) - AI-powered Image And Video Recognition  
+- [NSFW.js](http://nsfwjs.com) - A Library For Detecting Not Safe For Work (NSFW) Images Using Machine Learning.  
+- [Neural Studio](http://neural.cam) - Neuralcam. With AI Powered Image Processing.  
+- [Nyx Gallery](http://nyx.gallery) - AI-Generated Photography. Images On This Website Have Been Generated With AI And Are Therefore “Not Real”.  
+- [Photoleap](http://www.photoleapapp.com) - Text To Image - Creative & Powerful Photo Editing App By Lightricks. Use All-in-one Photo Editor Photoleap For Amazing Creations On Your IPhone Change Backgrounds, Remove Objects, Create Collages, And Apply Filters & Effects.  
+- [Phraser](http://phraser.tech) - Phraser Is An App That Helps You Create Images Using Generative AI (Midjourney, Stable Diffusion, And DALLE 2), Collaborate, And Get Inspired.  
+- [PicSo](http://picso.ai) - PicSo Is A Text-to-image AI Art Generator App & Online Platform For Creative Digital Art. FREE Try And Turn Your Ideas To NFT Art, Oil Painting And, More.  
+- [PictoDream](http://pictodream.com) - Generate Images Of Yourself With AI - Pictodream. Com. Generate Any Images Of Yourself (Or Another Person) - In Any Style Or Setting Using A Simple Text Description.  
+- [MagicStock](http://aimages.ai) - AImages - Online AI Video And Image Enhancer. Upscale And Enhance Videos And Images Online Using AI.  
+- [Micro Dalle-2](http://micropay.ai) - Dalle-2 Image Generator - Micropay. Anonymous And Pay-as-you-go Generative AI Software.  
+- [Midjourney](http://www.midjourney.com) - Midjourney. An Independent Research Lab Exploring New Mediums Of Thought And Expanding The Imaginative Powers Of The Human Species.
+
+#### Interior
+
+- [Oda Studio](http://stager.odastudio.ai) - Pick Your Style And Color To Customize Your Home In Seconds With AI.
+- [Coolaiid](http://coolaiid.com) - Whether You're Looking To Decorate Or Just Need A Little Inspiration, We'll Generate Unique Ideas Using AI.
+
+#### Law
+
+- [Legartis Contract Intelligence](https://www.legartis.ai/) - A Platform That Uses AI To Automate The Analysis Of Contracts And Legal Documents.  
+- [EBrevia](https://ebrevia.com/) - A Platform That Uses AI To Help Businesses Automate Their Legal Document Review Processes.  
+- [Spellbook](https://www.spellbook.legal/) - A Legal Research Tool That Helps Lawyers And Legal Professionals Find The Information They Need Quickly And Efficiently.  
+- [Paralegal AI](https://www.legalquestions.help/) - AI Powered Paralegal Support  
+- [Luminance](https://www.luminance.com/) - A Provider Of AI-powered Legal Technology Solutions.  
+
+#### Learning
+
+- [Caktus Home](https://www.caktus.ai/caktus_student) - A Platform For Learning About AI And Related Topics.
+- [CFR Explorer](http://cfrexplorer.com) - Ask AI Questions About CFRs  
+- [Elicit](http://elicit.org) - The AI Research Assistant. Elicit Uses Machine Learning To Help You With Your Research Find Papers, Extract Key Claims, Summarize, Brainstorm Ideas, And More.  
+- [Explain Paper](https://www.explainpaper.com/) - A Platform That Helps Researchers And Students Write, Track, And Communicate Their Ideas More Effectively  
+- [Glasp](http://glasp.co) - Glasp Social Web Highlighter. Highlight & Add Notes As You Read. Create A Library Of Your Learning  
+- [Glasp](https://glasp.co/) - An AI-powered Highlighter And Note-taking Tool For Chrome  
+- [Google Books](http://books.google.com) - A Platform For Searching And Accessing Books And Other Forms Of Written Content.
+- [Langotalk](http://www.langotalk.org) - Langotalk Learn Languages 6X Faster With AI. Have Confident Conversations In Weeks Instead Of Years.  
+- [Maester](https://maester.app/) - A Platform That Provides AI-powered Education And Training Solutions.  
+- [Neuro-Flash](http://app.neuro-flash.com) - A Platform That Provides Personalized Flashcard Training Based On Users' Learning Preferences.  
+- [Question Base](http://www.questionbase.com) - Question Base Is A New Kind Of Knowledge Base. Powered By AI It Answers Your Teams Questions Inside Slack. Automatically.
+- [Research AI](https://researchai.co/) - AI Powered Research Assistance  
+- [RTutor AI](http://rtutor.ai) - An AI-powered Platform For Creating And Delivering Educational Content.  
+- [Scispace](http://typeset.io) - Discover, Create, Publish, And Promote Your Research Paper. Your Platform To Explore And Explain Papers. Search For 270M+ Papers, Understand Them In Simple Language, And Find Connected Papers, Authors, Topics.  
+- [Teacherbot](http://teacherbot.io) - The Tool Every Teacher Deserves. We Have Developed The Most Powerful Tool A Teacher Can Have Access To. You Can Create Tasks And Activities For All Levels As Well As Topic Plans, Forward Plans, Lesson Plans And Much More. You Are Limited Only By Your Imagination.  
+- [Tutor.ai](https://www.tutorai.me/) - An AI-powered Tutoring Platform That Provides Personalized Learning Experiences For Students.  
+
+#### ML
+
+- [Polymath Robotics](http://www.polymathrobotics.com) - Magically Simplified Autonomy For Industrial Vehicles.
+- [Pickaxe](https://beta.pickaxeproject.com/) - A Platform For Building And Training Custom AI Models Without Writing Any Code  
+- [Hugging Face](https://huggingface.co/) - It's Like A GitHub But For ML And AI. Models Replace Code  
+- [Tiyaro.ai](https://console.tiyaro.ai/explore) - AI Models As A Service  
+- [Runway ML](https://runwayml.com/) - An AI Platform That Makes It Easy To Create, Train, And Deploy Machine Learning Models.  
+- [Scale Catalog Forge](http://scale.com) - The Data Platform For AI. Trusted By World Class Companies, Scale Delivers High Quality Training Data For AI Applications Such As Self-driving Cars, Mapping, AR/VR, Robotics, And More.  
+- [DiscuroAI](https://www.discuro.com/) - A Platform For Building Custom AI Models For Natural Language Processing Tasks.
+- [Baseten](http://app.baseten.co) - Mlops Platform For Startups. Baseten Is A Serverless Backend For Building ML-powered Applications. Build Apps With Auto-scaling, GPU Access, CRON Jobs, And Serverless Functions.  
+- [Unbound](https://www.unrealcontent.ai/generate) - A Platform For Creating Realistic, High-quality Synthetic Data For Use In Machine Learning And Other AI Applications.  
+- [Twelve Labs](http://twelvelabs.io) - A Technology Company Focused On Creating Products That Simplify Complex Problems.  
+- [Trudo AI](https://www.trudo.ai/) - A Platform For Creating, Training, And Deploying AI Models For Real-world Applications, Such As Computer Vision And Natural Language Processing.  
+- [Tune My AI](https://tunemy.ai/dashboard) - A Platform That Provides A Suite Of Tools For Optimizing And Fine-tuning AI Models, Helping You Get The Best Results From Your AI Models.  
+- [Thomas](http://www.thomas.io) - A Company That Provides AI-powered Solutions For Various Industries.  
+- [Valyr AI](https://www.valyrai.com/) - A Platform For Creating And Deploying AI Models, With A Focus On Computer Vision And Natural Language Processing.  
+- [Takomo](http://go.takomo.ai) - A Platform For Automating Infrastructure And Application Deployment Using AI.  
+- [AI Models](https://aimodels.org/) - A Collection Of Pre-trained AI Models For Natural Language Processing Tasks.
+- [Stability AI](https://stability.ai/) - A Platform For Automating Financial Risk Management, Providing Actionable Insights And Recommendations To Help Manage Risk Effectively.
+- [OpenAI API](https://beta.openai.com/examples) - OpenAI's API For Natural Language Processing And Computer Vision Tasks  
+- [OpenAI Playground](https://beta.openai.com/playground) - Run, Test And, Tweak Prompts For All OpenAI Models  
+- [Boo](http://boo.ai) - An AI-powered Language Model.  
+- [Nvlabs](https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada/pretrained) - Pretrained AI Models For Computer Vision Tasks  
+- [Huberman AI](https://huberman.rile.yt/) - A Machine Learning And Data Science Research Institute That Develops Cutting-edge AI Solutions.  
+- [EleutherAI](https://huggingface.co/EleutherAI/gpt-neo-2.7B) - A GPT-3 Based Language Model Developed By EleutherAI.  
+- [InferKit](http://app.inferkit.com) - A Platform That Provides A Deep Learning Framework For Building NLP Models.  
+- [Hotpot AI](https://hotpot.ai/) - A Platform For Creating, Deploying, And Managing AI Models For Various Use Cases  
+- [Gpttools](https://gpttools.com/comparisontool) - Compare Prompts And Settings For OpenAI Models  
+- [GooseAI](https://goose.ai/) - A Platform For Creating And Deploying AI Models Without Writing Any Code  
+- [Goose Playground](https://goose.ai/playground) - A Platform For Experimenting And Learning About AI Models  
+- [GPTForMe](https://gptfor.me/) - A Platform For Customizing OpenAI's GPT-3 Language Model For Various Use Cases  
+- [Dust.tt](https://dust.tt/) - Prompt Chaining Tool (Prompt Engineering)  
+- [My Marketplace](https://www.freegpt.me/) - Marketplace For GPT Models  
+- [CLIP-as-service](https://clip-as-service.jina.ai/) - A Cloud-based Platform For Integrating The CLIP Deep Learning Model Into Applications.  
+- [DeepAI](https://deepai.org/) - A Platform For Accessing A Variety Of AI Models And Tools.  
+- [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d) - A Database Of Generative AI Models, Their Types, And Various Information Related To Them  
+
+#### Movies
+
+- [Filmbook](https://www.filmbook.xyz/) - A Website Offering AI-powered Movie Recommendation Services.
+- [Movie AI](https://movieai.michaelcasa.com/) - AI Powered Movie Recommendations
+- [AI Movie Club](http://www.ai-movie.club) - AI-Movie Club. AI-MOVIE CLUB Is A Social Network That Create Movies With Artificial Intelligence.
+- [WatchNow AI](https://www.watchnowai.com/) - AI Powered Movie Recommendations
+
+#### Nav/Travel
+
+- [Roamr](http://www.letsroam.app) - Your Dream Vacation In Seconds  
+- [MapWith AI](http://mapwith.ai) - A Platform That Provides Customizable And Interactive Maps For Various Use Cases.
+- [Atlas Navi](http://www.atlasnavi.com) - An AI-powered Navigation And Mapping Tool
+
+#### New
 
 - [Adept](https://www.adept.ai/) - AI-powered Platform For Automating And Optimizing Customer Support And Sales Processes.
 - [Affable AI](https://www.affable.ai/) - AI-powered Platform For Influencer Marketing That Helps Businesses Identify And Collaborate With Relevant Influencers.
@@ -347,309 +743,13 @@
 
 ---
 
-### Art
-
-- [ArtFlow AI](http://artflow.ai) - An AI-powered Digital Art Creation And Collaboration Platform.  
-Natural
-- [ArtRoom AI](http://artroom.ai) - An AI-powered Platform For Artists And Creatives.  
-- [ARTSIO](http://artsio.xyz) - An AI-powered Art Creation And Discovery Platform
-- [Auto Draw](http://www.autodraw.com) - Fast Drawing For Everyone. AutoDraw Pairs Machine Learning With Drawings From Talented Artists To Help You Draw Stuff Fast.  
-- [B^ DISCOVER](http://bdiscover.kakaobrain.com) - You Will Have A New Experience Of Discovering Your Story In Images.  
-- [Bloomoon](http://www.bloomoon.art) - Discover Unique AI-generated Paintings At Bloomoon.
-- [CheapNFT. Art](http://cheapnft.art) - Cheap NFTs  
-- [Kive](http://www.kive.ai) - AI Canvas. All Your Inspiration In One Place.  
-- [MakeGirlsMoe](https://make.girls.moe/) - Generates Anime Characters Using AI  
-- [MyAnima](http://myanima.ai) - A Platform That Provides Tools And Resources For Animators And Digital Artists.  
-- [Neural Blender](http://neuralblender.com) - A Platform That Uses AI To Create Unique Art Pieces And Design Assets.  
-- [Neural Frames](http://www.neuralframes.com) - A Platform That Provides A Deep Learning Framework For Building AI Models.  
-- [Neural. Love](http://neural.love) - Free AI Image Generator & AI Enhance - Neural. Love. Use AI Image Generator For Free Or AI Enhance, Or Access Millions Of Public Domain Images - AI Enhance & Easy-to-use Online AI Tools.  
-- [Neural.love](https://neural.love/ai-art-generator) - A Website That Uses AI To Generate Unique, Abstract Art Pieces  
-- [Phantasmagoria](http://www.phantasmagoria.me) - A Website That Provides A Virtual Experience In Which Users Can Explore And Interact With A Surreal World.  
-- [Phase Art](http://www.phase.art) - A Platform For Discovering And Showcasing Emerging Artists And Their Work.  
-- [Phygital Plus](http://phygital.plus) - We make it possible for anyone to become an AI creator of the future.  
-- [Pixelmind](http://beta.pixelmind.ai) - AI-Powered Art & Minting To Nfts. Your Journey Into AI-powered Art. Create And Collect NFTs Through The Pixelmind Portal. Evolve Your Style. Raise Your Game.  
-- [Promethean AI](http://prometheanai.com) - Promethean AI is world's first Artificial Intelligence that works together with Artists, assists them in the process of building virtual worlds, helps creative problem solving by suggesting ideas and takes on a lot of mundane and non-creative work, so You can focus on what's important. All while learning from and adapting to individual tastes of every single Artist.  
-- [Super Prompt](http://superprompts.com) - Create A Gallery For Your AI Art. Next Time Someone Asks To See All Your Art, You'll Have Somewhere To Point Them To. Showcase All Your AI Art In One Place.  
-- [Waifulabs](http://waifulabs.com) - Magical Anime Portraits. A State-of-the-art AI That Draws Custom Anime Portraits, Just For You! This Machine Learning Artist Figures Out Your Preferences And Creates A Perfect Character Illustration In 4 Easy Steps. If It Sounds Like Magic, That's Because It Is.  
-- [Waifu XL](http://waifuxl.com) - A Platform For Finding, Creating And Sharing Anime And Manga-style Characters.  
-- [Pinegraph](http://pinegraph.com) - Magic Sketchpad. Pinegraph Is All You Need To Bring Your Creativity To Life. Generate AI Art For Free With Pinecasso For Styles Like Anime, Abstract Art, And More. Create Your Own Concept Characters Including Waifus And Husbandos, Game Art, And More.  
-
----
-
-### Business
-
-- [AI Resume Editor](http://www.rezi.ai) - The Leading AI Resume Builder
-- [Aspen](http://www.getaspenai.com) - An AI-powered Platform For Managing Investment Portfolios  
-- [Athena](http://www.apac.ai) - An AI-powered Portal For Managing Accounts In The Asia-Pacific Region  
-- [Braiain](https://www.braiain.com/) - A Platform That Provides AI Solutions For Various Business And Industrial Needs.
-- [Briefly](http://www.trybriefly.com) - The AI Powered Briefing Platform. Marketing Briefs That Get To The Best Creative Work. Improve Your Marketing Effectiveness And Reduce The Cost Of Badly Written Briefs.  
-- [Business Idea Generator](http://www.bizideas.ai) - Brainstorm Business Ideas
-- [ChatBridge.ai](https://www.chatbridge.ai/) - An AI Platform That Helps Businesses Build Chatbots.  
-- [Cogram](http://www.cogram.com) - Effortless Meeting Notes And Action Items. Cogram Uses Artificial Intelligence To Create High-quality Meeting Minutes And Propose Action Items.  
-- [Contenda](https://contenda.co/) - A Platform That Uses AI To Help Businesses Automate Their Sales Processes.  
-- [Coverquick](http://www.coverquick.co) - Your AI Powered Job Application Assistant  
-- [Cowriter](http://cowriter.org) - Your AI Buddy For Inspiring Marketing Content  
-- [Daydrm](http://www.daydrm.ai) - The Future Of Advertising Is Using Machine Learning To Perform Creative Thinking.  
-- [Deck.rocks](https://www.deck.rocks/) - Generate Pitch Decks Using Gpt-3  
-- [Detangle AI](http://detangle.ai) - A Platform That Provides Machine Learning Solutions For Businesses.  
-- [Dewey](http://www.withdewey.com) - Accountability Buddy  
-- [Echowin](http://echo.win) - AI Powered Call Management With Full Natural Language Understanding And Personalized Responses For Every Scenario  
-- [Favird](https://favird.com/) - A Platform For Discovering And Investing In Cutting-edge Startups And Emerging Technologies  
-- [Flexberry AI Assistant](http://ai.flexberry.net) - AI Assistant. This Helps To Reduce 30% Of The Time Business Analyst Uses For Processing Requirements And Also To Generate Artifacts.  
-- [Futurepedia](https://www.futurepedia.io/) - A Platform That Connects Entrepreneurs, Investors, And Thought Leaders To Explore The Future Of Innovation And Create New Business Opportunities
-- [H2O AI](http://h2o.ai) - AI Cloud Platform  
-- [Hubble](http://www.hubble.team) - Product Feedback And Insights From Users. Create World Class Products By Gathering High-Quality Feedback From Users On Prototypes, Betas, And Live Features.
-- [Ideas AI](http://ideasai.com) - An AI-powered Platform That Helps Businesses And Individuals Generate New Ideas And Turn Them Into Products, Services, Or Campaigns.  
-- [Kaizan](https://kaizan.ai/) - A Platform That Provides AI-powered Process Automation Solutions For Businesses.  
-- [Kira SystemsKira Systems](https://kirasystems.com/) - A Provider Of AI-powered Contract Analysis Solutions For Legal And Financial Professionals.  
-- [Kore.ai](http://kore.ai) - AI-First Experience Optimization Platform For Enterprises. Kore.AI Automates Front-office And Back-office Interactions For Every Industry By Deploying Conversational AI-first Virtual Assistants And Process Assistants.  
-- [Lightning AI](https://lightning.ai/) - A Platform That Provides AI-powered Enterprise Solutions.  
-- [LongShot AI](https://www.longshot.ai/pricing) - A Platform That Provides AI-powered Sales Forecasting And Pipeline Management Solutions.  
-- [Mokker](http://mokker.ai) - AI-Powered Photo Generation For E-Commerce.  
-- [Mrgn](http://Mrgn.ai) - Enterprise Intelligence For Small Business.  
-- [My Pitch Deck](http://mypitchdeck.com) - AI-Generated Pitch Deck Templates For Startups  
-- [OpenText](https://www.opentext.de/) - Enterprise Information Management Software  
-- [ResumAI](http://www.wonsulting.com) - We Find Dream Jobs. We've Helped Over 100, 000 People Land Their Dream Jobs. Let Our Job Search Strategies Take You From Resumes To Better Days.  
-- [Resume Studio Careers](http://resumestudio.careers) - A Platform For Creating And Managing Professional Resumes Using AI.  
-- [Revive](http://letsrevive.app) - Envision Business Ideas With AI  
-- [Titan](http://www.compliancequarter.com.au) - Expert Compliance Systems And Resources - Compliance Quarter. Regulatory Compliance Management System And Expertise For Energy, Financial Services And Other Regulated Industries. We Offer Expert Systems And Services To Take Regulatory Burden Off Your Shoulders.  
-- [Torto.ai](http://torto.ai) - Stock Market Made Simple  
-- [Traq AI](http://www.traq.ai) - A Platform For Tracking, Analyzing And Optimizing Your Sales Process.  
-- [Userevaluation](http://www.userevaluation.com) - Unlock the power of artificial intelligence for customer research. Create a smart research repository that evolves with you.  
-- [Wizishop](http://wizishop.com) - Wizishop Ecommerce Solution Create Your Online Store. 15-day Free Trial - No Credit Card Needed - Access All Of Our Features.  
-
-### Chat
-
-- [Alfred](http://www.alfredsearch.com) - Gpt Chat On Mobile
-- [Dust XP1](https://xp1.dust.tt/) - A Platform For Creating And Managing Chatbots.
-- [Originality.ai](https://originality.ai/) - Detect If A Text Has Been Produced With GPT With A Whopping 94% Accuracy
-- [Sharegpt.com](https://sharegpt.com/) - Extension For Chrome That Allows ChatGPT To Share Conversations Via Easily Shareable Links
-- [Welma](https://welma.org/) - A Platform For Creating Chatbots And Virtual Assistants, With A Focus On Natural Language Processing And Conversational AI.
-
-### Code
-
-- [Nicepage](https://nicepage.com/) - A Website Builder That Allows Users To Create Custom Websites Without Any Coding Knowledge.  
-- [Sitekick](http://www.sitekick.ai) - AI Landing Page Builder  
-- [WebAPI AI](http://webapi.ai) - A Platform That Provides AI-powered APIs For Various Use Cases.
-
-### Content
-
-- [Beb AI](http://beb.ai) - The Possibilities Are Limitless, Beb.
-- [Library Of AI Tools For Creators](https://library.phygital.plus/) - A Library Of AI Tools And Resources For Creators.
-- [Peppertype.ai](http://www.peppertype.ai) - Create Quality Content Faster. Generate Content That Converts In Seconds.
-- [ReContent AI](http://recontent.ai/) - A Platform That Uses AI To Help Users Create High-quality And Relevant Content.
-- [Snackable AI](http://snackable.ai) - An AI-powered Platform For Creating And Sharing Short, Snackable Content.
-- [Thundercontent](http://thundercontent.com) - Write Articles With AI-Assistant—Thundercontent. Thundercontent Uses Artificial Intelligence To Help You Write Unique Articles On Any Topic At The Speed Of Light. Scale Your Content Strategy. Overcome Writer's Block.
-- [Viral Post Generator Clone](https://viralpostgenerator.com/) - A Tool For Generating Viral-style Content For Social Media, Including Memes And Motivational Quotes.  
-- [Viral Post Generator](http://viralpostgenerator.taplio.com) - Viral Post Generator Clone. Go Mega-viral On Linkedin - Generate A Successful Post With The Power Of AI.
-- [WhisperAPI](http://whisperapi.com) - An API That Provides Real-time Secure Messaging Capabilities For Your Applications.
-
-### Customer
-
-- [CharacterAI](https://beta.character.ai/) - A Conversational AI Platform For Enhancing Customer Engagement.
-- [ChatBCG](https://www.chatbcg.com/) - A Conversational AI Platform For Automating Customer Service.
-- [Jinnee](http://jinnee.co) - A Platform That Provides Conversational AI Solutions For Customer Service And Sales.
-- [Mimosa](https://mimosa.so/) - A Platform That Helps Businesses Automate Their Customer Service Using AI.
-- [Replier.ai](https://www.replier.ai/) - AI Powered Customer Service And Support
-
-### Data
-
-- [AI Data Sidekick](http://www.airops.com) - Data Unlocked. 10X Faster With AI
-- [AI Query](http://www.aiquery.co) - AI Query - Generate Sql Queries With AI In Seconds. Use Simple English And Let AI Do The Heavy Lifting For You. With AI Query Anyone Can Create Efficient SQL Queries, Without Even Knowing A Thing About It.
-- [AI SQL BOT](http://aihelperbot.com) - AI Sql Query Builder Easiest Way To Build Sql Queries Without Prior Sql Knowledge - Sql Query Builder Using AI  
-- [Bito](http://bito.co) - A Platform For AI-powered Financial Analytics And Data Visualization.
-- [DDIQ](https://www.ddiq.com/) - A Platform For Automating Data Analysis Tasks Using AI.
-- [Kineviz GraphXR](https://www.kineviz.com/) - A Platform For Data Visualization And Exploration In Virtual Reality.
-- [Olli](http://www.olli.ai) - Your Personal Data Analyst. Olli Is The AI Platform For Creating Data Visualizations 10x Faster - It's Like Having An Assistant That Deals With The Annoying Parts Of Finding Data, Creating Visualizations, And Getting Them Ready For Presentations.  
-- [OSS Insight Eplorer](https://ossinsight.io/explore) - Query 5 Billion GitHub Data With No SQL
-- [Patterned AI](http://www.patterned.ai) - An AI-powered Platform For Analyzing And Visualizing Data.
-- [Pollinations AI](http://pollinations.ai) - A Platform That Provides Data And Insights On Consumer Behavior And Preferences.
-- [SQLgenius](http://sqlgenius.app) - English To Sql Query AI Translator
-- [Text2SQL](http://www.text2sql.ai/) - Generate Sql Queries With AI For Free.  
-
-### Design
-
-- [Rayst Gradients](http://gradients.ray.st) - A Collection Of 64 Beautiful Gradients Generated By AI.
-- [Summon](http://www.figma.com) - Figma The Collaborative Interface Design Tool. Build Better Products As A Team. Design, Prototype, And Gather Feedback All In One Place With Figma.  
-- [Masterpiece Studio](http://masterpiecestudio.com) - A Company That Provides AI-powered Design Solutions.
-- [WithPoly](http://withpoly.com) - Poly Generate Design Assets With A. I. · Poly  
-- [Studio Design](http://studio.design) - An AI-Augmented Design Tool  
-- [Pictorial](http://www.pictorial.ai) - Effortlessly Create Graphics For Your Web Applications. Inspiration Is Hard To Come By. Get Your Message Across Hustle-free By Leveraging An AI Able To Generate Reliable, Ready-to-use Visual Masterpieces.  
-- [Pattern Maker AI](http://patternmakerai.com) - Generate Seamless Patterns Using Artificial Intelligence. Generate Seamless Vector Patterns Using Artificial Intelligence.  
-- [Uizard](http://uizard.io) - App, Web, & Ui Design Made Easy - Powered By AI  
-- [ICONS8](http://icons8.com) - Icons, Illustrations, Photos, Music, And Design Tools. Change Faces Of Stock Photos, Smart Upscaler, Update Your Website Right From Lunacy And More.  
-- [Creative Fabrica](http://www.creativefabrica.com) - A Platform That Provides Digital Design Resources, Including Fonts, Graphics, And Crafts.  
-- [AI TWO](http://aitwo.co/) - The AI-Powered All-In-One Design Platform
-- [Designs AI](http://designs.ai) - Create Logos, Videos, Banners, Voiceovers With AI. Create Anything Online In 2 Minutes! Make A Logo, Video, Social Media Banner, Business Card, Flyer, Mockup And More With AI.  
-
-### Dev
-
-- [AI21 Labs](https://www.ai21.com/) - A Research And Development Lab For AI.
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer) - A Platform For Automating Code Reviews.
-- [Code Language Converter](http://codelanguageconverter.com) - Convert Code To Other Languages Using AI
-- [Codium](http://www.codium.ai/) - Code Fast. Break Fewer Things
-- [Copianto AI](https://copianto.ai/) - A Platform That Provides Solutions For Automating Document-based Processes Using AI.
-- [Debuild](http://debuild.app) - Build Web Apps Fast
-- [DREAM.page](http://dream.page) - A Platform That Generates And Visualizes AI-generated Websites  
-- [Durable](https://durable.co/ai-website-builder) - A Platform For Building Websites Using AI.  
-- [Dyno](https://embed.trydyno.com/) - Embed Prompt Box For Testing Like Code Sandbox
-- [Equally AI](http://equally.ai) - Web Accessibility Compliance For All. Achieve ADA & WCAG Compliance Easily.  
-- [HTTPie](https://httpie.io/app) - A User-friendly Command Line HTTP Client For Making HTTP Requests
-- [Synth](http://app.synth.run) - An AI-powered Code Generation Platform.
-
-### Fashion
-
-- [Riku.AI](https://riku.ai/) - AI Powered Fashion Personal Shopping Assistant
-- [WardrobeAI](http://wardrobeai.com) - Our Service Uses AI To Automatically Change Hairstyles And Clothes In Your Images, Giving You Endless Possibilities For Customization.
-- [MagicMate](http://www.getmagicmate.com) - A Platform That Provides AI-powered Personal Shopping And Styling Services.
-
-### Finance
-
-- [Stable Dojo](http://www.stabledojo.com) - A Platform For Creating And Managing Stablecoins Using AI.
-- [Bertha](http://bertha.ai) - An AI-powered Investment Management Platform.
-- [Genius Sheets](http://www.geniussheets.com) - Genius Sheets Financial Automation. Genius Sheets AI Text To Reports Solutions Help You Analyze Financial Data Faster - Empowering Teams To Make Better Decisions. Stay In Excel And Google Sheets And Automate Your Financial Reporting Process With Live Data Connections.
-
-### Food
-
-- [What Cake To Bake?](http://www.whatcaketobake.com) - What Cake To Bake?
-- [Whiskey AI Beta](http://beta.whiskeyai.xyz) - A Website For A Beta Version Of An AI-powered Platform For Creating And Sharing Cocktail Recipes.
-- [FoodAI](http://www.foodai.app) - Generate Cooking Recipes With AI
-- [AI Recipe Generator](http://ai-recipes.softr.app) - AI Recipe Generator
-
-### Health
-
-- [Niji Journey](http://nijijourney.com) - A Platform That Provides Resources And Tools For Personal Growth And Self-discovery.
-- [Dreamily AI](http://dreamily.ai) - A Platform That Provides AI-powered Dream Interpretation And Analysis Services.
-- [Elektrif](http://www.elektrif.ai) - Your 🤖 Powered Dating Assistant. The First Suite Of AI-powered Tools To Supercharge Your Dating Life ⚡️.
-- [Good Snooze](http://goodsnooze.gumroad.com) - A Platform For Creating And Sharing Sleep-based Content Using AI.
-- [Ask Poppy](http://www.poppylist.com) - Be The Parent You Want To Be. You Know Your Lifestyle. We Know The Products. Let's Build Your Baby Registry Together.
-
-### Image
-
-- [HotConvo Art](http://hotconvo.art) - A Platform For Discovering And Showcasing Artists And Their Work, With A Focus On Illustration And Comics.
-- [Spatial.io](https://spatial.io/) - A Platform For Creating And Deploying Mixed Reality Experiences, Including AR And VR.
-- [VQGAN_CLIP](https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP) - A Generative Model Developed By EleutherAI.
-- [Portrait By Vana](http://portrait.vana.com) - Generative Art Studio That Can Create Self-portraits Of You In Infinite Styles.  
-- [Pixelz AI](http://pixelz.ai) - Art Generator. Create Unique AI Artwork Using Text, Phrases, Images & Presets, Share, Download, Print & Mint As NFTs.  
-- [RestorePhotos.io](https://www.restorephotos.io/) - Restoring Old Photos Using AI For Everyone. Have Old And Blurry Face Photos? Let Our AI Restore Them So Those Memories Can Live On. 100% Free–restore Your Photos Today.  
-- [SUPERMACHINE](http://supermachine.art) - Generate Stock Photos, Art, And Images With AI. SUPERMACHINE Enables You To Generate Images With The Latest In Artificial Intelligence Technology.  
-- [USP](http://usp.ai) - Maximize Your Blog - Usp. AI. Awesome AI Generated ROYALTY FREE IMAGES For Your Stories And Blog Posts.  
-- [Visuali](http://visuali.io) - AI Image Generation Made Easy.  
-- [Text To Image Editor](http://imgeditor.zmo.ai) - Create Any Image Using Text - Imgcreator. AI  
-- [Thumbsnap](http://art.thumbsnap.com) - AI Art Generator! Powered By Stable Diffusion - Thumbsnap - Free Photo & Video Hosting. ThumbSnap Free Photo And Video Sharing.  
-- [Watermark Remover](http://www.watermarkremover.io) - Remove Watermarks Online From Images For Free. Get Rid Of The Watermarks From Your Images Using Our Powerful AI Technology.  
-- [Reface](http://hey.reface.ai) - Be Anyone. Create Realistic Face Swap Videos, GIFs And Memes With Just One Selfie.  
-- [Patience](http://patience.ai) - AI Art With Stable Diffusion  
-- [Every Pixel](http://www.everypixel.com) - Stock Image Search Engine - More Than 50 Best Sources  
-- [DrawAnyone](http://drawanyone.ai) - Draw Anyone, Any Way You Want  
-- [Craiyon](http://www.craiyon.com) - Formerly Dall-E Mini. Craiyon Is An AI Model That Can Draw Images From Any Text Prompt.  
-- [AI Image Upscaler](http://www.upscale.media) - AI Image Upscaler - Enlarge & Enhance Your Photos For Free. Upscale Your Image To 2x Or 4x Without Losing Any Textures Or Details With Our AI Tool. Use Our Super-resolution Tool And Bring New Life To Your Images. upscale
-- [BigJpg](http://bigjpg.com) - Bigjpg - AI Super-Resolution Lossless Image Enlarging / Upscaling Tool Using Deep Convolutional Neural Networks. Bigjpg - Image Super-Resolution For Anime-style Artworks Using The Deep Convolutional Neural Networks Without Quality Loss. Photos Are Also Supported. upscale
-- [Archillect](https://archillect.com/) - An AI-powered Image Generator.
-- [Blimey](http://blimeycreate.com) - Blimey Is An AI Image Generator Where You Can Go From Idea To Reality In A Minute. With Full Control Over Composition, Colors And Style.  
-- [BRIA](http://commercial.bria.ai/) - Create Images And Video At Scale  
-- [Pfpmaker](http://pfpmaker.com) - Free Profile Picture Maker - Create An Awesome Pfp Online. Upload Your Photo To Create A Professional-looking Profile Picture And A Matching Background Cover.  
-- [Omneky](https://www.omneky.com/) - AI-powered Image And Video Recognition  
-- [NSFW.js](http://nsfwjs.com) - A Library For Detecting Not Safe For Work (NSFW) Images Using Machine Learning.  
-- [Neural Studio](http://neural.cam) - Neuralcam. With AI Powered Image Processing.  
-- [Nyx Gallery](http://nyx.gallery) - AI-Generated Photography. Images On This Website Have Been Generated With AI And Are Therefore “Not Real”.  
-- [Photoleap](http://www.photoleapapp.com) - Text To Image - Creative & Powerful Photo Editing App By Lightricks. Use All-in-one Photo Editor Photoleap For Amazing Creations On Your IPhone Change Backgrounds, Remove Objects, Create Collages, And Apply Filters & Effects.  
-- [Phraser](http://phraser.tech) - Phraser Is An App That Helps You Create Images Using Generative AI (Midjourney, Stable Diffusion, And DALLE 2), Collaborate, And Get Inspired.  
-- [PicSo](http://picso.ai) - PicSo Is A Text-to-image AI Art Generator App & Online Platform For Creative Digital Art. FREE Try And Turn Your Ideas To NFT Art, Oil Painting And, More.  
-- [PictoDream](http://pictodream.com) - Generate Images Of Yourself With AI - Pictodream. Com. Generate Any Images Of Yourself (Or Another Person) - In Any Style Or Setting Using A Simple Text Description.  
-- [MagicStock](http://aimages.ai) - AImages - Online AI Video And Image Enhancer. Upscale And Enhance Videos And Images Online Using AI.  
-- [Micro Dalle-2](http://micropay.ai) - Dalle-2 Image Generator - Micropay. Anonymous And Pay-as-you-go Generative AI Software.  
-- [Midjourney](http://www.midjourney.com) - Midjourney. An Independent Research Lab Exploring New Mediums Of Thought And Expanding The Imaginative Powers Of The Human Species.
-
-### Interior
-
-- [Oda Studio](http://stager.odastudio.ai) - Pick Your Style And Color To Customize Your Home In Seconds With AI.
-- [Coolaiid](http://coolaiid.com) - Whether You're Looking To Decorate Or Just Need A Little Inspiration, We'll Generate Unique Ideas Using AI.
-
-### Law
-
-- [Legartis Contract Intelligence](https://www.legartis.ai/) - A Platform That Uses AI To Automate The Analysis Of Contracts And Legal Documents.  
-- [EBrevia](https://ebrevia.com/) - A Platform That Uses AI To Help Businesses Automate Their Legal Document Review Processes.  
-- [Spellbook](https://www.spellbook.legal/) - A Legal Research Tool That Helps Lawyers And Legal Professionals Find The Information They Need Quickly And Efficiently.  
-- [Paralegal AI](https://www.legalquestions.help/) - AI Powered Paralegal Support  
-- [Luminance](https://www.luminance.com/) - A Provider Of AI-powered Legal Technology Solutions.  
-
-### Learning
-
-- [Caktus Home](https://www.caktus.ai/caktus_student) - A Platform For Learning About AI And Related Topics.
-- [CFR Explorer](http://cfrexplorer.com) - Ask AI Questions About CFRs  
-- [Elicit](http://elicit.org) - The AI Research Assistant. Elicit Uses Machine Learning To Help You With Your Research Find Papers, Extract Key Claims, Summarize, Brainstorm Ideas, And More.  
-- [Explain Paper](https://www.explainpaper.com/) - A Platform That Helps Researchers And Students Write, Track, And Communicate Their Ideas More Effectively  
-- [Glasp](http://glasp.co) - Glasp Social Web Highlighter. Highlight & Add Notes As You Read. Create A Library Of Your Learning  
-- [Glasp](https://glasp.co/) - An AI-powered Highlighter And Note-taking Tool For Chrome  
-- [Google Books](http://books.google.com) - A Platform For Searching And Accessing Books And Other Forms Of Written Content.
-- [Langotalk](http://www.langotalk.org) - Langotalk Learn Languages 6X Faster With AI. Have Confident Conversations In Weeks Instead Of Years.  
-- [Maester](https://maester.app/) - A Platform That Provides AI-powered Education And Training Solutions.  
-- [Neuro-Flash](http://app.neuro-flash.com) - A Platform That Provides Personalized Flashcard Training Based On Users' Learning Preferences.  
-- [Question Base](http://www.questionbase.com) - Question Base Is A New Kind Of Knowledge Base. Powered By AI It Answers Your Teams Questions Inside Slack. Automatically.
-- [Research AI](https://researchai.co/) - AI Powered Research Assistance  
-- [RTutor AI](http://rtutor.ai) - An AI-powered Platform For Creating And Delivering Educational Content.  
-- [Scispace](http://typeset.io) - Discover, Create, Publish, And Promote Your Research Paper. Your Platform To Explore And Explain Papers. Search For 270M+ Papers, Understand Them In Simple Language, And Find Connected Papers, Authors, Topics.  
-- [Teacherbot](http://teacherbot.io) - The Tool Every Teacher Deserves. We Have Developed The Most Powerful Tool A Teacher Can Have Access To. You Can Create Tasks And Activities For All Levels As Well As Topic Plans, Forward Plans, Lesson Plans And Much More. You Are Limited Only By Your Imagination.  
-- [Tutor.ai](https://www.tutorai.me/) - An AI-powered Tutoring Platform That Provides Personalized Learning Experiences For Students.  
-
-### ML
-
-- [Polymath Robotics](http://www.polymathrobotics.com) - Magically Simplified Autonomy For Industrial Vehicles.
-- [Pickaxe](https://beta.pickaxeproject.com/) - A Platform For Building And Training Custom AI Models Without Writing Any Code  
-- [Hugging Face](https://huggingface.co/) - It's Like A GitHub But For ML And AI. Models Replace Code  
-- [Tiyaro.ai](https://console.tiyaro.ai/explore) - AI Models As A Service  
-- [Runway ML](https://runwayml.com/) - An AI Platform That Makes It Easy To Create, Train, And Deploy Machine Learning Models.  
-- [Scale Catalog Forge](http://scale.com) - The Data Platform For AI. Trusted By World Class Companies, Scale Delivers High Quality Training Data For AI Applications Such As Self-driving Cars, Mapping, AR/VR, Robotics, And More.  
-- [DiscuroAI](https://www.discuro.com/) - A Platform For Building Custom AI Models For Natural Language Processing Tasks.
-- [Baseten](http://app.baseten.co) - Mlops Platform For Startups. Baseten Is A Serverless Backend For Building ML-powered Applications. Build Apps With Auto-scaling, GPU Access, CRON Jobs, And Serverless Functions.  
-- [Unbound](https://www.unrealcontent.ai/generate) - A Platform For Creating Realistic, High-quality Synthetic Data For Use In Machine Learning And Other AI Applications.  
-- [Twelve Labs](http://twelvelabs.io) - A Technology Company Focused On Creating Products That Simplify Complex Problems.  
-- [Trudo AI](https://www.trudo.ai/) - A Platform For Creating, Training, And Deploying AI Models For Real-world Applications, Such As Computer Vision And Natural Language Processing.  
-- [Tune My AI](https://tunemy.ai/dashboard) - A Platform That Provides A Suite Of Tools For Optimizing And Fine-tuning AI Models, Helping You Get The Best Results From Your AI Models.  
-- [Thomas](http://www.thomas.io) - A Company That Provides AI-powered Solutions For Various Industries.  
-- [Valyr AI](https://www.valyrai.com/) - A Platform For Creating And Deploying AI Models, With A Focus On Computer Vision And Natural Language Processing.  
-- [Takomo](http://go.takomo.ai) - A Platform For Automating Infrastructure And Application Deployment Using AI.  
-- [AI Models](https://aimodels.org/) - A Collection Of Pre-trained AI Models For Natural Language Processing Tasks.
-- [Stability AI](https://stability.ai/) - A Platform For Automating Financial Risk Management, Providing Actionable Insights And Recommendations To Help Manage Risk Effectively.
-- [OpenAI API](https://beta.openai.com/examples) - OpenAI's API For Natural Language Processing And Computer Vision Tasks  
-- [OpenAI Playground](https://beta.openai.com/playground) - Run, Test And, Tweak Prompts For All OpenAI Models  
-- [Boo](http://boo.ai) - An AI-powered Language Model.  
-- [Nvlabs](https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada/pretrained) - Pretrained AI Models For Computer Vision Tasks  
-- [Huberman AI](https://huberman.rile.yt/) - A Machine Learning And Data Science Research Institute That Develops Cutting-edge AI Solutions.  
-- [EleutherAI](https://huggingface.co/EleutherAI/gpt-neo-2.7B) - A GPT-3 Based Language Model Developed By EleutherAI.  
-- [InferKit](http://app.inferkit.com) - A Platform That Provides A Deep Learning Framework For Building NLP Models.  
-- [Hotpot AI](https://hotpot.ai/) - A Platform For Creating, Deploying, And Managing AI Models For Various Use Cases  
-- [Gpttools](https://gpttools.com/comparisontool) - Compare Prompts And Settings For OpenAI Models  
-- [GooseAI](https://goose.ai/) - A Platform For Creating And Deploying AI Models Without Writing Any Code  
-- [Goose Playground](https://goose.ai/playground) - A Platform For Experimenting And Learning About AI Models  
-- [GPTForMe](https://gptfor.me/) - A Platform For Customizing OpenAI's GPT-3 Language Model For Various Use Cases  
-- [Dust.tt](https://dust.tt/) - Prompt Chaining Tool (Prompt Engineering)  
-- [My Marketplace](https://www.freegpt.me/) - Marketplace For GPT Models  
-- [CLIP-as-service](https://clip-as-service.jina.ai/) - A Cloud-based Platform For Integrating The CLIP Deep Learning Model Into Applications.  
-- [DeepAI](https://deepai.org/) - A Platform For Accessing A Variety Of AI Models And Tools.  
-- [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d) - A Database Of Generative AI Models, Their Types, And Various Information Related To Them  
-
-### Movies
-
-- [Filmbook](https://www.filmbook.xyz/) - A Website Offering AI-powered Movie Recommendation Services.
-- [Movie AI](https://movieai.michaelcasa.com/) - AI Powered Movie Recommendations
-- [AI Movie Club](http://www.ai-movie.club) - AI-Movie Club. AI-MOVIE CLUB Is A Social Network That Create Movies With Artificial Intelligence.
-- [WatchNow AI](https://www.watchnowai.com/) - AI Powered Movie Recommendations
-
-### Nav/Travel
-
-- [Roamr](http://www.letsroam.app) - Your Dream Vacation In Seconds  
-- [MapWith AI](http://mapwith.ai) - A Platform That Provides Customizable And Interactive Maps For Various Use Cases.
-- [Atlas Navi](http://www.atlasnavi.com) - An AI-powered Navigation And Mapping Tool
-
-### No Code
+#### No Code
 
 - [Riku](http://riku.ai) - Build No-Code Prompts & Datasets For AI Models  
 - [Levity](http://levity.ai) - No-Code AI Workflow Automation Platform  
 - [No Code AI Builder](https://no-code-ai-model-builder.com/) - A Platform For Building AI Models Without Writing Code.  
 
-### Other
+#### Other
 
 - [Fake](#Fake)
 - [Fun With AI](#Fun%20With%20AI)
@@ -659,7 +759,7 @@ Natural
 
 ---
 
-#### Fake
+##### Fake
 
 - [Userpersona](http://userpersona.dev) - AI-Generated User Personas
 - [Not A Person](http://neuralactors.com) - Neural Actors
@@ -669,7 +769,7 @@ Natural
 
 ---
 
-#### Fun With AI
+##### Fun With AI
 
 - [Adept](https://www.adept.ai/) - Adept Is An AI-powered Writing Assistant.
 - [AI Pickup Lines Generator](http://www.aipickuplines.com) - An AI Tool That Generates Pickup Lines
@@ -747,7 +847,7 @@ Natural
 
 ---
 
-#### Gaming
+##### Gaming
 
 - [AI Careers](https://aicareers.io/) - A Website Dedicated To Helping Individuals Interested In Pursuing A Career In AI.
 - [AI Dungeon](http://play.aidungeon.io) - Play And Create AI-Generated Adventures With Infinite Possibilities
@@ -780,7 +880,7 @@ Natural
 
 ---
 
-#### Misc
+##### Misc
 
 - [1Case](http://1case.io) - Custom Phone Cases Made By AI. Find Your 1 Of A Kind Case In Seconds.
 - [AI Sports Prediction](http://sportsprediction.ai) - AI Sports Betting Predictions
@@ -796,7 +896,7 @@ Natural
 - [Swag AI](http://swag-ai.com) -Spruce up your boring wardrobe with AI-generated swag  
 - [Vienna Earth](http://vienna.earth) - A Website That Provides Information And Resources Related To Environmental Issues And Sustainability.  
 
-### Productivity
+#### Productivity
 
 - [AI Paraphrasing Tool](http://contentbot.ai) - Contentbot - AI Writer - AI Content For Founders And Content Marketers
 - [AI Project Description Generator](http://www.welovenocode.com) - A Tool That Generates Project Descriptions For AI Projects  
@@ -831,7 +931,7 @@ Natural
 - [Versational](http://www.versational.ai) - Versational For Remote Teams. Versational Maximizes The Value Said In Every Conversation. Get AI Conversation Results For Free. Versational Transcribes, Summarizes, Automates Data Entry, Extracts Takeaways, Lets You Share Clips, And Shows Ways To Improve Your Conversations.  
 - [Viable](https://www.askviable.com/) - An AI-powered Virtual Assistant That Can Answer Questions And Provide Information About A Wide Range Of Topics.  
 
-### Prompts
+#### Prompts
 
 - [Lexica.art](https://lexica.art/) - Image Prompt Catalog
 - [Unprompted](http://www.unpromptedgame.com) - A Website That Provides An Online Game Where Players Must Improvise And Act Out Scenes With Limited Time And Prompts.
@@ -844,14 +944,14 @@ Natural
 - [Prompthunt](http://www.prompthunt.com) - Your Home For Exploring, Creating, And Sharing AI Art. Create, Explore, And Share AI Art Using DALL·E, Stable Diffusion, And Midjourney.
 - [Promptomania](http://promptomania.com) - AI Art Community With Prompt Generator
 
-### Real Estate
+#### Real Estate
 
 - [AI Rental Cover Letter](http://sharehouse.app) - 🏡 Sharehouse - Free Housemate Finder. Connect With Sharehouses, Housemates Or Flatmates. Freely List & Advertise Your Room, House, Or Flat.
 - [LEVERTON](https://www.leverton.ai/) - A Provider Of AI-powered Real Estate Management Solutions.
 - [Regie AI](https://www.regie.ai/) - AI Powered Real Estate Management Software
 - [Replicate](https://replicate.com/) - AI Powered Real Estate Analytics
 
-### Search
+#### Search
 
 - [AISearchTool](https://aisearchtool.com/) - A Search Tool Powered By AI.
 - [AISEO](https://aiseo.ai/) - An AI-powered SEO Tool.
@@ -860,7 +960,7 @@ Natural
 - [Barua AI](http://baruaai.com) - A Company That Provides AI-powered Solutions For Various Industries.
 - [ExactBuyer Search](http://www.exactbuyer.com) - AI Powered Business Search For Prospecting Teams  
 
-### Social
+#### Social
 
 - [Ansy](http://ansy.ai) - Gpt-3 For Your Discord Server. GPT-3 Powered Discord Bot That Answers Questions From Your Discord Community Members Based On Chat History.
 - [AVTRS.AI](http://www.avtrs.ai) - A Platform For Creating Virtual And Augmented Reality Experiences Using AI.  
@@ -879,7 +979,7 @@ Natural
 - [TweetnImage](http://tweetnimage.com) - A Platform That Allows Users To Create And Share Images With Text Overlays, Similar To Twitter Headers.  
 - [Tweetspear](http://www.tweetspear.com) - Boost Your Twitter Engagement. Revolutionize Your Twitter Engagement With AI-Powered Suggested Replies.  
 
-### Text
+#### Text
 
 - [Quillbot](http://quillbot.com) - An AI-powered Text Editor And Paraphrasing Tool.
 - [Skimit.ai](https://www.skimit.ai/) - Summarise Content By Sending Email  
@@ -888,7 +988,7 @@ Natural
 - [Textunbox](http://textunbox.app) - Extract printed or handwritten text from any image. It works even for curved or rotated images. Create an image with your voice. Generate image from text description. Extract text from audio. Translate from one language to another in a flash. Get image description in English.
 - [TypeDroid](http://typedroid.com) - Free AI Text Generator.
 
-### Video
+#### Video
 
 - [Bigmp4](http://bigmp4.com) - AI Video Enhancement, Using 2022 Cutting Edged AI Model To Lossless Enlarge Video, Enhance Video
  - [Chapter Me](http://chapterme.co) - AI Powered Chapters For Your Videos
@@ -915,7 +1015,7 @@ Natural
 
 ---
 
-### Writing
+#### Writing
 
 - [Bedtime Story AI](http://www.bedtimestory.ai) - An AI-powered Story Generator.
 - [BetterWriter](http://betterwriter.ai) - Write Faster With A. I. Betterwriter. AI
@@ -947,110 +1047,6 @@ Natural
 - [Write With Transformer](https://transformer.huggingface.co/) - An AI-powered Writing Tool That Uses The GPT-3 Language Model To Generate Human-like Text.  
 
 ---
-
-
----
-
-## 2023-03-18
-
-**AI | Audio | Pro Audio**
-
-- [Audioalter](https://audioalter.com/) - Audioalter Is A Collection Of Online Audio Tools That Use Machine Learning To Modify, Transform, And Analyze Audio Files. It Includes Tools For Editing, Converting, And Generating Audio Files.
-- [AudioStrip](https://audiostrip.co.uk/#isolate) - AudioStrip Is A Web-based Tool For Isolating Vocals, Drums, Bass, And Other Individual Parts Of A Song Using AI. Users Can Upload A Song And Use AudioStrip's Algorithms To Isolate And Extract Specific Parts Of The Song.
-- [Beat Inspect](https://stefanrmmr-beatinspect-streamlit-app-gqaygo.streamlit.app/) - Beat Inspect Is A Web-based Tool That Analyzes The Tempo And Structure Of Music Tracks. It Uses Machine Learning To Identify The Beats And Rhythm Of A Song, And Provides A Visualization Of The Song Structure.
-- [Lemonaid Music](https://lemonaid.ai/) - Lemonaid Music Is A Music Production Platform That Uses Artificial Intelligence To Generate Unique And Customizable Music Tracks. Users Can Select A Genre And Customize The Mood, Tempo, And Other Parameters To Generate A Royalty-free Music Track.
-- [MIDI-GPT - Replit](https://replit.com/@somewheresy/MIDI-GPT) - MIDI-GPT Is A Neural Network That Generates MIDI Music Based On User Input. This Project Hosted On Replit Allows Users To Experiment With And Generate Music Using MIDI-GPT.
-- [RoEx Automix ](Https://automix.roexaudio.com/) - RoEx Automix Is An AI-powered Tool For Automatic Music Mixing And Mastering. It Uses Machine Learning Algorithms To Analyze And Balance The Levels Of Different Tracks, And Apply Effects Like EQ, Compression, And Reverb.
-- [Ultimate Vocal Remover GUI](https://github.com/anjok07/ultimatevocalremovergui) - Ultimate Vocal Remover GUI Is An Open-source Software For Removing Vocals From Songs Using Artificial Intelligence. The GUI Provides A Simple And Easy-to-use Interface For Users To Remove Vocals From Songs.
-
-**AI | Audio | Transcriptions**
-
-- [Rythmex](https://rythmex.com/) - Rythmex Is An AI-powered Tool For Transcribing Music Into Sheet Music. It Uses Machine Learning To Analyze And Transcribe Music Tracks, And Provides A Visualization Of The Sheet Music.
-- [Transkribieren](https://www.transkribieren.xyz/) - Transkribieren Is A Web-based Tool For Transcribing Audio And Video Files Into Text. It Uses Machine Learning To Automatically Transcribe Speech, And Allows Users To Edit And Correct The Transcription As Needed.
-
-**AI | ChatGPT**
-
-- [Andy's Collection Of Chatgpt Jailbreak Prompts](https://rentry.org/Chatgptjailbreak) - Andy's Collection Of Chatgpt Jailbreak Prompts Is A Curated List Of Prompts For OpenAI's GPT-3 Language Model. These Prompts Are Designed To "Jailbreak" The AI's Capabilities And Allow It To Perform Tasks Beyond Its Original Design. The List Includes Prompts For Generating Poetry, Music, And Even Computer Code.
-- [Jailbreak Chat](https://www.jailbreakchat.com/) - Jailbreak Chat Is A Chatbot Development Platform That Allows Users To Create And Deploy Chatbots For Various Messaging Platforms Like Facebook Messenger And Slack. It Includes Tools For Managing And Analyzing Chatbot Interactions.
-- [Mottle](https://mottle.com/) - Mottle Is A Chatbot Platform That Allows Businesses To Create And Customize Chatbots For Their Websites And Social Media Channels. It Uses Natural Language Processing To Understand Customer Queries And Provide Personalized Responses.
-- [TypingMind](https://www.typingmind.com/) - TypingMind Is A Chatbot Development Platform That Uses Machine Learning To Create Chatbots That Can Understand Natural Language And Provide Human-like Responses. It Includes A Visual Interface For Building And Customizing Chatbots.
-
-
-**AI | Code**
-
-- [CodeAssist](https://www.codeassist.tech/index.html) - CodeAssist Is An AI-powered Code Completion Tool That Uses Machine Learning To Suggest Code Snippets And Improve Developers' Productivity. It Supports Multiple Programming Languages And Integrates With Popular Code Editors Like VSCode And Atom.
-- [OpenAI Codex](https://openai.com/blog/openai-codex) - OpenAI Codex Is An AI System That Can Generate Code From Natural Language Descriptions. It Is Capable Of Understanding Programming Concepts And Can Write Functional Code In Multiple Languages.
-
-**AI | Data**
-
-- [Humata](https://app.humata.ai/) - Humata Is A Data Labeling Platform That Uses AI To Automate The Labeling Process. It Can Be Used For Tasks Like Image And Video Annotation, Text Labeling, And Sentiment Analysis.
-- [Luminal](https://getluminal.com/index.html) - Luminal Is A Data Analysis Platform That Uses Machine Learning To Identify Patterns And Insights In Large Datasets. It Includes Tools For Data Exploration, Modeling, And Visualization, And Can Be Used For A Variety Of Use Cases Like Fraud Detection And Customer Segmentation.
-
-**AI | Docs**
-
-- [ChatDOC](https://chatdoc.com/) - ChatDOC Is A Chatbot-based Platform For Document Collaboration And Management. It Uses Natural Language Processing To Understand User Queries And Provide Relevant Information, And Includes Features Like File Sharing And Version Control.
-- [Collato](https://collato.com/) - Collato Is A Document Management Platform That Uses AI To Extract And Organize Information From Documents Like Contracts And Invoices. It Includes Tools For OCR, Data Extraction, And Workflow Automation.
-
-**AI | Image**
-
-- [AI Gallery](https://aigallery.app/) - AI Gallery Is A Platform For Sharing And Exploring AI-generated Art. It Includes A Collection Of Artwork Generated By Various AI Algorithms, And Allows Users To Upload Their Own Artwork And Share It With The Community.
-- [CatBird](https://www.catbird.ai/) - CatBird Is An AI-powered Tool For Object Detection And Classification In Images And Videos. It Uses Machine Learning To Identify And Track Objects In Real-time, And Can Be Used For A Variety Of Applications Like Security Monitoring And Traffic Analysis.
-- [Illuminarty](https://illuminarty.ai/en/) - Illuminarty Is An AI-powered Tool For Generating Art From Photos. It Uses Machine Learning To Transform Photos Into Unique Art Styles, And Allows Users To Customize The Output By Adjusting Parameters Like Brush Size And Color Palette.
-- [Image Transfer](https://transpic.cn/) - Image Transfer Is A Web-based Tool That Uses AI To Transfer The Style Of One Image Onto Another. Users Can Upload Two Images And The Tool Will Generate A New Image That Combines The Content Of One Image With The Style Of The Other.
-- [Real-ESRGAN](https://replicate.com/nightmareai/real-esrgan) - Real-ESRGAN Is An AI-powered Tool For Upscaling And Enhancing Images. It Uses A Deep Learning Algorithm To Generate High-quality Images From Low-resolution Inputs.
-
-**AI | Prompt**
-
-- [AI Promts](https://promptsai.io/) - AI Prompts Is A Platform For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts, And Provides A Visualization Of The Model's Response.
-- [BotPrompts](https://botprompts.net/) - BotPrompts Is A Platform For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts, And Provides A Visualization Of The Model's Response.
-- [Easy Prompt](https://www.easyprompt.xyz/) - Easy Prompt Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Provides A Simple And Easy-to-use Interface For Generating Text On A Variety Of Topics.
-- [Effective GPT](https://www.effectivegpt.com/) - Effective GPT Is A Platform For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts
-- [EPromptly](https://epromptly.com/) - EPromptly Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Summarization, Translation, And Question-answering.
-- [Fusion](https://fusion.tiiny.site/) - Fusion Is A Web-based Tool For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts, And Provides A Visualization Of The Model's Response.
-- [Geniea](https://geniea.com/) - Geniea Is An AI-powered Platform For Generating Natural Language Content, Including Product Descriptions, News Articles, And Social Media Posts. It Uses Machine Learning To Understand User Preferences And Generate Customized Content.
-- [Learn Prompt Engineering By Exploring ChatGPT Examples](https://www.emergentmind.com/) - Learn Prompt Engineering By Exploring ChatGPT Examples Is A Guide For Using OpenAI's GPT-3 Language Model To Generate Chatbot Responses. It Includes A Variety Of Examples And Tips For Generating Effective Prompts And Responses.
-- [NoPrompt GPT](https://nopromptgpt.com/) - NoPrompt GPT Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model Without Using Any Prompts. It Allows Users To Generate Text Directly From The Model Without Providing Any Input, And Includes Features Like Conversation And Storytelling.
-- [Prompter](https://prompter.lennard.codes/) - Prompter Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Question-answering And Summarization, And Allows Users To Customize The Prompt And Model Settings.
-- [Prompter](https://prompter.so/) - Prompter Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Question-answering And Summarization, And Allows Users To Customize The Prompt And Model Settings.
-- [Prompt-Journey](https://promptjourney.app/dashboard) - Prompt-Journey Is A Platform For Generating Prompts And Experimenting With OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating And Refining Prompts, And Provides A Visualization Of The Model's Response.
-- [PromptPal](https://www.promptpal.net/) - PromptPal Is A Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Summarization, Question-answering, And Chat.
-- [PromptPerfect](https://promptperfect.jina.ai/) - PromptPerfect Is An AI System For Generating Natural Language Responses To User Queries. It Uses A Combination Of Machine Learning And Human Curation To Provide Accurate And Relevant Responses To User Questions.
-- [Stable Diffusion Prompting Cheatsheet](https://moritz.pm/posts/parameters) - Stable Diffusion Prompting Cheatsheet Is A Guide For Using The Stable Diffusion Method For Generating Prompts For OpenAI's GPT-3 Language Model. It Includes A List Of Parameters And Examples For Generating Effective Prompts.
-
-**AI | Resources**
-
-- [Aiwizard ](Https://www.aiwizard.ai/) - Aiwizard Is An AI-powered Platform That Allows Businesses To Create And Customize Chatbots For Their Websites And Social Media Channels. It Uses Natural Language Processing To Understand Customer Queries And Provide Personalized Responses.
-- [All Things AI](https://allthingsai.com/) - All Things AI Is A Community-driven Platform That Provides The Latest News, Articles, And Resources On Artificial Intelligence, Machine Learning, And Related Topics. It Also Includes A Job Board And A Directory Of AI Companies.
-- [Big AI List](https://bigailist.com/) - Big AI List Is A Curated List Of Resources For Learning And Practicing Artificial Intelligence, Including Online Courses, Books, Blogs, And Podcasts. It's Organized Into Categories Like Machine Learning, Deep Learning, And Natural Language Processing.
-- [Supertools](https://supertools.therundown.ai/) - Supertools Is A Collection Of Machine Learning And Data Science Tools That Can Help You With Tasks Like Data Analysis, Modeling, And Visualization. It's Designed To Be A One-stop-shop For All Your AI Needs.
-
-**AI | Search**
-
-- [Collie](https://collie.ai/) - Collie Is An AI-powered Search Tool For Finding Similar Images. It Uses Machine Learning To Identify Visual Patterns And Similarities Between Images, And Can Be Used For Applications Like Product Search And Content Discovery.
-- [Glarity](https://glarity.app/) - Glarity Is An AI-powered Search Engine That Uses Natural Language Processing To Understand User Queries And Provide Relevant Search Results. It Includes Features Like Topic Clustering And Personalized Search.
-
-**AI | Text**
-
-- [Text Generator](https://text-generator.io/) - Text Generator Is A Web-based Tool For Generating Text Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Features Like Summarization, Translation, And Question-answering.
-
-**AI | Tools**
-
-- [Anywebsite.ai](https://anywebsite.ai/) - Anywebsite.ai Is An AI-powered Tool For Extracting Information From Websites. It Can Be Used For Tasks Like Web Scraping And Data Extraction, And Includes Features Like Data Cleaning And Formatting.
-- [OpenPlayground](https://nat.dev/compare) - OpenPlayground Is A Suite Of Tools For Experimenting With AI Models And Algorithms. It Includes Tools For Text Generation, Image Recognition, And Natural Language Processing, And Allows Users To Compare The Performance Of Different Models.
-- [Sheldon](https://www.heysheldon.com/) - Sheldon Is An AI-powered Virtual Assistant That Can Be Integrated With A Variety Of Platforms Like Slack And Trello. It Includes Features Like Natural Language Processing And Conversation Management.
-
-**AI | Video**
-
-- [Aug X Labs | Home](https://www.augxlabs.com/) - Aug X Labs Is A Platform For Creating And Deploying AI-powered Video Content. It Includes Tools For Video Editing, Animation, And Special Effects, And Can Be Used For Applications Like Marketing And Advertising.
-- [Genmo](https://alpha.genmo.ai/create) - Genmo Is A Platform For Creating Chatbots Using OpenAI's GPT-3 Language Model. It Includes A Variety Of Tools For Generating Prompts And Responses, And Can Be Used For Applications Like Customer Support And Language Learning.
-- [Maimovie: AI-powered Movie Search Engine](https://maimovie.com/) - Maimovie Is An AI-powered Movie Search Engine That Uses Machine Learning To Provide Personalized Movie Recommendations. It Includes Features Like Genre Classification And Sentiment Analysis.
-- [Plazma Punk](https://www.plazmapunk.com/) - Plazma Punk Is A Tool For Generating Animated Videos Using AI-powered Algorithms. It Includes A Variety Of Customizable Templates And Styles, And Can Be Used For Applications Like Explainer Videos And Product Demos.
-- [Vid2txt - The Easiest Video (And Audio) Transcription App](https://vid2txt.com/) - Vid2txt Is A Web-based Tool For Transcribing Video And Audio Content. It Uses AI-powered Speech Recognition To Generate Accurate Transcripts, And Includes Features Like Speaker Identification And Punctuation.
-- [Video Automations - Create Videos With AI - Vidds.co](https://vidds.co/tools/video-automations/) - Video Automations Is A Platform For Creating And Editing Videos Using AI-powered Tools. It Includes Features Like Scene Recognition And Content Analysis, And Can Be Used For Applications Like Social Media Marketing And Content Creation.
-
----
-
-## 2023-02-19
 
 - [10Web](https://10web.io/) - A Platform For Building And Managing Websites Using WordPress, With A Focus On Speed And Ease Of Use.
 - [AI And You](https://aiandyou.net/) - A Website Dedicated To Exploring The Social And Ethical Implications Of Artificial Intelligence.
@@ -1323,7 +1319,7 @@ Natural
 
 ---
 
-## 2023-02-18 
+### 2023-02-18 
 
 - [AICyclopedia](https://www.aicyclopedia.com) - A Comprehensive Encyclopedia Of Artificial Intelligence
 - [AI Photo Robot](https://aiphotorobot.com/): A Website That Provides An AI-powered Photo Editing Tool That Can Transform Photos Into Paintings, Sketches, And Other Artistic Styles.
