@@ -45,6 +45,25 @@
 
 ## Recently Added
 
+### 2023-03-21
+   
+   - [A.I. Apps 🤖  On AppRaven](https://appraven.net/collection.php?listId=6416a370904afd2a981d73ed) - A Curated List Of Productivity Apps Related To Artificial Intelligence On AppRaven.
+   - [A.I. Apps By Whoisdsmith](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0) - A Collection Of AI-powered Apps For IOS And Android Curated By Whoisdsmith On AppRaven.
+   - [AI Apps On AppRaven](https://appraven.net/collection.php?listId=63a67959904afd2a981cd63d) - A Curated List Of Remote Work Apps Related To Artificial Intelligence On AppRaven.
+   - [AI Awesome](https://www.aiawesome.com/) - A Curated List Of Resources, Tools, And Articles Related To Artificial Intelligence.
+   - [ChatGPT Apps On AppRaven](https://appraven.net/collection.php?listId=6417bf8d904afd2a981d75e7) - A Collection Of Educational Apps For Kids Curated By ChatGPT On AppRaven.
+   - [Daily Tech AI](https://www.dailytech.ai/) - A Platform For News And Analysis On Artificial Intelligence, Machine Learning, And Data Science.
+   - [Easy Prompt](https://www.easyprompt.xyz/) - A Free And Easy-to-use Online Tool For Generating Writing Prompts.
+   - [Generative AI On AppRaven](https://appraven.net/collection.php?listId=64095357904afd2a981d5eb4) - A Curated List Of Photography Apps Related To Generative Artificial Intelligence On AppRaven.
+   - [Generative Tools ](Https://generativetools.pages.dev/) - A Collection Of Creative Coding And Generative Art Tools.
+   - [Scrip AI](https://scripai.com/) - A Platform For Generating AI-powered Content, Including Blog Posts, Social Media Captions, And More.
+   - [Tome](https://tome.app/whoisdsmith) - A Personal Knowledge Management Tool That Helps You Organize And Recall Your Notes, Thoughts, And Ideas.
+   - [Transpic](https://transpic.ai/) - A Platform For Generating Realistic AI-generated Images And Videos.
+   - [TTSMaker](https://ttsmaker.com/) - A Free Online Text-to-speech (TTS) Tool That Allows You To Convert Any Text Into Natural-sounding Speech.
+   - [Variart](https://variart.ai/) - A Collection Of AI-powered Tools For Artists And Designers, Including Image And Video Style Transfer, Face Morphing, And More.
+   
+---
+
 ### New
 
 - [Adept](https://www.adept.ai/) - AI-powered Platform For Automating And Optimizing Customer Support And Sales Processes.
