@@ -3,6 +3,8 @@
 # AI-MTHRFCKR
 
 ---
+**Turned This Into A Gitbook Website At [AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)**  
+
 
 **This Is A Repository Of Various Artificial Intelligence Applications, Grouped Into Different Categories Such As Art & Image, Audio, Business, And More. The Repository Provides An Overview Of The Applications Of AI In Different Fields And Serves As A Resource For Those Interested In Exploring The Capabilities Of AI. Each Section Includes Examples Of AI Projects, Tools, And Technologies Within The Specific Category, Along With Relevant Resources For Further Learning And Exploration.**
 
