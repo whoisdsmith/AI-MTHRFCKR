@@ -46,6 +46,51 @@
 ---
 
 ## Recently Added
+
+---
+
+### 2023-03-23
+
+- [AI Center](https://www.aicenter.ai/) - A Platform For AI Engineers To Showcase Their Work, Collaborate, And Connect With Potential Employers.
+- [AI Cheatsheet](https://aicheatsheet.comuzi.xyz/) - A Reference Guide For Artificial Intelligence Concepts And Techniques.
+- [AI Content Generation Tools](https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9) - A Curated List Of AI-powered Content Generation Tools For Marketing And SEO.
+- [Aifilia AI](https://www.aifilia.com/) - A Platform For Building And Deploying AI Models For Business Applications.
+- [AIREGISTERS](https://airegisters.com/) - A Website That Sells Custom Air Conditioning Registers And Grilles.
+- [AI Tools | Victrays](https://victrays.com/ai-tools/) - A Collection Of AI-powered Tools For Businesses And Individuals.
+- [AnyGPT](https://anygpt.app/?ref=producthunt) - A GPT-3 Powered Writing Tool For Generating Creative Writing Prompts.
+- [Apply GPT](https://www.applygpt.com/) - A Writing Tool That Uses GPT-3 To Generate Job Applications And Cover Letters.
+- [Audealize](https://audealize.appspot.com/) - An AI-powered Audio Processing Tool For Enhancing Audio Quality.
+- [Babycat](https://babycat.io/) - An AI-powered Baby Monitor That Uses Computer Vision And Sound Recognition.
+- [BLAZE](https://www.blaze.tech/) - A Platform For Building And Deploying Conversational AI Applications.
+- [Cologic AI](https://www.cologic.ai/) - A Platform For Building And Deploying AI Models For The Healthcare Industry.
+- [Composing AI](https://composing.ai/) - An AI-powered Music Composition Tool That Generates Original Music Tracks.
+- [DJEN](https://djen.co/) - An AI-powered Music Composition Tool For DJs And Music Producers.
+- [Evoke Music](https://evokemusic.ai/music) - A Music Composition Tool That Uses AI To Generate Music Tracks.
+- [Gapt.ai](https://gapt.ai/) - An AI-powered Writing Tool For Generating Product Descriptions And Marketing Copy.
+- [GetInference AI Radar](https://airadar.getinference.com/) - A Tool For Analyzing And Comparing AI Models.
+- [GPT3 Demo](https://gpt3demo.com/) - A Website That Lets You Test OpenAI's GPT-3 Language Model.
+- [INFINITE ALBUM](https://www.infinitealbum.io/) - An AI-powered Music Streaming Service That Generates Infinite Music Tracks.
+- [Jamorphosia](https://www.jamorphosia.com/en/) - An AI-powered Music Composition Tool That Generates Original Tracks.
+- [Koe Recast](https://koe.ai/) - An AI-powered Voice Cloning And Speech Synthesis Tool.
+- [Lindy](https://www.lindy.ai/) - An AI-powered Tool For Automatically Summarizing Text Documents.
+- [Llama Hub](https://llamahub.ai/) - An AI-powered Platform For Generating And Curating Content For Social Media.
+- [Looka AI](https://looka.com/) - An AI-powered Logo Design Tool For Businesses And Individuals.
+- [Melody Scanner](https://melodyscanner.com/) - An AI-powered Music Transcription Tool That Converts Audio To Sheet Music.
+- [NameSnack AI](https://www.namesnack.com/) - An AI-powered Business Name Generator And Domain Name Checker.
+- [Only.Coms](https://onlycoms.com/) - A Domain Name Marketplace That Specializes In Premium And Brandable Domain Names.
+- [Replicate Codex](https://www.replicatecodex.com/) - An AI-powered Tool For Generating Source Code For Software Development.
+- [SongDonkey AI](https://songdonkey.ai/) - An AI-powered Music Composition Tool For Generating Original Tracks.
+- [Sonify](https://www.sonify.io/product/) - An AI-powered Tool For Generating Music Tracks From Data Sets.
+- [Stunning](https://stunning.so/dashboard) - A Platform For Building And Deploying AI-powered Web Apps.
+- [Sutro](https://withsutro.com/) - An AI-powered Tool For Generating Social Media Content.
+- [SymphonyNet AI](https://symphonynet.github.io/) - An AI-powered Platform For Generating Music Tracks And Composing Original Music.
+- [Tune The Model](https://tunethemodel.com/) - A Platform For Optimizing And Fine-tuning AI Models.
+- [Visual Prompt Builder](https://tools.saxifrage.xyz/prompt) - An AI-powered Tool For Generating Writing Prompts.
+- [Waveshaper AI](https://waveshaper.ai/) - An AI-powered Tool For Creating And Editing Audio Samples And Loops.
+- [WavTool](https://wavtool.com/) - An AI-powered Tool For Enhancing And Editing Audio Recordings.
+
+---
+
 ### 2023-03-21
    
    - [A.I. Apps 🤖  On AppRaven](https://appraven.net/collection.php?listId=6416a370904afd2a981d73ed) - A Curated List Of Productivity Apps Related To Artificial Intelligence On AppRaven.
