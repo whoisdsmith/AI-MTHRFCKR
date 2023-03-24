@@ -48,7 +48,38 @@
 ## Recently Added
 
 ---
+## 2023-03-24
 
+- [Adobe Firefly (Beta)](https://firefly.adobe.com/) - A Creative Collaboration Tool For Teams To Ideate, Refine, And Rapidly Iterate On Designs Using AI.
+- [AI AutoFiler Pro](https://github.com/haseeb-heaven/AIAutoFilerPro) - An Open-source Project That Uses AI To Automate The Process Of Filing Emails And Documents.
+- [Ai Prompt](https://aiprompt.beehiiv.com/) - A Tool That Generates Creative Writing Prompts Using GPT-3 AI.
+- [Art Ideas Generator](https://artideasgenerator.com/index.php) - A Tool That Generates Art Ideas And Prompts To Help Artists Overcome Creative Blocks.
+- [Art Prompts](https://artprompts.app/) - A Collection Of Art Prompts To Help Artists Overcome Creative Blocks And Spark Inspiration.
+- [AudioToText](https://carleslc.me/AudioToText/) - A Simple Tool That Converts Audio Files To Text Using AI Speech Recognition.
+- [Awesome ChatGPT Prompts](https://www.awesomegptprompts.com/) - A Curated List Of Creative Prompts And Ideas For Writing And Storytelling Using GPT-3 AI.
+- [Awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) - A Curated List Of Resources Related To OpenAI's GPT-3 AI Language Model.
+- [Build And Run 🎈](Https://www.brstore.us/) - A Platform For Building And Running GPT-3-based Applications.
+- [Chatpad AI](https://chatpad.ai/) - A Platform For Building And Training AI Chatbots And Virtual Assistants.
+- [Chat Prompt Genius](https://chatpromptgenius.com/) - A Tool That Generates Creative Writing Prompts For Chatbots And Messaging Apps.
+- [Cradl AI](https://www.cradl.ai/) - A Platform For Building And Deploying AI Models For Natural Language Processing And Computer Vision.
+- [Create Web](https://createweb.us/) - A Website Builder That Uses AI To Create Custom Designs And Layouts Based On User Preferences.
+- [Datafitai](https://datafit.ai/) - A Platform For Building And Deploying AI Models For Natural Language Processing, Image Recognition, And Other Applications.
+- [Echo](https://lightning.ai/echo/view/home) - A Tool That Allows Users To Interact With GPT-3 AI Via Voice Commands.
+- [Eluna.ai](https://www.eluna.ai/) - A Platform For Building And Deploying AI Models For Natural Language Processing And Machine Learning.
+- [ExplainAI](https://explainai.vercel.app/) - A Platform That Explains Complex AI Models And Concepts Using Simple Language.
+- [Freelino](https://freelino.com/) - A Platform That Connects Freelancers With Businesses And Individuals Who Need Their Services.
+- [Gptoverflow](https://www.gptoverflow.link/) - A Community Forum For Discussing GPT-3 AI And Related Topics.
+- [NoPrompt GPT](https://nopromptgpt.com/) - A Platform That Allows Users To Interact With GPT-3 AI Without The Use Of Prompts Or Cues.
+- [Pickmyline](https://www.pickmyline.online/) - A Platform That Generates Creative Writing Prompts And Ideas For Bloggers And Content Creators.
+- [Promptly](https://www.promptly.cc/) - A Tool That Generates Creative Writing Prompts And Ideas For Writers And Content Creators.
+- [Promptsio](https://www.promptsio.com/) - A Platform That Generates Creative Writing Prompts And Ideas For Writers And Content Creators.
+- [Redhorse AI Transcriber](https://redhorse-ai-transcriber.mharrvic.com/) - A Web-based Transcription Tool That Uses AI To Transcribe Audio And Video Files Into Text. It Claims To Be Fast And Accurate, And Offers A Variety Of Export Options.
+- [SaaS GPTers](https://saasgpters.com/) - A Platform That Allows Users To Build And Deploy GPT Models For Various Tasks Like Summarization, Translation, And Question-answering. It Offers A User-friendly Interface And Claims To Simplify The Process Of Building GPT Models.
+- [Text/Code Util.AI](https://www.ai-utilities.in/) - A Suite Of AI-powered Tools For Developers, Including Code Completion, Summarization, And Plagiarism Detection. It Claims To Help Developers Save Time And Increase Productivity.
+- [Transcribe](https://transcribe.bloat.app/) - A Simple And Easy-to-use Web-based Transcription Tool That Allows Users To Upload Audio And Video Files And Transcribe Them Into Text. It Offers A Clean Interface And Basic Editing Features.
+- [Web-whisper](https://codeberg.org/pluja/web-whisper) - An Open-source Chat Application That Uses End-to-end Encryption And Allows Users To Chat Anonymously. It Offers A Simple And Secure Alternative To Mainstream Chat Apps.
+
+---
 ### 2023-03-23
 
 - [AI Center](https://www.aicenter.ai/) - A Platform For AI Engineers To Showcase Their Work, Collaborate, And Connect With Potential Employers.
