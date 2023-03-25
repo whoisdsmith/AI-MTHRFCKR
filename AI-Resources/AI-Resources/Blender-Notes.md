@@ -28,9 +28,9 @@ Tested for EEVEE. Assign material to object and choose Principled BSDF. In `Prin
 
 ### Images
 
-![blender_dataset_generation_1](Resources/Blender-Notes/Figures/Blender_Dataset_Generation_1.png)
-![blender_dataset_generation_2](Resources/Blender-Notes/Figures/Blender_Dataset_Generation_2.png)
-![blender_dataset_generation_3](Resources/Blender-Notes/Figures/Blender_Dataset_Generation_3.png)
+![blender_dataset_generation_1](Blender_Dataset_Generation_1.png)
+![blender_dataset_generation_2](Blender_Dataset_Generation_2.png)
+![blender_dataset_generation_3](Blender_Dataset_Generation_3.png)
 
 ### Semantic Segmentation and Instance Segmentation Mask with Only View Layers and Alpha
 
@@ -42,9 +42,7 @@ Now rendering will provide images with multiple passes. To get a mask for a view
 
 In compositing tab ticking use nodes will have render layers node. Select a view layer in it and connect it with a file output node. In node properties select color as `BW`. Now black and white mask will be saved.
 
-![resources/blender-notes/figures/resources/blender-notes/figures/resources/blender-notes/figures/resources/blender-notes/figures/Resources/Blender-Notes/Figures/Blender_Segmentation_Scene.png](blender_segmentation_scene.png)
-![resources/blender-notes/figures/resources/blender-notes/figures/resources/blender-notes/figures/resources/blender-notes/figures/Resources/Blender-Notes/Figures/Blender_Segmentation_Mask.gif](blender_segmentation_mask.gif)
-![resources/blender-notes/figures/resources/blender-notes/figures/resources/blender-notes/figures/resources/blender-notes/figures/Resources/Blender-Notes/Figures/Blender_Segmentation_Output.png](blender_segmentation_output.png)
+![resources/blender-notes/figures/resources/blender-notes/figures/resources/blender-notes/figures/resources/blender-notes/figures/Resources/Blender-Notes/Figures/Blender_Segmentation_Scene.png](Blender_Segmentation_Scene.png)/![resources/blender-notes/figures/resources/blender-notes/figures/resources/blender-notes/figures/resources/blender-notes/figures/Resources/Blender-Notes/Figures/Blender_Segmentation_Mask.gif](Blender_Segmentation_Mask.gif)]![resources/blender-notes/figures/resources/blender-notes/figures/resources/blender-notes/figures/resources/blender-notes/figures/Resources/Blender-Notes/Figures/Blender_Segmentation_Output.png](Blender_Segmentation_Output.png)lender_Segmentation_Output.png](Resources/Blender-Notes/Figures/Blender_Segmentation_Output.png)
 
 
 ### References:

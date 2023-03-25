@@ -1,6 +1,6 @@
 # ai4artists
 
-[![simple neural net art diagram](Images/Simple-Neural-Net-Art-Diagram.png)](https://teia.art/objkt/538875)
+[![simple neural net art diagram](Simple-Neural-Net-Art-Diagram.png)](https://teia.art/objkt/538875)
 
 > Resources at the intersection of AI *AND* Art. Mainly tools and tutorials but also with some inspiring people and places thrown in too!
 
