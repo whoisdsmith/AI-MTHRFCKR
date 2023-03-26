@@ -47,7 +47,45 @@
 
 ## Recently Added
 
----
+### 2023-03-26
+
+**AI | Docs**
+
+- [AirPaper](https://airpaper.ai/) - AirPaper Provides A Suite Of APIs To Perform Various Operations On PDFs, Including Conversion, Merging, Splitting, And Watermarking.
+- [Ask Your PDF](https://askyourpdf.com/) - Ask Your PDF Is A Platform That Allows You To Convert, Merge, Split And Compress Your PDF Files For Free.
+- [ChatDOC](https://chatdoc.com/) - ChatDOC Is A Platform That Allows You To Securely Chat With A Doctor Online, Receive Medical Advice And Prescriptions.
+- [ChatGPT For Documents](https://ailyze-ailyze3-main-gnmduc.streamlit.app/) - ChatGPT For Documents Is A Chatbot That Helps Users Generate Various Types Of Documents Using GPT-3 Language Model.
+- [Collato](https://collato.com/) - Collato Is A Web-based Platform That Helps Businesses Automate And Streamline Their Contract Review And Approval Process.
+- [Corpora](https://www.askcorpora.com/) - Corpora Is A Platform That Provides Pre-trained AI Models For Natural Language Processing (NLP) Tasks Such As Sentiment Analysis, Named Entity Recognition, And Text Classification.
+- [Dashworks](https://www.dashworks.ai/) - Dashworks Is A Platform That Helps Businesses Automate Their Document Workflows, Allowing Teams To Collaborate And Manage Their Documents Efficiently.
+- [DocsGPT 🦖](Https://docsgpt.arc53.com/) - DocsGPT 🦖 Is A Web Application That Uses GPT-3 To Generate Text For Various Types Of Documents Such As Resumes, Cover Letters, And Blog Posts.
+- [Docupilot](https://docupilot.app/) - Docupilot Is A Platform That Allows Businesses To Automate Their Document Generation Process Using Templates And Data Sources.
+- [DocuVerse](https://docuverse.io/) - DocuVerse Is A Platform That Provides A Suite Of Tools For Document Management, Including File Conversion, Text Extraction, And OCR.
+- [Filechat.io](https://www.filechat.io/) - Filechat.io Is A Platform That Allows You To Chat And Collaborate With Your Team While Working On Documents, Spreadsheets, And Presentations.
+- [GPTForMe](https://gptfor.me/) - GPTForMe Is A Web Application That Uses GPT-3 To Generate Text For Various Use Cases Such As Summarization, Article Writing, And Question Answering.
+- [Humata](https://www.humata.ai/) - Humata Is A Platform That Provides AI-powered Data Extraction And Document Processing Capabilities For Businesses.
+- [Import.io](https://www.import.io/) - Import.io Is A Platform That Allows You To Extract Data From Websites And Transform It Into Structured Formats Such As CSV Or JSON.
+- [IngestAI.io](https://ingestai.io/) - IngestAI.io Is A Platform That Provides AI-powered Data Extraction And Document Processing Capabilities For Businesses.
+- [JoeDocs](https://joedocs.com/) - JoeDocs Is A Web Application That Uses GPT-3 To Generate Text For Various Use Cases Such As Resumes, Cover Letters, And Emails.
+- [Lindy](https://www.lindy.ai/) - Lindy Is A Platform That Provides AI-powered Data Extraction And Document Processing Capabilities For Businesses.
+- [Maestro AI](https://www.getmaestro.ai/) - Maestro AI Is A Platform That Helps Businesses Automate Their Document Workflows, Allowing Teams To Collaborate And Manage Their Documents Efficiently.
+- [Markprompt](https://markprompt.com/) - Markprompt Is A Web Application That Helps Users Generate Writing Prompts Using GPT-3.
+- [Omneky](https://www.omneky.com/) - Omneky Is A Platform That Provides AI-powered Data Extraction And Document Processing Capabilities For Businesses.
+- [Paperback](https://paperbackhq.com/) - Paperback Is A Platform That Helps Users Generate Various Types Of Documents, Such As Resumes, Cover Letters, And Business Proposals.
+- [Paragraphs](https://paragraphs.pigro.ai/) - Paragraphs Is A Platform That Uses AI To Generate High-quality Summaries Of News Articles, Scientific Papers, And Other Types Of Documents.
+- [Personabo](https://personabo.com/) - Personabo Is A Web Application That Uses GPT-3 To Generate Text For Various Use Cases Such As Blog Posts, Product Descriptions, And Social Media Captions.
+- [Samaya](https://samaya.ai/) - Samaya Is A Platform That Provides AI-powered Data Extraction And Document Processing Capabilities For Businesses.
+- [Scribe](https://scribe-app.com/) - Scribe Is A Platform That Helps Users Automate Their Transcription Process Using AI-powered Speech Recognition.
+- [Seek AI](https://www.seek.ai/) - Seek AI Is A Platform That Provides A Suite Of AI-powered Tools For Data Extraction, Transformation, And Analysis.
+- [Sheldon](https://www.heysheldon.com/) - Sheldon Is A Web Application That Uses GPT-3 To Generate Text For Various Use Cases Such As Resumes, Cover Letters, And Emails.
+- [Tuchu](https://tuchu.app/) - Tuchu Is A Platform That Allows You To Collaborate And Work On Documents, Spreadsheets, And Presentations With Your Team In Real-time.
+
+**AI | Resources | Aggregators**
+
+- [Wikiaitools](https://www.wikiaitools.com/) - Wikiaitools Is A Platform That Provides A Collection Of AI Tools, Including Language Models, Image Recognition, And Speech-to-text Transcription.
+- [Wikigpt3](https://www.wikigpt3.com/) - Wikigpt3 Is A Platform That Provides A Collection Of GPT-3-powered Applications And Tools, Including Chatbots, Content Generators, And Language Translation.
+
+
 ## 2023-03-24
 
 - [Adobe Firefly (Beta)](https://firefly.adobe.com/) - A Creative Collaboration Tool For Teams To Ideate, Refine, And Rapidly Iterate On Designs Using AI.
