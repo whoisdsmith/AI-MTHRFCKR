@@ -47,6 +47,38 @@
 
 ## Recently Added
 
+### 2023-03-27
+
+Here are the names and brief descriptions of the websites you provided in markdown list format:
+
+*   [AI Tools Directory](https://aitoolsdirectory.com/)  - A directory of AI tools and resources that helps you discover and compare various tools in different categories related to artificial intelligence.
+    
+*   [Architect.io](https://www.architect.io/)  - Architect.io is a platform that helps you to easily create, deploy and manage applications in the cloud using Kubernetes.
+    
+*   [Business Generator](https://business-generator.vercel.app/?ref=producthunt)  - A simple and user-friendly tool that helps you to create a business plan and generate financial projections in just a few minutes.
+    
+*   [Current Report](https://current.report/)  - A news and insights platform for the finance industry that delivers real-time news, data and analytics to traders, investors and analysts.
+    
+*   [Design Tools AI](https://designtools.ai/)  - A design assistant powered by artificial intelligence that helps you to create and optimize designs for various platforms such as social media, websites, and ads.
+    
+*   [Everyday AI Tools](https://everydayaitools.com/)  - A collection of free AI tools for everyday use that includes tools for image recognition, language translation, text summarization and more.
+    
+*   [Fleetic](https://fleetic.com/)  - Fleetic is an AI-powered platform that helps fleet managers optimize and automate their fleet operations to improve efficiency and reduce costs.
+    
+*   [Modly AI](https://www.modly.ai/)  - Modly AI is a chatbot platform that helps businesses automate their customer support and engagement using natural language processing and machine learning.
+    
+*   [NeuralPen](https://neuralpen.net/)  - A neural network-based handwriting recognition tool that converts handwritten notes into digital text.
+    
+*   [OpenAI Tube](https://openai.tube/)  - OpenAI Tube is a video platform that provides a curated collection of educational videos about artificial intelligence and related topics.
+    
+*   [Punya.ai](https://punya.ai/)  - Punya.ai is a platform that enables businesses to create and deploy AI-powered chatbots for customer support, sales and marketing.
+    
+*   [Realr AI](https://realr.ai/)  - A real estate platform that uses AI to provide accurate property valuations and market insights to real estate professionals.
+    
+*   [WeLists](https://welists.co/)  - WeLists is a platform that enables businesses to create and share lists for different purposes such as marketing, content creation and more.
+
+---
+
 ### 2023-03-26
 
 **AI | Docs**
@@ -85,6 +117,7 @@
 - [Wikiaitools](https://www.wikiaitools.com/) - Wikiaitools Is A Platform That Provides A Collection Of AI Tools, Including Language Models, Image Recognition, And Speech-to-text Transcription.
 - [Wikigpt3](https://www.wikigpt3.com/) - Wikigpt3 Is A Platform That Provides A Collection Of GPT-3-powered Applications And Tools, Including Chatbots, Content Generators, And Language Translation.
 
+---
 
 ## 2023-03-24
 
