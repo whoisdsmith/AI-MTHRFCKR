@@ -1,0 +1,22 @@
+Create a c# class in order to serialize deserialize a json object:
+- Include xml comments [yes]
+- Include functions to serialize/deserialize the object to string [no]
+- Include functions to save/load the json to disk with the extension ".object" [no]
+- IMPORTANT: property naming convention [snake_case], eg `public bool used_for_farmer_rewards { get; set; }`
+- Exclude attributes as I am working with System.Text.Json
+- If applicable use the classname from the original Documentation in [PascalCase] format
+- Class Name Suffix: [_FarmerObject]
+- The Class is a derivate of ObjectTemplate: [MyClass_FarmerObject : ObjectTemplate<MyClass_FarmerObject>]
+- Lists should be implemented as arrays
+- Positive integers are likely of type ulong
+- The base class is already present, omit it from your response
+
+Here is some further documentation about the RPC (optional):
+```
+{Optional}
+```
+
+This is the original JSON RPC to serialize/deserialize:
+```
+{Mandatory}
+```

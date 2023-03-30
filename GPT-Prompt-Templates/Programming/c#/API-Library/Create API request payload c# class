@@ -1,0 +1,55 @@
+Create a c# class that represents the json payload for the api call.
+- include xml comments [yes]
+- IMPORTANT: property naming convention [snake_case], eg `public bool used_for_farmer_rewards { get; set; }`
+- dont include `[Jsonproperties]` as I am working with System.Text.Json
+- include functions to serialize/deserialize the response to string [yes]
+- include functions to save/load the json to disk with the extension ".rpc" [yes]
+- if applicable use the classname from the original Documentation in [PascalCase] format
+- Class Name Suffix: [_RPC]
+
+
+Here is some further documentation about the request:
+```
+{Optional}
+```
+
+This is a sample JSON payload serialize/deserialize:
+```
+{Optional}
+```
+
+This is a Sample for the class structure im looking for, kind of like a template
+```
+public class DidID_RPC
+    {
+        public string did_id { get; set; }
+        public void Save(string path)
+        {
+            if (!path.EndsWith(".rpc"))
+            {
+                path += ".rpc";
+            }
+            JsonSerializerOptions options = new JsonSerializerOptions();
+            options.WriteIndented = true;
+            options.DefaultIgnoreCondition = System.Text.Json.Serialization.JsonIgnoreCondition.WhenWritingNull;
+            string testText = JsonSerializer.Serialize(this, options: options);
+            Encoding utf8WithoutBom = new UTF8Encoding(false); // no bom
+            File.WriteAllText(path, testText, utf8WithoutBom);
+        }
+        public static DidID_RPC Load(string path)
+        {
+            FileInfo testFile = new FileInfo(path);
+            string text = File.ReadAllText(testFile.FullName);
+            DidID_RPC rpc = JsonSerializer.Deserialize<DidID_RPC>(text);
+            return rpc;
+        }
+        public override string ToString()
+        {
+            JsonSerializerOptions options = new JsonSerializerOptions();
+            options.WriteIndented = false;
+            options.DefaultIgnoreCondition = System.Text.Json.Serialization.JsonIgnoreCondition.WhenWritingNull;
+            string jsonString = JsonSerializer.Serialize(this, options: options);
+            return jsonString;
+        }
+    }
+```

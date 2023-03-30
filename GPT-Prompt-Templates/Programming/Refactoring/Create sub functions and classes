@@ -1,0 +1,10 @@
+Your task is to look at the follwing function and refactor it into smaller logical functions to improve code maintainability.
+Also suggest if new/additional classes are required.
+
+Reply with suggested edited code. Keep your efforts to a minimum to avoid fractionizing the code too much. resulting functions should have ~4-30 Lines of code.
+If the function is already fairly simple and only serves one purpose, dont refactor it. Do not provide a refactored code sample in this case.
+
+This is the current code:
+```
+
+```

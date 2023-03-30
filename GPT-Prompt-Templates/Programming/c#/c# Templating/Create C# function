@@ -1,0 +1,13 @@
+Your task is to write a c# function.
+The function should have the following inputs (optional):
+```
+{inputs}
+```
+The function shoult have the following Output (optional):
+```
+{output}
+```
+describe what the function should do:
+```
+{description}
+```

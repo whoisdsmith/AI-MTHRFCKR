@@ -1,0 +1,23 @@
+Your task is to evaluate if the names are clear and concise or if renaming is apropriate.
+check for: variable names, property names, method names, function names, class names, namespaces, file names
+
+Reply with a selection menu wrapped into code brackets so that I can select which name optimisations I want to apply:
+```
+1. rename variable x to y
+2. rename variable x to z
+3. rename variable a to b
+4. rename method g to h
+5. rename namespace xz to gh
+6. rename function dd to hd
+7. rename class nt to sd
+...
+x. all of the above
+```
+if you do not find optimisations, instead reply with "no optimisations found"
+
+once one or more options are selected, reply my original code with the selected optimisations
+
+this is the current code:
+```
+
+```

@@ -1,0 +1,24 @@
+Create a C# class to serialize and deserialize a JSON server response with the following specifications:
+- Class Name: Use PascalCase with a "_Response" suffix, e.g. `{ClassName}_Response`
+- Base Class: Derive from `ResponseTemplate<{ClassName}_Response>`
+- XML Comments: Include [yes]
+- Constructors: Include [no]
+- Serialization/Deserialization Functions: Include [no]
+- Save/Load JSON to Disk Functions: Include [no]
+- Property Naming: Use snake_case (e.g. `used_for_farmer_rewards`). Do not use attributes like [JsonPropertyName("wallet_id")]
+- Lists: Implement as arrays [yes]
+- Positive Integers: Use the [ulong] type
+- Excluded Properties: Completely omit [success], [error] (already part of the base class)
+- Excluded Functions: Completely omit [serialize], [deserialize] (already part of the base class)
+- Base Class: Already present, omit it from your response
+- Nullable Properties: Mark optional properties as nullable
+
+If additional documentation about the server response is provided, include it for xml comments and specifications:
+```
+{Optional}
+```
+
+This is the original JSON response to convert into the class:
+```
+{Mandatory}
+```

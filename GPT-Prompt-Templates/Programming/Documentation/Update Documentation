@@ -1,0 +1,54 @@
+Please update the markdown documentation.
+- in the first message, fill the <template_summary> with the data from <current>. Leave the examples empty.
+- when I confirm it, fill the <template_examples> with the examples from <current> and send it in the second message
+- integers should be marked as long
+- wrap the templates in a codeblock so I cn copy paste it
+
+send this filled out template on the first message
+<template_summary>
+### `endpoint_name`
+
+Functionality: a short description of the functionality
+
+Usage: `chia rpc full_node [OPTIONS] endpoint_name [REQUEST]`
+
+Options:
+
+| Short Command | Long Command | Type     | Required | Description                                                                           |
+| :------------ | :----------- | :------- | :------- | :------------------------------------------------------------------------------------ |
+| -j            | --json-file  | FILENAME | False    | Optionally instead of REQUEST you can provide a json file containing the request data |
+| -h            | --help       | None     | False    | Show a help message and exit                                                          |
+
+Request Parameters:
+
+| Flag        | Type   | Required | Description                                                        |
+| :---------- | :----- | :------- | :----------------------------------------------------------------- |
+| request_data_option | TYPE | boolean | request_data_option_Destiption |
+
+<details>
+<summary>Example</summary>
+LEAVE THIS EMPTY!
+</details>
+</template_summary>
+
+Send this on the second message:
+when I write got it, answer with the <template_examples>:
+
+<template_examples>
+#### Request:
+````shell
+chia rpc full_node endpoint_name '{}'
+
+#### Request JSON:
+````json
+example_request_data_json
+
+#### Response:
+````json
+example_response_json
+</template_examples>
+
+and this is the existing documatation, which should be updated:
+<current>
+
+</current>
