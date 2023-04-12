@@ -14,10 +14,10 @@ Short form name refers to original paper, otherwise if short form not avialable 
 
 | Link | Topic |
 | --- | --- |
-| [resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/Resources/AI-Notes/Resources/AI-Notes/Stylegan-Series.md](Stylegan-Series.md)Stylegan-Series.md) | ProGAN |
+| [resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/Resources/AI-Notes/Resources/AI-Notes/Resources/AI-Notes/Stylegan-Series.md](Stylegan-Series.md)Stylegan-Series.md) | ProGAN |
 | | StyleGAN |
 | | StyleGAN 2 |
 | | StyleGAN 2 ADA |
-[resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/Resources/AI-Notes/Resources/AI-Notes/Resnet-Series.md](Resnet-Series.md)](Resources/AI[neural-style-series.md](Resources/AI-Notes/Nst-Series.md).md](Resources/AI-Notes/Nst-Series.md).md](resources/ai-notes/nst-series.md[vision-transformer-series.md](Resources/AI-Notes/Vit-Series.md).md](Resources/AI-Notes/Vit-Series.md).md](resour[resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/Resources/AI-Notes/Resources/AI-Notes/Gaugan-Series.md](Gaugan-Series.md)es/Gaugan-Series.md][resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/Resources/AI-Notes/Resources/AI-Notes/Knowledge-Distillation-Series.md](Knowledge-Distillation-Series.md)Distillation-Series.md](Resources/AI-Notes/Knowledge-Distillation-Series.md) | Distilling the Knowledge in a Neural Network |
+[resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/Resources/AI-Notes/Resources/AI-Notes/Resources/AI-Notes/Resnet-Series.md](Resnet-Series.md)](Resources/AI[neural-style-series.md](Resources/AI-Notes/Nst-Series.md).md](Resources/AI-Notes/Nst-Series.md).md](resources/ai-notes/nst-series.md[vision-transformer-series.md](Resources/AI-Notes/Vit-Series.md).md](Resources/AI-Notes/Vit-Series.md).md](resour[resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/Resources/AI-Notes/Resources/AI-Notes/Resources/AI-Notes/Gaugan-Series.md](Gaugan-Series.md)es/Gaugan-Series.md][resources/ai-notes/resources/ai-notes/resources/ai-notes/resources/ai-notes/Resources/AI-Notes/Resources/AI-Notes/Resources/AI-Notes/Knowledge-Distillation-Series.md](Knowledge-Distillation-Series.md)Distillation-Series.md](Resources/AI-Notes/Knowledge-Distillation-Series.md) | Distilling the Knowledge in a Neural Network |
 | | On the Efficacy of Knowledge Distillation |
 | | Does Knowledge Distillation Really Work? |
