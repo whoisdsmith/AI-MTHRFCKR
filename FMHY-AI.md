@@ -1,6 +1,8 @@
 ***
 ***
+
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+
 ***
 ***
 
@@ -8,6 +10,11 @@
 
 ***
 ***
+
+[[_TOC_]]
+
+---
+---
 
 # ► AI Chatbots
 
@@ -66,7 +73,7 @@
 * [openai_pipe](https://github.com/Aesthetikx/openai_pipe) - Unix Theme
 * [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
 * [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
-* [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats 
+* [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/) - AI Chat WebUI
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
 
@@ -78,7 +85,7 @@
 * ⭐ **[Learn Prompting](https://learnprompting.org/)** - Prompt Directory
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheet
 * [botprompts](https://botprompts.net/) - Fun Prompts
-* [ChatGPT-History](https://github.com/benf2004/ChatGPT-History) - Prompt Management Extension 
+* [ChatGPT-History](https://github.com/benf2004/ChatGPT-History) - Prompt Management Extension
 * [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Prompt Directory
 * [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) or [GPT Jailbreak](https://rentry.co/gptjailbreak) - DAN / John Prompts
 * [flowgpt](https://flowgpt.com/) - Prompt Directory
@@ -87,7 +94,6 @@
 * [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/) - Prompt Directory
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) - Prompt Generator
 
-***
 ***
 
 # ► AI Indexes
@@ -115,7 +121,6 @@
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 
 ***
-***
 
 # ► Text Generators
 
@@ -123,7 +128,7 @@
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3 Based AI
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT-4 Based AI
 * ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based AI
-* [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type 
+* [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based AI
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Text AI / [API](https://github.com/acheong08/EdgeGPT)
 * [BlogNLP](https://www.blognlp.com/) - Creator / Marketing AI
@@ -158,26 +163,6 @@
 
 ***
 
-## ▷ [Text Rephrashing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing)
-
-***
-
-## ▷ [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator)
-
-***
-
-## ▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)
-
-***
-
-## ▷ [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_to_speech)
-
-***
-
-## ▷ [Plagiarism Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection)
-
-***
-
 ## ▷ AI Text Detection
 
 * [ai-content-detector](https://contentatscale.ai/ai-content-detector/)
@@ -189,15 +174,13 @@
 * [openai-detector](https://huggingface.co/openai-detector/) / [2](https://openai-openai-detector.hf.space/)
 * [ZeroGPT](https://www.zerogpt.com/)
 
-
-***
 ***
 
 # ► Image Generators
 
 * ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
-* ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) - AI Image Generator /  [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
+* ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) - AI Image Generator / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
 * ⭐ **[DALL-E](https://labs.openai.com/)** or [ruDALL-E](https://rudalle.ru/en/) - AI Image Generator / [WorkFlow](https://github.com/jina-ai/dalle-flow), [2](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) / [CLI](https://github.com/raiyanyahya/dallecli)
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * ⭐ **[Lexica](https://lexica.art/)**, [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://www.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
@@ -205,7 +188,7 @@
 * ⭐ **[PromptMania](https://promptomania.com/)** - AI Image Prompt Generator
 * ⭐ **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [4](https://github.com/Sygil-Dev/sygil-webui) / [5](https://github.com/ddPn08/Lsmith) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified), [2](https://github.com/camenduru/stable-diffusion-webui-colab)
-* ⭐ **[Stability-AI](https://github.com/Stability-AI/stablediffusion)** /  [2](https://huggingface.co/spaces/stabilityai/stable-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion) 
+* ⭐ **[Stability-AI](https://github.com/Stability-AI/stablediffusion)** / [2](https://huggingface.co/spaces/stabilityai/stable-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion)
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * [AI Art Generator](https://neural.love/ai-art-generator) - AI Image Generator
 * [AI Gahaku](https://ai-art.tokyo/en/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/), [InstaPainting](https://www.instapainting.com/assets/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork
@@ -236,7 +219,7 @@
 * [Midjourney](https://www.midjourney.com/) - AI Image Generator
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) - AI Image Generator
 * [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
-*  [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
+* [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
 * [Ocriador](https://ocriador.app/) - AI Image Generator
 * [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
 * [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
@@ -257,22 +240,6 @@
 * [Uranus AI](https://uranus.ai/) - AI Image Generator
 * [Visuali](https://visuali.io/) - AI Image Generator
 * [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) - Anime Image Generator
-
-***
-
-## ▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_restoration)
-
-***
-
-## ▷ [Image Colorization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization)
-
-***
-
-## ▷ [Image Upscaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers)
-
-*** 
-
-## ▷ [Background Removal](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers)
 
 ***
 
@@ -297,7 +264,6 @@
 * [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo) - Stable Diffusion Guide
 * [Textard](https://rentry.org/textard) - Textual Inversion Guide
 
-***
 ***
 
 # ► Audio Generators
@@ -339,10 +305,9 @@
 
 # ► Machine Learning
 
-
 * ⭐ **[awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)** or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
-* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons 
-* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book 
+* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
+* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
 * [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Machine Learning Colabs
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
 * [Catalyzex](https://www.catalyzex.com/) or [PapersWithCode](https://paperswithcode.com/) - Search Machine Learning Models / Papers
@@ -353,8 +318,10 @@
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
-* [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset 
-* [Netron](https://github.com/lutzroeder/netron) -  Visualizer for Neural Network, Deep Learning, and Machine Learning Models 
+* [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset
+* [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
+
+---

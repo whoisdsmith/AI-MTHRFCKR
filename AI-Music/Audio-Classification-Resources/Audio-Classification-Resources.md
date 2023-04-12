@@ -202,14 +202,14 @@ However, these surveys do not cover music information retrieval tasks that are i
 
 ## DL4M Details
 
-A human-readable table summarized version if displayed in the file [Dl4M.tsv](dl4m.tsv). All details for each article are stored in the corresponding bib entry in [Dl4M.bib](dl4m.bib). Each entry has the regular bib field:
+A human-readable table summarized version if displayed in the file [Dl4M.tsv](Dl4M.tsv). All details for each article are stored in the corresponding bib entry in [Dl4M.bib](Dl4M.bib). Each entry has the regular bib field:
 
 - `author`
 - `year`
 - `title`
 - `journal` or `booktitle`
 
-Each entry in [Dl4M.bib](dl4m.bib) also displays additional information:
+Each entry in [Dl4M.bib](Dl4M.bib) also displays additional information:
 
 - `link` - HTML link to the PDF file
 - `code` - Link to the source code if available
@@ -244,7 +244,7 @@ Each entry in [Dl4M.bib](dl4m.bib) also displays additional information:
 
 ## Statistics and visualisations
 
-- 165 papers referenced. See the details in [Dl4M.bib](dl4m.bib).  
+- 165 papers referenced. See the details in [Dl4M.bib](Dl4M.bib).  
 There are more papers from 2017 than any other years combined.  
 Number of articles per year:  
 ![Number of articles per year](../awesome-deep-learning-music-master/fig/articles_per_year.png)
@@ -295,13 +295,13 @@ The list provided here does not guarantee the quality of the articles. You shoul
 
 ## Acronyms used
 
-A list of useful acronyms used in deep learning and music is stored in [Acronyms.md](acronyms.md).
+A list of useful acronyms used in deep learning and music is stored in [Acronyms.md](Acronyms.md).
 
 [Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 
 ## Sources
 
-The list of conferences, journals and aggregators used to gather the proposed materials is stored in [Sources.md](sources.md).
+The list of conferences, journals and aggregators used to gather the proposed materials is stored in [Sources.md](Sources.md).
 
 [Go back to top](https://github.com/ybayle/awesome-deep-learning-music#deep-learning-for-music-dl4m-)
 

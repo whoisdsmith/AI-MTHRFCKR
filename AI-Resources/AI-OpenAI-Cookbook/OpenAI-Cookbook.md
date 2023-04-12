@@ -22,8 +22,8 @@
 	- [openai--cookbook](OpenAI--Cookbook.md)
 	- [openai-cookbook](../../../..//home-mthrfckr/ai-and-machine-learning/ai-openai-cookbook/openai-cookbook.md)
 	- [techniques-to-improve-reliability](Techniques-To-Improve-Reliability.md)
-	- **[transition-guides-for-deprecated-api-endpoints](Transition-Guides-For-Deprecated-Api-Endpoints.md)**
-		- [transition-guides-for-deprecated-api-endpoints-ai](Transition-Guides-For-Deprecated-Api-Endpoints-AI.md)
-		- [transition-guides-for-deprecated-api-endpoints](Transition-Guides-For-Deprecated-Api-Endpoints.md)
+	- **[transition-guides-for-deprecated-api-endpoints](Transition-Guides-For-Deprecated-Api-Endpoints/Transition-Guides-For-Deprecated-Api-Endpoints.md)**
+		- [transition-guides-for-deprecated-api-endpoints-ai](Transition-Guides-For-Deprecated-Api-Endpoints/Transition-Guides-For-Deprecated-Api-Endpoints-AI.md)
+		- [transition-guides-for-deprecated-api-endpoints](Transition-Guides-For-Deprecated-Api-Endpoints/Transition-Guides-For-Deprecated-Api-Endpoints.md)
 
 %% End Waypoint %%

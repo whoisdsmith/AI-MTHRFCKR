@@ -15,4 +15,4 @@
 - [Miscellaneous](misc.md)
 - [SDupdates 1](Sdupdates_Backup.md)
 - [SDupdates 2](Sdupdates_2_Backup.md)
-- [Embeddings](Embeddings.md)
+- [Embeddings](../Embeddings.md)
