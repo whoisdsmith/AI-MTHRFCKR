@@ -53,26 +53,38 @@
 
 ### 2023-04-12
 
-- [AI Prompt Randomizer](https://promptrandomizer.tdbr.de/) - A tool that generates creative prompts for AI models, useful for writers and content creators.
 - [AIcoustics Playground](https://ai-coustics.com/playground/) - An AI-powered audio synthesis platform for creating unique soundscapes and music.
+- [AI Prompt Randomizer](https://promptrandomizer.tdbr.de/) - A tool that generates creative prompts for AI models, useful for writers and content creators.
+- [Artificial Intelligence for Facilitators](https://about.stormz.me/en/ai/) - A platform offering AI-powered tools to assist facilitators in designing and running collaborative workshops.
 - [Booknotes](https://getbooknotes.com/) - A service that provides summaries and key insights from popular books.
 - [ChatGPT as a service](https://chatgpt-as-a-service.webflow.io/) - An API for integrating ChatGPT into your own applications and services.
+- [ChatGPT Prompt Plus](https://promptplus.org/) - A user-friendly tool for generating creative and effective prompts for use with OpenAI's ChatGPT. 
 - [CommanderGPT](https://www.commandergpt.app/) - A natural language interface for controlling software and executing commands.
 - [Databerry](https://www.databerry.ai/) - An AI-powered data preparation and analytics platform.
 - [Dropchat](https://app.dropchat.co/landing) - A secure messaging app that uses AI for privacy and enhanced communication features.
 - [Dynoweb](https://dynoweb.site/) - A website builder that leverages AI to create responsive and modern websites.
+- [Facet](https://facet.ai/) - A next-generation platform for photo editing that leverages AI to provide powerful and precise image manipulation.
+- [GPTfy](https://gptfy.co/) - A platform that enables users to harness the power of GPT-based AI models for a variety of tasks, including content creation and data analysis. 
 - [KombineAI](https://www.kombine.ai/) - An AI-powered platform for analyzing and optimizing business processes.
 - [Literally Anything](https://www.literallyanything.io/) - A service that generates content on any topic using advanced AI models.
 - [LlamaChat](https://llamachat.app/) - A messaging app that uses AI to generate context-aware responses and suggestions.
 - [Lore](https://thellm.app/) - A platform for creating immersive and interactive stories with the help of AI.
 - [Machine Translation Services](https://www.machinetranslation.com/) - A provider of AI-powered translation services for various languages.
+- [Nichely](https://nichely.ai/) - A tool that uses AI to help businesses identify and capitalize on underserved niches in their markets.
 - [NoowAI](https://noowai.com/) - A platform that uses AI to help businesses automate content creation and marketing.
+- [Perpend](https://perpend.in/) - A platform that combines AI and data analytics to help businesses make better decisions and grow their customer base.
 - [Playlistable](https://playlistable.io/) - A service that creates personalized playlists using AI algorithms.
 - [PlaylistGeniusAI](https://www.playlistgeniusai.com/) - An AI-powered music recommendation engine that generates playlists based on user preferences.
+- [Polarr Copilot](https://copilot.polarr.com/) - A smart photo editor that uses AI to recommend optimal editing adjustments based on the content of your photos.
 - [PROMPTMETHEUS](https://promptmetheus.com/) - A platform that generates AI-powered writing prompts for creative writing exercises.
+- [QueryKittie](https://www.querykitty.com/) - A search engine that uses AI to provide users with relevant and personalized search results based on their preferences and behavior.
 - [RegexAI](https://regex.ai/) - An AI-powered tool that generates and optimizes regular expressions based on natural language input.
 - [Sensible Instruct](https://app.sensible.so/instruct/) - A service that uses AI to generate step-by-step instructions based on user input.
+- [SommerAI](https://www.sommerai.com/) - An AI-powered platform that helps businesses automate customer support and improve customer experience through smart virtual assistants.
+- [SpeechTextAI](https://speechtext.ai/) - A service that uses AI to convert spoken language into written text, enabling users to transcribe audio and video content quickly and accurately.
+- [ToolbuilderAI](https://toolbuilder.ai/) - A platform that allows users to create custom AI-powered tools tailored to their specific needs and requirements.
 - [Visus](https://www.visus.ai/) - An AI-driven platform for visualizing and analyzing complex data sets.
+- [WindowAI](https://windowai.io/) - A tool that uses AI to analyze and optimize digital advertising campaigns, helping businesses increase ROI and customer engagement.
 - [Your SearchAI](https://app.yoursearch.ai/) - A search engine that uses AI to surface relevant and personalized results.
 - [ZapprAI](https://zappr.ai/) - A platform that leverages AI to automate content creation for social media and marketing campaigns.
 - [ZipChat](https://zipchat.ai/) - An AI-powered chatbot platform for customer support and engagement.
