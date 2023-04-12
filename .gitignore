@@ -1,5 +1,6 @@
 # to exclude Obsidian's settings (including plugin and hotkey configurations)
 .obsidian/
+.obsidian-ocr.sqlite/
 .trash/
 .DS_Store
 .vscode/
