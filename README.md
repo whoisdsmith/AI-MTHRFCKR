@@ -47,6 +47,10 @@
 
 ## Recently Added
 
+## FMHY AI Resources
+
+- [FMHY-AI](FMHY-AI.md) - FMHY Reddit's AI Wiki
+
 ### 2023-04-12
 
 - [AI Prompt Randomizer](https://promptrandomizer.tdbr.de/) - A tool that generates creative prompts for AI models, useful for writers and content creators.
