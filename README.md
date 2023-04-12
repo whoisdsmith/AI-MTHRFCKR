@@ -47,10 +47,6 @@
 
 ## Recently Added
 
-## FMHY AI Resources
-
-- [FMHY-AI](FMHY-AI.md) - FMHY Reddit's AI Wiki
-
 ### 2023-04-12
 
 - [AIcoustics Playground](https://ai-coustics.com/playground/) - An AI-powered audio synthesis platform for creating unique soundscapes and music.
@@ -64,6 +60,7 @@
 - [Dropchat](https://app.dropchat.co/landing) - A secure messaging app that uses AI for privacy and enhanced communication features.
 - [Dynoweb](https://dynoweb.site/) - A website builder that leverages AI to create responsive and modern websites.
 - [Facet](https://facet.ai/) - A next-generation platform for photo editing that leverages AI to provide powerful and precise image manipulation.
+- [FMHY-AI](FMHY-AI.md) - FMHY Reddit's AI Wiki
 - [GPTfy](https://gptfy.co/) - A platform that enables users to harness the power of GPT-based AI models for a variety of tasks, including content creation and data analysis. 
 - [KombineAI](https://www.kombine.ai/) - An AI-powered platform for analyzing and optimizing business processes.
 - [Literally Anything](https://www.literallyanything.io/) - A service that generates content on any topic using advanced AI models.
@@ -307,7 +304,7 @@
 
 ---
 
-## 2023-03-24
+### 2023-03-24
 
 - [Adobe Firefly (Beta)](https://firefly.adobe.com/) - A Creative Collaboration Tool For Teams To Ideate, Refine, And Rapidly Iterate On Designs Using AI.
 - [AI AutoFiler Pro](https://github.com/haseeb-heaven/AIAutoFilerPro) - An Open-source Project That Uses AI To Automate The Process Of Filing Emails And Documents.
