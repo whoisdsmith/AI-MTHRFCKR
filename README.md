@@ -50,7 +50,9 @@
 ### 2023-04-15
 
 - [AI Code Mentor](https://code-mentor.ai/) - An AI-powered coding assistant that helps developers write code more efficiently.
+- [AirOps | Bring AI to Work](https://www.airops.com/) - Copywriting at Scale. Create personalized emails, product descriptions or SEO content.
 - [AIZONIX](https://aizonix.com/) - A platform for AI-driven data analysis and insights, helping businesses improve decision-making.
+- [Code Translator](https://ai-code-translator.vercel.app/) - Translate code between two different coding languages.
 - [easyMessageAI](https://easymessage.ai/ai-generated-messages) - A tool that generates AI-crafted messages to improve engagement and conversions.
 - [FindMyAITool](https://findmyaitool.com/) - A search engine for AI tools, making it easier to discover the right AI solutions for your needs.
 - [GPT Lab](https://gptlab.streamlit.app/) - An interactive platform that enables users to experiment with GPT models and generate text.
