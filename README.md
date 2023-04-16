@@ -47,6 +47,17 @@
 
 ## Recently Added
 
+### 2023-04-15
+
+- [AI Code Mentor](https://code-mentor.ai/) - An AI-powered coding assistant that helps developers write code more efficiently.
+- [AIZONIX](https://aizonix.com/) - A platform for AI-driven data analysis and insights, helping businesses improve decision-making.
+- [easyMessageAI](https://easymessage.ai/ai-generated-messages) - A tool that generates AI-crafted messages to improve engagement and conversions.
+- [FindMyAITool](https://findmyaitool.com/) - A search engine for AI tools, making it easier to discover the right AI solutions for your needs.
+- [GPT Lab](https://gptlab.streamlit.app/) - An interactive platform that enables users to experiment with GPT models and generate text.
+- [Iterate.World](https://iterate.world/) - A platform for building and deploying AI models, providing an easy-to-use interface for rapid development.
+- [SID Search](https://www.sidsearch.com/?via=aitoolhunt) - A specialized search engine focused on finding AI tools and services for various industries.
+- [UBOS](https://ubos.tech/) - A decentralized platform that connects developers and businesses to build, deploy, and manage AI applications.
+
 ### 2023-04-12
 
 - [AIcoustics Playground](https://ai-coustics.com/playground/) - An AI-powered audio synthesis platform for creating unique soundscapes and music.
