@@ -43,6 +43,25 @@
 
 ## Recently Added
 
+### 2023-04-16
+
+- [AiHunt](https://aihunt.app/) - A platform that curates and lists AI-related job opportunities in various industries.
+- [ARTSMART AI](https://artsmart.ai/?via=gpte) - AI-powered platform for generating artistic content including music, art, and poetry.
+- [Ask Command](https://askcommand.com/) - A natural language search engine that allows users to find answers quickly by asking questions.
+- [Document Pro](https://www.documentpro.ai/) - An AI-based document creation and editing tool that simplifies content generation.
+- [DocuWriterAI](https://www.docuwriter.ai/) - AI-driven tool for automating document drafting, writing, and editing processes.
+- [Further](https://nlp.appfurther.io/) - A natural language processing platform offering various services such as summarization, translation, and more.
+- [GPTinf](https://www.gptinf.com/) - A service that provides GPT-4 model access for developers, businesses, and researchers.
+- [Kapwing](https://www.kapwing.com/) - An online multimedia editor that enables users to create, edit, and share videos, images, and GIFs.
+- [RepoAI](https://repo-ai.com/repo) - A platform that helps users find the best AI models and code for their projects.
+- [Silatus](https://silatus.com/) - An AI-powered health platform that assists patients with diagnosis and personalized treatment recommendations.
+- [SummifyYT (Summarize YouTube Comments)](https://chrome.google.com/webstore/detail/summifyyt-summarize-youtu/mcjgidambippeaajehcfimmephgholco?ref=producthunt) - A Chrome extension that summarizes YouTube comments using AI.
+- [Superpower ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc?ref=producthunt) - A Chrome extension that enables users to interact with GPT-4 based AI while browsing.
+- [Synapses studio](https://synapses.studio/) - A platform for creating, training, and deploying custom AI models for various applications.
+- [TimbrAI](https://timbr.ai/platform/) - An AI platform for data scientists and engineers to build, share, and collaborate on data products.
+- [Top AI Tools Hub](https://www.topaitoolshub.com/) - A curated collection of top AI tools and resources for developers, researchers, and enthusiasts.
+- [X-Ally](https://github.com/robinmin/xally/?ref=producthunt) - An open-source AI-powered GitHub bot that automates the process of repository management.
+
 ### 2023-04-15
 
 - [AI Code Mentor](https://code-mentor.ai/) - An AI-powered coding assistant that helps developers write code more efficiently.
