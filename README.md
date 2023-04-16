@@ -53,8 +53,12 @@
 - [FindMyAITool](https://findmyaitool.com/) - A search engine for AI tools, making it easier to discover the right AI solutions for your needs.
 - [GPT Lab](https://gptlab.streamlit.app/) - An interactive platform that enables users to experiment with GPT models and generate text.
 - [Iterate.World](https://iterate.world/) - A platform for building and deploying AI models, providing an easy-to-use interface for rapid development.
+- [JackChat](https://app.jackchat.ai/) - A chatbot platform for creating and deploying AI-powered chatbots for businesses and personal use.
+- [SD Toolset](https://sdtools.org/) - A comprehensive collection of software development tools, libraries, and resources to assist developers in their projects.
 - [SID Search](https://www.sidsearch.com/?via=aitoolhunt) - A specialized search engine focused on finding AI tools and services for various industries.
+- [Spell](https://spell.so/) - A web-based platform for crafting and deploying machine learning models with a focus on simplicity and ease of use.
 - [UBOS](https://ubos.tech/) - A decentralized platform that connects developers and businesses to build, deploy, and manage AI applications.
+
 
 ### 2023-04-12
 
