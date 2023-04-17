@@ -45,21 +45,44 @@
 
 ### 2023-04-16
 
+- [AgentGPT](https://agentgpt.reworkd.ai/) - A powerful AI-driven platform for creating, managing, and optimizing chatbots and virtual agents.
 - [AiHunt](https://aihunt.app/) - A platform that curates and lists AI-related job opportunities in various industries.
+- [AI Studio](https://aistud.io/) - A collaborative platform for creating and sharing AI-based projects and models.
+- [Amazon Bedrock](https://aws.amazon.com/bedrock/) - A foundational service by Amazon Web Services (AWS) that simplifies machine learning infrastructure management.
+- [Any Summary](https://www.anysummary.app/) - An AI-powered tool that automatically summarizes articles, documents, or text for a quick understanding.
 - [ARTSMART AI](https://artsmart.ai/?via=gpte) - AI-powered platform for generating artistic content including music, art, and poetry.
 - [Ask Command](https://askcommand.com/) - A natural language search engine that allows users to find answers quickly by asking questions.
+- [Autoblocks](https://www.autoblocks.ai/) - An AI-driven platform that helps in generating code automatically to speed up software development.
+- [Autory](https://autory.ai/) - An AI-powered content creation tool that automatically writes articles, blog posts, and social media content.
+- [Brancher.ai](https://www.brancher.ai/) - A platform that uses AI to predict user actions and optimize digital marketing efforts.
+- [Bricabrac AI](https://bricabrac.ai/) - A machine learning solution provider offering custom AI models and data solutions for businesses.
+- [ClipGPT](https://clipgpt.io/) - An AI-based image recognition and generation tool that combines visual and textual information.
+- [Cognosys](https://www.cognosys.ai/) - A platform offering AI-powered predictive analytics and insights for businesses.
+- [DocumentationLab](https://documentationlab.com/) - A platform that uses AI to generate and maintain software documentation automatically.
 - [Document Pro](https://www.documentpro.ai/) - An AI-based document creation and editing tool that simplifies content generation.
 - [DocuWriterAI](https://www.docuwriter.ai/) - AI-driven tool for automating document drafting, writing, and editing processes.
+- [Exo](https://www.getexo.dev/) - A developer tool that leverages AI to predict and autocomplete code, making development faster and more efficient.
 - [Further](https://nlp.appfurther.io/) - A natural language processing platform offering various services such as summarization, translation, and more.
+- [Godmode.space](https://godmode.space/) - A platform for creating AI-powered web apps and services with no-code or low-code tools.
 - [GPTinf](https://www.gptinf.com/) - A service that provides GPT-4 model access for developers, businesses, and researchers.
+- [Grammar GPT](https://www.grammar-gpt.com/) - An AI-driven grammar correction tool that helps improve the quality and readability of text.
 - [Kapwing](https://www.kapwing.com/) - An online multimedia editor that enables users to create, edit, and share videos, images, and GIFs.
+- [MapDeduce](https://mapdeduce.com/) - An AI-based platform that provides geospatial analysis and insights for business and research purposes.
+- [Meet Mynd](https://www.mynd.so/) - A smart AI-powered calendar assistant that schedules and manages meetings efficiently.
+- [ProductiveGPT](https://productivegpt.vercel.app/) - An AI-powered productivity tool that helps users complete tasks and manage their time effectively.
+- [PromptBot](https://www.messengerx.io/promptbot) - A chatbot that generates creative prompts for writing, brainstorming, and idea generation.
 - [RepoAI](https://repo-ai.com/repo) - A platform that helps users find the best AI models and code for their projects.
+- [Reprompt](https://reprompt.dev/) - A platform that uses AI to improve the efficiency and effectiveness of content editing and proofreading.
+- [RevocalizeAI](https://www.revocalize.ai/) - An AI-powered voice cloning solution that enables the creation of realistic, human-like voices.
 - [Silatus](https://silatus.com/) - An AI-powered health platform that assists patients with diagnosis and personalized treatment recommendations.
 - [SummifyYT (Summarize YouTube Comments)](https://chrome.google.com/webstore/detail/summifyyt-summarize-youtu/mcjgidambippeaajehcfimmephgholco?ref=producthunt) - A Chrome extension that summarizes YouTube comments using AI.
 - [Superpower ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc?ref=producthunt) - A Chrome extension that enables users to interact with GPT-4 based AI while browsing.
 - [Synapses studio](https://synapses.studio/) - A platform for creating, training, and deploying custom AI models for various applications.
 - [TimbrAI](https://timbr.ai/platform/) - An AI platform for data scientists and engineers to build, share, and collaborate on data products.
 - [Top AI Tools Hub](https://www.topaitoolshub.com/) - A curated collection of top AI tools and resources for developers, researchers, and enthusiasts.
+- [Transformify](https://www.transformify.ai/automate) - A platform that automates business processes using AI and machine learning to increase efficiency.
+- [Trudo AI](https://www.trudo.ai/) - An AI-driven platform that generates high-quality content for marketing and communication purposes.
+- [Uncody](https://uncody.com/) - A code generation platform that leverages AI to create and optimize software code.
 - [X-Ally](https://github.com/robinmin/xally/?ref=producthunt) - An open-source AI-powered GitHub bot that automates the process of repository management.
 
 ### 2023-04-15
