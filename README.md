@@ -43,7 +43,14 @@
 
 ## Recently Added
 
-### 2023-04-16
+### 2013-04-17
+
+- [2AI](https://2ai.app/) - A platform offering AI-powered solutions for various industries, including image processing, natural language processing, and data analytics.
+- [Content Generator](https://icerik.ekayazilim.com.tr/) - A Turkish content generation tool that uses AI to create unique and SEO-friendly articles for websites and blogs.
+- [IAsk.AI](https://iask.ai/) - An AI-driven question-answering platform that allows users to ask questions and receive accurate answers from a large database of pre-trained models.
+- [Mini AppsAI](https://miniapps.ai/) - A collection of simple AI-powered tools and applications, such as image editing, text generation, and voice synthesis, designed to make everyday tasks easier.
+
+### 2023-04 -16
 
 - [AgentGPT](https://agentgpt.reworkd.ai/) - A powerful AI-driven platform for creating, managing, and optimizing chatbots and virtual agents.
 - [AiHunt](https://aihunt.app/) - A platform that curates and lists AI-related job opportunities in various industries.
