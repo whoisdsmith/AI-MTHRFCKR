@@ -3231,16 +3231,29 @@ Natural
 ### Search Engine
 
 - [AI-Powered Search Engine - Lucidworks](https://lucidworks.com/ai-powered-search/) - Lucidworks AI-powered Search Engine Can Be Used To Search, Discover, And Interact With Data In A Way That Is More Human-like.
-- [Algolia](https://www.algolia.com/) - Algolia Is A Search-as-a-service Provider That Enables Businesses To Quickly Provide A Search Experience In Their Digital Products.
+- [AISearchTool](https://aisearchtool.com/) - A Search Tool Powered By AI.
+- [AISEO](https://aiseo.ai/) - An AI-powered SEO Tool.
+- [Alfred Search](https://www.alfredsearch.com/) - Search Engine That Uses AI To Provide Personalized Search Results.
+- [Algolia](https://www.algolia.com/) - AI-powered Search And Discovery Platform That Helps Businesses Deliver Relevant Search Results And Personalized Recommendations.
+- [All Search AI](https://www.allsearch.ai/) - A Search Engine That Provides Results From Multiple Sources.
 - [Andi](https://andisearch.com/) - Andi Is A Search Engine That Allows You To Search And Browse Through All The Images On The Internet.
+- [Andisearch](http://andisearch.com) - Search For The Next Generation  
+- [Answer Overflow](https://www.answeroverflow.com/) - Answer Overflow Is A Search Engine For Programming Questions And Answers, Using AI To Provide More Accurate And Relevant Results.
 - [Anypod](http://www.anypod.ai) - Search Engines Built For Creators. We Make Your Content Searchable.
 - [ArtHub](https://arthub.ai/) - ArtHub Is An Online Art Gallery That Provides The Most Comprehensive And Comprehensive Online Art Search Engine.
+- [Ask Command](https://askcommand.com/) - A natural language search engine that allows users to find answers quickly by asking questions.
+- [AskMyBook](https://askmybook.com/): An AI-based Search Engine That Helps Users Find Books By Simply Asking Questions About The Content They Want To Read.
+- [Backlinks AI](https://getbacklinks.ai/) - An AI-powered Backlink Analysis Tool.  
+- [Barua AI](http://baruaai.com) - A Company That Provides AI-powered Solutions For Various Industries.
 - [Bria](https://bria.ai/) - Bria Is A Search Engine For The Web That Lets You Search For Things You Want To See.
 - [Casetext](https://casetext.com/) - Casetext Is A Search Engine That Lets You Search For The Most Relevant And Recent Cases From The Courts.
 - [ChatGPT Chrome Extension](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - A Chrome Extension That Allows You To Search For And Browse Through The Most Recent And Relevant News Articles.
+- [ChatGPT For Search Engine](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) - A Chrome Extension That Allows Users To Search For Information On The Web Using Natural Language Queries, Powered By AI.
 - [ChatGPT](https://chat.openai.com/chat) - ChatGPT Is A Search Engine That Lets You Search For The Most Recent And Relevant News Articles.
 - [Chatsonic](https://aiinfinity.blogspot.com/p/search-enginechatsonic.html) - ChatGPT Alternative Built With Superpowers!
+- [Cheatlayer.com](https://cheatlayer.com/) - A Search Engine That Helps Developers Quickly Find The Answers To Programming Questions And Issues.
 - [Civitai](https://civitai.com/) - Civitai Is A Search Engine That Lets You Search For And Browse Through The Latest News, Sports, And Entertainment Content.
+- [Collie](https://collie.ai/) - Collie Is An AI-powered Search Tool For Finding Similar Images. It Uses Machine Learning To Identify Visual Patterns And Similarities Between Images, And Can Be Used For Applications Like Product Search And Content Discovery.
 - [Consensus](https://consensus.app/search) - Consensus Is A Search Engine That Provides Real-time And Up-to-date Information On Various Topics, Including Finance, News, And Current Events.
 - [Context | AI-Powered Audio & Video Search Engine](https://addcontext.xyz/) - Context Is A Search Engine That Lets You Search For And Browse Through The Most Recent And Relevant News Articles.
 - [Crowdview](https://aiinfinity.blogspot.com/p/search-enginecrowdview.html) - Forum Search Engine!
@@ -3248,14 +3261,20 @@ Natural
 - [Dream Up (Deviant Art)](https://www.dreamup.com/) - Dream Up Is A Search Engine That Lets You Search For The Most Recent And Relevant News Articles.
 - [Enterpix](https://enterpix.app/) - Search For Images By Image.
 - [Everypixel](https://www.everypixel.com/) - Search For Images By Image.
+- [ExactBuyer Search](http://www.exactbuyer.com) - AI Powered Business Search For Prospecting Teams  
 - [Explore AI](https://exploreai.vercel.app/) - Explore A Collection Of AI Generated Images.
 - [FAQx](https://aiinfinity.blogspot.com/p/search-enginefaqx.html) - Say Goodbye to Endless Searches, Get Facts on FAQx.
+- [Ferret.ai](https://www.ferret.ai/): A Search Tool That Uses AI And Natural Language Processing To Help Teams Find The Information They Need Across Multiple Platforms.
+- [FindMyAITool](https://findmyaitool.com/) - A search engine for AI tools, making it easier to discover the right AI solutions for your needs.
 - [Fireflies.ai](https://fireflies.ai/) - Search For Images By Image.
 - [Generated Photos](https://generated.photos/) - Explore A Collection Of AI Generated Images.
+- [Glarity](https://glarity.app/) - Glarity Is An AI-powered Search Engine That Uses Natural Language Processing To Understand User Queries And Provide Relevant Search Results. It Includes Features Like Topic Clustering And Personalized Search.
 - [Glean](https://www.glean.com/) - Search For Images By Image.
+- [GoodLookup](https://www.goodlookup.com/): A Search Engine That Uses AI To Provide Personalized Recommendations For Products And Services.
+- [GrowthBar SEO](https://www.growthbarseo.com/): A SEO Tool That Uses AI To Help Businesses Improve Their Search Engine Rankings And Increase Website Traffic.
 - [Hello: Search Engine For Developers](https://beta.sayhello.so/) - Search For Images By Image.
 - [Imaiger](https://imaiger.com/) - Search For Images By Image.
-- [Kailua Labs](https://app.kailualabs.com/image-search) - Search For Images By Image.
+- [Kailua Labs Image Search](https://app.kailualabs.com/image-search?q=dog+with+sunglasses&fq=) - A Search Engine That Uses AI To Find Images Based On Specific Search Queries.
 - [Krea](https://www.krea.ai/) - AI-powered Marketing Automation Platform. Krea Helps Brands Take Control Of Their Customer Journeys, And Make The Most Out Of Their Customer Data, With No Coding Required.
 - [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) - Laion Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [Lexii.ai](http://lexii.ai/) - Lexii. AI. Lexii.ai Is An AI Search Assistant That Answers Questions And Cites Sources.
@@ -3263,26 +3282,31 @@ Natural
 - [Looria](https://looria.com/) - Looria Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [Mage](https://www.mage.space/) - Mage Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [Metaphor](https://aiinfinity.blogspot.com/p/search-enginemetaphor.html) - Metaphor is a search engine that predicts the next link, similar to the way that GPT-3 predicts the next word.
+- [Neeva.com](https://neeva.com/)- Neeva Is An Ad-free, Privacy-focused Search Engine That Uses AI Technology To Deliver More Relevant And Personalized Search Results.
 - [Neeva](https://aiinfinity.blogspot.com/p/search-engineneeva.html) - Search Powered by AI! Get Answers.Not Ads.
 - [Nuclia](https://nuclia.com/) - Nuclia Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [Nyx](https://nyx.gallery/) - Nyx Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [One More AI](https://onemoreai.com/) - One More AI Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [OpenArt Photo Booth](http://openart.ai) - Discover And Generate AI Art - Openart. Search 10M+ Prompts, And Generate AI Art Via Stable Diffusion, DALL·E 2.
 - [Perplexity AI](https://aiinfinity.blogspot.com/p/search-engineperplexity-ai.html) - Perplexity AI unlocks the power of knowledge with information discovery and sharing. 
+- [Pheeds](http://Pheeds.com) - A Search Engine That Aggregates And Categorizes News Articles, Blog Posts, And Other Online Content.
 - [Phind: AI Search Engine](https://phind.com/) - Phind Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [Playground AI](https://playgroundai.com/) - Playground AI Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [PromptBase](https://promptbase.com/) - PromptBase Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [PromptHero](https://prompthero.com/) - PromptHero Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
+- [QueryKittie](https://www.querykitty.com/) - A search engine that uses AI to provide users with relevant and personalized search results based on their preferences and behavior.
 - [Rosebud](https://www.rosebud.ai/) - Rosebud Is An AI-powered Search Engine That Helps You Find The Best Images For Your Project, As Fast As Possible.
 - [Search](https://raindrop.io/whoisdsmith/search-29978203/sort=title&perpage=30&page=0) - This Is A Search Engine That Provides Users With Information On A Wide Range Of Topics, Sorted And Organized In A User-friendly Manner.
 - [Shaped](https://www.shaped.ai/) - Shaped Is A Platform That Provides Businesses With AI-powered Solutions, Including Virtual Assistants, Chatbots, And Voice Recognition Technology.
+- [SID Search](https://www.sidsearch.com/?via=aitoolhunt) - A specialized search engine focused on finding AI tools and services for various industries.
 - [Smarty Names](http://smartynames.com) - Free Creative Domain Name Search By AI Robots. Finding A Creative And Unique Domain That Is Still Available Is Easy With SmartyNames.com - Tell Us What You Do, And Our Robots Will Find The Domain That Is Just Right For You. Company Name Generator In One Click.
 - [Steno](https://steno.ai/) - Steno Is An AI-powered Platform That Offers A Wide Range Of Solutions For Businesses, Including Virtual Assistants, Chatbots, And Voice Recognition.
 - [Stock AI](https://www.stockai.com/) - Stock AI Is A Financial Platform That Provides Stock Market Insights And Predictions Based On Data Analysis And Machine Learning Algorithms.
 - [StockGPT](https://www.askstockgpt.com/) - AI-Powered Search Engine. StockGPT Is An AI-powered Search Engine That Was Trained On All Of Tesla' S Quarterly Earnings Call Transcripts Dating Back To Q2 2011.
+- [The Keys AI](https://www.Thekeys.Ai/) - An AI-powered Platform For Search Engine Optimization And Online Advertising.
 - [You](https://aiinfinity.blogspot.com/p/search-engineyou.html) - The AI Search Engine You Control
+- [Your SearchAI](https://app.yoursearch.ai/) - A search engine that uses AI to surface relevant and personalized results.
 - [Zevi.ai](https://www.zevi.ai/) - Zevi Is A Web-based Platform That Offers Data-driven Insights And Predictions In The Financial Industry.
-
 
 ---
 
