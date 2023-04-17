@@ -31,7 +31,6 @@
 - [Speechmatics](https://www.speechmatics.com/?restored=1681278162979) - A speech recognition technology provider offering advanced solutions for transcription, voice assistants, and more to businesses and developers.
 - [WebscrapeAI](https://webscrapeai.com/) - A web scraping platform that allows users to extract structured data from websites, enabling businesses to gather valuable information and insights for various applications.
 
-
 ### 2023-04 -16
 
 - [AgentGPT](https://agentgpt.reworkd.ai/) - A powerful AI-driven platform for creating, managing, and optimizing chatbots and virtual agents.
