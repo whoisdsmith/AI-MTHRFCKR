@@ -1753,17 +1753,3 @@ Natural
 - [Writer's Brew](https://writersbrew.app/#) - A Writing Tool That Provides Prompts, Resources, And Inspiration For Writers.
 
 ---
-
-## Contribution Guidelines
-
----
-
-**To Contribute, Fork The Repository And Make Changes To The Relevant Section. Submit A Pull Request To The Main Repository For Review And Potential Inclusion. When Contributing, Please Ensure That The Information Is Accurate And Up-to-date, And Follow The Existing Format For Consistency.**
-
-## License
-
----
-
-**AI-MTHRFCKR Is Open-sourced Under The MIT License. Feel Free To Use The Code And Information In The Repository For Your Own Projects And Learning.**
-
----
