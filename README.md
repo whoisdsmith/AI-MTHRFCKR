@@ -21,15 +21,34 @@
 
 ### 2013-04-17
 
-- [2AI](https://2ai.app/) - A platform offering AI-powered solutions for various industries, including image processing, natural language processing, and data analytics.
-- [Content Generator](https://icerik.ekayazilim.com.tr/) - A Turkish content generation tool that uses AI to create unique and SEO-friendly articles for websites and blogs.
-- [Glass](https://glass.health/) - A digital health platform focused on improving mental health and well-being through personalized experiences and data-driven insights.
-- [GPTAgent](https://www.gptagent.com/) - An AI-based platform offering advanced language model solutions for businesses, including chatbots, content generation, and data analysis.
-- [IAsk.AI](https://iask.ai/) - An AI-driven question-answering platform that allows users to ask questions and receive accurate answers from a large database of pre-trained models.
-- [Mini AppsAI](https://miniapps.ai/) - A collection of simple AI-powered tools and applications, such as image editing, text generation, and voice synthesis, designed to make everyday tasks easier.
-- [Plask](https://plask.ai/) - An AI-powered assistant that helps users automate tasks, schedule events, and manage their personal and professional lives more efficiently.
-- [SnackPrompt](https://snackprompt.com/) - A HackerNews like platform that provides users with unique writing prompts to inspire their writing projects and help overcome writer's block.
-- [Speechmatics](https://www.speechmatics.com/?restored=1681278162979) - A speech recognition technology provider offering advanced solutions for transcription, voice assistants, and more to businesses and developers.
-- [WebscrapeAI](https://webscrapeai.com/) - A web scraping platform that allows users to extract structured data from websites, enabling businesses to gather valuable information and insights for various applications.
+- [2AI](https://2ai.app/) - A Platform Offering AI-powered Solutions For Various Industries, Including Image Processing, Natural Language Processing, And Data Analytics.
+- [6000 Thoughts](https://6000thoughts.com/) - A Platform For Sharing Thoughts, Ideas, And Stories In A Blog Format.
+- [AIAM](https://geeklab.dev/) - GeekLab Offers A Suite Of AI-powered Tools And Resources For Developers And Creators.
+- [AnalyzGPT](https://app.sttabot.io/bot/analyzgpt-demo/) - A Platform Providing GPT-powered Chatbot Solutions For Businesses And Individuals.
+- [ConjuAI](https://conju.ai/) - A Language Learning Tool That Uses AI To Create Custom Exercises For Users.
+- [Content Generator](https://icerik.ekayazilim.com.tr/) - A Turkish Content Generation Tool That Uses AI To Create Unique And SEO-friendly Articles For Websites And Blogs.
+- [DDT](https://app.brancher.ai/2c77e3d7-f238-41ac-abd7-1c0594a55ea2) - A Tool That Helps Developers Visualize Decision Tree Structures In Machine Learning Models.
+- [Explain By Whybug](https://explain.whybug.com/) - A Platform That Helps Users Understand Complex Topics By Breaking Them Down Into Simpler Explanations.
+- [Fast.ai](https://www.fast.ai/) - A Platform Providing Courses And Resources For Deep Learning And AI Enthusiasts.
+- [Glass](https://glass.health/) - A Digital Health Platform Focused On Improving Mental Health And Well-being Through Personalized Experiences And Data-driven Insights.
+- [GPT-3 Jailbreak Status](http://www.jamessawyer.co.uk/pub/gpt_jb.html) - A Website Monitoring The Jailbreak Status Of GPT-3 And Other AI Models.
+- [GPTAgent](https://www.gptagent.com/) - An AI-based Platform Offering Advanced Language Model Solutions For Businesses, Including Chatbots, Content Generation, And Data Analysis.
+- [Gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - A GitHub Repository Tracking The Progress Of GPT-3 Jailbreak Attempts.
+- [Hacker AI](https://hacker-ai.ai/) - A Platform Offering AI-powered Cybersecurity Tools And Solutions.
+- [Hayo](https://www.hayo.com/) - A Tool That Uses AI To Generate Catchy Headlines And Marketing Slogans.
+- [IAsk.AI](https://iask.ai/) - An AI-driven Question-answering Platform That Allows Users To Ask Questions And Receive Accurate Answers From A Large Database Of Pre-trained Models.
+- [LablabAI](https://lablab.ai/) - A Platform Offering AI-powered Tools For Data Analysis, Visualization, And Machine Learning.
+- [LAION](https://laion.ai/) - A Platform Providing AI-powered Language Translation Services.
+- [Mini AppsAI](https://miniapps.ai/) - A Collection Of Simple AI-powered Tools And Applications, Such As Image Editing, Text Generation, And Voice Synthesis, Designed To Make Everyday Tasks Easier.
+- [Narration Box](Https://narrationbox.com/) - A Platform That Uses AI To Generate Content For Various Industries, Including Blogs And Social Media.
+- [New Chat](https://chat.kiask.xyz/) - A Platform For Creating And Managing AI-powered Chatbots For Various Use Cases.
+- [One AI](https://www.oneai.com/) - A Platform Offering AI-driven Solutions For Businesses, Including Data Analysis And Optimization Tools.
+- [Open Assistant](https://open-assistant.io/) - An Open-source Platform For Creating And Customizing AI-powered Personal Assistants.
+- [Plask](https://plask.ai/) - An AI-powered Assistant That Helps Users Automate Tasks, Schedule Events, And Manage Their Personal And Professional Lives More Efficiently.
+- [SnackPrompt](https://snackprompt.com/) - A HackerNews Like Platform That Provides Users With Unique Writing Prompts To Inspire Their Writing Projects And Help Overcome Writer's Block.
+- [Speechmatics](https://www.speechmatics.com/?restored=1681278162979) - A Speech Recognition Technology Provider Offering Advanced Solutions For Transcription, Voice Assistants, And More To Businesses And Developers.
+- [SPOTGPT](https://www.spotgpt.app/) - A Platform That Leverages GPT For Creating AI-powered Web Applications And Tools.
+- [STRING](https://www.askstring.com/) - A Platform Offering AI-driven Natural Language Processing And Understanding Services.
+- [WebscrapeAI](https://webscrapeai.com/) - A Web Scraping Platform That Allows Users To Extract Structured Data From Websites, Enabling Businesses To Gather Valuable Information And Insights For Various Applications.
 
 ---
