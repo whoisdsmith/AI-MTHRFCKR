@@ -23,8 +23,14 @@
 
 - [2AI](https://2ai.app/) - A platform offering AI-powered solutions for various industries, including image processing, natural language processing, and data analytics.
 - [Content Generator](https://icerik.ekayazilim.com.tr/) - A Turkish content generation tool that uses AI to create unique and SEO-friendly articles for websites and blogs.
+- [Glass](https://glass.health/) - A digital health platform focused on improving mental health and well-being through personalized experiences and data-driven insights.
+- [GPTAgent](https://www.gptagent.com/) - An AI-based platform offering advanced language model solutions for businesses, including chatbots, content generation, and data analysis.
 - [IAsk.AI](https://iask.ai/) - An AI-driven question-answering platform that allows users to ask questions and receive accurate answers from a large database of pre-trained models.
 - [Mini AppsAI](https://miniapps.ai/) - A collection of simple AI-powered tools and applications, such as image editing, text generation, and voice synthesis, designed to make everyday tasks easier.
+- [Plask](https://plask.ai/) - An AI-powered assistant that helps users automate tasks, schedule events, and manage their personal and professional lives more efficiently.
+- [Speechmatics](https://www.speechmatics.com/?restored=1681278162979) - A speech recognition technology provider offering advanced solutions for transcription, voice assistants, and more to businesses and developers.
+- [WebscrapeAI](https://webscrapeai.com/) - A web scraping platform that allows users to extract structured data from websites, enabling businesses to gather valuable information and insights for various applications.
+
 
 ### 2023-04 -16
 
