@@ -1,37 +1,324 @@
-# AI
+# AI Resources
 
----
 
-%% Begin Waypoint %%
-- **[AI-Resources](../..//AI-Resources/AI-Resources.md)-Ways-To-Make-Money-Through-Chatgpt](4-Easy-Ways-To-Make-Money-Through-Chatgpt.md)
-	- [100-Best-Chatgpt-Prompts](AI-Prompts/100-Best-Chatgpt-Prompts.md)
-	- [150 Prompts](AI-Prompts/150%20Prompts.md)
-	- **[AI-Articles][AI-Articles](AI-Articles/AI-Articles.md)ticles][AI-Articles](AI-Articles/AI-Articles.md)llian[The-Brilliance-And-Weirdness-Of-Chatgpt---The-New-York-Times](AI-Articles/The-Brilliance-And-Weirdness-Of-Chatgpt---The-New-York-Times.md)-The-[The-Day-The-Agi-Was-Born](AI-Articles/The-Day-The-Agi-Was-Born.md)g-An-[TrAIning-An-AI-Chatbot-On-My-Childhood-Journal-Entries-–-Punctuated-Equilibrium](AI-Articles/TrAIning-An-AI-Chatbot-On-My-Childhood-Journal-Entries-–-Punctuated-Equilibrium.md)some]([AI-Awesome](AI-Awesome/AI-Awesome.md)esome]([AI-Awesome](AI-Awesome/AI-Awesome.md)-AI-2[Awesome-AI-2](AI-Awesome/Awesome-AI-2.md)-AI-A[Awesome-AI-Art-Image-Synthesis](AI-Awesome/Awesome-AI-Art-Image-Synthesis.md)-AI]([Awesome-AI](AI-Awesome/Awesome-AI.md)-Arti[Awesome-Artificial-Intelligence](AI-Awesome/Awesome-Artificial-Intelligence.md)-Gene[Awesome-Generative-Deep-Art-Archive](AI-Awesome/Awesome-Generative-Deep-Art-Archive.md)-Gene[Awesome-Generative-Deep-Art](AI-Awesome/Awesome-Generative-Deep-Art.md)-Mach[Awesome-Machine-Learning](AI-Awesome/Awesome-Machine-Learning.md)-Mlop[Awesome-Mlops-Papers](AI-Awesome/Awesome-Mlops-Papers.md)-Mlop[Awesome-Mlops](AI-Awesome/Awesome-Mlops.md)kmarks[AI-Bookmarks](AI-Bookmarks/AI-Bookmarks.md)ild-Your-First-Gpt-3-Powered-Product**
-		- [Build-Your-F[Build-Your-First-Gpt-3-Powered-Product](AI-Build-Your-First-Gpt-3-Powered-Product/Build-Your-First-Gpt-3-Powered-Product.md)apabi[Gpt-3-Capabilities](AI-Build-Your-First-Gpt-3-Powered-Product/Gpt-3-Capabilities.md)s-Gpt[How-Does-Gpt-3-Work](AI-Build-Your-First-Gpt-3-Powered-Product/How-Does-Gpt-3-Work.md)ions-[Limitations-Of-Gpt-3](AI-Build-Your-First-Gpt-3-Powered-Product/Limitations-Of-Gpt-3.md)Api]([OpenAI-Api](AI-Build-Your-First-Gpt-3-Powered-Product/OpenAI-Api.md)-Playground**
+## `Cheetsheets | Glossary | Best Practice`
 
-		- [OpenAI-Playg[OpenAI-Playground](OpenAI-Playground.md)-Crafting-The-Prompt**
+| Description | Link |
+| --- | --- |
+| Google Machine Learning Glossary | https://developers.google.com/machine-learning/glossary |
+| Google Python Style Guide | https://google.github.io/styleguide/pyguide.html |
+| Google C++ Style Guide | https://google.github.io/styleguide/cppguide.html |
 
-		- [Part-1-Craft[Part-1-Crafting-The-Prompt](Part-1-Crafting-The-Prompt.md)-Building-On-Bubble**
+<br>
 
-		- [Part-2-Build[Part-2-Building-On-Bubble](Part-2-Building-On-Bubble.md)rst-G[Your-First-Gpt-3-Powered-Product](Your-First-Gpt-3-Powered-Product.md)tgpt]([AI-Chatgpt](AI-Chatgpt.md)atgpt]([AI-Chatgpt](AI-Chatgpt.md)-Chat[Awesome-Chatgpt-Orig](Awesome-Chatgpt-Orig.md)-Chat[Awesome-Chatgpt-Prompts](Awesome-Chatgpt-Prompts.md)-Chat[Awesome-Chatgpt](AI-Resources/AI-Chatgpt/Awesome-Chatgpt.md)r-Cha[Awesomer-Chatgpt](Awesomer-Chatgpt.md) Fuma[Chatgpt Fuma Renamed](Chatgpt%20Fuma%20Renamed.md)-Funn[Chatgpt-Funny](Chatgpt-Funny.md)pt-Mach[Chatgpt-Machine-Learning-Prompts](Chatgpt-Machine-Learning-Prompts.md)ess Imba[Address Imbalance Data](Address%20Imbalance%20Data.md)tic Ma[Automatic Machine Learning](Automatic%20Machine%20Learning.md)t-Mach[Chatgpt-Machine-Learning-Prompts](Chatgpt-Machine-Learning-Prompts.md)e Func[Compare Function Speed](Compare%20Function%20Speed.md) Numpy[Create Numpy Array](Create%20Numpy%20Array.md)n Mode[ExplAIn Model With LimeexplAIn Model With Lime](ExplAIn%20Model%20With%20LimeexplAIn%20Model%20With%20Lime.md)n Mode[ExplAIn Model With Shap](ExplAIn%20Model%20With%20Shap.md)n Sql][ExplAIn Sql](ExplAIn%20Sql.md)e Data[Explore Data](Explore%20Data.md)te Dat[Generate Data](Generate%20Data.md)ature [Get Feature Importance](Get%20Feature%20Importance.md)Cllasi[TrAIn Cllasification Model](TrAIn%20Cllasification%20Model.md)Time S[TrAIn Time Series](TrAIn%20Time%20Series.md)yperpa[Tune Hyperparameter](Tune%20Hyperparameter.md)te Col[Validate Column](Validate%20Column.md)ize Da[Visualize Data With Matplotlib](Visualize%20Data%20With%20Matplotlib.md)ize Im[Visualize Image Grid Matplotlib](Visualize%20Image%20Grid%20Matplotlib.md)Multit[Write Multithreaded Functions](Write%20Multithreaded%20Functions.md)Regex][Write Regex](Write%20Regex.md)Unit T[Write Unit Test](Write%20Unit%20Test.md)-Opti[Chatgpt-Optimizing-Language-Models-For-Dialogue](Chatgpt-Optimizing-Language-Models-For-Dialogue.md)-Univ[Chatgpt-Universe](Chatgpt-Universe.md)](AI-[Chatgpt](Chatgpt.md)pt3-Pro[Chatgpt3-Prompt-Engineering](Chatgpt3-Prompt-Engineering.md)gpt3-Pro[Chatgpt3-Prompt-Engineering](Chatgpt3-Prompt-Engineering.md)(AI-Ch[Index](Index.md)**
-				- [About](AI-Ch[About](About.md)Gpt3_Pr[Chat_Gpt3_Prompts](Chat_Gpt3_Prompts.md)pt_Reso[Chatgpt_Resources](Chatgpt_Resources.md)ating_Q[Evaluating_Quality_Of_Generated_Text](Evaluating_Quality_Of_Generated_Text.md)t_Engin[Prompt_Engineering](Prompt_Engineering.md)pts**
-					- [Chatgpt3_Pro[Chatgpt3_Prompts_For_Developers](Chatgpt3_Prompts_For_Developers.md)gpt3_Pro[Chatgpt3_Prompts_For_Program_Managers](Chatgpt3_Prompts_For_Program_Managers.md)gpt3_Pro[Chatgpt3_Prompts_For_Writing](Chatgpt3_Prompts_For_Writing.md)s To Use**
-					- [Hugging_Face[Hugging_Face_Prompt_Toolkit](Hugging_Face_Prompt_Toolkit.md)_For_Ch[Tools_For_Chatgpt3](Tools_For_Chatgpt3.md)3](AI[Chatgpt3](Chatgpt3.md)stry](A[Chemistry](Chemistry.md)istry](A[Chemistry](Chemistry.md)urabol[Deca-Durabolin](Deca-Durabolin.md)ne](AI[Ketamine](Ketamine.md)I-Chat[Lsd](Lsd.md)lbrea[Gpt JAIlbreak](Gpt%20JAIlbreak.md)mpts][Gpt Prompts](Gpt%20Prompts.md)(AI-C[Prompt](Prompt.md)op-Prompts**
-			- [Chatgpt-Thre[Chatgpt-Thread-12-13-2022-18-17-57](Chatgpt-Thread-12-13-2022-18-17-57.md)t-Thre[Chatgpt-Thread-12-23-2022-05-38-13](Chatgpt-Thread-12-23-2022-05-38-13.md)t-Thre[Chatgpt-Thread-12-23-2022-05-41-47](Chatgpt-Thread-12-23-2022-05-41-47.md)op-Cha[RAIndrop-Chat](RAIndrop-Chat.md)opandc[RAIndropandchatgptprompts](RAIndropandchatgptprompts.md)ophelp[RAIndrophelpfromcopilotandchatgpt](RAIndrophelpfromcopilotandchatgpt.md)mpt2]([Rd-Prompt2](Rd-Prompt2.md)mpt3]([Rd-Prompt3](Rd-Prompt3.md)mpt4]([Rd-Prompt4](Rd-Prompt4.md)mpts]([Rd-Prompts](Rd-Prompts.md) Of C[The Art Of Chatgpt Prompting A Guide To Crafting Clear And Effective Prompts](The%20Art%20Of%20Chatgpt%20Prompting%20A%20Guide%20To%20Crafting%20Clear%20And%20Effective%20Prompts.md)-Of-C[The-Art-Of-Chatgpt](The-Art-Of-Chatgpt.md)des](A[AI-Guides](AI-Guides.md)ary](AI[AI-Diary](AI-Diary.md)es](A[AI-Guides](AI-Guides.md)rs-Gu[Beginners-Guide-To-InpAInting](Beginners-Guide-To-InpAInting.md)rs-Gu[Beginners-Guide-To-Stable-Diffusion-Models](Beginners-Guide-To-Stable-Diffusion-Models.md)-How-[Chatgpt-How-To-Generate-Prompts-For-Stable-Diffusion](Chatgpt-How-To-Generate-Prompts-For-Stable-Diffusion.md)o-Ima[Depth-To-Image-In-Stable-Dffusion-2](Depth-To-Image-In-Stable-Dffusion-2.md)ne-Yo[Fine-Tune-Your-AI-Images-With-These-Simple-Prompting-Techniques](Fine-Tune-Your-AI-Images-With-These-Simple-Prompting-Techniques.md)ary]([Gpt3-Diary](Gpt3-Diary.md)s-Sta[How-Does-Stable-Diffusion-Work](How-Does-Stable-Diffusion-Work.md)Come-[How-To-Come-Up-With-Good-Prompts](How-To-Come-Up-With-Good-Prompts.md)Insta[How-To-Install-And-Run-Stable-Diffusion-On-Apple-Silicon-M1M2-Macs---Stable-Diffusion-Art](How-To-Install-And-Run-Stable-Diffusion-On-Apple-Silicon-M1M2-Macs---Stable-Diffusion-Art.md)Insta[How-To-Install-Stable-Diffusion-2-1-In-Automatic1111](How-To-Install-Stable-Diffusion-2-1-In-Automatic1111.md)Insta[How-To-Install-Stable-Diffusion-On-Windows](How-To-Install-Stable-Diffusion-On-Windows.md)Run-A[How-To-Run-Automatic1111-On-Google-Colab](How-To-Run-Automatic1111-On-Google-Colab.md)Use-D[How-To-Use-Dreambooth-To-Put-Anything-In-Stable-Diffusion](How-To-Use-Dreambooth-To-Put-Anything-In-Stable-Diffusion.md)Use-E[How-To-Use-Embeddings-In-Stable-Diffusion](How-To-Use-Embeddings-In-Stable-Diffusion.md)Use-N[How-To-Use-Negative-Prompts](How-To-Use-Negative-Prompts.md)Use-O[How-To-Use-OutpAInting-To-Extend-Images](How-To-Use-OutpAInting-To-Extend-Images.md)Diffu[Stable-Diffusion-Workflow](Stable-Diffusion-Workflow.md)ge-Gen[AI-Image-Generation](AI-Image-Generation.md)AI4Artist[AI-AI4Artists](AI-AI4Artists.md)I4Artist[AI-AI4Artists](AI-AI4Artists.md)ists]([AI4Artists](AI4Artists.md)es](AI-I[Images](Images.md)ges](AI-I[Images](Images.md)e-Gen[AI-Image-Generation](AI-Image-Generation.md)able-Di[AI-Stable-Diffusion](AI-Stable-Diffusion.md)table-Di[AI-Stable-Diffusion](AI-Stable-Diffusion.md)e-Diff[Awesome-Diffusion](Awesome-Diffusion.md)e-Stab[Awesome-Stable-Diffusion](Awesome-Stable-Diffusion.md)e-Text[Awesome-Text-To-Image](Awesome-Text-To-Image.md)pt-Book][Prompt-Book](Prompt-Book.md)Preface]([01 Preface](01%20Preface.md)ompt Fo[02 Prompt Format](02%20Prompt%20Format.md)difiers[03 Modifiers](03%20Modifiers.md)gic Wor[04 Magic Words](04%20Magic%20Words.md)able Di[05 Stable Diffusion Parameters](05%20Stable%20Diffusion%20Parameters.md)g2Img I[06 Img2Img Inout PAInting](06%20Img2Img%20Inout%20PAInting.md)portant[07 Important Tips](07%20Important%20Tips.md)owcase][08 Showcase](08%20Showcase.md)rt](AI-[Openart](Openart.md)t-Book][Prompt-Book](Prompt-Book.md)-Diffu[Stable-Diffusion-Artists](Stable-Diffusion-Artists.md)-Diffu[Stable-Diffusion-Image-Prompt-Gallery-Book](Stable-Diffusion-Image-Prompt-Gallery-Book.md)-Diffu[Stable-Diffusion-Prompt-Templates](Stable-Diffusion-Prompt-Templates.md)-Diffu[Stable-Diffusion](Stable-Diffusion.md)diffus[Stablediffusion](Stablediffusion.md)-A-Se[Clip-As-A-Service](Clip-As-A-Service.md)es](AI[AI-Notes](AI-Resources/AI-Notes/AI-Notes.md)tes](AI[AI-Notes](AI-Resources/AI-Notes/AI-Notes.md)](AI-[AInotes](AInotes.md)AI-No[Audio](AI-Resources/AI-Notes/Audio.md)Ideas]([Blog-Ideas](Blog-Ideas.md)-Ideas]([Blog-Ideas](Blog-Ideas.md)-Vs-AI[Google-Vs-AI](Google-Vs-AI.md)FAIlur[Metas-FAIlures-At-AI](Metas-FAIlures-At-AI.md)log-Id[Misc-Blog-Ideas](Misc-Blog-Ideas.md)s-Inst[What-Is-Instruction-Tuning](What-Is-Instruction-Tuning.md)en](A[Image-Gen](Image-Gen.md)rompt[Image-Prompts](Image-Prompts.md)AI-No[Infra](Infra.md)-Rese[Misc-AI-Research](Misc-AI-Research.md)rces](A[Resources](AI-Resources/AI-Notes/Resources/Resources.md)on-AI-Pr[Notion-AI-Prompts](Notion-AI-Prompts.md)ces](A[Resources](AI-Resources/AI-Notes/Resources/Resources.md)Notes]([Stub-Notes](Stub-Notes.md)ts](AI-N[Agents](Agents.md)arks]([Benchmarks](Benchmarks.md)ficati[Classification](Classification.md)AI-Not[Code](AI-Resources/AI-Notes/Stub-Notes/Code.md)s](AI-[Cyborgs](Cyborgs.md)3D](AI[Image-3D](Image-3D.md)Segmen[Image-Segmentation-Obj-Detection](Image-Segmentation-Obj-Detection.md)Text]([Image2Text](Image2Text.md)etriev[Info-Retrieval](Info-Retrieval.md)ne](AI[Medicine](Medicine.md)roduct[Misc-Products](Misc-Products.md)(AI-No[Moats](Moats.md)odal]([Multimodal](Multimodal.md)lAIf]([Rlhf-RlAIf](Rlhf-RlAIf.md)Models[Small-Models](Small-Models.md)otes]([Stub-Notes](Stub-Notes.md)ummari[Text-Summarization](Text-Summarization.md)ne](AI[Timeline](Timeline.md)e-Docs[Usecase-Docs-Support](Usecase-Docs-Support.md)e-Ther[Usecase-Therapy-Journaling](Usecase-Therapy-Journaling.md)Face-S[Video-Face-Synth](Video-Face-Synth.md)-Text][Visual-Text](Visual-Text.md)at](A[Text-Chat](Text-Chat.md)ompts[Text-Prompts](Text-Prompts.md)arch][Text-Search](Text-Search.md)I-Not[Text](Text.md)nAI-Co[AI-OpenAI-Cookbook](AI-OpenAI-Cookbook.md)enAI-Co[AI-OpenAI-Cookbook](AI-OpenAI-Cookbook.md)-Cook[OpenAI--Cookbook](OpenAI--Cookbook.md)Cookb[OpenAI-Cookbook](OpenAI-Cookbook.md)ues-T[Techniques-To-Improve-Reliability](Techniques-To-Improve-Reliability.md)ition-G[Transition-Guides-For-Deprecated-Api-Endpoints](Transition-Guides-For-Deprecated-Api-Endpoints.md)sition-G[Transition-Guides-For-Deprecated-Api-Endpoints-AI](Transition-Guides-For-Deprecated-Api-Endpoints-AI.md)tion-G[Transition-Guides-For-Deprecated-Api-Endpoints](Transition-Guides-For-Deprecated-Api-Endpoints.md)mpts]([AI-Prompts](AI-Resources/AI-Prompts/AI-Prompts.md)ompts]([AI-Prompts](AI-Resources/AI-Prompts/AI-Prompts.md)-2](AI-[Dalle-2](Dalle-2.md)D](AI-Pr[Art3D](Art3D.md)me](AI[Artanime](Artanime.md)lpoint[Artballpointpen](Artballpointpen.md)ksy](A[Artbanksy](Artbanksy.md)haus]([Artbauhaus](Artbauhaus.md)toon]([Artcartoon](Artcartoon.md)ldrend[Artchildrendrawing](Artchildrendrawing.md)ymatio[Artclaymation](Artclaymation.md)oringb[Artcoloringbook](Artcoloringbook.md)erpunk[Artcyberpunk](Artcyberpunk.md)o](AI-[Artdeco](Artdeco.md)ital]([Artdigital](Artdigital.md)tchcor[Artglitchcore](Artglitchcore.md)ffiti][Artgraffiti](Artgraffiti.md)e](AI-[Artline](Artline.md)poly]([Artlowpoly](Artlowpoly.md)ern](A[Artmodern](Artmodern.md)manroc[Artnormanrockwell](Artnormanrockwell.md)cilske[Artpencilsketch](Artpencilsketch.md)el](AI[Artpixel](Artpixel.md)chedel[Artpsychedelic](Artpsychedelic.md)vadord[Artsalvadordali](Artsalvadordali.md)aypAIn[ArtspraypAInted](ArtspraypAInted.md)ampunk[Artsteampunk](Artsteampunk.md)ck](AI[Artstock](Artstock.md)thwave[Artsynthwave](Artsynthwave.md)ashimu[Arttakashimurakami](Arttakashimurakami.md)burton[Arttimburton](Arttimburton.md)yoe](A[Artukiyoe](Artukiyoe.md)gogh]([Artvangogh](Artvangogh.md)orwave[Artvaporwave](Artvaporwave.md)hol](A[Artwarhol](Artwarhol.md)ercolo[Artwatercolor](Artwatercolor.md)2](AI-[Dalle-2](Dalle-2.md)to](AI[Getphoto](Getphoto.md)ient]([Ligambient](Ligambient.md)ematic[Ligcinematic](Ligcinematic.md)re](AI[Ligflare](Ligflare.md)denhou[Liggoldenhour](Liggoldenhour.md)dio](A[Ligstudio](Ligstudio.md)statio[Modartstation](Modartstation.md)rdwinn[Modawardwinning](Modawardwinning.md)AIled][ModdetAIled](ModdetAIled.md)art](A[Modfanart](Modfanart.md)toreal[Modphotorealistic](Modphotorealistic.md)(AI-Pr[Qua4K](Qua4K.md)m](AI-[Qua15Mm](Qua15Mm.md)m](AI-[Qua35Mm](Qua35Mm.md)m](AI-[Qua85Mm](Qua85Mm.md)Mm](AI[Qua200Mm](Qua200Mm.md)eh](AI[Quabokeh](Quabokeh.md)ematic[Quacinematic](Quacinematic.md)ro](AI[Quamacro](Quamacro.md)tshift[Quatiltshift](Quatiltshift.md)ure](A[Sitnature](Sitnature.md)lt](AI-[Default](Default.md)ult](AI-[Default](Default.md)ts](AI[Defaults](Defaults.md)Ilneg][GetemAIlneg](GetemAIlneg.md)Ilpos][GetemAIlpos](GetemAIlpos.md)as](AI[Getideas](Getideas.md)line]([Getoutline](Getoutline.md)agraph[Getparagraph](Getparagraph.md)s](AI-[Gettags](Gettags.md)les](A[Gettitles](Gettitles.md)e](AI-[Rewrite](Rewrite.md)fy](AI[Simplify](Simplify.md)ize](A[Summarize](Summarize.md)on-Be[Diffusion-Bee-Prompts](Diffusion-Bee-Prompts.md)ngface][Huggingface](Huggingface.md)sify-Bar[Classify-Bart-Large-Mnli](Classify-Bart-Large-Mnli.md)tetext[Completetextbloom](Completetextbloom.md)gface][Huggingface](Huggingface.md)izebar[Summarizebart](Summarizebart.md)](AI-[Prompts](AI-Resources/AI-Prompts/Prompts.md)g-Pro[Text2Img-Prompts](Text2Img-Prompts.md)ources](../..//AI-Resources/AI-Resources.md)**
-		- [AI-No[AI-Notes](AI-Resources/AI-Resources/AI-Notes.md)AI-Resources](AI-Resources/AI-Resources.md)
-		- [AI-Re[AI-Resourcesii](AI-Resourcesii.md)Blend[Blender-Notes](AI-Resources/AI-Resources/Blender-Notes.md)Paper[Papers](Papers.md)Paper[Papers2Gui](Papers2Gui.md)Perfo[Performance-Notes](Performance-Notes.md)*[Resou[Resources](AI-Resources/AI-Resources/Resources/Resources.md)- **[AI-No[AI-Notes](AI-Resources/AI-Resources/Resources/AI-Notes/AI-Notes.md)	- [AI-No[AI-Notes](AI-Resources/AI-Resources/Resources/AI-Notes/AI-Notes.md) **[Figur[Figures](Figures.md)		- [Figur[Figures](Figures.md)- **Gaugan**
-						- [Gauga[Gaugan.Md](Gaugan.Md.md)- **Knowledge-Distillation**
-						- [Knowl[Knowledge-Distillation.Md](Knowledge-Distillation.Md.md)- **Progan**
-						- [Proga[Progan.Md](Progan.Md.md)- **Resnet**
-						- [Resne[Resnet.Md](Resnet.Md.md)- **Resnext**
-						- [Resne[Resnext.Md](Resnext.Md.md)- **Stylegan**
-						- [Style[Stylegan.Md](Stylegan.Md.md)- **Stylegan2**
-						- [Style[Stylegan2.Md](Stylegan2.Md.md)- **Stylegan2-Ada**
-						- [Style[Stylegan2-Ada.Md](Stylegan2-Ada.Md.md)- **Stylegan3**
-						- [Style[Stylegan3.Md](Stylegan3.Md.md)- **Vit**
-						- [Vit.M[Vit.Md](Vit.Md.md)- **Wide-Resnet**
-						- [Wide-[Wide-Resnet.Md](Wide-Resnet.Md.md) [Gauga[Gaugan-Series](Gaugan-Series.md) [Knowl[Knowledge-Distillation-Series](Knowledge-Distillation-Series.md) [Nst-S[Nst-Series](Nst-Series.md) [Resne[Resnet-Series](Resnet-Series.md) [Style[Stylegan-Series](Stylegan-Series.md) [Vit-S[Vit-Series](Vit-Series.md)**[Blend[Blender-Notes](AI-Resources/AI-Resources/Resources/Blender-Notes/Blender-Notes.md)	- [Blend[Blender-Notes](AI-Resources/AI-Resources/Resources/Blender-Notes/Blender-Notes.md) **Figures**
-					- [Figur[Figures.Md](Figures.Md.md)[Resou[Resources](AI-Resources/AI-Resources/Resources/Resources.md)**[Setup[Setup-Guide](AI-Resources/AI-Resources/Resources/Setup-Guide/Setup-Guide.md)	- [Setup[Setup-Guide](AI-Resources/AI-Resources/Resources/Setup-Guide/Setup-Guide.md)Setup[Setup-Guide](AI-Resources/AI-Resources/Setup-Guide.md)I-Re[AI-Resources](AI-Resources/AI-Resources.md)**Docs**
-			- [_Sidebar](AI-SD-Updates/D[_Sidebar](_Sidebar.md)s/Docs[Embed](Embed.md)Docs/F[Faq](Faq.md)ocs/Hn[Hn](Hn.md)ates/D[Newsfeed](Newsfeed.md)dates/[Prompting](Prompting.md)es/Doc[Readme](AI-Resources/AI-SD-Updates/Docs/Readme.md)(AI-SD[Sdupdates_2_Backup](Sdupdates_2_Backup.md)I-SD-U[Sdupdates_Backup](Sdupdates_Backup.md)ates/D[Tutorial](AI-Resources/AI-SD-Updates/Docs/Tutorial.md)dates[Embeddings](Embeddings.md)e](AI-SD-Updates/Fil[Readme](AI-Resources/AI-SD-Updates/Files/Readme.md)ates/[Hypertext](Hypertext.md)s/Rea[Readme](AI-Resources/AI-SD-Updates/Readme.md)AI-SD[Sdupdates 2 Backup](Sdupdates%202%20Backup.md)-SD-U[Sdupdates Backup](Sdupdates%20Backup.md)dmine[Stable Diffusion Goldmine](Stable%20Diffusion%20Goldmine.md)tes/T[Tutorial](AI-Resources/AI-SD-Updates/Tutorial.md)dcreativeAI](AI-Tool-Kit[AdcreativeAI](AdcreativeAI.md)AI-To[AIrprofilepictures](AIrprofilepictures.md)t/Alt[AlteraAI](AlteraAI.md)/Anim[AnimeAI](AnimeAI.md)t/Ara[AragonAI](AragonAI.md)Kit/A[AssemblyAI](AssemblyAI.md)t/Aut[Autodraw](Autodraw.md)Awari[Awario](Awario.md)/Baru[BaruaAI](BaruaAI.md)-Kit/[BeautifulAI](BeautifulAI.md).md)
-[Beb](AI-Tool-Kit/Beb.md)Kit/B[Blackmagic](AI-Tool-Kit/Blackmagic.md)t/Boo[Bookmark](AI-Tool-Kit/Bookmark.md)t/Bra[Brancher](AI-Tool-Kit/Brancher.md)roca.[Broca](AI-Tool-Kit/Broca.md)Brows[Browse](AI-Tool-Kit/Browse.md)t/Cha[Chatfuel](AI-Tool-Kit/Chatfuel.md)Kit/C[Cleanvoice](AI-Tool-Kit/Cleanvoice.md)/Comp[Compose](AI-Tool-Kit/Compose.md)it/Co[Contentin](AI-Tool-Kit/Contentin.md)CopyA[CopyAI](AI-Tool-Kit/CopyAI.md)Kit/C[Copyscouts](AI-Tool-Kit/Copyscouts.md)/Craf[Craftly](AI-Tool-Kit/Craftly.md)Ctrif[Ctrify](AI-Tool-Kit/Ctrify.md)Dall-[Dall-E](AI-Tool-Kit/Dall-E.md)/Deci[Deciphr](AI-Tool-Kit/Deciphr.md)eepl.[Deepl](AI-Tool-Kit/Deepl.md)-Tool[Digital-Creator---AI-Tool-Kit](AI-Tool-Kit/Digital-Creator---AI-Tool-Kit.md)-Kit/[Dreamstudio](AI-Tool-Kit/Dreamstudio.md)/Dura[Durable](AI-Tool-Kit/Durable.md)AI.md[ElAI](AI-Tool-Kit/ElAI.md)t/Fee[Feedhive](AI-Tool-Kit/Feedhive.md)lAIr.[FlAIr](AI-Tool-Kit/FlAIr.md)liki.[Fliki](AI-Tool-Kit/Fliki.md)rase.[Frase](AI-Tool-Kit/Frase.md)it/Gr[Grammarly](AI-Tool-Kit/Grammarly.md)-Tool[Headlineanalyzer](AI-Tool-Kit/Headlineanalyzer.md)it/He[Hemingway](AI-Tool-Kit/Hemingway.md)Kit/H[Hyperwrite](AI-Tool-Kit/Hyperwrite.md)/Idea[IdeasAI](AI-Tool-Kit/IdeasAI.md)Kit/I[Illustroke](AI-Tool-Kit/Illustroke.md)it/Im[Imglarger](AI-Tool-Kit/Imglarger.md)it/In[Instoried](AI-Tool-Kit/Instoried.md)Kit/I[InteriorAI](AI-Tool-Kit/InteriorAI.md)Jaspe[Jasper](AI-Tool-Kit/Jasper.md)/Keyh[Keyhole](AI-Tool-Kit/Keyhole.md)alal.[Lalal](AI-Tool-Kit/Lalal.md)it/Le[Letterbot](AI-Tool-Kit/Letterbot.md)Lexic[Lexica](AI-Tool-Kit/Lexica.md)/Lexp[Lexpage](AI-Tool-Kit/Lexpage.md)AI-To[Linkedinpowertools](AI-Tool-Kit/Linkedinpowertools.md)t/Lon[Longshot](AI-Tool-Kit/Longshot.md)it/Ma[Magicblog](AI-Tool-Kit/Magicblog.md)Tool-[MagicthumbnAIls](AI-Tool-Kit/MagicthumbnAIls.md)t/Man[Manychat](AI-Tool-Kit/Manychat.md)Kit/M[Marketmuse](AI-Tool-Kit/Marketmuse.md)t/Mel[Melville](AI-Tool-Kit/Melville.md).md)
-[Mem](AI-Tool-Kit/Mem.md)Mirag[Mirage](AI-Tool-Kit/Mirage.md)t/Moo[Moonbeam](AI-Tool-Kit/Moonbeam.md)rf.md[Murf](AI-Tool-Kit/Murf.md)coya.[Ocoya](AI-Tool-Kit/Ocoya.md)Kit/O[Outranking](AI-Tool-Kit/Outranking.md)t/Pap[Papercup](AI-Tool-Kit/Papercup.md)it/Pa[Patterned](AI-Tool-Kit/Patterned.md)Penci[Pencil](AI-Tool-Kit/Pencil.md)-Kit/[PictorialAI](AI-Tool-Kit/PictorialAI.md)it/Po[PodcastAI](AI-Tool-Kit/PodcastAI.md)Poise[Poised](AI-Tool-Kit/Poised.md)t/Pos[Postwise](AI-Tool-Kit/Postwise.md)Pragm[Pragma](AI-Tool-Kit/Pragma.md)Tool-[PresentationsAI](AI-Tool-Kit/PresentationsAI.md)t/Qui[Quillbot](AI-Tool-Kit/Quillbot.md)t/Rem[Removebg](AI-Tool-Kit/Removebg.md)ReplA[ReplAI](AI-Tool-Kit/ReplAI.md)Sembl[Sembly](AI-Tool-Kit/Sembly.md)enja.[Senja](AI-Tool-Kit/Senja.md)it/Sh[Shieldapp](AI-Tool-Kit/Shieldapp.md)t/Sli[SlidesAI](AI-Tool-Kit/SlidesAI.md)-Kit/[Smartwriter](AI-Tool-Kit/Smartwriter.md)nipd.[Snipd](AI-Tool-Kit/Snipd.md)Tool-[Stabledifussion](AI-Tool-Kit/Stabledifussion.md)/Stoc[StockAI](AI-Tool-Kit/StockAI.md)t/Sto[Stockimg](AI-Tool-Kit/Stockimg.md)Subtx[Subtxt](AI-Tool-Kit/Subtxt.md)l-Kit[Supercreator](AI-Tool-Kit/Supercreator.md)it/Su[Supermeme](AI-Tool-Kit/Supermeme.md)it/Su[Surferseo](AI-Tool-Kit/Surferseo.md)it/Sy[Synthesia](AI-Tool-Kit/Synthesia.md)Tapli[Taplio](AI-Tool-Kit/Taplio.md)exta.[Texta](AI-Tool-Kit/Texta.md)exti.[Texti](AI-Tool-Kit/Texti.md)Theco[Thecom](AI-Tool-Kit/Thecom.md)-Kit/[Tribescaler](AI-Tool-Kit/Tribescaler.md)-Kit/[Tweethunter](AI-Tool-Kit/Tweethunter.md)/Twee[Tweetme](AI-Tool-Kit/Tweetme.md)Kit/T[Tweetspear](AI-Tool-Kit/Tweetspear.md)Kit/T[Twitterbio](AI-Tool-Kit/Twitterbio.md)it/Ty[Typeshare](AI-Tool-Kit/Typeshare.md)it/Un[Unfluffer](AI-Tool-Kit/Unfluffer.md)Vizco[Vizcom](AI-Tool-Kit/Vizcom.md)t/Wor[Wordtune](AI-Tool-Kit/Wordtune.md)t/Wri[Writerly](AI-Tool-Kit/Writerly.md)Kit/W[Writesonic](AI-Tool-Kit/Writesonic.md)Write[Writey](AI-Tool-Kit/Writey.md)rd.md[Wzrd](AI-Tool-Kit/Wzrd.md)te.md[Zite](AI-Tool-Kit/Zite.md)](AI-T[AI-Tools-Cheatsheet](AI-Tools-Cheatsheet/AI-Tools-Cheatsheet.md)(AI-Too[AI-Code-Generator](AI-Tools-Cheatsheet/AI-Code-Generator.md)(AI-T[AI-Tools-Cheatsheet](AI-Tools-Cheatsheet/AI-Tools-Cheatsheet.md)I-Too[Copywriting-Tools](AI-Tools-Cheatsheet/Copywriting-Tools.md)ls-Ch[Image-Editor](AI-Tools-Cheatsheet/Image-Editor.md)-Chea[Logo-Maker](AI-Tools-Cheatsheet/Logo-Maker.md)ools-[Speech-To-Text](AI-Tools-Cheatsheet/Speech-To-Text.md)tor]([Text-To-Image-Generator](AI-Tools-Cheatsheet/Text-To-Image-Generator.md)ools-[Text-To-Speech](AI-Tools-Cheatsheet/Text-To-Speech.md)r](AI[Text-To-Video-Creator](AI-Tools-Cheatsheet/Text-To-Video-Creator.md)ls-Ch[Video-Editor](AI-Tools-Cheatsheet/Video-Editor.md)
+## `Learning Programming`
+
+| Description | Link |
+| --- | --- |
+| High Quality Python Tutorials | https://realpython.com/ |
+
+<br>
+
+## `Code Examples | Scratch Implementations`
+
+| Description | Link |
+| --- | --- |
+| Keras Made Easy Code Examples | https://keras.io/examples/ |
+| OpenCV Python, C++ Tutorials with Theory | https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html |
+| Machine Learning Code Collection | https://github.com/aladdinpersson/Machine-Learning-Collection |
+
+
+<br>
+
+## `Youtube Paper Review`
+
+| Name | Link |
+| --- | --- |
+| ML Research Paper Explanation | https://www.youtube.com/c/YannicKilcher/videos |
+| ML Paper Overview | https://www.youtube.com/c/WhatsAI/videos |
+| Two Minute Papers | https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos |
+| ML Paper Code Implementation From Scratch | https://www.youtube.com/c/AladdinPersson/videos |
+| Latest AI Research Overview | https://www.youtube.com/c/bycloudAI/videos |
+| Lectures on AI, 3D Vision, Graphics | https://www.youtube.com/c/MatthiasNiessner/videos |
+| DL, CV Paper Review | https://www.youtube.com/c/TheAIEpiphany/videos |
+| DL, CV Paper Review | https://www.youtube.com/c/AICoffeeBreak/videos |
+| CV Lectures | https://www.youtube.com/user/cvlibs/videos |
+| CV Lectures | https://www.youtube.com/user/cvprtum/videos |
+
+<br>
+
+## `Dataset Search | Annotation | Augmentation`
+
+| Name | Link |
+| --- | --- |
+| Papers With Code Dataset Search | https://www.paperswithcode.com/datasets |
+| Google Dataset Search | https://datasetsearch.research.google.com/ |
+| Kaggle Datasets | https://www.kaggle.com/datasets |
+| Tensorflow Dataset Overview | https://www.tensorflow.org/datasets/catalog/overview |
+|  |  |
+| VoTT Image Annotation | https://github.com/microsoft/VoTT |
+| Multi Type Data Annotation Tool | https://github.com/heartexlabs/label-studio |
+|  |  |
+| Python CV DL Image Augmentation | https://github.com/albumentations-team/albumentations |
+| Image Augmentation Library | https://github.com/aleju/imgaug |
+
+<br>
+
+## `Enviornment | Softwares`
+
+| Name | Link |
+| --- | --- |
+| :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
+| Miniconda (For advanced users) | https://docs.conda.io/en/latest/miniconda.html |
+| :triangular_flag_on_post: PyCharm IDE | https://www.jetbrains.com/pycharm/ |
+| VSCode Editor | https://github.com/microsoft/vscode |
+| Notepad++ Editor | https://notepad-plus-plus.org/downloads/ |
+| :triangular_flag_on_post: Blender 3D Tool | https://www.blender.org/ |
+| Photo Editor | https://krita.org/ |
+| :triangular_flag_on_post: Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
+| 3D Reconstruction, Photogrammetry | https://github.com/alicevision/meshroom |
+| Nsight Deep Learning Designer | https://developer.nvidia.com/nsight-dl-designer |
+| Intel OneAPI Base Toolkit | https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html |
+| Cuda Toolkit | https://developer.nvidia.com/cuda-toolkit |
+| Clang LLVM Compiler | https://clang.llvm.org/ |
+| GCC Compiler and Other Tools for Windows | https://www.mingw-w64.org/ |
+
+<br>
+
+
+## `Research Paper Tools | News`
+
+| Name | Link |
+| --- | --- |
+| :triangular_flag_on_post: Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
+| :triangular_flag_on_post: Find Connected Papers as List & Graph | https://www.connectedpapers.com/ |
+| :triangular_flag_on_post: State of the Art Papers with Topic and Subtopics | https://www.paperswithcode.com/sota |
+| ArXiv Papers as Web Page | https://www.arxiv-vanity.com/ |
+| Open Peer Review | https://openreview.net/ |
+| :triangular_flag_on_post: News on Latest AI Techniques | https://syncedreview.com/ |
+| Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
+
+<br>
+
+## `Books`
+
+| Name | Link |
+| --- | --- |
+| :triangular_flag_on_post: Interactive Deep Learning Book with Code | https://d2l.ai/ |
+| Computer Vision Book by Richard Szeliski | http://szeliski.org/Book/ |
+| Reinforcement Learning Book by Richard S. Sutton | http://incompleteideas.net/book/RLbook2020.pdf |
+| Deep Learning Book by Goodfellow et al. | https://www.deeplearningbook.org/ |
+| Speech and Language Processing by Jurafsky & Martin | https://web.stanford.edu/~jurafsky/slp3/ |
+
+<br>
+
+
+## `Skill Evaluation | Problem Solving | Contests`
+
+| Description | Link |
+| --- | --- |
+| Kaggle ML Competitions | https://www.kaggle.com/ |
+| DL/ML Engineer, Researcher Assesment, Certification | https://workera.ai/ |
+| Google Coding Competetions | https://codingcompetitions.withgoogle.com/ |
+| Problem Solving, Coding Interview Preparation | https://leetcode.com/ |
+
+<br>
+
+
+## `Course Sites`
+
+| Description | Link |
+| --- | --- |
+| Udacity | https://www.udacity.com |
+| Coursera | https://coursera.org |
+| Edx | https://www.edx.org/ |
+| DeepMind Resources, Practical Notebooks | https://deepmind.com/learning-resources |
+| Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
+| Stanford AI Course List | https://ai.stanford.edu/courses/ |
+
+
+<br>
+
+## `AI Blogs | Tutorials | Articles`
+
+| Name | Link |
+| --- | --- |
+| <h3>Research Blogs</h3> |  |
+| Facebook AI | https://ai.facebook.com/ |
+| OpenAI Blog | https://openai.com/blog/ |
+| BAIR AI Blog | https://bair.berkeley.edu/blog/ |
+| Microsoft Research | https://www.microsoft.com/en-us/research/ |
+| Google Research | https://research.google/ |
+| Deepmind Research | https://deepmind.com/research |
+| Visual Explanation of ML Research | https://distill.pub/ |
+|  |  |
+| <h3>Articles, Tutorials</h3> |  |
+| Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
+| Paperspace AI Articles | https://blog.paperspace.com/ |
+
+
+<br>
+
+
+## `Online Programming Tools`
+
+| Name | Link |
+| --- | --- |
+| :triangular_flag_on_post: Google Colab | https://colab.research.google.com/ |
+| Interactive Jupyter Notebook | https://mybinder.org/ |
+| Jupyter Notebook Viewer | https://nbviewer.jupyter.org/ |
+| In Browser Collaborative IDE | https://repl.it/ | 
+
+<br>
+
+## `Python Libraries`
+
+| Name | Link |
+| --- | --- |
+| <h3>ML, Computer Vision<h3/> |  |
+| :triangular_flag_on_post: PyTorch | https://pytorch.org/ |
+| Scikit Learn Python ML Library | https://scikit-learn.org/stable/ |
+| :triangular_flag_on_post: Tensorflow | https://www.tensorflow.org/ |
+| Keras (Part of Tensorflow now as tf.keras) | https://keras.io/ |
+| Flashlight C++ ML Library | https://github.com/flashlight/flashlight |
+| Dlib | http://dlib.net/ |
+| MXNet | https://mxnet.apache.org/ |
+| :triangular_flag_on_post: OpenCV | https://opencv.org/ |
+| Skimage | https://scikit-image.org/docs/dev/api/skimage.html |
+| Python Pillow | https://pillow.readthedocs.io/en/stable/installation.html |
+| ImageIO | https://imageio.github.io/ |
+|  |  |
+| <h3>OCR<h3/> |  |
+| Tesserect OCR | https://github.com/tesseract-ocr/tesseract |
+| EasyOCR | https://github.com/JaidedAI/EasyOCR |
+|  |  |
+| <h3>NLP<h3/> |  |
+| :triangular_flag_on_post: Spacy | https://spacy.io/ |
+| NLTK | https://www.nltk.org/ |
+| Rasa NLP | https://rasa.com/ |
+| Flair NLP | https://github.com/flairNLP/flair |
+| HuggingFace Transformers NLP | https://github.com/huggingface/transformers |
+|  |  |
+| <h3>ML APP UI<h3/> |  |
+| ML Tool Building | https://www.streamlit.io/ |
+|  |  |  
+| <h3>3D Graphics, ML, CV<h3/> |  | 
+| Python 3D Analysis, Visualization | https://github.com/marcomusy/vedo |
+| Python 3D Data Processing, Visualization | https://github.com/intel-isl/Open3D |
+| Pytorch 3D Deep Learning | https://github.com/facebookresearch/pytorch3d <br> https://pytorch3d.org/ |
+| Python 3D Mesh Analysis, Manipulation | https://github.com/mikedh/trimesh |
+| 3D Game Engine for Python and C++ | https://github.com/panda3d/panda3d |
+|  |  |
+| <h3>Python Speedup</h3> |  | 
+| Numba | https://github.com/numba/numba |
+| Cython | https://github.com/cython/cython | 
+| Pythran | https://github.com/serge-sans-paille/pythran | 
+| Dask | https://github.com/dask/dask |
+| CuPy | https://github.com/cupy/cupy |
+|  |  |
+| <h3>Similarity, Image Search</h3> |  | 
+| JinaAI | https://github.com/jina-ai/jina |
+| DocArray | https://github.com/jina-ai/docarray |
+|  |  |
+| <h3>Approximate Nearest Neighbours</h3> |  | 
+| Faiss | https://github.com/facebookresearch/faiss |
+| Annoy | https://github.com/spotify/annoy | 
+| NMSLib | https://github.com/nmslib/nmslib |
+| HSNWLib | https://github.com/nmslib/hnswlib |
+| NGT | https://github.com/yahoojapan/NGT |
+| N2 | https://github.com/kakao/n2 |
+| ScaNN | https://github.com/google-research/google-research/tree/master/scann |
+
+  
+<br>
+  
+## `Courses`
+
+| Name | Link |
+| --- | --- |
+| <h3>University Advanced CV, DL, Graphics</h3> |  | 
+| TUM Computer Vision and Graphics | https://niessnerlab.org/teaching.html |
+| Computer Vision III: Detection, Segmentation and Tracking (CV3DST) | https://dvl.in.tum.de/teaching/cv3dst-ss20/ |
+| Advanced Deep Learning for Computer vision (ADL4CV) | https://dvl.in.tum.de/teaching/adl4cv-ss20/ |
+| CMU 11-785 Introduction to Deep Learning | https://deeplearning.cs.cmu.edu/S21/index.html |
+| :triangular_flag_on_post: Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io <br> http://cs231n.stanford.edu/2020/syllabus.html <br> http://cs231n.stanford.edu/schedule.html |
+| Stanford cs231A Computer Vision, From 3D Reconstruction to Recognition | https://web.stanford.edu/class/cs231a/ <br> https://web.stanford.edu/class/cs231a/syllabus.html |
+| CS224n: Natural Language Processing with Deep Learning | https://web.stanford.edu/class/cs224n/ |
+| CS224W: Machine Learning with Graphs | https://web.stanford.edu/class/cs224w/ |
+| CS 330: Deep Multi-Task and Meta Learning | http://web.stanford.edu/class/cs330/ |
+| CMU 16-385 Computer Vision | http://16385.courses.cs.cmu.edu/spring2021/ |
+| CMU 15-462/662 Computer Graphics | http://15462.courses.cs.cmu.edu/spring2021/ |
+| University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r |
+|  |  |
+| <h3>Coursera</h3> |  |
+| :triangular_flag_on_post: Deep Learning Specialization (deeplearning.ai) | https://www.coursera.org/specializations/deep-learning |
+| GAN Specialization (deeplearning.ai) | https://www.coursera.org/specializations/generative-adversarial-networks-gans |
+| :triangular_flag_on_post: Tensorflow Advanced Techniques (deeplearning.ai) | https://www.coursera.org/specializations/tensorflow-advanced-techniques |
+| :triangular_flag_on_post: First Principles of Computer Vision Specialization | https://www.coursera.org/specializations/firstprinciplesofcomputervision |
+| Geometric Algorithms | https://www.coursera.org/learn/geometric-algorithms | 
+| Discrete Optimization | https://www.coursera.org/learn/discrete-optimization |  
+| Robotics Perception, Computer Vision Topics | https://www.coursera.org/learn/robotics-perception?specialization=robotics |  
+| C++, Data Structures, Algorithms | https://www.coursera.org/specializations/cs-fundamentals |
+| Algorithms by Tim Roughgarden | https://www.coursera.org/specializations/algorithms |
+| Algorithms Part 1 by Robert Sedgewick | https://www.coursera.org/learn/algorithms-part1 |
+| Algorithms Part 2 by Robert Sedgewick | https://www.coursera.org/learn/algorithms-part2 | 
+| Self Driving Car Specialization with Computer Vision Topics, Applications | https://www.coursera.org/specializations/self-driving-cars |
+
+  
+<br>
+
+## `FAQ | Techniques | Theory`
+
+| Description | Link |
+| --- | --- |
+|<h3>Programming Performance</h3>  |  |
+| Basic information on MKL, BLAS, LAPACK | https://en.wikipedia.org/wiki/Math_Kernel_Library <br> https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms <br> https://en.wikipedia.org/wiki/LAPACK |
+| Basic information on pthreads, OpenMP, TBB | https://en.wikipedia.org/wiki/POSIX_Threads <br> https://en.wikipedia.org/wiki/OpenMP <br> https://en.wikipedia.org/wiki/Threading_Building_Blocks |
+| Python Concurrency: Multiprocessing, Threading, AsyncIO | https://leimao.github.io/blog/Python-Concurrency-High-Level/ |
+| Python DL Vectorization (Week 2 Videos) | https://www.coursera.org/lecture/neural-networks-deep-learning/vectorization-NYnog |
+| Vectorization, SIMD, Intrinsics (Week 2 Videos) | https://www.coursera.org/learn/parallelism-ia/lecture/RsNCP/2-1-vector-operations |
+| Nearest Neighbours Benchmark | https://github.com/erikbern/ann-benchmarks/ |
+|  |  |
+| <h3>Programming</h3> |  |
+| Create Bundled Python Applications | https://github.com/pyinstaller/pyinstaller |
+| CMake build system | https://www.jetbrains.com/help/clion/cmakelists-txt-file.html <br> https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html#new-project |
+| Python source code protection | https://medium.com/@xpl/protecting-python-sources-using-cython-dcd940bb188e <br> https://stackoverflow.com/questions/62388701/are-executables-produced-with-cython-really-free-of-the-source-code |
+| Static libraies vs Dynamic/shared libraries <br> Tag: `Static Linking vs Dynmaic Linking`, `*.a, *.lib vs *.so, *.dll files` | https://medium.com/@StueyGK/static-libraries-vs-dynamic-libraries-af78f0b5f1e4 <br> https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries <br> https://stackoverflow.com/questions/30186256/what-is-the-difference-between-o-a-and-so-files |
+| Dynamic Programming, Top Down, Bottom Up, Divide and Conquer, Memoization | https://en.wikipedia.org/wiki/Dynamic_programming#Computer_programming |
+|  |  |
+| <h3>ML, Deep Learning</h3> |  |
+| Neural Net Weight Initialization (Xavier/Glorot, He etc.) | https://visualstudiomagazine.com/articles/2019/09/05/neural-network-glorot.aspx |
+| Computation Graph | https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4WdOY/computation-graph <br> https://www.coursera.org/learn/neural-networks-deep-learning/lecture/0VSHe/derivatives-with-a-computation-graph |
+| Hadamard Product | https://en.wikipedia.org/wiki/Hadamard_product_(matrices) |
+| Linear Function Definition and ReLU Linearity | https://datascience.stackexchange.com/questions/26475/why-is-relu-used-as-an-activation-function/26481#26481 |
+| Linear Functions vs. Affine Functions | https://math.stackexchange.com/questions/275310/what-is-the-difference-between-linear-and-affine-function |
+| Loss Function Equations with Code Snippets | https://kevinmusgrave.github.io/pytorch-metric-learning/losses/ |
+| LogSumExp Trick | http://gregorygundersen.com/blog/2020/02/09/log-sum-exp/ |
+| L1, L2 Norm | https://www.kaggle.com/residentmario/l1-norms-versus-l2-norms |
+| What is logits and relation to loss function | https://datascience.stackexchange.com/questions/31041/what-does-logits-in-machine-learning-mean <br> https://discuss.pytorch.org/t/bceloss-vs-bcewithlogitsloss/33586/16 <br> https://keras.io/api/losses/ |
+| Depthwise Separable Convolution | https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/ |
+| :gem: Softmax, Negative Log Likelihood with Derivative | https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/ |
+| :gem: Easy explanation of Gradient, Hessian, Jacobian, Laplacian | https://najeebkhan.github.io/blog/VecCal.html |
+| Expected value vs. Average | https://math.stackexchange.com/questions/904343/what-is-the-difference-between-average-and-expected-value/1355657#1355657 |
+| Transformers & Attention | http://jalammar.github.io/illustrated-transformer/ <br> https://d2l.ai/chapter_attention-mechanisms/index.html <br> https://www.youtube.com/watch?v=KN3ZL65Dze0 |
+| :gem: Transformers & Attention: Self Attention | https://www.youtube.com/watch?v=yGTUuEx3GkA |
+| :gem: Transformers & Attention: Keys, Values, Queries | https://www.youtube.com/watch?v=tIvKXrEDMhk |
+| :gem: Transformers & Attention: Multi Head Attention | https://www.youtube.com/watch?v=23XUv0T9L5c |
+| :gem: Transformers & Attention: Transformers | https://www.youtube.com/watch?v=EXNBy8G43MM |
+| :gem: Shriking Transformers | https://www.youtube.com/watch?v=hU6lu15uA-o |
+| Neural Network Implementation from scratch | https://peterroelants.github.io/posts/neural-network-implementation-part01/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part02/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part03/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part04/ |
+| Test Time Augmentation | https://machinelearningmastery.com/how-to-use-test-time-augmentation-to-improve-model-performance-for-image-classification/ <br> https://stepup.ai/test_time_data_augmentation/ |
+| Easy Article on Various Inception Network Architectures | https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202 |
+| :gem: LSTM Visual Explanation with Equations | https://www.coursera.org/learn/deep-learning-reinforcement-learning/lecture/aN0uk/long-short-term-memory-lstm-networks |
+| Pytorch Einstein Summation (einsum) | https://rockt.github.io/2018/04/30/einsum |
+|  |  |
+| <h3>Computer Graphics</h3> |  |
+| Normal, Bump, Displacement and Height Map Explanation | https://www.cgdirector.com/normal-vs-displacement-vs-bump-maps/ |
+|  |  |
+| <h3>NLP</h3> |  |
+| Byte Pair Encoding (BPE) <br> Tag: `Word vs Character vs Subword Tokenization` | https://en.wikipedia.org/wiki/Byte_pair_encoding <br> https://www.freecodecamp.org/news/evolution-of-tokenization/ |
+|  |  |
+| <h3>CV, Image Processing</h3> |  |
+| Object Detection IOU, mAP | https://blog.paperspace.com/mean-average-precision/ |
+| Overview of Bounding Box Formats | https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/ |
+
