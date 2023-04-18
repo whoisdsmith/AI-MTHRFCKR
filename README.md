@@ -21,16 +21,27 @@
 
 ### 2023-04-18 
 
+- [AI Center](https://aicenter.ai/) - A Platform Providing AI News, Research, And Educational Resources.
+- [AI Explorer](https://www.aiexplorer.app/) - An AI-powered Search Engine For AI Tools, Products, And Resources.
+- [AI Launch List](https://ailaunchlist.com/) - A Comprehensive List Of AI Startups, Products, And Services.
 - [Aim](https://github.com/aimhubio/aim) - An Open-source Platform For Machine Learning Model Training Experiments Tracking And Collaboration.
 - [AIScraper](https://ai-scraper.com/) - A Web Scraper Tool That Uses AI To Extract Structured Data From Websites.
+- [AI Startups](https://www.marsx.dev/ai-startups) - A Curated List Of Promising AI Startups From Around The World.
+- [Aitoolnet](https://www.aitoolnet.com/) - A Platform For Discovering And Comparing AI Tools And Solutions.
+- [AI Tools Directory | Dang.ai](https://dang.ai/) - A Curated Directory Of AI Tools, Resources, And Articles.
+- [AI Tools Directory](https://descenedigital.com/aitoolsdirectory/) - A Collection Of AI Tools And Resources For Digital Transformation.
+- [AI Tools Directory](https://www.flipbytes.com/tools/) - A Directory Featuring AI Tools And Resources For Businesses And Individuals.
+- [AI Tools](https://www.aitools.directory/) - A Directory Of AI Tools And Resources For Various Industries And Use Cases.
 - [AIZONIX](https://aizonix.com/) - An AI-based Platform For Optimizing And Enhancing Business Processes.
 - [Ask Paper BETA](https://www.askpaper.ai/) - A Research Paper Summarization Tool That Uses AI To Extract Key Insights.
 - [BabyAGI](https://babyagi.org/) - BabyAGI Is A Research Organization Focused On Developing Artificial General Intelligence In A Safe And Responsible Manner.
+- [Best AI Tools](https://draeno.io/) - A Curated List Of AI Tools And Resources For Various Industries.
 - [Build AI Applications](https://theforgeai.com/) - A Platform For Building And Deploying Custom AI Applications.
 - [Buildt](https://www.buildt.ai/) - AI-driven Construction Project Management Software For Improved Efficiency And Reduced Risk.
 - [Butternut AI](https://butternut.ai/) - An AI Platform For Creating Personalized Nutrition Plans And Tracking Diet Progress.
 - [CensysGPT Beta](https://gpt.censys.io/) - A Powerful AI Language Model In Beta, Offering A Range Of Natural Language Processing Services.
-- [Chat.Chatbot.Sex](https://chat.chatbot.sex/chat/) - A free ChatGPT chatbot platform that can surf the web and has extra features.
+- [ChartAI](https://chartai.io/) - An AI-powered Tool For Creating And Sharing Data Visualizations And Charts.
+- [Chat.Chatbot.Sex](https://chat.chatbot.sex/chat/) - A Free ChatGPT Chatbot Platform That Can Surf The Web And Has Extra Features.
 - [ChatGPT For Social](https://aoq.me/) - A Platform For Utilizing ChatGPT In Social Media Management And Content Creation.
 - [Chatgpt Prompt Apps](https://chatgpt-prompt-apps.com/) - A Collection Of Applications Built On Top Of ChatGPT For Various Use Cases.
 - [ChatGPT Text Divider](https://textdivider.com/) - An Online Tool Designed To Help Users Automatically Split Large Blocks Of Text Into Smaller Paragraphs For Better Readability.
@@ -39,35 +50,59 @@
 - [Concise AI](https://www.concise.app/) - A Natural Language Processing Tool For Summarizing And Extracting Key Points From Text.
 - [ContractReader](https://www.contractreader.io/) - An AI-powered Contract Analysis Tool For Faster And More Accurate Review Of Legal Documents.
 - [Cyte](https://cyte.io/) - A Platform That Uses AI To Analyze Websites And Provide Recommendations For Improvement.
+- [DapperGPT](https://dappergpt.com/) - A Platform For Generating Human-like Text Using AI-powered Language Models.
+- [DeskSense](https://desksense.com/) - An AI-driven Productivity Tool For Streamlining Workflows And Organizing Tasks.
 - [Dialoq](https://dialoqai.com/) - AI-driven Conversational Analytics For Better Understanding Customer Interactions.
 - [Docu-Talk](https://docu-talk.com/) - A Platform That Uses AI To Convert Documents Into Interactive Voice Experiences.
+- [Fast Flow Chart](https://www.fastflowchart.com/) - A Tool For Quickly Creating Flowcharts And Diagrams With AI Assistance.
+- [Favird](https://favird.com/l/ai-tools-and-applications) - A Collection Of AI Tools And Applications For Various Purposes.
+- [Free AI Tools Directory](https://free-ai-tools-directory.com/) - A Directory Of Free AI Tools And Resources For Personal And Professional Use.
+- [Future AGI Tools 🤖](Https://www.futureagitools.com/) - A Platform Dedicated To The Future Of Artificial General Intelligence (AGI) Tools And Resources.
 - [GAJIX](https://gajix.com/) - A Platform For Building, Deploying, And Managing AI-powered Applications.
+- [GitFluence](https://www.gitfluence.com/) - A Tool For Analyzing And Evaluating GitHub Repositories And Developers.
 - [GptAutoBOT](https://gptautobot.com/) - GptAutoBOT Is An AI-powered Platform Offering Text Generation, Summarization, And Other Language-related Services Using GPT-based Models.
+- [GPTForge](https://gptforge.net/) - A Platform For Creating Custom AI Language Models Based On OpenAI's GPT Technology.
+- [Gptify](https://gptify.io/) - An AI-powered Tool For Generating Human-like Text, Including Content Creation And Summarization.
+- [GPTKit](https://gptkit.ai/) - A Toolkit For Building AI-powered Applications Using GPT-based Language Models.
 - [Grammar GPT](https://www.grammar-gpt.com/) - An AI-powered Grammar Checker And Writing Assistant.
 - [HaveIBeenEncoded](https://haveibeenencoded.com/) - HaveIBeenEncoded Is A Cybersecurity Service That Helps Users Check If Their Personal Data Has Been Involved In Data Breaches Or Leaked Online.
 - [InsightBase](https://insightbase.ai/) - A B2B Data Platform That Uses AI To Provide Actionable Insights For Sales And Marketing Teams.
 - [Invicta AI](https://app.invictai.io/) - A Platform That Offers AI-powered Automation Solutions For Businesses.
-- [IX](https://github.com/kreneskyp/ix) - iX is a platform to run semi-autonomous GPT-4 agents, providing a scalable and responsive solution for delegating tasks. Agents can be spawned as individual processes to research and complete tasks through a web based interface while the backend architecture efficiently manages message queues and inter-agent communication between a fleet of workers.
+- [IX](https://github.com/kreneskyp/ix) - IX Is A Platform To Run Semi-autonomous GPT-4 Agents, Providing A Scalable And Responsive Solution For Delegating Tasks. Agents Can Be Spawned As Individual Processes To Research And Complete Tasks Through A Web Based Interface While The Backend Architecture Efficiently Manages Message Queues And Inter-agent Communication Between A Fleet Of Workers.
 - [Kaya](https://kaya.chat/) - A Conversational AI Platform For Building Chatbots And Virtual Assistants.
+- [Klu](https://klu.so/) - A Tool For Discovering, Organizing, And Sharing Knowledge Using AI-powered Insights.
 - [Kusho](https://kusho.co/) - An AI-powered Platform For Creating And Managing Digital Advertising Campaigns.
+- [LinkedIn Post Generator](https://www.postgenerator.app/) - An AI-driven Tool For Generating Engaging LinkedIn Posts.
 - [Liveform](https://www.liveform.ai/) - A Platform For Creating AI-powered Web Forms And Surveys.
 - [Machine Learning Jobs](https://www.mljobs.info/) - A Job Board Dedicated To Machine Learning, AI, And Data Science Positions, Connecting Job Seekers With Relevant Opportunities.
 - [Mentalyc](https://www.mentalyc.com/) - An AI-driven Mental Health Platform For Personalized Care And Support.
-- [MLC Web LLM](https://mlc.ai/web-llm/) - A web-based language learning model that provides a platform for users to train and fine-tune AI models for natural language processing tasks.
+- [MLC Web LLM](https://mlc.ai/web-llm/) - A Web-based Language Learning Model That Provides A Platform For Users To Train And Fine-tune AI Models For Natural Language Processing Tasks.
 - [My AskAI](https://myaskai.com/) - A Platform For Building AI-powered Chatbots For Customer Support And Engagement.
 - [Mymind](https://mymind.com/) - A Personal AI Assistant For Organizing Thoughts, Ideas, And Information.
 - [Nextatlas](https://www.nextatlas.com/) - An AI-driven Trend Forecasting Platform For Businesses And Brands.
+- [NextPedia](https://www.nextpedia.io/) - A Next-generation Encyclopedia Powered By AI And Blockchain Technology.
 - [Optimus Prompt](https://www.optimusprompt.ai/) - Optimus Prompt Is An AI-driven Writing Assistant Designed To Provide Natural Language Generation And Enhancement For Various Writing Tasks.
 - [Papyrus AI](https://www.papyrusai.com/) - An AI-powered Platform Offering Document Processing Solutions, Capable Of Extracting Information From A Variety Of Sources.
 - [Pigro For OpenAI](https://openai.pigro.ai/) - Pigro For OpenAI Is A Web-based Platform That Simplifies The Integration And Use Of OpenAI Models For Custom Applications.
-- [PlugPT](https://nathsou.github.io/plugpt/) - A browser extension to enhance the GPT-3 API experience by providing additional features and improvements for text generation.
+- [Pinecone](https://www.pinecone.io/) - A Vector Database For Machine Learning And Similarity Search Applications.
+- [PlugPT](https://nathsou.github.io/plugpt/) - A Browser Extension To Enhance The GPT-3 API Experience By Providing Additional Features And Improvements For Text Generation.
+- [PoplarML](https://www.poplarml.com/) - A Platform For Developing And Deploying Machine Learning Models In Production.
 - [ResearchAIde](https://www.researchaide.org/) - A Nonprofit Initiative Aimed At Promoting And Supporting AI-driven Research In Various Fields.
+- [Search AI Tools](https://ai-search.io/) - An AI-powered Search Engine For AI Tools, Resources, And Services.
 - [Searcholic](https://searcholic.com/#gsc.tab=0) - Searcholic Is A Search Engine That Offers Customized Search Results By Utilizing AI-powered Algorithms To Improve User Experience.
 - [Single Prompt AI](https://singlepromptai.com/home) - Single Prompt AI Is An AI Tool That Generates Creative Text Content Based On A Single Prompt Provided By The User.
+- [TEXTIFY](https://textify.ai/directory/) - A Directory Of AI-powered Text Analysis Tools And Resources.
+- [Tools NoCode](https://www.toolsnocode.com/ai) - A Collection Of AI Tools And Resources For Non-programmers.
 - [TweetyAI](https://tweetyai.com/) - TweetyAI Is An AI-driven Social Media Management Tool That Automates Content Creation, Scheduling, And Posting For Various Platforms.
-- [Vidura.ai](https://vidura.ai/) - An AI platform that offers video understanding services, including object detection, activity recognition, and scene understanding.
+- [Victrays](https://victrays.com/) - A Platform For Tracking And Analyzing Venture Capital Data Using AI.
+- [VideoMind For Youtube Videos](https://videomind.vercel.app/) - An AI-driven Tool For Optimizing YouTube Video Content And Engagement.
+- [Vidura.ai](https://vidura.ai/) - An AI Platform That Offers Video Understanding Services, Including Object Detection, Activity Recognition, And Scene Understanding.
+- [Vondy](https://www.vondy.com/) - A Platform For Creating And Sharing AI-generated Visual Content.
+- [Weaviate](https://weaviate.io/) - A Scalable And Modular Knowledge Graph Platform Powered By AI.
+- [WhatTheAI](https://whattheai.tech/) - A Platform For Discovering And Understanding AI Tools And Resources.
 - [Wisebot AI Chatbots](https://www.wisebot.app/) - A Platform For Creating, Deploying, And Managing AI-powered Chatbots To Improve Customer Engagement And Support.
 - [Wonderchat](https://wonderchat.io/) - An AI-powered Chatbot Builder For Customer Engagement And Support Automation, Enabling Businesses To Create Personalized And Efficient Chatbot Experiences.
+- [XTuring](https://xturing.stochastic.ai/) - A Platform For Building, Training, And Deploying AI Models In A Distributed Environment.
 
 ### 2013-04-17
 
