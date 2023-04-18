@@ -21,14 +21,42 @@
 
 ### 2023-04-18 
 
+- [Aim](https://github.com/aimhubio/aim) - An Open-source Platform For Machine Learning Model Training Experiments Tracking And Collaboration.
+- [AIScraper](https://ai-scraper.com/) - A Web Scraper Tool That Uses AI To Extract Structured Data From Websites.
+- [AIZONIX](https://aizonix.com/) - An AI-based Platform For Optimizing And Enhancing Business Processes.
+- [Ask Paper BETA](https://www.askpaper.ai/) - A Research Paper Summarization Tool That Uses AI To Extract Key Insights.
 - [BabyAGI](https://babyagi.org/) - BabyAGI is a research organization focused on developing artificial general intelligence in a safe and responsible manner.
+- [Build AI Applications](https://theforgeai.com/) - A Platform For Building And Deploying Custom AI Applications.
+- [Buildt](https://www.buildt.ai/) - AI-driven Construction Project Management Software For Improved Efficiency And Reduced Risk.
+- [Butternut AI](https://butternut.ai/) - An AI Platform For Creating Personalized Nutrition Plans And Tracking Diet Progress.
+- [ChatGPT For Social](https://aoq.me/) - A Platform For Utilizing ChatGPT In Social Media Management And Content Creation.
+- [Chatgpt Prompt Apps](https://chatgpt-prompt-apps.com/) - A Collection Of Applications Built On Top Of ChatGPT For Various Use Cases.
+- [Chat Jini](https://chatjini.com/) - An AI-powered Chatbot Builder For Customer Support And Sales Automation.
+- [Coachvox AI](https://coachvox.ai/) - AI-driven Voice Coaching Software For Improving Public Speaking And Communication Skills.
+- [Concise AI](https://www.concise.app/) - A Natural Language Processing Tool For Summarizing And Extracting Key Points From Text.
+- [ContractReader](https://www.contractreader.io/) - An AI-powered Contract Analysis Tool For Faster And More Accurate Review Of Legal Documents.
+- [Cyte](https://cyte.io/) - A Platform That Uses AI To Analyze Websites And Provide Recommendations For Improvement.
+- [Dialoq](https://dialoqai.com/) - AI-driven Conversational Analytics For Better Understanding Customer Interactions.
+- [Docu-Talk](https://docu-talk.com/) - A Platform That Uses AI To Convert Documents Into Interactive Voice Experiences.
+- [GAJIX](https://gajix.com/) - A Platform For Building, Deploying, And Managing AI-powered Applications.
 - [GptAutoBOT](https://gptautobot.com/) - GptAutoBOT is an AI-powered platform offering text generation, summarization, and other language-related services using GPT-based models.
+- [Grammar GPT](https://www.grammar-gpt.com/) - An AI-powered Grammar Checker And Writing Assistant.
 - [HaveIBeenEncoded](https://haveibeenencoded.com/) - HaveIBeenEncoded is a cybersecurity service that helps users check if their personal data has been involved in data breaches or leaked online.
+- [InsightBase](https://insightbase.ai/) - A B2B Data Platform That Uses AI To Provide Actionable Insights For Sales And Marketing Teams.
+- [Invicta AI](https://app.invictai.io/) - A Platform That Offers AI-powered Automation Solutions For Businesses.
+- [Kaya](https://kaya.chat/) - A Conversational AI Platform For Building Chatbots And Virtual Assistants.
+- [Kusho](https://kusho.co/) - An AI-powered Platform For Creating And Managing Digital Advertising Campaigns.
+- [Liveform](https://www.liveform.ai/) - A Platform For Creating AI-powered Web Forms And Surveys.
+- [Mentalyc](https://www.mentalyc.com/) - An AI-driven Mental Health Platform For Personalized Care And Support.
+- [My AskAI](https://myaskai.com/) - A Platform For Building AI-powered Chatbots For Customer Support And Engagement.
+- [Mymind](https://mymind.com/) - A Personal AI Assistant For Organizing Thoughts, Ideas, And Information.
+- [Nextatlas](https://www.nextatlas.com/) - An AI-driven Trend Forecasting Platform For Businesses And Brands.
 - [Optimus Prompt](https://www.optimusprompt.ai/) - Optimus Prompt is an AI-driven writing assistant designed to provide natural language generation and enhancement for various writing tasks.
 - [Pigro for OpenAI](https://openai.pigro.ai/) - Pigro for OpenAI is a web-based platform that simplifies the integration and use of OpenAI models for custom applications.
 - [Searcholic](https://searcholic.com/#gsc.tab=0) - Searcholic is a search engine that offers customized search results by utilizing AI-powered algorithms to improve user experience.
 - [Single Prompt AI](https://singlepromptai.com/home) - Single Prompt AI is an AI tool that generates creative text content based on a single prompt provided by the user.
 - [TweetyAI](https://tweetyai.com/) - TweetyAI is an AI-driven social media management tool that automates content creation, scheduling, and posting for various platforms.
+- [Wonderchat](https://wonderchat.io/) - An AI-powered Chatbot Builder For Customer Engagement And Support Automation, Enabling Businesses To Create Personalized And Efficient Chatbot Experiences.
 
 ### 2013-04-17
 
