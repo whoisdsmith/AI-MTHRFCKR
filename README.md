@@ -30,6 +30,7 @@
 - [Buildt](https://www.buildt.ai/) - AI-driven Construction Project Management Software For Improved Efficiency And Reduced Risk.
 - [Butternut AI](https://butternut.ai/) - An AI Platform For Creating Personalized Nutrition Plans And Tracking Diet Progress.
 - [CensysGPT Beta](https://gpt.censys.io/) - A Powerful AI Language Model In Beta, Offering A Range Of Natural Language Processing Services.
+- [Chat.Chatbot.Sex](https://chat.chatbot.sex/chat/) - A free ChatGPT chatbot platform that can surf the web and has extra features.
 - [ChatGPT For Social](https://aoq.me/) - A Platform For Utilizing ChatGPT In Social Media Management And Content Creation.
 - [Chatgpt Prompt Apps](https://chatgpt-prompt-apps.com/) - A Collection Of Applications Built On Top Of ChatGPT For Various Use Cases.
 - [ChatGPT Text Divider](https://textdivider.com/) - An Online Tool Designed To Help Users Automatically Split Large Blocks Of Text Into Smaller Paragraphs For Better Readability.
@@ -46,21 +47,25 @@
 - [HaveIBeenEncoded](https://haveibeenencoded.com/) - HaveIBeenEncoded Is A Cybersecurity Service That Helps Users Check If Their Personal Data Has Been Involved In Data Breaches Or Leaked Online.
 - [InsightBase](https://insightbase.ai/) - A B2B Data Platform That Uses AI To Provide Actionable Insights For Sales And Marketing Teams.
 - [Invicta AI](https://app.invictai.io/) - A Platform That Offers AI-powered Automation Solutions For Businesses.
+- [IX](https://github.com/kreneskyp/ix) - iX is a platform to run semi-autonomous GPT-4 agents, providing a scalable and responsive solution for delegating tasks. Agents can be spawned as individual processes to research and complete tasks through a web based interface while the backend architecture efficiently manages message queues and inter-agent communication between a fleet of workers.
 - [Kaya](https://kaya.chat/) - A Conversational AI Platform For Building Chatbots And Virtual Assistants.
 - [Kusho](https://kusho.co/) - An AI-powered Platform For Creating And Managing Digital Advertising Campaigns.
 - [Liveform](https://www.liveform.ai/) - A Platform For Creating AI-powered Web Forms And Surveys.
 - [Machine Learning Jobs](https://www.mljobs.info/) - A Job Board Dedicated To Machine Learning, AI, And Data Science Positions, Connecting Job Seekers With Relevant Opportunities.
 - [Mentalyc](https://www.mentalyc.com/) - An AI-driven Mental Health Platform For Personalized Care And Support.
+- [MLC Web LLM](https://mlc.ai/web-llm/) - A web-based language learning model that provides a platform for users to train and fine-tune AI models for natural language processing tasks.
 - [My AskAI](https://myaskai.com/) - A Platform For Building AI-powered Chatbots For Customer Support And Engagement.
 - [Mymind](https://mymind.com/) - A Personal AI Assistant For Organizing Thoughts, Ideas, And Information.
 - [Nextatlas](https://www.nextatlas.com/) - An AI-driven Trend Forecasting Platform For Businesses And Brands.
 - [Optimus Prompt](https://www.optimusprompt.ai/) - Optimus Prompt Is An AI-driven Writing Assistant Designed To Provide Natural Language Generation And Enhancement For Various Writing Tasks.
 - [Papyrus AI](https://www.papyrusai.com/) - An AI-powered Platform Offering Document Processing Solutions, Capable Of Extracting Information From A Variety Of Sources.
 - [Pigro For OpenAI](https://openai.pigro.ai/) - Pigro For OpenAI Is A Web-based Platform That Simplifies The Integration And Use Of OpenAI Models For Custom Applications.
+- [PlugPT](https://nathsou.github.io/plugpt/) - A browser extension to enhance the GPT-3 API experience by providing additional features and improvements for text generation.
 - [ResearchAIde](https://www.researchaide.org/) - A Nonprofit Initiative Aimed At Promoting And Supporting AI-driven Research In Various Fields.
 - [Searcholic](https://searcholic.com/#gsc.tab=0) - Searcholic Is A Search Engine That Offers Customized Search Results By Utilizing AI-powered Algorithms To Improve User Experience.
 - [Single Prompt AI](https://singlepromptai.com/home) - Single Prompt AI Is An AI Tool That Generates Creative Text Content Based On A Single Prompt Provided By The User.
 - [TweetyAI](https://tweetyai.com/) - TweetyAI Is An AI-driven Social Media Management Tool That Automates Content Creation, Scheduling, And Posting For Various Platforms.
+- [Vidura.ai](https://vidura.ai/) - An AI platform that offers video understanding services, including object detection, activity recognition, and scene understanding.
 - [Wisebot AI Chatbots](https://www.wisebot.app/) - A Platform For Creating, Deploying, And Managing AI-powered Chatbots To Improve Customer Engagement And Support.
 - [Wonderchat](https://wonderchat.io/) - An AI-powered Chatbot Builder For Customer Engagement And Support Automation, Enabling Businesses To Create Personalized And Efficient Chatbot Experiences.
 
