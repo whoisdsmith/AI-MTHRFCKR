@@ -19,6 +19,17 @@
 
 ## Recently Added
 
+### 2023-04-18 
+
+- [BabyAGI](https://babyagi.org/) - BabyAGI is a research organization focused on developing artificial general intelligence in a safe and responsible manner.
+- [GptAutoBOT](https://gptautobot.com/) - GptAutoBOT is an AI-powered platform offering text generation, summarization, and other language-related services using GPT-based models.
+- [HaveIBeenEncoded](https://haveibeenencoded.com/) - HaveIBeenEncoded is a cybersecurity service that helps users check if their personal data has been involved in data breaches or leaked online.
+- [Optimus Prompt](https://www.optimusprompt.ai/) - Optimus Prompt is an AI-driven writing assistant designed to provide natural language generation and enhancement for various writing tasks.
+- [Pigro for OpenAI](https://openai.pigro.ai/) - Pigro for OpenAI is a web-based platform that simplifies the integration and use of OpenAI models for custom applications.
+- [Searcholic](https://searcholic.com/#gsc.tab=0) - Searcholic is a search engine that offers customized search results by utilizing AI-powered algorithms to improve user experience.
+- [Single Prompt AI](https://singlepromptai.com/home) - Single Prompt AI is an AI tool that generates creative text content based on a single prompt provided by the user.
+- [TweetyAI](https://tweetyai.com/) - TweetyAI is an AI-driven social media management tool that automates content creation, scheduling, and posting for various platforms.
+
 ### 2013-04-17
 
 - [2AI](https://2ai.app/) - A Platform Offering AI-powered Solutions For Various Industries, Including Image Processing, Natural Language Processing, And Data Analytics.
