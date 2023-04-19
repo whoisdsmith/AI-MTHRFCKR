@@ -1,4 +1,4 @@
-# awesome-ChatGPT-repositories
+# ChatGPT Repositories
 
 ## The latest additions 🎉
 

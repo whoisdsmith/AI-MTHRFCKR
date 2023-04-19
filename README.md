@@ -19,6 +19,49 @@
 
 ## Recently Added
 
+### 2023-04-19 
+
+- [ActivechatAI](https://activechat.ai/) - ActivechatAI provides a platform for building conversational chatbots that can be integrated with websites and social media platforms.
+- [ADA](https://ada-ai.org/) - ADA is a platform that provides artificial intelligence-powered chatbots and voice bots for businesses to engage with their customers.
+- [AI Agent](https://aiagent.app/) - AI Agent is a conversational AI platform that enables businesses to build chatbots for customer support, lead generation, and sales.
+- [AI Playground by Vercel Labs](https://play.vercel.ai/) - AI Playground is an interactive platform for exploring and experimenting with various machine learning models.
+- [Aigur](https://aigur.dev/) - Aigur is an AI-powered project management tool that automates repetitive tasks and provides insights into project progress.
+- [AlphaCode](https://alphacode.deepmind.com/) - AlphaCode is a platform for developing and testing reinforcement learning algorithms.
+- [Arize](https://arize.com/) - Arize provides a platform for monitoring and analyzing the performance of machine learning models in production.
+- [AudioFlux](https://audioflux.top/) - AudioFlux is a platform for creating and sharing audio effects using machine learning.
+- [Bloks](https://www.bloks.app/) - Bloks is a visual programming tool for building machine learning models without writing any code.
+- [Build AI](https://www.buildai.space/) - Build AI is a platform that provides tools for building and deploying machine learning models for business applications.
+- [Casetext](https://casetext.com/) - Casetext is a legal research platform that uses artificial intelligence to help lawyers find relevant cases and statutes.
+- [ChatDox](https://www.chatdox.com/) - ChatDox is a platform that enables businesses to build chatbots for customer service and support.
+- [ChatGPT-2D](https://www.superusapp.com/chatgpt2d/) - ChatGPT-2D is a chatbot built using GPT-2 language model that can have conversations on various topics.
+- [ChattyDocs](https://chattydocs.com/) - ChattyDocs is a platform that allows businesses to build AI-powered chatbots for document automation and management.
+- [CreatorML](https://creatorml.com/) - CreatorML is a no-code platform for creating machine learning models for text, image, and voice applications.
+- [Cron AI](https://cron-ai.vercel.app/) - Cron AI is a platform for building and deploying computer vision models for various applications.
+- [Evoke](https://evoke-app.com/) - Evoke is a platform that uses machine learning to generate website designs based on user preferences.
+- [Fibery](https://fibery.io/) - Fibery is a platform for building custom business applications using artificial intelligence and no-code development.
+- [Formula God](https://www.formulagod.ai/) - Formula God is a platform that provides predictive analytics for sports betting using machine learning.
+- [GoalGPT by Nando.AI](https://beta.nando.ai/goalgpt.php) - GoalGPT is a platform that uses GPT-3 language model to generate creative ideas for marketing and advertising campaigns.
+- [Gooey.AI](https://gooey.ai/?via=gptforge) - Gooey.AI is a platform for building AI-powered chatbots for customer support and sales.
+- [GPT-4 ](https://gpt4demo.com/) - GPT-4 is an artificial intelligence language model developed by OpenAI that generates human-like text.
+- [GPTconverse](https://martinvdijk.notion.site/martinvdijk/GPTconverse-a3f0f9c1a5ff4447b96b9fb77c74ef32) - GPTconverse is an open-source conversational AI platform that uses GPT-3 language model to generate human-like text.
+- [Hume AI](https://hume.ai/) - Hume AI is a platform that uses machine learning to extract insights from unstructured data for business applications.
+- [InteraxAI](https://interaxai.com/) - InteraxAI is a platform that provides AI-powered chatbots and voice bots for businesses to engage with their customers.
+- [June](https://www.june.so/ai) - June is a platform that uses artificial intelligence to generate personalized marketing copy for businesses.
+- [Kleap](https://kleap.co/) - Kleap is a platform that uses machine learning to automate document processing for businesses.
+- [LinklessGPT](https://linklessgpt.com/) - LinklessGPT is a platform that uses GPT-3 language model to generate search queries without using any external links.
+- [Metal](https://getmetal.io/) - Metal is a platform that provides machine learning infrastructure for businesses to build and deploy AI-powered applications.
+- [Napkin AI](https://napkin.ai/) - Napkin AI is a platform that uses machine learning to automate document review and analysis for legal and financial industries.
+- [NektonAI](https://nekton.ai/) - NektonAI is a platform that provides AI-powered chatbots and voice bots for businesses to improve customer engagement.
+- [Not found | Activechat.ai](https://activechat.ai/chatbot) - Activechat.ai provides a visual chatbot builder for businesses to create AI-powered chatbots for customer service and support.
+- [NumerousAI](https://numerous.ai/) - NumerousAI is a platform that provides machine learning tools for businesses to build and deploy AI models for various applications.
+- [OpenAI API Checker](http://openaiapitesttool.quickbotai.com/) - OpenAI API Checker is a tool for testing the functionality of the OpenAI API for building machine learning models.
+- [PoplarML](https://poplarml.com/) - PoplarML is a platform that provides tools for building and deploying machine learning models for e-commerce applications.
+- [Supertone](https://supertone.ai/) - Supertone is a platform that uses machine learning to generate personalized background music for videos.
+- [Tonkean Platform](https://www.tonkean.com/platform/ai-front-door) - Tonkean Platform is a platform that provides AI-powered workflows for business operations.
+- [Vellum](https://www.vellum.ai/) - Vellum is a platform that provides machine learning tools for data labeling and annotation for AI models.
+- [Vio](https://vio.bryghtmind.com/) - Vio is a platform that uses machine learning to extract insights from customer feedback for businesses.
+- [WRITENOW](https://memoable.app/) - WRITENOW is a writing tool that uses artificial intelligence to generate suggestions for improving writing style and grammar.
+
 ### 2023-04-18 
 
 - [AI Center](https://aicenter.ai/) - A Platform Providing AI News, Research, And Educational Resources.
@@ -28,10 +71,10 @@
 - [AIScraper](https://ai-scraper.com/) - A Web Scraper Tool That Uses AI To Extract Structured Data From Websites.
 - [AI Startups](https://www.marsx.dev/ai-startups) - A Curated List Of Promising AI Startups From Around The World.
 - [Aitoolnet](https://www.aitoolnet.com/) - A Platform For Discovering And Comparing AI Tools And Solutions.
-- [AI Tools Directory | Dang.ai](https://dang.ai/) - A Curated Directory Of AI Tools, Resources, And Articles.
-- [AI Tools Directory](https://descenedigital.com/aitoolsdirectory/) - A Collection Of AI Tools And Resources For Digital Transformation.
-- [AI Tools Directory](https://www.flipbytes.com/tools/) - A Directory Featuring AI Tools And Resources For Businesses And Individuals.
-- [AI Tools](https://www.aitools.directory/) - A Directory Of AI Tools And Resources For Various Industries And Use Cases.
+- [AI Tools Directory | DangAI](https://dang.ai/) - A Curated Directory Of AI Tools, Resources, And Articles.
+- [AI Tools Directory | Descene Digital](https://descenedigital.com/aitoolsdirectory/) - A Collection Of AI Tools And Resources For Digital Transformation.
+- [AI Tools Directory | Flipbytes](https://www.flipbytes.com/tools/) - A Directory Featuring AI Tools And Resources For Businesses And Individuals.
+- [AI Tools | Directory](https://www.aitools.directory/) - A Directory Of AI Tools And Resources For Various Industries And Use Cases.
 - [AIZONIX](https://aizonix.com/) - An AI-based Platform For Optimizing And Enhancing Business Processes.
 - [Ask Paper BETA](https://www.askpaper.ai/) - A Research Paper Summarization Tool That Uses AI To Extract Key Insights.
 - [BabyAGI](https://babyagi.org/) - BabyAGI Is A Research Organization Focused On Developing Artificial General Intelligence In A Safe And Responsible Manner.
