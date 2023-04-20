@@ -12,11 +12,7 @@ Similarly, it’s better to think of diffusion models like Stable Diffusion not 
 
 That’s all pretty abstract. Fortunately, many people have come up with very concrete guidelines of how to prompt. Below is an overview of that good stuff, followed by a brief discussion of chains of thought, using prompts to generate prompts, and more.
 
-[
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8d647671-54a8-49ef-85e7-2d5afdd57614_1024x1024.png)
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8d647671-54a8-49ef-85e7-2d5afdd57614_1024x1024.png)
 
 In which I perpetuate the incorrect mental model.
 
@@ -56,10 +52,6 @@ I know, I know: in a list of tools and guides, I just linked you to a page which
 - Personally, I like to *not* do any of the above, instead prompt with a string of abstract concepts and weird narrative fragments, and hope to be pleasantly surprised … but I’m weird that way. If you actually have a specific image in mind, you can usually iterate pretty close to it with the above tips.
     
 
-[
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d3f87c7-ed8f-4882-a436-f82e460eab5f_1024x1024.png)
-
 Never break the chain of thought.
 
 Let’s get back to large language models for a moment. One of the strange and interesting things about them is that you can “cue” them to think better about your particular prompt, often by giving them an example or two. In the argot of the industry, a model’s response to a prompt with no setup is called a “zero-shot” output. A response to a prompt after you give the LLM a single example of what you want is “one-shot,” and a response after giving it a few examples is “few-shot.”
@@ -71,10 +63,6 @@ This is fascinating and extraordinary … but it also highlights that, while it 
 (Are chain-of-thought and few-shot prompts ultimately just a special case of “fine-tuning,” i.e. formally training an LLM on a slew of new data specific to your particular task before using it? And if so, does that suggest that “fine-tuning,” even though it actually adjusts model weights, is *also* unnecessary, at least in theory, because it’s used not to add any additional capabilities to the LLM but to orient it towards your task, something one could also do with the platonic ideal of a single prompt? I’m no theoretician, but I also don’t think theoreticians actually know the answer, so: maybe?)
 
 But why just *chain* prompts when you can *meta-chain* them? This whole blog post is about the fact that we have to generate very specific language to optimize the outputs of both LLMs and diffusion models. Aaaaaaand what’s the best available tool humanity has for generating very specific (or any other forms of) language? That’s right: LLMs themselves! As such, “[Large Language Models are Human-Level Prompt Engineers](https://www.arxiv-vanity.com/papers/2211.01910/),” one can even tweak prompts to edit generated images in real time, and I’m confident a great deal of further work is underway on prompting LLMs to generate prompts (for) themselves [and for diffusion models](https://www.timothybrooks.com/instruct-pix2pix).
-
-[
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1d28df87-02a9-47de-8843-334ed3fb0daa_1024x1024.png)
 
 Hard at work in the prompt factory.
 
