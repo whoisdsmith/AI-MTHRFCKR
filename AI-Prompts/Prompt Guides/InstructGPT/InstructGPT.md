@@ -14,7 +14,7 @@
 - [Create compare and contrast](Create%20compare%20and%20contrast.md)
 - [Merge points or ideas](Merge%20points%20or%20ideas.md)
 - [Simplify and provide explanations](Simplify%20and%20provide%20explanations.md)
-- [Writing](AI-Prompts/InstructGPT/Writing.md)
+- [Writing](AI-Prompts/Prompt%20Guides/InstructGPT/Writing.md)
 - [Proofreading and text editing](Proofreading%20and%20text%20editing.md)
 - [Reading comprehension](Reading%20comprehension.md)
 - [Analyze and Evaluate](Analyze%20and%20Evaluate.md)

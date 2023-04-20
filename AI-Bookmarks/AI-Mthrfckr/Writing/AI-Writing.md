@@ -10,6 +10,6 @@
 - [Paraphraser](Paraphraser.md)
 - [Story Teller](Story%20Teller.md)
 - [Summarizing](Summarizing.md)
-- [Writing](Writing.md)
+- [Writing](AI-Bookmarks/AI-Mthrfckr/Writing/Writing.md)
 
 ---
