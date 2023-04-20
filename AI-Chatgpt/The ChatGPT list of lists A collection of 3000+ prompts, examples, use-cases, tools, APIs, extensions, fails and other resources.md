@@ -1,24 +1,20 @@
-# The ChatGPT list of lists: A collection of 3000+ prompts, examples, use-cases, tools, APIs, extensions, fails and other resources. | LinkedIn
-
-
+# The ChatGPT list of lists
 
 ---
+
 ![](https://media.licdn.com/dms/image/D5612AQG7g3UT5AF3xw/article-cover_image-shrink_423_752/0/1679029008127?e=1687392000&v=beta&t=9lTOh5HKzrz8hyAvT_3-Uf3XINWxm1mc1RfUAE2BKbw)
-
-# The ChatGPT list of lists: A collection of 3000+ prompts, examples, use-cases, tools, APIs, extensions, fails and other resources.
-
 
 March 17, 2023
 
-Oh, ChatGPT! Some 2 months on the market and a not so tiny ecosystem has developed all on its own, with lists of prompts, tips, APIs, use cases, extensions, success stories and failures. ChatGPT is the first true foundation model for the mass-market. Some of the posts, blogs, and articles dealing with this new phenomenom, well, really don’t deserve any attention. Like “The 10 Best Side Hustles with ChatGPT that Can Earn You $4,000 a Week.” But some of them are genuinely interesting. I’ll try to give you an overview on the more exciting applications.
+Oh, ChatGPT! Some 2 months on the market and a not so tiny ecosystem has developed all on its own, with lists of prompts, tips, APIs, use cases, extensions, success stories and failures. ChatGPT is the first true foundation model for the mass-market. Some of the posts, blogs, and articles dealing with this new phenomenon, well, really don’t deserve any attention. Like “The 10 Best Side Hustles with ChatGPT that Can Earn You $4,000 a Week.” But some of them are genuinely interesting. I’ll try to give you an overview on the more exciting applications.
 
 **Here is a breakdown of this story:**
 
 ![No alt text provided for this image](https://media.licdn.com/dms/image/D5612AQFmi6djF9JAtA/article-inline_image-shrink_1500_2232/0/1679029059591?e=1687392000&v=beta&t=yNTpJ3QDsm67D9-MfghA1mBRBuVFEniJnxistld9q6E)
 
-The ChatGPT ecosystem **is moving very fast** — if you know or even maintain a list of ChatGPT prompts or resources please **drop me a note** (respond to this article, send me the link and what it is about).
+The ChatGPT ecosystem **is moving very fast**—if you know or even maintain a list of ChatGPT prompts or resources please **drop me a note** (respond to this article, send me the link and what it is about).
 
-................................
+…………………………..
 
 ## 30x: Intro to ChatGPT and foundation models
 
@@ -36,9 +32,9 @@ The ChatGPT ecosystem **is moving very fast** — if you know or even maintain a
 
 ![No alt text provided for this image](https://media.licdn.com/dms/image/D5612AQEZWGsEC2TRoQ/article-inline_image-shrink_1500_2232/0/1679029143799?e=1687392000&v=beta&t=nxTKMwevXXxdZV6INm64YTv_E-F0b9gTSsmE5rc3J9k)
 
-...........................................
+…………………………………….
 
-## 500+: (Marketing) content creation
+## 500+: (Marketing) Content creation
 
 ChatGPT has devoured the net like a ravenous digital beast. It has packed away so much world knowledge and facts, as if it feared the internet would be switched off tomorrow. But don’t be fooled, the most important thing it learned in the web is how to be a smooth-talker, how to spin messages for maximum marketing success.
 
@@ -62,11 +58,11 @@ Image Credit: Dave Chaffey. Note: The snippet is part of a longer conversation o
 
 100x: [Alexandra collected a long list of prompts for social media content creation (most of them are not really over-engineered)](https://socialbee.io/blog/ai-social-media-prompts/)
 
-..............................................
+……………………………………….
 
 ## 50x: AI Art Prompts
 
-Let ChatGPT write prompts for DALL-E, Midjourney or Stable Diffusion. I love these kinds of prompts — here’s one AI manipulating another AI, this is possibly a field where we’re going to see very big, very rapid advances in machine learning at some point.
+Let ChatGPT write prompts for DALL-E, Midjourney or Stable Diffusion. I love these kinds of prompts—here’s one AI manipulating another AI, this is possibly a field where we’re going to see very big, very rapid advances in machine learning at some point.
 
 ![No alt text provided for this image](https://media.licdn.com/dms/image/D5612AQEzMsbQwLb6kg/article-inline_image-shrink_1000_1488/0/1679029305962?e=1687392000&v=beta&t=laCVqRc8nuGVD2sH5tkFrCsEO8nMsXoWacBdKXbiiV4)
 
@@ -80,7 +76,7 @@ Image credit: Paul DelSignore, created with Midjourney based on an ChatGPT promp
 
 2x: [Paul DelSignore on how to let ChatGPT write detailed AI Art prompts for a better outcome](https://medium.com/mlearning-ai/how-to-use-chatgpt-to-create-ai-art-prompts-7a63e402814d)
 
-................................
+…………………………..
 
 ## 16x: Music
 
@@ -94,7 +90,7 @@ ChatGPT is the saddest music software around, it’s almost like it’s sufferin
 
   
 
-## 1500+: Business — from accounting to zoology
+## 1500+: Business—from Accounting to zoology
 
 100+: [Long, precisely crafted prompts about all possible topics like salary negotiation, industry report, SaaS startup idea, travel guide or research proposals](https://flowgpt.com/prompts)
 
@@ -118,7 +114,7 @@ ChatGPT is the saddest music software around, it’s almost like it’s sufferin
 
 1337x: [Book of mixed use cases by Florin Badita](https://badita.gumroad.com/l/chatgpt/reddit_80off)
 
-....................................
+………………………………
 
 ## 280+: Coding
 
@@ -140,7 +136,7 @@ Image Credit: LearnGPT
 
 5x: [Tanya Tsui: Writing python code for a geo-data project.](https://medium.com/@tanyamarleytsui/coding-with-chatgpt-b50ab3fcb45f)
 
-........................
+……………………
 
 ## 20x: DataScience & Machine Learning
 
@@ -162,7 +158,7 @@ Image Credit: LearnGPT
 
 40x: [Editors, desktop apps, chatbots, and so on by Noelia Douglas](https://morioh.com/p/38e258182403)
 
-................................
+…………………………..
 
 ## 20x: Browser Extensions
 
@@ -180,7 +176,7 @@ ChatGPT browser extensions help you to use ChatGPT in a more advanced way, e.g. 
 
 1x: [Prompt management Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/)
 
-.................................
+……………………………
 
 ## 1000+: Funny, Amazing, Interesting
 
@@ -202,7 +198,7 @@ Image credit: Matty Stratton
 
 50+: [Detailled prompts on playing civ, TLDR of an article or how to cook rice](https://www.gptoverflow.link/)
 
-.................................
+……………………………
 
 ## 50x: ChatGPT is a fail
 
@@ -216,13 +212,13 @@ Image credit: Giuseppe Venuto
 
 7x: [Conservatives in the U.S. and UK are proving that ChatGPT (as we’ve all suspected) is a woke Californian liberal](https://www.dailymail.co.uk/news/article-11646463/Conservatives-test-AI-ChatGPT-uses-responses-prove-going-woke.html)
 
-................................
+…………………………..
 
 ## 15+: Passing exams and other achievements
 
 ChatGPT has passed a number of university or professional admission tests (this can also tell you something about the tests).
 
-The system can typically answer questions that require reasoning and knowledge of the world (even in depth) — it cannot manipulate physical entities, interpret images or solve maths problems beyond simple arithmetics. Again, what is exciting for me is the incredible bandwith of the system. There are probably only a few human beings who can directly pass medical, legal and business exams at this level.
+The system can typically answer questions that require reasoning and knowledge of the world (even in depth)—it cannot manipulate physical entities, interpret images or solve maths problems beyond simple arithmetics. Again, what is exciting for me is the incredible bandwidth of the system. There are probably only a few human beings who can directly pass medical, legal and business exams at this level.
 
 At the moment, however, ChatGPT mostly just passed, the grades weren’t insanely great.
 

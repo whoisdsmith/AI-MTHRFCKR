@@ -1,11 +1,6 @@
----
-created: 2023-01-30T14:10:15 (UTC -05:00)
-tags: [twitter,twitter thread,unroll,threadreader,threads]
-source: https://threadreaderapp.com/thread/1597702974889144320.html
-author: 
----
+# Thread by @michellehuang42 on Thread Reader App
 
-# Thread by @michellehuang42 on Thread Reader App–Thread Reader App
+---
 
 > ## Excerpt
 > @michellehuang42: i've received a lot of requests on how to replicate my AI experiment so here goes -- [tutorial] how to create your own "inner child" chatbot using GPT-3 step 1: acquire some source material this……

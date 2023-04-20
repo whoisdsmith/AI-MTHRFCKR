@@ -26,7 +26,7 @@ We've written guides and code examples for transitioning from the deprecated API
 * Option 1: transition to embeddings-based search **(recommended)**
   * Example code: [Semantic_text_search_using_embeddings.ipynb](../examples/Semantic_text_search_using_embeddings.ipynb)
 * Option 2: reimplement Answers endpoint functionality
-  * Example code: [../transition_guides_for_deprecated_API_endpoints/answers_functionality_example.py](answers_functionality_example.py)
+  * Example code: [../transition_guides_for_deprecated_API_endpoints/../transition_guides_for_deprecated_API_endpoints/answers_functionality_example.py](answers_functionality_example.py)
 
 ### Classification
 
@@ -37,7 +37,7 @@ We've written guides and code examples for transitioning from the deprecated API
 * Option 2: transition to embeddings
   * Example code: [Semantic_text_search_using_embeddings.ipynb](../examples/Semantic_text_search_using_embeddings.ipynb)
 * Option 3: reimplement Classifications endpoint functionality
-  * Example code: [../transition_guides_for_deprecated_API_endpoints/classification_functionality_example.py](classification_functionality_example.py)
+  * Example code: [../transition_guides_for_deprecated_API_endpoints/../transition_guides_for_deprecated_API_endpoints/classification_functionality_example.py](classification_functionality_example.py)
 
 ### Search
 
@@ -46,4 +46,4 @@ We've written guides and code examples for transitioning from the deprecated API
 * Option 1: transition to embeddings-based search **(recommended)**
   * Example code: [Semantic_text_search_using_embeddings.ipynb](../examples/Semantic_text_search_using_embeddings.ipynb)
 * Option 2: reimplement Search endpoint functionality
-  * Example code: [../transition_guides_for_deprecated_API_endpoints/search_functionality_example.py](search_functionality_example.py)
+  * Example code: [../transition_guides_for_deprecated_API_endpoints/../transition_guides_for_deprecated_API_endpoints/search_functionality_example.py](search_functionality_example.py)

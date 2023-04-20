@@ -6,7 +6,7 @@
 
 - **[chatgpt](../../../..//home-mthrfckr/ai-and-machine-learning/ai-chatgpt/chatgpt.md)**
 	- [awesome-chatgpt-orig](Awesome-Chatgpt-Orig.md)
-	- [awesome-chatgpt-prompts](Awesome-Chatgpt-Prompts.md)
+	- [awesome-chatgpt-prompts](../AI-Prompts/Gpt%20Prompts%20Full.md)
 	- [awesome-chatgpt](Awesome-Chatgpt.md)
 	- [awesomer-chatgpt](Awesomer-Chatgpt.md)
 	- [chatgpt-funny](Chatgpt-Funny.md)

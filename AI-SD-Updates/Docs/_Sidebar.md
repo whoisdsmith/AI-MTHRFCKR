@@ -1,6 +1,6 @@
 - [Newsfeed](Newsfeed.md)
 - [Downloads]
-	- [Prompt Engineering Guide](Prompt%20Engineering%20Guide.md)
+	- [Prompt Engineering Guide](../../AI-Prompts/Prompt%20Guides/Prompt%20Engineering%20Guide/Prompt%20Engineering%20Guide.md)
 	- [Dreambooth](db.md)
 	- [Embeddings](Embed.md)
 	- [Hypernetworks](Hn.md)
