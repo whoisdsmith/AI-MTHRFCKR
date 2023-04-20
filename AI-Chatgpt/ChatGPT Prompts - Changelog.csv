@@ -1,0 +1,24 @@
+Date,Category,What was added?
+"Janayry 8, 2023",,
+,Formatting / Writing / Text Manipulation,How many characters is this: [COPY AND PASTE TEXT]
+,Experimenting With,Create an email sequence for someone who may be interested in [TOPIC]
+,Experimenting With,Teach me [TOPIC]
+"January 13, 2023",Tones I Like to Use,Added Sam Kinison
+"January 15, 2023",Entities / SEO / Keyword Research / Schema,In an NLP friendly way...
+"January 16, 2023",Entities / SEO / Keyword Research / Schema,Write a meta description for a webpage about [TOPIC] starting with a question as a hook.
+"January 17, 2023",Entities / SEO / Keyword Research / Schema,"List the above entities in a table. In the first column, list the entities. In the second column, list related concepts to each entity."
+,Email,Draft a response to this email explaining why it is a bad/good idea: [PASTED TEXT]
+,Email,Moved Create an email sequence for someone who may be interested in [TOPIC] from Experimenting With to Email
+,Formatting / Writing / Text Manipulation,Rewrite this and make it more catchy: [PASTED TEXT]
+"January 18,2023",Experimenting With,Create a content brief for an article about [TOPIC] (or an article titled [TITLE])
+"January 30, 2023",Experimenting With,"I'm going to feed you some data in multiple chunks. After I supply each chunk in """" you will simply acknowledge that you are ready for the next chunk by responding with ... Do not comment, summarize or give any other responses besides .. until I enter ""Done!"".
+"
+"February 7, 2023",Experimenting With,Can you explain what these UTM parameters mean? [PASTE URL]
+"Februayr 8, 2023",Content Generation / Topic Building,"Give me 20 semantically relevant, but unique topics under the main category of [TOPIC]"
+"February 13, 2023",Miscellaneous,Added Miscellaneous category
+"February 13, 2023",Miscellaneous,Moved Teach me [TOPIC] to Miscellaneous
+"February 13, 2023",Content Generation / Topic Building,Moved Create a content brief for an article about [TOPIC] (or an article titled [TITLE]) to Content Generation
+"February 13, 2023",Miscellaneous,"Moved - I'm going to feed you some data in multiple chunks. After I supply each chunk in """" you will simply acknowledge that you are ready for the next chunk by responding with ... Do not comment, summarize or give any other responses besides .. until I enter ""Done!"".
+"
+"February 13, 2023",Miscellaneous,Moved - Can you explain what these UTM parameters mean? [PASTE URL] to Miscellaneous
+"February 13, 2023",Personas,Added 'Personas' category and a few prompts

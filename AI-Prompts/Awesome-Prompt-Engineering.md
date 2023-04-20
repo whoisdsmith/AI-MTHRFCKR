@@ -141,17 +141,17 @@
 
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
-| **GPT Index** | GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs. | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/jerryjliu/gpt_index) |
-| **Promptify** | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/promptslab/Promptify) |
-| **Better Prompt** | Test suite for LLM prompts before pushing them to PROD | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/krrishdholakia/betterprompt) |
-| **Interactive Composition Explorerx** | ICE is a Python library and trace visualizer for language model programs. | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/oughtinc/ice) |
-| **LangChainx** | Building applications with LLMs through composability | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/hwchase17/langchain) |
-| **OpenPrompt** | An Open-Source Framework for Prompt-learning | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/thunlp/OpenPrompt) |
-| **Prompt Engine** | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs). | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/microsoft/prompt-engine) |
-| **PromptInject** | PromptInject is a framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/agencyenterprise/PromptInject) |
-| **Prompts AI** | Advanced playground for GPT-3 | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/sevazhidkov/prompts-ai) |
-| **Prompt Source** | PromptSource is a toolkit for creating, sharing and using natural language prompts. | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/bigscience-workshop/promptsource) |
-| **ThoughtSource** | A framework for the science of machine thinking | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/OpenBioLink/ThoughtSource) |
+| **GPT Index** | GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs. | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/jerryjliu/gpt_index) |
+| **Promptify** | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/promptslab/Promptify) |
+| **Better Prompt** | Test suite for LLM prompts before pushing them to PROD | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/krrishdholakia/betterprompt) |
+| **Interactive Composition Explorerx** | ICE is a Python library and trace visualizer for language model programs. | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/oughtinc/ice) |
+| **LangChainx** | Building applications with LLMs through composability | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/hwchase17/langchain) |
+| **OpenPrompt** | An Open-Source Framework for Prompt-learning | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/thunlp/OpenPrompt) |
+| **Prompt Engine** | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs). | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/microsoft/prompt-engine) |
+| **PromptInject** | PromptInject is a framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/agencyenterprise/PromptInject) |
+| **Prompts AI** | Advanced playground for GPT-3 | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/sevazhidkov/prompts-ai) |
+| **Prompt Source** | PromptSource is a toolkit for creating, sharing and using natural language prompts. | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/bigscience-workshop/promptsource) |
+| **ThoughtSource** | A framework for the science of machine thinking | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/OpenBioLink/ThoughtSource) |
 
 
 ## Apis
@@ -171,10 +171,10 @@
 
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
-| **P3 (Public Pool of Prompts)** | P3 (Public Pool of Prompts) is a collection of prompted English datasets covering a diverse set of NLP tasks. | [[AI-Prompts/Huggingface/Huggingface.md]](https://huggingface.co/datasets/bigscience/P3) |
-| **Awesome ChatGPT Prompts** | Repo includes ChatGPT prompt curation to use ChatGPT better. | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/f/awesome-chatgpt-prompts) |
+| **P3 (Public Pool of Prompts)** | P3 (Public Pool of Prompts) is a collection of prompted English datasets covering a diverse set of NLP tasks. | [[Huggingface/Huggingface.md]](https://huggingface.co/datasets/bigscience/P3) |
+| **Awesome ChatGPT Prompts** | Repo includes ChatGPT prompt curation to use ChatGPT better. | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/f/awesome-chatgpt-prompts) |
 | **Writing Prompts** | Collection of a large dataset of 300K human-written stories paired with writing prompts from an online forum(reddit) | [[Kaggle]](https://www.kaggle.com/datasets/ratthachat/writing-prompts) |
-| **Midjourney Prompts** | Text prompts and image URLs scraped from MidJourney's public Discord server | [[AI-Prompts/Huggingface/Huggingface.md]](https://huggingface.co/datasets/succinctly/midjourney-prompts) |
+| **Midjourney Prompts** | Text prompts and image URLs scraped from MidJourney's public Discord server | [[Huggingface/Huggingface.md]](https://huggingface.co/datasets/succinctly/midjourney-prompts) |
 
 
 ## Models
@@ -183,18 +183,18 @@
 |      Name                | Description  | Url | 
 | :-------------------- | :----------: | :----------: |
 | **ChatGPT** | ChatGPT  | [[OpenAI]](https://chat.openai.com/) |
-| **Codex** | The Codex models are descendants of our GPT-3 models that can understand and generate code. Their training data contains both natural language and billions of lines of public code from GitHub  | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://platform.openai.com/docs/models/codex) |
-| **Bloom** | BigScience Large Open-science Open-access Multilingual Language Model  | [[AI-Prompts/Huggingface/Huggingface.md]](https://huggingface.co/bigscience/bloom) |
+| **Codex** | The Codex models are descendants of our GPT-3 models that can understand and generate code. Their training data contains both natural language and billions of lines of public code from GitHub  | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://platform.openai.com/docs/models/codex) |
+| **Bloom** | BigScience Large Open-science Open-access Multilingual Language Model  | [[Huggingface/Huggingface.md]](https://huggingface.co/bigscience/bloom) |
 | **Facebook LLM** | OPT-175B is a GPT-3 equivalent model trained by Meta. It is by far the largest pretrained language model available with 175 billion parameters.  | [[Alpa]](https://opt.alpa.ai/) |
-| **GPT-NeoX** | GPT-NeoX-20B, a 20 billion parameter autoregressive language model trained on the Pile  | [[AI-Prompts/Huggingface/Huggingface.md]](https://huggingface.co/docs/transformers/model_doc/gpt_neox) |
+| **GPT-NeoX** | GPT-NeoX-20B, a 20 billion parameter autoregressive language model trained on the Pile  | [[Huggingface/Huggingface.md]](https://huggingface.co/docs/transformers/model_doc/gpt_neox) |
 | **FLAN-T5 XXL** | Flan-T5 is an instruction-tuned model, meaning that it exhibits zero-shot-like behavior when given instructions as part of the prompt.  | [[HuggingFace/Google]](https://huggingface.co/google/flan-t5-xxl) |
-| **XLM-RoBERTa-XL** | XLM-RoBERTa-XL model pre-trained on 2.5TB of filtered CommonCrawl data containing 100 languages.  | [[AI-Prompts/Huggingface/Huggingface.md]](https://huggingface.co/facebook/xlm-roberta-xxl) |
-| **GPT-J** | It is a GPT-2-like causal language model trained on the Pile dataset  | [[AI-Prompts/Huggingface/Huggingface.md]](https://huggingface.co/docs/transformers/model_doc/gptj) |
-| **PaLM-rlhf-pytorch** | Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/lucidrains/PaLM-rlhf-pytorch)
-| **GPT-Neo** | An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library. | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/EleutherAI/gpt-neo) |
-| **LaMDA-rlhf-pytorch** | Open-source pre-training implementation of Google's LaMDA in PyTorch. Adding RLHF similar to ChatGPT. | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/conceptofmind/LaMDA-rlhf-pytorch) |
-| **RLHF** | Implementation of Reinforcement Learning from Human Feedback (RLHF) | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/xrsrke/instructGOOSE) |
-| **GLM-130B** | GLM-130B: An Open Bilingual Pre-Trained Model | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/THUDM/GLM-130B) |
+| **XLM-RoBERTa-XL** | XLM-RoBERTa-XL model pre-trained on 2.5TB of filtered CommonCrawl data containing 100 languages.  | [[Huggingface/Huggingface.md]](https://huggingface.co/facebook/xlm-roberta-xxl) |
+| **GPT-J** | It is a GPT-2-like causal language model trained on the Pile dataset  | [[Huggingface/Huggingface.md]](https://huggingface.co/docs/transformers/model_doc/gptj) |
+| **PaLM-rlhf-pytorch** | Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/lucidrains/PaLM-rlhf-pytorch)
+| **GPT-Neo** | An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library. | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/EleutherAI/gpt-neo) |
+| **LaMDA-rlhf-pytorch** | Open-source pre-training implementation of Google's LaMDA in PyTorch. Adding RLHF similar to ChatGPT. | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/conceptofmind/LaMDA-rlhf-pytorch) |
+| **RLHF** | Implementation of Reinforcement Learning from Human Feedback (RLHF) | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/xrsrke/instructGOOSE) |
+| **GLM-130B** | GLM-130B: An Open Bilingual Pre-Trained Model | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/THUDM/GLM-130B) |
 
 ## AI Content Detectors
 🔎
@@ -202,8 +202,8 @@
 |      Name                | Description  | Url | 
 | :-------------------- | :----------: | :----------: |
 | **AI Text Classifier** | The AI Text Classifier is a fine-tuned GPT model that predicts how likely it is that a piece of text was generated by AI from a variety of sources, such as ChatGPT.  | [[OpenAI]](https://platform.openai.com/ai-text-classifier) |
-| **GPT-2 Output Detector** | This is an online demo of the GPT-2 output detector model, based on the 🤗/Transformers implementation of RoBERTa.  | [[AI-Prompts/Huggingface/Huggingface.md]](https://huggingface.co/spaces/openai/openai-detector) |
-| **Openai Detector** | AI classifier for indicating AI-written text (OpenAI Detector Python wrapper)  | [[AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/promptslab/openai-detector) |
+| **GPT-2 Output Detector** | This is an online demo of the GPT-2 output detector model, based on the 🤗/Transformers implementation of RoBERTa.  | [[Huggingface/Huggingface.md]](https://huggingface.co/spaces/openai/openai-detector) |
+| **Openai Detector** | AI classifier for indicating AI-written text (OpenAI Detector Python wrapper)  | [[../AI-Bookmarks/AI-Mthrfckr/Development/Github.md]](https://github.com/promptslab/openai-detector) |
 
 
 

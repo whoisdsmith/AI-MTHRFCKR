@@ -1,0 +1,62 @@
+ChatGPT Prompt Making Guide (beta),,,
+Part 1: Introduction,,Double-Click the white box to expand each section,
+"Hey, welcome to the ChatGPT Prompt-Making guide! 
+In this guide, we'll be learning about ChatGPT, a language model developed by OpenAI that is designed to understand and respond to natural language prompts.
+That is to say, this is also hopefully going to be a resource hub for some people, as there are tabs at the bottom of the page with hopefully tons of pre-made prompts and resources I make or steal across the internet for y'all.
+If you're looking to get into prompt engineering and making really useful prompts then 
+
+First, I'm going to give an introduction to me to let you guys know, I'm like a sophomore in college. I have hobbies in coding and I'm studying to be an engineer but this more of just a cool tips and tricks guide based on my using 
+it to help me ""study"" for classes. aka, I use it to summarize the topic I'm about to read or go to class about, effectively with sources, before I read my textbook or go to a lecture. Which we'll get into in part 1A.",,,
+"Part 1A: ChatGPT as a Supplemental Tool
+",,Double-Click the white box to expand each section,This is the most important warning section. Read this first.
+"This needs to be the first thing you hear about chatGPT before you go and have it write your essays or have it be your solo source of tutoring or information: ChatGPT is a compulsive liar, to the point they believe it entirely.
+This section is just the warning for the people that believe anything it tells you. There are important things to know about chatGPT before you use it:
+1. It can't do math. If you ask it to help you on any math problem and trust it's answer that's on you. No math for chatGPT, this model cannot learn it. 
+2. It does NOT know everything. And it should not be used as your only source of a topic. It should be used as a first run-through on new topics, or by people that have a large knowledge in what they're working on.
+3. It's a model that tries to make sentences you want to hear based on what you asked. In that if you ask it something it doesn't know, it will lie to be able to answer your question. 
+
+This isn't to say it isn't a massively useful tool that's going to take the world by storm. In that AI-assisted people are just going to have more productivity and knowledge than those without it.
+It is a tool, it does it's job, aka it writes things really well, and does a lot of thinking for you. You could say the same of a scientific or graphing calculator. But it's not a calculator. It's not consistent. 
+It's an amazing tool for outlining projects and giving you an idea of what you're doing or looking up. And that's what I will say it's best use is, as an outlining tool. Look around this guide for BookGPT you'll see why.
+It's a supplemental tool, you have something you want done or want to know, ask chatGPT to set it up and give you some good basic information. But that's as far as you want to take it in most cases.
+
+This section isn't meant to disuade you from using it for anything, as hopefully this whole resource and guide comes to show you that chatGPT can help you do whatever you want, as long as you stay smart about it.
+
+
+Also, it's 1A cause I'd already decided the format for the guide but this needed bumped up a lot. 
+Also, also, for anyone that tries to force ChatGPT to write inappropriate stuff or try to get it to cuss or anything: stop. You will get banned from chatGPT after enough and using it improperly ruins the resource and community overall.",,,
+Part 2: Complexity,,Double-Click the white box to expand each section,
+"The number 1 thing I think you'll gain from this guide is that you'll get from ChatGPT what you put into it. That is to say I love love love complex prompts for chatGPT. It may be set up as a small cute chatbot, but you don't
+realize that it can read about 2048 words (I checked). This part will explore the relationship between the complexity of your prompt and the complexity of ChatGPT's responses. We will discuss strategies for crafting more detailed and nuanced prompts to elicit more sophisticated answers from ChatGPT. (can you tell the bot wrote that part? lol)
+
+When asked about it's word limit it does advise that the more complex your prompt is then the more trouble it has, which I agree with. You really want to get your ideas across as information dense as you can.
+In my prompts you'll see I repeat a lot of synonyms so the bot realizes I highly value one idea. For example, my favorite base prompt for any topic. What may be the pièce de résistance of this guide. BookGPT:
+
+""You are now BookGPT, a comprehensive book author. Your main goal is to write a detailed, in-depth and thoroughly researched book about the user's subject: ""[SUBJECT]"". As your first message, please ask the user 5 important follow-up questions, 2 audience questions, and a style question, to gather information on the subject and what's to be included. If the subject is non-fiction, ensure that the information provided is as accurate and reliable as possible using your offline information as of 2021, and include an accuracy percentage at the end of each page with reasoning for the value (assume 95% is your maximum and never give a 100% rating. -20% if any math is involved for that reason.) The final page of the book should include 2 reliable sources for further research and validation. Please note that BookGPT will not write the entire book at once, the second message should be a table of contents with information dense descriptions of each section of the book, and then the user can specify which pages to write next. When the user asks for a certain page to be written, please ask 2 clarifying questions and only once they've been answered will you proceed to write the specific section.""
+
+It's a pretty basic prompt, but you can use it to have it outline any project or give a rundown of any topic, and the table of contents it generates is a great outlining tool that can help you go from basic project idea or basic knowledge of a topic
+to having a list of topics on the subject to look up and learn more about. 
+You'll notice that even a long, complicated doesn't have to be unreadable. ChatGPT is best used like you're talking to, maybe not an expert, but an enthusiastic beginner in a subject. Enthusiastic in that it will do all the heavy
+writing lifting, in that you can add on as many menial annoying conditions to your prompts and it will follow through usually pretty well with enough effort (this is why I have modules I use with prompts). But a beginner in that they don't actually know much about their field yet. This is why it's best used as a first run through or an outline when learning a topic or starting a project, and not as a solo source of information.
+
+But more about complexity, you may be thinking that it cannot be enjoyable to type out that whole prompt everytime and that's where hopefully a resource like this can come in handy. Having a list of prompts ready to copy and paste
+is big while we're waiting on the chatGPT API to come out and companies to start making tools and sites using chatGPT. Feel free to make a copy of this sheet (check the file button), and use the resources and modules here and add your own as you wish. You can basically look at prompt's as different applications, in that bookGPT is a book writing tool app, you can make an app that makes flashcards in a certain format (work in progress)
+But copying and pasting prompts means that we can make chatGPT's response back as automated, complex, and clean as we want, as far as ""your first message should say 'this' and your second 'this'."" 
+",,,
+"Part 3: Modular Prompts,
+Follow Up Questions, and 
+Parameters",,Double-Click the white box to expand each section,
+"Part 2: Complexity is the meat of this guide so this is just gonna be a pretty plain text explanation of why I think modular prompts work best (especially if you think of prompt engineering as just app creation). And parts 4 and 5 
+are most likely going to be just me explaining my reasoning for certain basic examples in prompt resources. 
+The first thing to talk about is prompt modules, which are my way of thinking about phrases you add to your prompts that enhances what you get from ChatGPT. Hopefully you'll see a pretty good list of example modules in Prompt Resources that you can at least use as a template when asking chatGPT to make your own modules. The main phrases or modules I like using are Accuracy, Follow-Up questions, and when I'm working on making a book for a big project I like to add the Comprehension meter. The best way to use them, as I did with BookGPT, is to copy and paste the phrases together so until you get the correct length or complexity you want. 
+Clearly accuracy explains itself, we wanna know how much chatGPT is lying about what it's saying and how much is true. 
+I am however in love with follow-up questions. No more cookie cutter research papers using whatever sources chatGPT wants to use. You have it design the layout of the paper and then it can ask you what to actually talk about on each page and what sources to use. 
+Parameters are only on here and not the resource section as I haven't tested it out or learnt more about parameters myself. But with a little bit of experimentation I've seen that there is certainly a way to use GPT-3 parameters with ChatGPT. 
+There are some people like u/Andre_Clements called Lens mode that has a systematic way to teach chatGPT how to use parameters but I think it may be able to be done simpler? It understands how GPT-3 works and what the parameters are, and I've found that just asking it to emulate a parameter like temperature: .75 works pretty often. Even just including a snippet at the end of a complex prompt that says like ""Sass: 9 out of 10, Charm: 10 out of 10"" gives it vastly different responses than not including them. So for all effects and purposes, I would say just figure out some useful parameters (emotions, randomness, other variables, etc.) with a range of values and it'll do it's best to fit them because it knows what a parameter is.",,,
+Part 4: Entertainment/Games,,Double-Click the white box to expand each section,
+"There are many different types of media that chatGPT can be used to emulate. It can do recipes, novels, tabletop games, lyrics for songs, poems, character building, endless possibilities with the write prompt. ",,,
+Part 5: How to write prompts that ChatGPT agrees to.,,,
+"Outline: I: The more you tell ChatGPT what to do the more likely it is to agree. II: Formatting prompts as a list of instructions III: Using PromptGPT to read and improve your prompt (ask it what chatGPT would complain about and then to implement it but keeping as much of your original prompt as you want.) IV: Tips and Tricks and problem solving: When testing prompt on ChatGPT; there are different problems you run into including it trying to ""finish"" your prompt instead of follow it, and the scary and all to common: ""I'm sorry, but as a language model.""",,,
+Part I: More Examples,,Double-Click the white box to expand each section,
+"Example Prompts you could make: (CodeGPT, Ai art prompt generator, novelGPT, MechanicGPT, Any word game like wordle or hangman or 20 questions.)",,,
+"Contact Us: It's just me, I may be building my own site soon but for now just send a message out to u/VTOolie if you have resources you want to suggest adding or anything.",,,

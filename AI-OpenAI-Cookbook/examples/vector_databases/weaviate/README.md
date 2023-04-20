@@ -4,7 +4,7 @@
 
 You can run Weaviate (including the OpenAI modules if desired) in three ways:
 
-1. Open source inside a Docker-container ([example](./docker-compose.yml))
+1. Open source inside a Docker-container ([example](docker-compose.yml))
 2. Using the Weaviate Cloud Service ([get started](https://weaviate.io/developers/weaviate/quickstart/installation#weaviate-cloud-service))
 3. In a Kubernetes cluster ([learn more](https://weaviate.io/developers/weaviate/installation/kubernetes))
 
@@ -14,7 +14,7 @@ This folder contains a variety of Weaviate and OpenAI examples.
 
 | Name | Description | lanugage | Google Colab |
 | --- | --- | --- | --- |
-| [Getting Started with Weaviate and OpenAI](./getting-started-with-weaviate-and-openai.ipynb) | A simple getting started for *semantic vector search* using the OpenAI vectorization module in Weaviate (`text2vec-openai`) | Python Notebook | [link](https://colab.research.google.com/drive/1RxpDE_ruCnoBB3TfwAZqdjYgHJhtdwhK) |
-| [Hybrid Search with Weaviate and OpenAI](./hybrid-search-with-weaviate-and-openai.ipynb) | A simple getting started for *hybrid search* using the OpenAI vectorization module in Weaviate (`text2vec-openai`) | Python Notebook | [link](https://colab.research.google.com/drive/1E75BALWoKrOjvUhaznJKQO0A-B1QUPZ4) |
-| [Question Answering with Weaviate and OpenAI](./question-answering-with-weaviate-and-openai.ipynb) | A simple getting started for *question answering (Q&A)* using the OpenAI Q&A module in Weaviate (`qna-openai`) | Python Notebook | [link](https://colab.research.google.com/drive/1pUerUZrJaknEboDxDxsuf3giCK0MJJgm) |
-| [Docker-compose example](./docker-compose.yml) | A Docker-compose file with all OpenAI modules enabled | Docker |
+| [Getting Started with Weaviate and OpenAI](getting-started-with-weaviate-and-openai.ipynb) | A simple getting started for *semantic vector search* using the OpenAI vectorization module in Weaviate (`text2vec-openai`) | Python Notebook | [link](https://colab.research.google.com/drive/1RxpDE_ruCnoBB3TfwAZqdjYgHJhtdwhK) |
+| [Hybrid Search with Weaviate and OpenAI](hybrid-search-with-weaviate-and-openai.ipynb) | A simple getting started for *hybrid search* using the OpenAI vectorization module in Weaviate (`text2vec-openai`) | Python Notebook | [link](https://colab.research.google.com/drive/1E75BALWoKrOjvUhaznJKQO0A-B1QUPZ4) |
+| [Question Answering with Weaviate and OpenAI](question-answering-with-weaviate-and-openai.ipynb) | A simple getting started for *question answering (Q&A)* using the OpenAI Q&A module in Weaviate (`qna-openai`) | Python Notebook | [link](https://colab.research.google.com/drive/1pUerUZrJaknEboDxDxsuf3giCK0MJJgm) |
+| [Docker-compose example](docker-compose.yml) | A Docker-compose file with all OpenAI modules enabled | Docker |

@@ -4,8 +4,8 @@ File Q&A is a [Next.js](https://nextjs.org/) app that lets you find answers in y
 
 This repo contains two versions of the app:
 
-- `/nextjs`: A standalone Next.js app that stores embeddings locally in the browser. You will need an OpenAI API key to use this app. Read more in its [README](./nextjs/README.md).
-- `/nextjs-with-flask-server`: A Next.js app that uses a Flask server as a proxy to access the OpenAI APIs, and Pinecone as a vector database to store embeddings. You will need an OpenAI API key and a Pinecone API key to use this app. Read more in its [README](./nextjs-with-flask-server/README.md).
+- `/nextjs`: A standalone Next.js app that stores embeddings locally in the browser. You will need an OpenAI API key to use this app. Read more in its [README](nextjs/README.md).
+- `/nextjs-with-flask-server`: A Next.js app that uses a Flask server as a proxy to access the OpenAI APIs, and Pinecone as a vector database to store embeddings. You will need an OpenAI API key and a Pinecone API key to use this app. Read more in its [README](nextjs-with-flask-server/README.md).
 
 To run either version of the app, please follow the instructions in the respective README.md files in the subdirectories.
 

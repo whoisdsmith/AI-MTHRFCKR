@@ -1,6 +1,6 @@
 - [Newsfeed](Newsfeed.md)
 - [Downloads]
-	- [Models](models.md)
+	- [Prompt Engineering Guide](Prompt%20Engineering%20Guide.md)
 	- [Dreambooth](db.md)
 	- [Embeddings](Embed.md)
 	- [Hypernetworks](Hn.md)

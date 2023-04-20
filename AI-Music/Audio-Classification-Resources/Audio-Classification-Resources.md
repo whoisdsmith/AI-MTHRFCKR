@@ -252,7 +252,7 @@ Number of articles per year:
 - 34 tasks investigated. See the list of [tasks](Tasks.md).  
 Tasks pie chart:  
 ![Tasks pie chart](../awesome-deep-learning-music-master/fig/pie_chart_task.png)
-- 53 datasets used. See the list of [datasets](Datasets.md).  
+- 53 datasets used. See the list of [datasets](AI-Music/Audio-Classification-Resources/Datasets.md).  
 Datasets pie chart:  
 ![Datasets pie chart](../awesome-deep-learning-music-master/fig/pie_chart_dataset.png)
 - 30 architectures used. See the list of [architectures](Architectures.md).  
