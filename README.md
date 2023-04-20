@@ -21,6 +21,8 @@
 
 ### 2023-04-20
 
+*   [Agile Prompt Builder](https://silviotorre.github.io/AgilePrompt/) - A web-based tool designed to help users create high-quality prompts for AI language models like GPT-3 by leveraging the principles of Agile methodology.
+*   [AI Anything](https://aianything.netlify.app/) - A platform that offers various AI-based tools and applications, including AI-generated artwork, style transfer, and text generation using language models.
 - [AMA GPT-3](https://amagpt3.com/) - A platform that allows users to ask GPT-3 questions and receive AI-generated responses.
 - [Awesome-chatgpt-plugins](https://github.com/jeadie/awesome-chatgpt-plugins) - A curated list of plugins and integrations for ChatGPT.
 - [ChainBrain AI](https://www.chainbrainai.com/) - An AI-powered solution for analyzing and predicting cryptocurrency markets.
@@ -28,11 +30,15 @@
 - [ChatGPT Online](https://chatgptbay.com/) - A platform for users to access ChatGPT and engage in AI-generated conversations.
 - [ChatGPT Splitter](https://chatgptsplitter.com/) - A tool to split long text into smaller chunks suitable for ChatGPT processing.
 - [CodePrompt](https://codeprompt.xyz/) - An AI-based code generation platform that uses GPT technology to provide programming assistance.
+*   [DS-Fusion](https://ds-fusion.github.io/) - An open-source project that aims to create a unified interface for multiple data science libraries, simplifying the process of working with different tools.
+*   [E2b](https://www.e2b.dev/) - A web-based platform for experimenting with end-to-end neural network models for natural language processing, computer vision, and reinforcement learning tasks.
+*   [E2b-Repo](https://github.com/e2b-dev/e2b) - The GitHub repository for the E2b project, containing the source code and documentation for the platform.
+- [GPTPro](https://gptpro.sh/) - A platform offering advanced GPT-based AI services for various applications.
 - [GPT Prompter](https://www.gptprompter.com/) - A tool that helps users generate high-quality prompts for GPT-powered models.
 - [GPT Prompts](https://grand.app/gallery) - A gallery of prompts for GPT-powered models, designed to help users create engaging content.
 - [GPT Tools](https://gpttools.com/) - A suite of tools for working with GPT-powered models, including prompt generators, splitters, and more.
-- [GPTPro](https://gptpro.sh/) - A platform offering advanced GPT-based AI services for various applications.
 - [ListGPT](https://listgpt.com/) - A directory of GPT-powered tools and services.
+*   [MicroGPT](https://github.com/muellerberndt/micro-gpt) - A minimalistic implementation of the GPT architecture, designed for educational purposes and aimed at providing an accessible and easy-to-understand version of the model.
 - [PostPromptsAI](https://postprompts.ai/) - A platform that provides AI-generated writing prompts for content creators.
 - [PROMPT EXPLORER (GPT-3)](https://docs.google.com/spreadsheets/d/1oi0fwTNuJu5EYM2DIndyk0KeAY8tL6-Qd1BozFb9Zls/edit#gid=1567267935) - A spreadsheet containing a list of GPT-3 prompts and their outcomes.
 - [Prompt Reducer](https://www.promptreducer.com/) - A tool that helps users create concise and effective prompts for GPT models.

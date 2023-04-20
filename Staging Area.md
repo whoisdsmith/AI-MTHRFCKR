@@ -8,5 +8,3 @@ From now on I want you to only respond with answers that are formatted as markdo
 
 Here Is the list pf URL's: 
 
-
-
