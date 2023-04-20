@@ -2,6 +2,47 @@
 
 ---
 
+- [[#Introduction|Introduction]]
+- [[#LLM Settings|LLM Settings]]
+- [[#Basics of Prompting|Basics of Prompting]]
+- [[#Elements of a Prompt|Elements of a Prompt]]
+- [[#General Tips for Designing Prompts|General Tips for Designing Prompts]]
+- [[#Examples of Prompts|Examples of Prompts]]
+- [[#Prompting Techniques|Prompting Techniques]]
+- [[#Zero-Shot Prompting|Zero-Shot Prompting]]
+- [[#Few-Shot Prompting|Few-Shot Prompting]]
+- [[#Chain-of-Thought Prompting|Chain-of-Thought Prompting]]
+- [[#Self-Consistency|Self-Consistency]]
+- [[#Generated Knowledge Prompting|Generated Knowledge Prompting]]
+- [[#Automatic Prompt Engineer (APE)|Automatic Prompt Engineer (APE)]]
+- [[#Active-Prompt|Active-Prompt]]
+- [[#Directional Stimulus Prompting|Directional Stimulus Prompting]]
+- [[#ReAct Prompting|ReAct Prompting]]
+- [[#Multimodal CoT Prompting|Multimodal CoT Prompting]]
+- [[#GraphPrompts|GraphPrompts]]
+- [[#Prompting Applications|Prompting Applications]]
+- [[#Prompting Applications|Prompting Applications]]
+- [[#PAL (Program-Aided Language Models)|PAL (Program-Aided Language Models)]]
+- [[#Generating Data|Generating Data]]
+- [[#Graduate Job Classification Case Study|Graduate Job Classification Case Study]]
+- [[#Models|Models]]
+- [[#Scaling Instruction-Finetuned Language Models|Scaling Instruction-Finetuned Language Models]]
+- [[#ChatGPT Prompt Engineering|ChatGPT Prompt Engineering]]
+- [[#Llama|Llama]]
+- [[#GPT-4|GPT-4]]
+- [[#Model Collection|Model Collection]]
+- [[#Risks & Misuses|Risks & Misuses]]
+- [[#Adversarial Prompting|Adversarial Prompting]]
+- [[#Factuality|Factuality]]
+- [[#Biases|Biases]]
+- [[#Papers|Papers]]
+- [[#Tools & Libraries|Tools & Libraries]]
+- [[#Prompt Engineering Notebooks|Prompt Engineering Notebooks]]
+- [[#Datasets|Datasets]]
+- [[#Additional Readings|Additional Readings]]
+
+---
+
 Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs).
 
 Researchers use prompt engineering to improve the capacity of LLMs on a wide range of common and complex tasks such as question answering and arithmetic reasoning. Developers use prompt engineering to design robust and effective prompting techniques that interface with LLMs and other tools.
@@ -12,7 +53,7 @@ Motivated by the high interest in developing with LLMs, we have created this new
 
 [Introduction](https://www.promptingguide.ai/introduction "Introduction")
 
-# Introduction
+## Introduction
 
 ---
 
@@ -26,7 +67,7 @@ Last updated on April 15, 2023
 
 [Prompt Engineering](https://www.promptingguide.ai/ "Prompt Engineering")[LLM Settings](https://www.promptingguide.ai/introduction/settings "LLM Settings")
 
-# LLM Settings
+## LLM Settings
 
 ---
 
@@ -44,11 +85,11 @@ Last updated on April 15, 2023
 
 [Introduction](https://www.promptingguide.ai/introduction "Introduction")[Basics of Prompting](https://www.promptingguide.ai/introduction/basics "Basics of Prompting")
 
-# Basics of Prompting
+## Basics of Prompting
 
 ---
 
-## Basic Prompts[](https://www.promptingguide.ai/#basic-prompts)
+### Basic Prompts[](https://www.promptingguide.ai/#basic-prompts)
 
 You can achieve a lot with simple prompts, but the quality of results depends on how much information you provide it and how well-crafted it is. A prompt can contain information like the *instruction* or *question* you are passing to the model and including other details such as *context*, *inputs*, or *examples*. You can use these elements to instruct the model better and as a result get better results.
 
@@ -72,7 +113,7 @@ Is that better? Well, we told the model to complete the sentence so the result l
 
 The example above is a basic illustration of what's possible with LLMs today. Today's LLMs are able to perform all kinds of advanced tasks that range from text summarization to mathematical reasoning to code generation.
 
-## Prompt Formatting[](https://www.promptingguide.ai/#prompt-formatting)
+### Prompt Formatting[](https://www.promptingguide.ai/#prompt-formatting)
 
 We have tried a very simple prompt above. A standard prompt has the following format:
 
@@ -96,7 +137,7 @@ Few-shot prompts enable in-context learning which is the ability of language mod
 
 [LLM Settings](https://www.promptingguide.ai/introduction/settings "LLM Settings")[Prompt Elements](https://www.promptingguide.ai/introduction/elements "Prompt Elements")
 
-# Elements of a Prompt
+## Elements of a Prompt
 
 ---
 
@@ -116,13 +157,13 @@ Not all the components are required for a prompt and the format depends on the t
 
 [Basics of Prompting](https://www.promptingguide.ai/introduction/basics "Basics of Prompting")[General Tips for Designing Prompts](https://www.promptingguide.ai/introduction/tips "General Tips for Designing Prompts")
 
-# General Tips for Designing Prompts
+## General Tips for Designing Prompts
 
 ---
 
 Here are some tips to keep in mind while you are designing your prompts:
 
-## Start Simple[](https://www.promptingguide.ai/#start-simple)
+### Start Simple[](https://www.promptingguide.ai/#start-simple)
 
 As you get started with designing prompts, you should keep in mind that it is really an iterative process that requires a lot of experimentation to get optimal results. Using a simple playground like OpenAI or Cohere's is a good starting point.
 
@@ -130,7 +171,7 @@ You can start with simple prompts and keep adding more elements and context as y
 
 When you have a big task that involves many different subtasks, you can try to break down the task into simpler subtasks and keep building up as you get better results. This avoids adding too much complexity to the prompt design process at the beginning.
 
-## The Instruction[](https://www.promptingguide.ai/#the-instruction)
+### The Instruction[](https://www.promptingguide.ai/#the-instruction)
 
 You can design effective prompts for various simple tasks by using commands to instruct the model what you want to achieve such as "Write", "Classify", "Summarize", "Translate", "Order", etc.
 
@@ -144,7 +185,7 @@ For instance:
 
 *Output:*
 
-## Specificity[](https://www.promptingguide.ai/#specificity)
+### Specificity[](https://www.promptingguide.ai/#specificity)
 
 Be very specific about the instruction and task you want the model to perform. The more descriptive and detailed the prompt is, the better the results. This is particularly important when you have a desired outcome or style of generation you are seeking. There aren't specific tokens or keywords that lead to better results. It's more important to have a good format and descriptive prompt. In fact, providing examples in the prompt is very effective to get desired output in specific formats.
 
@@ -158,7 +199,7 @@ As an example, let's try a simple prompt to extract specific information from a 
 
 Input text is obtained from [this Nature article (opens in a new tab)](https://www.nature.com/articles/d41586-023-00509-z).
 
-## Avoid Impreciseness[](https://www.promptingguide.ai/#avoid-impreciseness)
+### Avoid Impreciseness[](https://www.promptingguide.ai/#avoid-impreciseness)
 
 Given the tips above about being detailed and improving format, it's easy to fall into the trap of wanting to be too clever about prompts and potentially creating imprecise descriptions. It's often better to be specific and direct. The analogy here is very similar to effective communication -- the more direct, the more effective the message gets across.
 
@@ -166,7 +207,7 @@ For example, you might be interested in learning the concept of prompt engineeri
 
 It's not clear from the prompt above how many sentences to use and what style. You might still somewhat get good responses with the above prompts but the better prompt would be one that is very specific, concise, and to the point. Something like:
 
-## To do or not to do?[](https://www.promptingguide.ai/#to-do-or-not-to-do)
+### To do or not to do?[](https://www.promptingguide.ai/#to-do-or-not-to-do)
 
 Another common tip when designing prompts is to avoid saying what not to do but say what to do instead. This encourages more specificity and focuses on the details that lead to good responses from the model.
 
@@ -186,7 +227,7 @@ Some of the examples above were adopted from the ["Best practices for prompt eng
 
 [Prompt Elements](https://www.promptingguide.ai/introduction/elements "Prompt Elements")[Examples of Prompts](https://www.promptingguide.ai/introduction/examples "Examples of Prompts")
 
-# Examples of Prompts
+## Examples of Prompts
 
 ---
 
@@ -206,7 +247,7 @@ Topics:
 
 ---
 
-## Text Summarization[](https://www.promptingguide.ai/#text-summarization)
+### Text Summarization[](https://www.promptingguide.ai/#text-summarization)
 
 One of the standard tasks in natural language generation is text summarization. Text summarization can include many different flavors and domains. In fact, one of the most promising applications of language models is the ability to summarize articles and concepts into quick and easy-to-read summaries. Let's try a basic summarization task using prompts.
 
@@ -226,7 +267,7 @@ Without paying too much attention to the accuracy of the output above, which is 
 
 ---
 
-## Information Extraction[](https://www.promptingguide.ai/#information-extraction)
+### Information Extraction[](https://www.promptingguide.ai/#information-extraction)
 
 While language models are trained to perform natural language generation and related tasks, it's also very capable of performing classification and a range of other natural language processing (NLP) tasks.
 
@@ -244,7 +285,7 @@ Paragraph source: [ChatGPT: five priorities for research (opens in a new tab)](h
 
 ---
 
-## Question Answering[](https://www.promptingguide.ai/#question-answering)
+### Question Answering[](https://www.promptingguide.ai/#question-answering)
 
 One of the best ways to get the model to respond to specific answers is to improve the format of the prompt. As covered before, a prompt could combine instructions, context, input, and output indicators to get improved results. While these components are not required, it becomes a good practice as the more specific you are with instruction, the better results you will get. Below is an example of how this would look following a more structured prompt.
 
@@ -256,7 +297,7 @@ Context obtained from [Nature (opens in a new tab)](https://www.nature.com/artic
 
 ---
 
-## Text Classification[](https://www.promptingguide.ai/#text-classification)
+### Text Classification[](https://www.promptingguide.ai/#text-classification)
 
 So far, we have used simple instructions to perform a task. As a prompt engineer, you will need to get better at providing better instructions. But that's not all! You will also find that for harder use cases, just providing instructions won't be enough. This is where you need to think more about the context and the different elements you can use in a prompt. Other elements you can provide are `input data` or `examples`.
 
@@ -284,7 +325,7 @@ What is the problem here? As a hint, the made up `nutral` label is completely ig
 
 ---
 
-## Conversation[](https://www.promptingguide.ai/#conversation)
+### Conversation[](https://www.promptingguide.ai/#conversation)
 
 Perhaps one of the more interesting things you can achieve with prompt engineering is instructing the LLM system on how to behave, its intent, and its identity. This is particularly useful when you are building conversational systems like customer service chatbots.
 
@@ -304,7 +345,7 @@ I think we made some progress. You can continue improving it. I am sure if you a
 
 ---
 
-## Code Generation[](https://www.promptingguide.ai/#code-generation)
+### Code Generation[](https://www.promptingguide.ai/#code-generation)
 
 One application where LLMs are quite effective is code generation. Copilot is a great example of this. There are a vast number of code-generation tasks you can perform with clever prompts. Let's look at a few examples below.
 
@@ -326,7 +367,7 @@ This is very impressive. In this case, we provided data about the database schem
 
 ---
 
-## Reasoning[](https://www.promptingguide.ai/#reasoning)
+### Reasoning[](https://www.promptingguide.ai/#reasoning)
 
 Perhaps one of the most difficult tasks for an LLM today is one that requires some form of reasoning. Reasoning is one of the areas that I am most excited about due to the types of complex applications that can emerge from LLMs.
 
@@ -358,7 +399,7 @@ Last updated on April 16, 2023
 
 [General Tips for Designing Prompts](https://www.promptingguide.ai/introduction/tips "General Tips for Designing Prompts")[Techniques](https://www.promptingguide.ai/techniques "Techniques")
 
-# Prompting Techniques
+## Prompting Techniques
 
 ---
 
@@ -370,7 +411,7 @@ While the basic examples were fun, in this section we cover more advanced prompt
 
 [Examples of Prompts](https://www.promptingguide.ai/introduction/examples "Examples of Prompts")[Zero-shot Prompting](https://www.promptingguide.ai/techniques/zeroshot "Zero-shot Prompting")
 
-# Zero-Shot Prompting
+## Zero-Shot Prompting
 
 ---
 
@@ -388,7 +429,7 @@ When zero-shot doesn't work, it's recommended to provide demonstrations or examp
 
 [Techniques](https://www.promptingguide.ai/techniques "Techniques")[Few-shot Prompting](https://www.promptingguide.ai/techniques/fewshot "Few-shot Prompting")
 
-# Few-Shot Prompting
+## Few-Shot Prompting
 
 ---
 
@@ -424,7 +465,7 @@ We still get the correct answer, even though the labels have been randomized. No
 
 There is no consistency in the format above but the model still predicted the correct label. We have to conduct a more thorough analysis to confirm if this holds for different and more complex tasks, including different variations of prompts.
 
-## Limitations of Few-shot Prompting[](https://www.promptingguide.ai/#limitations-of-few-shot-prompting)
+### Limitations of Few-shot Prompting[](https://www.promptingguide.ai/#limitations-of-few-shot-prompting)
 
 Standard few-shot prompting works well for many tasks but is still not a perfect technique, especially when dealing with more complex reasoning tasks. Let's demonstrate why this is the case. Do you recall the previous example where we provided the following task:
 
@@ -444,11 +485,11 @@ Overall, it seems that providing examples is useful for solving some tasks. When
 
 [Zero-shot Prompting](https://www.promptingguide.ai/techniques/zeroshot "Zero-shot Prompting")[Chain-of-Thought Prompting](https://www.promptingguide.ai/techniques/cot "Chain-of-Thought Prompting")
 
-# Chain-of-Thought Prompting
+## Chain-of-Thought Prompting
 
 ---
 
-## Chain-of-Thought (CoT) Prompting[](https://www.promptingguide.ai/#chain-of-thought-cot-prompting)
+### Chain-of-Thought (CoT) Prompting[](https://www.promptingguide.ai/#chain-of-thought-cot-prompting)
 
 ![COT](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcot.1933d9fe.png&w=1920&q=75)
 
@@ -468,7 +509,7 @@ Wow! We can see a perfect result when we provided the reasoning step. In fact, w
 
 Keep in mind that the authors claim that this is an emergent ability that arises with sufficiently large language models.
 
-## Zero-shot COT Prompting[](https://www.promptingguide.ai/#zero-shot-cot-prompting)
+### Zero-shot COT Prompting[](https://www.promptingguide.ai/#zero-shot-cot-prompting)
 
 ![Zero-shot COT](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzero-cot.79793bee.png&w=1920&q=75)
 
@@ -490,7 +531,7 @@ It's impressive that this simple prompt is effective at this task. This is parti
 
 [Few-shot Prompting](https://www.promptingguide.ai/techniques/fewshot "Few-shot Prompting")[Self-Consistency](https://www.promptingguide.ai/techniques/consistency "Self-Consistency")
 
-# Self-Consistency
+## Self-Consistency
 
 ---
 
@@ -516,7 +557,7 @@ Computing for the final answer involves a few steps (check out the paper for the
 
 [Chain-of-Thought Prompting](https://www.promptingguide.ai/techniques/cot "Chain-of-Thought Prompting")[Generate Knowledge Prompting](https://www.promptingguide.ai/techniques/knowledge "Generate Knowledge Prompting")
 
-# Generated Knowledge Prompting
+## Generated Knowledge Prompting
 
 ---
 
@@ -558,7 +599,7 @@ Some really interesting things happened with this example. In the first answer, 
 
 [Self-Consistency](https://www.promptingguide.ai/techniques/consistency "Self-Consistency")[Automatic Prompt Engineer](https://www.promptingguide.ai/techniques/ape "Automatic Prompt Engineer")
 
-# Automatic Prompt Engineer (APE)
+## Automatic Prompt Engineer (APE)
 
 ---
 
@@ -586,7 +627,7 @@ This paper touches on an important topic related to prompt engineering which is 
 
 [Generate Knowledge Prompting](https://www.promptingguide.ai/techniques/knowledge "Generate Knowledge Prompting")[Active-Prompt](https://www.promptingguide.ai/techniques/activeprompt "Active-Prompt")
 
-# Active-Prompt
+## Active-Prompt
 
 ---
 
@@ -600,7 +641,7 @@ Image Source: [Diao et al., (2023) (opens in a new tab)](https://arxiv.org/pdf/2
 
 [Automatic Prompt Engineer](https://www.promptingguide.ai/techniques/ape "Automatic Prompt Engineer")[Directional Stimulus Prompting](https://www.promptingguide.ai/techniques/dsp "Directional Stimulus Prompting")
 
-# Directional Stimulus Prompting
+## Directional Stimulus Prompting
 
 ---
 
@@ -618,7 +659,7 @@ Full example coming soon!
 
 [Active-Prompt](https://www.promptingguide.ai/techniques/activeprompt "Active-Prompt")[ReAct](https://www.promptingguide.ai/techniques/react "ReAct")
 
-# ReAct Prompting
+## ReAct Prompting
 
 ---
 
@@ -630,7 +671,7 @@ The ReAct framework can allow LLMs to interact with external tools to retrieve a
 
 Results show that ReAct can outperform several state-of-the-art baselines on language and decision-making tasks. ReAct also leads to improved human interpretability and trustworthiness of LLMs. Overall, the authors found that best approach uses ReAct combined with chain-of-thought (CoT) that allows use of both internal knowledge and external information obtained during reasoning.
 
-## How it Works?[](https://www.promptingguide.ai/#how-it-works)
+### How it Works?[](https://www.promptingguide.ai/#how-it-works)
 
 ReAct is inspired by the synergies between "acting" and "reasoning" which allow humans to learn new tasks and make decisions or reasoning.
 
@@ -646,7 +687,7 @@ In the example above, we pass a prompt like the following question from [HotpotQ
 
 Note that in-context examples are also added to the prompt but we exclude that here for simplicity. We can see that the model generates *task solving trajectories* (Thought, Act). Obs corresponds to observation from the environment that's being interacted with (e.g., Search engine). In essence, ReAct can retrieve information to support reasoning, while reasoning helps to target what to retrieve next.
 
-## ReAct Prompting[](https://www.promptingguide.ai/#react-prompting)
+### ReAct Prompting[](https://www.promptingguide.ai/#react-prompting)
 
 To demonstrate how ReAct prompting works, let's follow an example from the paper.
 
@@ -656,7 +697,7 @@ Here is an example of what the ReAct prompt exemplars look like (obtained from t
 
 Note that different prompts setups are used for different types of tasks. For tasks where reasoning is of primary importance (e.g., HotpotQA), multiple thought-action-observation steps are used for the task-solving trajectory. For decision making tasks involving lots of action steps, thoughts are used sparsely.
 
-## Results on Knowledge-Intensive Tasks[](https://www.promptingguide.ai/#results-on-knowledge-intensive-tasks)
+### Results on Knowledge-Intensive Tasks[](https://www.promptingguide.ai/#results-on-knowledge-intensive-tasks)
 
 The paper first evaluates ReAct on knowledge-intensive reasoning tasks such as question answering (HotPotQA) and fact verification ([Fever (opens in a new tab)](https://fever.ai/resources.html)). PaLM-540B is used as the base model for prompting.
 
@@ -674,7 +715,7 @@ We can also observe that ReAct outperforms CoT on Fever and lags behind CoT on H
 
 Prompting methods that combine and support switching between ReAct and CoT+Self-Consistency generally outperform all the other prompting methods.
 
-## Results on Knowledge-Intensive Tasks[](https://www.promptingguide.ai/#results-on-knowledge-intensive-tasks-1)
+### Results on Knowledge-Intensive Tasks[](https://www.promptingguide.ai/#results-on-knowledge-intensive-tasks-1)
 
 The paper also reports results demonstrating ReAct's performance on decision making tasks. ReAct is evaluated on two benchmarks called [ALFWorld (opens in a new tab)](https://alfworld.github.io/) (text-based game) and [WebShop (opens in a new tab)](https://webshop-pnlp.github.io/) (online shopping website environment). Both involve complex environments that require reasoning to act and explore effectively.
 
@@ -688,7 +729,7 @@ ReAct outperforms Act on both ALFWorld and Webshop. Act, without any thoughts, f
 
 Check out the paper for more detailed results.
 
-## LangChain ReAct Usage[](https://www.promptingguide.ai/#langchain-react-usage)
+### LangChain ReAct Usage[](https://www.promptingguide.ai/#langchain-react-usage)
 
 Below is a high-level example of how the ReAct prompting approach works in practice. We will be using OpenAI for the LLM and [LangChain (opens in a new tab)](https://python.langchain.com/en/latest/index.html) as it already has built-in functionality that leverages the ReAct framework to build agents that perform tasks by combining the power of LLMs and different tools.
 
@@ -710,7 +751,7 @@ Last updated on April 13, 2023
 
 [Directional Stimulus Prompting](https://www.promptingguide.ai/techniques/dsp "Directional Stimulus Prompting")[Multimodal CoT](https://www.promptingguide.ai/techniques/multimodalcot "Multimodal CoT")
 
-# Multimodal CoT Prompting
+## Multimodal CoT Prompting
 
 ---
 
@@ -728,7 +769,7 @@ Further reading:
 
 [ReAct](https://www.promptingguide.ai/techniques/react "ReAct")[Graph Prompting](https://www.promptingguide.ai/techniques/graph "Graph Prompting")
 
-# GraphPrompts
+## GraphPrompts
 
 ---
 
@@ -742,11 +783,11 @@ More coming soon!
 
 [Multimodal CoT](https://www.promptingguide.ai/techniques/multimodalcot "Multimodal CoT")[Applications](https://www.promptingguide.ai/applications "Applications")
 
-# Prompting Applications
+## Prompting Applications
 
 ---
 
-# Prompting Applications
+## Prompting Applications
 
 In this section, we will cover some advanced and interesting ways we can use prompt engineering to perform useful and more advanced tasks.
 
@@ -756,7 +797,7 @@ This section is under heavy development.
 
 [Graph Prompting](https://www.promptingguide.ai/techniques/graph "Graph Prompting")[Program-Aided Language Models](https://www.promptingguide.ai/applications/pal "Program-Aided Language Models")
 
-# PAL (Program-Aided Language Models)
+## PAL (Program-Aided Language Models)
 
 ---
 
@@ -782,7 +823,7 @@ This will output the following: `02/27/1998`
 
 [Applications](https://www.promptingguide.ai/applications "Applications")[Generating Data](https://www.promptingguide.ai/applications/generating "Generating Data")
 
-# Generating Data
+## Generating Data
 
 ---
 
@@ -796,7 +837,7 @@ This is very useful. We actually use this example for a different test in anothe
 
 [Program-Aided Language Models](https://www.promptingguide.ai/applications/pal "Program-Aided Language Models")[Graduate Job Classification Case Study](https://www.promptingguide.ai/applications/workplace_casestudy "Graduate Job Classification Case Study")
 
-# Graduate Job Classification Case Study
+## Graduate Job Classification Case Study
 
 ---
 
@@ -814,15 +855,15 @@ The key findings of their prompt engineering approach are:
     - Properly giving instructions and repeating the key points appears to be the biggest performance driver.
     - Something as simple as giving the model a (human) name and referring to it as such increased F1 score by 0.6pts.
 
-## Prompt Modifications Tested[](https://www.promptingguide.ai/#prompt-modifications-tested)
+### Prompt Modifications Tested[](https://www.promptingguide.ai/#prompt-modifications-tested)
 
-## Performance Impact of All Prompt Modifications[](https://www.promptingguide.ai/#performance-impact-of-all-prompt-modifications)
+### Performance Impact of All Prompt Modifications[](https://www.promptingguide.ai/#performance-impact-of-all-prompt-modifications)
 
 Template stickiness refers to how frequently the model answers in the desired format.
 
 [Generating Data](https://www.promptingguide.ai/applications/generating "Generating Data")[Models](https://www.promptingguide.ai/models "Models")
 
-# Models
+## Models
 
 ---
 
@@ -834,11 +875,11 @@ This section is under heavy development.
 
 [Graduate Job Classification Case Study](https://www.promptingguide.ai/applications/workplace_casestudy "Graduate Job Classification Case Study")[Flan](https://www.promptingguide.ai/models/flan "Flan")
 
-# Scaling Instruction-Finetuned Language Models
+## Scaling Instruction-Finetuned Language Models
 
 ---
 
-## What's new?[](https://www.promptingguide.ai/#whats-new)
+### What's new?[](https://www.promptingguide.ai/#whats-new)
 
 ![FLAN1](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fflan-1.c26df985.png&w=1920&q=75)
 
@@ -855,7 +896,7 @@ Finetuning tasks and held out tasks shown below:
 
 ![FLAN11](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fflan-11.3b3298da.png&w=2048&q=75)
 
-## Capabilities & Key Results[](https://www.promptingguide.ai/#capabilities--key-results)
+### Capabilities & Key Results[](https://www.promptingguide.ai/#capabilities--key-results)
 
 - Instruction finetuning scales well with the number of tasks and the size of the model; this suggests the need for scaling number of tasks and size of model further
 - Adding CoT datasets into the finetuning enables good performance on reasoning tasks
@@ -918,7 +959,7 @@ You can try [Flan-T5 models on the Hugging Face Hub (opens in a new tab)](https:
 
 [Models](https://www.promptingguide.ai/models "Models")[ChatGPT](https://www.promptingguide.ai/models/chatgpt "ChatGPT")
 
-# ChatGPT Prompt Engineering
+## ChatGPT Prompt Engineering
 
 ---
 
@@ -932,7 +973,7 @@ Topics:
 
 ---
 
-## ChatGPT Introduction[](https://www.promptingguide.ai/#chatgpt-introduction)
+### ChatGPT Introduction[](https://www.promptingguide.ai/#chatgpt-introduction)
 
 ChatGPT is a new model [trained by OpenAI (opens in a new tab)](https://openai.com/blog/chatgpt) that has the capability to interact in a conversational way. This model is trained to follow instructions in a prompt to provide appropriate responses in the context of a dialogue. ChatGPT can help with answering questions, suggesting recipes, writing lyrics in a certain style, generating code, and much more.
 
@@ -942,7 +983,7 @@ You can use the research preview of ChatGPT [here](https://www.promptingguide.ai
 
 ---
 
-## Reviewing The Conversation Task[](https://www.promptingguide.ai/#reviewing-the-conversation-task)
+### Reviewing The Conversation Task[](https://www.promptingguide.ai/#reviewing-the-conversation-task)
 
 In one of the previous guides, we covered a bit about conversation capabilities and role prompting. We covered how to instruct the LLM to have a conversation in a specific style, with a specific intent, behavior, and identity.
 
@@ -961,9 +1002,9 @@ Big companies like Snap Inc. and Instacart are already integrating conversationa
 
 ---
 
-## Conversations with ChatGPT[](https://www.promptingguide.ai/#conversations-with-chatgpt)
+### Conversations with ChatGPT[](https://www.promptingguide.ai/#conversations-with-chatgpt)
 
-### Multi-turn Conversations[](https://www.promptingguide.ai/#multi-turn-conversations)
+#### Multi-turn Conversations[](https://www.promptingguide.ai/#multi-turn-conversations)
 
 To begin demonstrating the capabilities of ChatGPT, we will use the chatbot assistant example above and discuss the results. Compared to `text-davinci-003`, the `gpt-3.5-turbo` model that powers ChatGPT uses a chat format as input. The model expects a series of messages as input and uses those to generate a response.
 
@@ -979,7 +1020,7 @@ The more formal API call for our example would look something like the example b
 
 In fact, the way developers interact with ChatGPT in the future is expected to be done via the [Chat Markup Language (opens in a new tab)](https://github.com/openai/openai-python/blob/main/chatml) (ChatML for short).
 
-### Single-turn tasks[](https://www.promptingguide.ai/#single-turn-tasks)
+#### Single-turn tasks[](https://www.promptingguide.ai/#single-turn-tasks)
 
 The chat format enables multi-turn conversations but it also supports single-turn tasks similar to what we used with `text-davinci-003`. This means we can use ChatGPT to perform similar tasks as what we have demonstrated for the original GPT models. For example, let's try to perform the following question answering task using ChatGPT:
 
@@ -993,7 +1034,7 @@ Keep in mind that I am adding the `USER` and `ASSISTANT` labels to better demons
 
 More formally, this is the API call (I've only included the message component of the request):
 
-### Instructing Chat Models[](https://www.promptingguide.ai/#instructing-chat-models)
+#### Instructing Chat Models[](https://www.promptingguide.ai/#instructing-chat-models)
 
 According to the official OpenAI docs, snapshots of the `gpt-3.5-turbo` model will also be made available. For example, we can access the snapshot from March 1 `gpt-3.5-turbo-0301`. This allows developers to opt for specific model versions. This also means that the best practices for instructing models may change from version to version.
 
@@ -1001,7 +1042,7 @@ The current recommendation for `gpt-3.5-turbo-0301` is to add instructions in th
 
 ---
 
-## References[](https://www.promptingguide.ai/#references)
+### References[](https://www.promptingguide.ai/#references)
 
 - [ChatGPT-4 Outperforms Experts and Crowd Workers in Annotating Political Twitter Messages with Zero-Shot Learning (opens in a new tab)](https://arxiv.org/abs/2304.06588) (April 2023)
 - [ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning (opens in a new tab)](https://arxiv.org/abs/2304.05613) (April 2023)
@@ -1112,7 +1153,7 @@ Last updated on April 16, 2023
 
 [Flan](https://www.promptingguide.ai/models/flan "Flan")[LLaMA](https://www.promptingguide.ai/models/llama "LLaMA")
 
-# Llama
+## Llama
 
 ---
 
@@ -1130,13 +1171,13 @@ This work focuses on training models (LLaMA) that achieve the best possible perf
 
 Overall, LLaMA-13B outperform GPT-3(175B) on many benchmarks despite being 10x smaller and possible to run a single GPU. LLaMA 65B is competitive with models like Chinchilla-70B and PaLM-540B.
 
-# GPT-4
+## GPT-4
 
 ---
 
 In this section, we cover the latest prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
 
-## GPT-4 Introduction[](https://www.promptingguide.ai/#gpt-4-introduction)
+### GPT-4 Introduction[](https://www.promptingguide.ai/#gpt-4-introduction)
 
 More recently, OpenAI released GPT-4, a large multimodal model that accept image and text inputs and emit text outputs. It achieves human-level performance on various professional and academic benchmarks.
 
@@ -1152,7 +1193,7 @@ GPT-4 achieves a score that places it around the top 10% of test takers on a sim
 
 OpenAI claims that GPT-4 was improved with lessons from their adversarial testing program as well as ChatGPT, leading to better results on factuality, steerability, and better alignment.
 
-## Vision Capabilities[](https://www.promptingguide.ai/#vision-capabilities)
+### Vision Capabilities[](https://www.promptingguide.ai/#vision-capabilities)
 
 GPT-4 APIs currently only supports text inputs but there is plan for image input capability in the future. OpenAI claims that in comparison with GPT-3.5 (which powers ChatGPT), GPT-4 can be more reliable, creative, and handle more nuanced instructions for more complex tasks. GPT-4 improves performance across languages.
 
@@ -1172,7 +1213,7 @@ This is GPT-4 output:
 
 This is an impressive result as the model follows the correct instruction even when there is other available information on the image. This open a range of capabilities to explore charts and other visual inputs and being more selective with the analyses.
 
-## Steering GPT-4[](https://www.promptingguide.ai/#steering-gpt-4)
+### Steering GPT-4[](https://www.promptingguide.ai/#steering-gpt-4)
 
 One area for experimentation is the ability to steer the model to provide answers in a certain tone and style via the `system` messages. This can accelerate personalization and getting accurate and more precise results for specific use cases.
 
@@ -1192,7 +1233,7 @@ To achieve this with previous GPT-3 models, you needed to be very detailed in th
 
 This is very useful to get consistent results and behavior.
 
-## Limitations[](https://www.promptingguide.ai/#limitations)
+### Limitations[](https://www.promptingguide.ai/#limitations)
 
 According to the blog release, GPT-4 is not perfect and there are still some limitations. It can hallucinate and makes reasoning errors. The recommendation is to avoid high-stakes use.
 
@@ -1220,15 +1261,15 @@ Keep in mind that the data cutoff point of GPT-4 is September 2021 so it lacks k
 
 See more results in their [main blog post (opens in a new tab)](https://openai.com/research/gpt-4) and [technical report (opens in a new tab)](https://arxiv.org/pdf/2303.08774.pdf).
 
-## Applications[](https://www.promptingguide.ai/#applications)
+### Applications[](https://www.promptingguide.ai/#applications)
 
 We will summarize many applications of GPT-4 in the coming weeks. In the meantime, you can checkout a list of applications in this [Twitter thread (opens in a new tab)](https://twitter.com/omarsar0/status/1635816470016827399?s=20).
 
-## Library Usage[](https://www.promptingguide.ai/#library-usage)
+### Library Usage[](https://www.promptingguide.ai/#library-usage)
 
 Coming soon!
 
-## References / Papers[](https://www.promptingguide.ai/#references--papers)
+### References / Papers[](https://www.promptingguide.ai/#references--papers)
 
 - [chatIPCC: Grounding Conversational AI in Climate Science (opens in a new tab)](https://arxiv.org/abs/2304.05510) (April 2023)
 - [Galactic ChitChat: Using Large Language Models to Converse with Astronomy Literature (opens in a new tab)](https://arxiv.org/abs/2304.05406) (April 2023)
@@ -1253,13 +1294,13 @@ Last updated on April 16, 2023
 
 [LLaMA](https://www.promptingguide.ai/models/llama "LLaMA")[Model Collection](https://www.promptingguide.ai/models/collection "Model Collection")
 
-# Model Collection
+## Model Collection
 
 ---
 
 [BERT (opens in a new tab)](https://arxiv.org/abs/1810.04805)2018Bidirectional Encoder Representations from Transformers[GPT (opens in a new tab)](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)2018Improving Language Understanding by Generative Pre-Training[RoBERTa (opens in a new tab)](https://arxiv.org/abs/1907.11692)2019A Robustly Optimized BERT Pretraining Approach[GPT-2 (opens in a new tab)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)2019Language Models are Unsupervised Multitask Learners[T5 (opens in a new tab)](https://arxiv.org/abs/1910.10683)2019Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer[BART (opens in a new tab)](https://arxiv.org/abs/1910.13461)2019Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension[ALBERT (opens in a new tab)](https://arxiv.org/abs/1909.11942)2019A Lite BERT for Self-supervised Learning of Language Representations[XLNet (opens in a new tab)](https://arxiv.org/abs/1906.08237)2019Generalized Autoregressive Pretraining for Language Understanding and Generation[CTRL (opens in a new tab)](https://arxiv.org/abs/1909.05858)2019CTRL: A Conditional Transformer Language Model for Controllable Generation[ERNIE (opens in a new tab)](https://arxiv.org/abs/1904.09223v1)2019ERNIE: Enhanced Representation through Knowledge Integration[GShard (opens in a new tab)](https://arxiv.org/abs/2006.16668v1)2020GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding[GPT-3 (opens in a new tab)](https://arxiv.org/abs/2005.14165)2020Language Models are Few-Shot Learners[LaMDA (opens in a new tab)](https://arxiv.org/abs/2201.08239v3)2021LaMDA: Language Models for Dialog Applications[PanGu-α (opens in a new tab)](https://arxiv.org/abs/2104.12369v1)2021PanGu-α: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation[mT5 (opens in a new tab)](https://arxiv.org/abs/2010.11934v3)2021mT5: A massively multilingual pre-trained text-to-text transformer[CPM-2 (opens in a new tab)](https://arxiv.org/abs/2106.10715v3)2021CPM-2: Large-scale Cost-effective Pre-trained Language Models[T0 (opens in a new tab)](https://arxiv.org/abs/2110.08207)2021Multitask Prompted Training Enables Zero-Shot Task Generalization[HyperCLOVA (opens in a new tab)](https://arxiv.org/abs/2109.04650)2021What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers[Codex (opens in a new tab)](https://arxiv.org/abs/2107.03374v2)2021Evaluating Large Language Models Trained on Code[ERNIE 3.0 (opens in a new tab)](https://arxiv.org/abs/2107.02137v1)2021ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation[Jurassic-1 (opens in a new tab)](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/61138924626a6981ee09caf6_jurassic_tech_paper.pdf)2021Jurassic-1: Technical Details and Evaluation[FLAN (opens in a new tab)](https://arxiv.org/abs/2109.01652v5)2021Finetuned Language Models Are Zero-Shot Learners[MT-NLG (opens in a new tab)](https://arxiv.org/abs/2201.11990v3)2021Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model[Yuan 1.0 (opens in a new tab)](https://arxiv.org/abs/2110.04725v2)2021Yuan 1.0: Large-Scale Pre-trained Language Model in Zero-Shot and Few-Shot Learning[WebGPT (opens in a new tab)](https://arxiv.org/abs/2112.09332v3)2021WebGPT: Browser-assisted question-answering with human feedback[Gopher (opens in a new tab)](https://arxiv.org/abs/2112.11446v2)2021Scaling Language Models: Methods, Analysis & Insights from Training Gopher[ERNIE 3.0 Titan (opens in a new tab)](https://arxiv.org/abs/2112.12731v1)2021ERNIE 3.0 Titan: Exploring Larger-scale Knowledge Enhanced Pre-training for Language Understanding and Generation[GLaM (opens in a new tab)](https://arxiv.org/abs/2112.06905)2021GLaM: Efficient Scaling of Language Models with Mixture-of-Experts[InstructGPT (opens in a new tab)](https://arxiv.org/abs/2203.02155v1)2022Training language models to follow instructions with human feedback[GPT-NeoX-20B (opens in a new tab)](https://arxiv.org/abs/2204.06745v1)2022GPT-NeoX-20B: An Open-Source Autoregressive Language Model[AlphaCode (opens in a new tab)](https://arxiv.org/abs/2203.07814v1)2022Competition-Level Code Generation with AlphaCode[CodeGen (opens in a new tab)](https://arxiv.org/abs/2203.13474v5)2022CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis[Chinchilla (opens in a new tab)](https://arxiv.org/abs/2203.15556)2022Shows that for a compute budget, the best performances are not achieved by the largest models but by smaller models trained on more data.[Tk-Instruct (opens in a new tab)](https://arxiv.org/abs/2204.07705v3)2022Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks[UL2 (opens in a new tab)](https://arxiv.org/abs/2205.05131v3)2022UL2: Unifying Language Learning Paradigms[PaLM (opens in a new tab)](https://arxiv.org/abs/2204.02311v5)2022PaLM: Scaling Language Modeling with Pathways[OPT (opens in a new tab)](https://arxiv.org/abs/2205.01068)2022OPT: Open Pre-trained Transformer Language Models[BLOOM (opens in a new tab)](https://arxiv.org/abs/2211.05100v3)2022BLOOM: A 176B-Parameter Open-Access Multilingual Language Model[GLM-130B (opens in a new tab)](https://arxiv.org/abs/2210.02414v1)2022GLM-130B: An Open Bilingual Pre-trained Model[AlexaTM (opens in a new tab)](https://arxiv.org/abs/2208.01448v2)2022AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model[Flan-T5 (opens in a new tab)](https://arxiv.org/abs/2210.11416v5)2022Scaling Instruction-Finetuned Language Models[Sparrow (opens in a new tab)](https://arxiv.org/abs/2209.14375)2022Improving alignment of dialogue agents via targeted human judgements[U-PaLM (opens in a new tab)](https://arxiv.org/abs/2210.11399v2)2022Transcending Scaling Laws with 0.1% Extra Compute[mT0 (opens in a new tab)](https://arxiv.org/abs/2211.01786v1)2022Crosslingual Generalization through Multitask Finetuning[Galactica (opens in a new tab)](https://arxiv.org/abs/2211.09085v1)2022Galactica: A Large Language Model for Science[OPT-IML (opens in a new tab)](https://arxiv.org/abs/2212.12017v3)2022OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization[LLaMA (opens in a new tab)](https://arxiv.org/abs/2302.13971v1)2023LLaMA: Open and Efficient Foundation Language Models[GPT-4 (opens in a new tab)](https://arxiv.org/abs/2303.08774v3)2023GPT-4 Technical Report[PanGu-Σ (opens in a new tab)](https://arxiv.org/abs/2303.10845v1)2023PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing[BloombergGPT (opens in a new tab)](https://arxiv.org/abs/2303.17564v1)2023BloombergGPT: A Large Language Model for Finance[Cerebras-GPT (opens in a new tab)](https://arxiv.org/abs/2304.03208)2023Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster
 
-# Risks & Misuses
+## Risks & Misuses
 
 ---
 
@@ -1269,7 +1310,7 @@ This section focuses on highlighting some of the risks and misuses of LLMs via t
 
 [Model Collection](https://www.promptingguide.ai/models/collection "Model Collection")[Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial "Adversarial Prompting")
 
-# Adversarial Prompting
+## Adversarial Prompting
 
 ---
 
@@ -1285,7 +1326,7 @@ Before proceeding with the section, please keep in mind that we don't condone an
 
 ---
 
-## Prompt Injection[](https://www.promptingguide.ai/#prompt-injection)
+### Prompt Injection[](https://www.promptingguide.ai/#prompt-injection)
 
 Prompt injection aims to hijack the model output by using clever prompts that change its behavior. These attacks could be harmful -- Simon Willison defined it ["as a form of security exploit" (opens in a new tab)](https://simonwillison.net/2022/Sep/12/prompt-injection/).
 
@@ -1319,7 +1360,7 @@ The idea of this attack is that it hijacks the model output by injecting an inst
 
 ---
 
-## Prompt Leaking[](https://www.promptingguide.ai/#prompt-leaking)
+### Prompt Leaking[](https://www.promptingguide.ai/#prompt-leaking)
 
 Prompt leaking is another type of prompt injection where prompt attacks are designed to leak details from the prompt which could contain confidential or proprietary information that was not intended for the public.
 
@@ -1337,11 +1378,11 @@ Check out [this example of a prompt leak (opens in a new tab)](https://twitter.c
 
 ---
 
-## Jailbreaking[](https://www.promptingguide.ai/#jailbreaking)
+### Jailbreaking[](https://www.promptingguide.ai/#jailbreaking)
 
 Some models will avoid responding to unethical instructions but can be bypassed if the request is contextualized in a clever way.
 
-### Illegal Behavior[](https://www.promptingguide.ai/#illegal-behavior)
+#### Illegal Behavior[](https://www.promptingguide.ai/#illegal-behavior)
 
 As an example, the prompt below was able to bypass the content policy of previous versions of ChatGPT:
 
@@ -1353,7 +1394,7 @@ There are many other variations of this prompt, also known as *jailbreaking*, wi
 
 Models like ChatGPT and Claude have been aligned to avoid outputting content that for instance promotes illegal behavior or unethical activities. So it's harder to jailbreak them but they still have flaws and we are learning new ones as people experiment with these systems in the open.
 
-### DAN[](https://www.promptingguide.ai/#dan)
+#### DAN[](https://www.promptingguide.ai/#dan)
 
 LLMs like ChatGPT includes guardrails limiting the model from outputting harmful, illegal, unethical, or violent content of any kind. However, users on Reddit found a jailbreaking technique that allows a user to bypass the model rules and creating a character called DAN (Do Anything Now) that forces the model to comply with any request leading the system to generate unfiltered responses. This is a version of role playing used for jailbreaking models.
 
@@ -1365,7 +1406,7 @@ Here is an example of the DAN jailbreaking technique:
 
 You can find a summary of DAN variants [here (opens in a new tab)](https://www.reddit.com/r/ChatGPT/comments/10tevu1/new_jailbreak_proudly_unveiling_the_tried_and/).
 
-### The Waluigi Effect[](https://www.promptingguide.ai/#the-waluigi-effect)
+#### The Waluigi Effect[](https://www.promptingguide.ai/#the-waluigi-effect)
 
 LessWrong recently published an article titled ["The Waluigi Effect" (opens in a new tab)](https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post) that discusses the ability of LLMs to easily elicit opposite and undesired behavior due to how it was trained.
 
@@ -1373,7 +1414,7 @@ From the article:
 
 > > The Waluigi Effect: After you train an LLM to satisfy a desirable property P, then it's easier to elicit the chatbot into satisfying the exact opposite of property P.
 
-### GPT-4 Simulator[](https://www.promptingguide.ai/#gpt-4-simulator)
+#### GPT-4 Simulator[](https://www.promptingguide.ai/#gpt-4-simulator)
 
 One recent jailbreaking example that was shared on Twitter was able to bypass the content filters of ChatGPT-4. The idea is to simulate an autoregressive model and trigger a harmful response using this input "how do I hack into into" into the function defined. This hack required clever manipulation and leveraging some of the code generation/understanding capabilities of the model.
 
@@ -1385,7 +1426,7 @@ Below is a response obtained by [Alex (opens in a new tab)](https://twitter.com/
 
 You can find more of these examples in the [Jailbreak Chat (opens in a new tab)](https://www.jailbreakchat.com/) website.
 
-### Game Simulator[](https://www.promptingguide.ai/#game-simulator)
+#### Game Simulator[](https://www.promptingguide.ai/#game-simulator)
 
 GPT-4 has improved in terms of safety, as many of the jailbreaking and prompt injection techniques described above are not as effective anymore. Simulations continue to be an effective technique to jailbreak the system.
 
@@ -1395,13 +1436,13 @@ Here is an example that instructs the model to simulate a game with instructions
 
 ---
 
-## Defense Tactics[](https://www.promptingguide.ai/#defense-tactics)
+### Defense Tactics[](https://www.promptingguide.ai/#defense-tactics)
 
 It's widely known that language models tend to elicit undesirable and harmful behaviors such as generating inaccurate statements, offensive text, biases, and much more. Furthermore, other researchers have also developed methods that enable models like ChatGPT to write malware, exploit identification, and create phishing sites. Prompt injections are not only used to hijack the model output but also to elicit some of these harmful behaviors from the LM. Thus, it becomes imperative to understand better how to defend against prompt injections.
 
 While prompt injections are easy to execute, there are no easy ways or widely accepted techniques to defend against these text-based attacks. Some researchers and practitioners recommend various ways to mitigate the effects of ill-intentioned prompts. We touch on a few defense tactics that are of interest to the community.
 
-### Add Defense in the Instruction[](https://www.promptingguide.ai/#add-defense-in-the-instruction)
+#### Add Defense in the Instruction[](https://www.promptingguide.ai/#add-defense-in-the-instruction)
 
 A simple defense tactic to start experimenting with is to just enforce the desired behavior via the instruction passed to the model. This is not a complete solution or offers any guarantees but it highlights the power of a well-crafted prompt. In an upcoming section, we cover a more robust approach that leverages good prompts for detecting adversarial prompts. Let's try the following prompt injection on `text-davinci-003`:
 
@@ -1419,11 +1460,11 @@ We can see that even when we injected the malicious instruction at the end, the 
 
 You can try this example in [this notebook (opens in a new tab)](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/notebooks/pe-chatgpt-adversarial.ipynb).
 
-### Parameterizing Prompt Components[](https://www.promptingguide.ai/#parameterizing-prompt-components)
+#### Parameterizing Prompt Components[](https://www.promptingguide.ai/#parameterizing-prompt-components)
 
 Prompt injections have similarities to [SQL injection (opens in a new tab)](https://en.wikipedia.org/wiki/SQL_injection) and we can potentially learn defense tactics from that domain. Inspired by this, a potential solution for prompt injection, [suggested by Simon (opens in a new tab)](https://simonwillison.net/2022/Sep/12/prompt-injection/), is to parameterize the different components of the prompts, such as having instructions separated from inputs and dealing with them differently. While this could lead to cleaner and safer solutions, I believe the tradeoff will be the lack of flexibility. This is an active area of interest as we continue to build software that interacts with LLMs.
 
-### Quotes and Additional Formatting[](https://www.promptingguide.ai/#quotes-and-additional-formatting)
+#### Quotes and Additional Formatting[](https://www.promptingguide.ai/#quotes-and-additional-formatting)
 
 Riley also followed up with a [workaround (opens in a new tab)](https://twitter.com/goodside/status/1569457230537441286?s=20) which was eventually exploited by another user. It involved escaping/quoting the input strings. Additionally, Riley reports that with this trick there is no need to add warnings in the instruction, and appears robust across phrasing variations. Regardless, we share the prompt example as it emphasizes the importance and benefits of thinking deeply about how to properly format your prompts.
 
@@ -1439,7 +1480,7 @@ I tried to reproduce with `temperature=0` but couldn't really get it to work. Yo
 
 *Output:*
 
-### Adversarial Prompt Detector[](https://www.promptingguide.ai/#adversarial-prompt-detector)
+#### Adversarial Prompt Detector[](https://www.promptingguide.ai/#adversarial-prompt-detector)
 
 We know that LLMs can be complex, general, and robust systems that can perform really well on a wide range of tasks. LLMs can also be used or fine-tuned to perform specific tasks like knowledge generation ([Liu et al. 2022 (opens in a new tab)](https://arxiv.org/pdf/2110.08387.pdf)) and self-verification ([Weng et al. (2022) (opens in a new tab)](https://arxiv.org/abs/2212.09561v1)). Similarly, an LLM can be used to detect adversarial prompts and filter them out.
 
@@ -1453,7 +1494,7 @@ This is an interesting solution as it involves defining a specific agent that wi
 
 We have prepared [this notebook](https://www.promptingguide.ai/notebooks/pe-chatgpt-adversarial.ipynb) for your play around with this strategy.
 
-### Model Type[](https://www.promptingguide.ai/#model-type)
+#### Model Type[](https://www.promptingguide.ai/#model-type)
 
 As suggested by Riley Goodside in [this twitter thread (opens in a new tab)](https://twitter.com/goodside/status/1578278974526222336?s=20), one approach to avoid prompt injections is to not use instruction-tuned models in production. His recommendation is to either fine-tune a model or create a k-shot prompt for a non-instruct model.
 
@@ -1465,7 +1506,7 @@ More recently, ChatGPT came into the scene. For many of the attacks that we trie
 
 ---
 
-## References[](https://www.promptingguide.ai/#references)
+### References[](https://www.promptingguide.ai/#references)
 
 - [The Waluigi Effect (mega-post) (opens in a new tab)](https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post)
 - [Jailbreak Chat (opens in a new tab)](https://www.jailbreakchat.com/)
@@ -1478,7 +1519,7 @@ More recently, ChatGPT came into the scene. For many of the attacks that we trie
 
 [Risks & Misuses](https://www.promptingguide.ai/risks "Risks & Misuses")[Factuality](https://www.promptingguide.ai/risks/factuality "Factuality")
 
-# Factuality
+## Factuality
 
 ---
 
@@ -1500,13 +1541,13 @@ I made up the name "Neto Beto Roberto" so the model is correct in this instance.
 
 [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial "Adversarial Prompting")[Biases](https://www.promptingguide.ai/risks/biases "Biases")
 
-# Biases
+## Biases
 
 ---
 
 LLMs can produce problematic generations that can potentially be harmful and display biases that could deteriorate the performance of the model on downstream tasks. Some of these can be mitigated through effective prompting strategies but might require more advanced solutions like moderation and filtering.
 
-## Distribution of Exemplars[](https://www.promptingguide.ai/#distribution-of-exemplars)
+### Distribution of Exemplars[](https://www.promptingguide.ai/#distribution-of-exemplars)
 
 When performing few-shot learning, does the distribution of the exemplars affect the performance of the model or bias the model in some way? We can perform a simple test here.
 
@@ -1522,7 +1563,7 @@ In the example above, it seems that the distribution of exemplars doesn't bias t
 
 While that last sentence is somewhat subjective, I flipped the distribution and instead used 8 positive examples and 2 negative examples and then tried the same exact sentence again. Guess what the model responded? It responded "Positive". The model might have a lot of knowledge about sentiment classification so it will be hard to get it to display bias for this problem. The advice here is to avoid skewing the distribution and instead provide a more balanced number of examples for each label. For harder tasks that the model doesn't have too much knowledge of, it will likely struggle more.
 
-## Order of Exemplars[](https://www.promptingguide.ai/#order-of-exemplars)
+### Order of Exemplars[](https://www.promptingguide.ai/#order-of-exemplars)
 
 When performing few-shot learning, does the order affect the performance of the model or bias the model in some way?
 
@@ -1532,13 +1573,13 @@ Last updated on April 11, 2023
 
 [Factuality](https://www.promptingguide.ai/risks/factuality "Factuality")[Papers](https://www.promptingguide.ai/papers "Papers")
 
-# Papers
+## Papers
 
 ---
 
 The following are the latest papers (sorted by release date) on prompt engineering. We update this on a daily basis and new papers come in. We incorporate summaries of these papers to the guides above every week.
 
-## Overviews[](https://www.promptingguide.ai/#overviews)
+### Overviews[](https://www.promptingguide.ai/#overviews)
 
 - [One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era (opens in a new tab)](https://arxiv.org/abs/2304.06488) (April 2023)
 - [A Bibliometric Review of Large Language Models Research from 2017 to 2023 (opens in a new tab)](https://arxiv.org/abs/2304.02020) (April 2023)
@@ -1552,7 +1593,7 @@ The following are the latest papers (sorted by release date) on prompt engineeri
 - [A Taxonomy of Prompt Modifiers for Text-To-Image Generation (opens in a new tab)](https://arxiv.org/abs/2204.13988) (Apr 2022)
 - [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing (opens in a new tab)](https://arxiv.org/abs/2107.13586) (Jul 2021)
 
-## Approaches[](https://www.promptingguide.ai/#approaches)
+### Approaches[](https://www.promptingguide.ai/#approaches)
 
 - [Boosted Prompt Ensembles for Large Language Models (opens in a new tab)](https://arxiv.org/abs/2304.05970) (April 2023)
 - [Global Prompt Cell: A Portable Control Module for Effective Prompt (opens in a new tab)](https://arxiv.org/abs/2304.05642) (April 2023)
@@ -1663,7 +1704,7 @@ The following are the latest papers (sorted by release date) on prompt engineeri
 - [How Can We Know What Language Models Know? (opens in a new tab)](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00324/96460/How-Can-We-Know-What-Language-Models-Know) (July 2020)
 - [Scaling Laws for Neural Language Models (opens in a new tab)](https://arxiv.org/abs/2001.08361) (Jan 2020)
 
-## Applications[](https://www.promptingguide.ai/#applications)
+### Applications[](https://www.promptingguide.ai/#applications)
 
 - [Are LLMs All You Need for Task-Oriented Dialogue? (opens in a new tab)](https://arxiv.org/abs/2304.06556) (April 2023)
 - [HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting (opens in a new tab)](https://arxiv.org/abs/2304.05973) (April 2023)
@@ -1727,7 +1768,7 @@ The following are the latest papers (sorted by release date) on prompt engineeri
 - [Plot Writing From Scratch Pre-Trained Language Models (opens in a new tab)](https://aclanthology.org/2022.inlg-main.5) (July 2022)
 - [Survey of Hallucination in Natural Language Generation (opens in a new tab)](https://arxiv.org/abs/2202.03629) (Feb 2022)
 
-## Collections[](https://www.promptingguide.ai/#collections)
+### Collections[](https://www.promptingguide.ai/#collections)
 
 - [Chain-of-Thought Papers (opens in a new tab)](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)
 - [Papers with Code (opens in a new tab)](https://paperswithcode.com/task/prompt-engineering)
@@ -1737,11 +1778,11 @@ Last updated on April 16, 2023
 
 [Biases](https://www.promptingguide.ai/risks/biases "Biases")[Tools](https://www.promptingguide.ai/tools "Tools")
 
-# Tools & Libraries
+## Tools & Libraries
 
 ---
 
-## (Sorted By Name)[](https://www.promptingguide.ai/#sorted-by-name)
+### (Sorted By Name)[](https://www.promptingguide.ai/#sorted-by-name)
 
 - [AI Test Kitchen (opens in a new tab)](https://aitestkitchen.withgoogle.com/)
 - [betterprompt (opens in a new tab)](https://github.com/krrishdholakia/betterprompt)
@@ -1788,7 +1829,7 @@ Last updated on April 16, 2023
 
 [Papers](https://www.promptingguide.ai/papers "Papers")[Notebooks](https://www.promptingguide.ai/notebooks "Notebooks")
 
-# Prompt Engineering Notebooks
+## Prompt Engineering Notebooks
 
 ---
 
@@ -1806,17 +1847,17 @@ Last updated on April 15, 2023
 
 [Tools](https://www.promptingguide.ai/tools "Tools")[Datasets](https://www.promptingguide.ai/datasets "Datasets")
 
-# Datasets
+## Datasets
 
 ---
 
 Datasets
 
-# Additional Readings
+## Additional Readings
 
 ---
 
-## (Sorted By Name)[](https://www.promptingguide.ai/#sorted-by-name)
+### (Sorted By Name)[](https://www.promptingguide.ai/#sorted-by-name)
 
 - [2023 AI Index Report (opens in a new tab)](https://aiindex.stanford.edu/report/)
 - [3 Principles for prompt engineering with GPT-3 (opens in a new tab)](https://www.linkedin.com/pulse/3-principles-prompt-engineering-gpt-3-ben-whately)
