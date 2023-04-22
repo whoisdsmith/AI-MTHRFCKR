@@ -19,14 +19,26 @@
 
 ## Recently Added
 
+- [AIBrane](https://www.aibrane.com/) - An AI Platform That Enables Users To Build, Deploy, And Manage AI Applications.
+- [AI & GPT Tool Directory](http://chatgptdemo.com/) - A Comprehensive Directory Of AI And GPT Tools, Showcasing Various Applications And Services.
+- [AI Query](https://aiquery.co/) - A Search Engine That Helps Users Find AI Tools And Resources Based On Their Specific Needs.
+- [AI Scout](https://aiscout.net/) - A Platform That Helps Users Discover And Evaluate AI Startups And Technologies.
+- [AI Templates](https://www.aitemplates.ai/) - Offers Customizable AI-powered Templates For Various Industries And Use Cases.
+- [AI Tools Arena](https://aitoolsarena.com/) - A Platform That Compares And Reviews AI Tools, Providing Insights And Recommendations.
+- [AI Tools Up](https://aitoolsup.com/) - A Resource For Discovering And Learning About AI Tools And Their Applications.
+- [AiTree](https://aitree.io/) - A Visual AI Development Platform That Simplifies The Creation And Deployment Of AI Models.
 - [Aomni](https://www.aomni.com/) - Aomni Is A Platform That Provides A Suite Of Tools For Businesses To Manage Their Operations, Including Project Management, Team Collaboration, And Customer Relationship Management.
 - [AstroGPT](https://astrogpt.pages.dev/sign-in?redirect=%2F) - AstroGPT Is An AI-powered Astrology App That Provides Personalized Horoscopes And Astrological Insights Based On The User's Birth Chart.
+- [Bark](https://github.com/suno-ai/bark?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia) - Bark Is A Transformer-based Text-to-audio Model Created By [Suno](https://suno.ai/). Bark Can Generate Highly Realistic, Multilingual Speech As Well As Other Audio - Including Music, Background Noise And Simple Sound Effects. The Model Can Also Produce Nonverbal Communications Like Laughing, Sighing And Crying. To Support The Research Community, We Are Providing Access To Pretrained Model Checkpoints Ready For Inference.
+- [ClassifyAI](https://github.com/WenServices/ClassifyAI?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia) - ClassifyAI Is A Python Project, Which Uses The OpenAI API To Sort Data With Personalized Classification Models. It Has A REST API That Lets You Send Requests For Classifying Information And Get Answers From The GPT Model.
 - [CodeConvert AI](https://www.codeconvert.ai/) - CodeConvert AI Is A Tool That Automatically Converts Code Between Programming Languages, Saving Developers Time And Effort In The Process.
 - [Forefront Chat](https://chat.forefront.ai/) - Forefront Chat Is A Chatbot Platform That Enables Businesses To Automate Their Customer Support And Sales Processes, Using AI-powered Chatbots That Can Handle Customer Inquiries And Provide Personalized Recommendations.
 - [HighValuePrompts](https://www.highvalueprompts.com/) - HighValuePrompts Is A Platform That Provides Writing Prompts And Exercises To Help Writers Improve Their Craft And Generate New Ideas.
 - [Medium Jailbreak ](Https://app.sttabot.io/bot/medium-jailbreak/) - Medium Jailbreak Is A Tool That Enables Users To Bypass Medium's Paywall And Read Articles For Free.
 - [Minigpt-4](https://minigpt-4.github.io/) - Minigpt-4 Is An Open-source Implementation Of The GPT-4 Language Model, Designed For Researchers And Developers To Experiment With And Build Upon.
 - [MusicStarAI](https://beta.musicstar.ai/) - MusicStarAI Is An AI-powered Music Composition Tool That Enables Users To Create Original Music Using Machine Learning Algorithms.
+- [PromptFlat](https://www.promptflat.com/) - A Platform That Provides AI-generated Content For Various Purposes, Such As Blog Posts And Social Media Updates.
+- [PromptSandbox](https://app.promptsandbox.io/) - An Interactive Playground For Experimenting With AI-generated Text Prompts.
 - [Sttabot CSAT](https://csat.sttabot.io/) - Sttabot CSAT Is A Customer Satisfaction Survey Tool That Enables Businesses To Collect Feedback From Their Customers And Measure Their Satisfaction Levels.
 - [Syndicatex ](Https://syndicatex.io/) - Syndicatex Is A Platform That Enables Users To Create And Manage Decentralized Autonomous Organizations (DAOs) On The Blockchain.
 - [WebCopilotAI](https://www.webcopilot.ai/) - WebCopilotAI Is A Tool That Uses AI To Analyze And Optimize Websites For Search Engine Optimization (SEO), Helping Businesses Improve Their Online Visibility And Attract More Traffic.
