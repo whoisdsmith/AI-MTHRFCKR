@@ -19,10 +19,22 @@
 
 ## Recently Added
 
+- [Aomni](https://www.aomni.com/) - Aomni Is A Platform That Provides A Suite Of Tools For Businesses To Manage Their Operations, Including Project Management, Team Collaboration, And Customer Relationship Management.
+- [AstroGPT](https://astrogpt.pages.dev/sign-in?redirect=%2F) - AstroGPT Is An AI-powered Astrology App That Provides Personalized Horoscopes And Astrological Insights Based On The User's Birth Chart.
+- [CodeConvert AI](https://www.codeconvert.ai/) - CodeConvert AI Is A Tool That Automatically Converts Code Between Programming Languages, Saving Developers Time And Effort In The Process.
+- [Forefront Chat](https://chat.forefront.ai/) - Forefront Chat Is A Chatbot Platform That Enables Businesses To Automate Their Customer Support And Sales Processes, Using AI-powered Chatbots That Can Handle Customer Inquiries And Provide Personalized Recommendations.
+- [HighValuePrompts](https://www.highvalueprompts.com/) - HighValuePrompts Is A Platform That Provides Writing Prompts And Exercises To Help Writers Improve Their Craft And Generate New Ideas.
+- [Medium Jailbreak ](Https://app.sttabot.io/bot/medium-jailbreak/) - Medium Jailbreak Is A Tool That Enables Users To Bypass Medium's Paywall And Read Articles For Free.
+- [Minigpt-4](https://minigpt-4.github.io/) - Minigpt-4 Is An Open-source Implementation Of The GPT-4 Language Model, Designed For Researchers And Developers To Experiment With And Build Upon.
+- [MusicStarAI](https://beta.musicstar.ai/) - MusicStarAI Is An AI-powered Music Composition Tool That Enables Users To Create Original Music Using Machine Learning Algorithms.
+- [Sttabot CSAT](https://csat.sttabot.io/) - Sttabot CSAT Is A Customer Satisfaction Survey Tool That Enables Businesses To Collect Feedback From Their Customers And Measure Their Satisfaction Levels.
+- [Syndicatex ](Https://syndicatex.io/) - Syndicatex Is A Platform That Enables Users To Create And Manage Decentralized Autonomous Organizations (DAOs) On The Blockchain.
+- [WebCopilotAI](https://www.webcopilot.ai/) - WebCopilotAI Is A Tool That Uses AI To Analyze And Optimize Websites For Search Engine Optimization (SEO), Helping Businesses Improve Their Online Visibility And Attract More Traffic.
+
 ### 2023-04-20
 
-*   [Agile Prompt Builder](https://silviotorre.github.io/AgilePrompt/) - A web-based tool designed to help users create high-quality prompts for AI language models like GPT-3 by leveraging the principles of Agile methodology.
-*   [AI Anything](https://aianything.netlify.app/) - A platform that offers various AI-based tools and applications, including AI-generated artwork, style transfer, and text generation using language models.
+* [Agile Prompt Builder](https://silviotorre.github.io/AgilePrompt/) - A web-based tool designed to help users create high-quality prompts for AI language models like GPT-3 by leveraging the principles of Agile methodology.
+* [AI Anything](https://aianything.netlify.app/) - A platform that offers various AI-based tools and applications, including AI-generated artwork, style transfer, and text generation using language models.
 - [AMA GPT-3](https://amagpt3.com/) - A platform that allows users to ask GPT-3 questions and receive AI-generated responses.
 - [Awesome-chatgpt-plugins](https://github.com/jeadie/awesome-chatgpt-plugins) - A curated list of plugins and integrations for ChatGPT.
 - [ChainBrain AI](https://www.chainbrainai.com/) - An AI-powered solution for analyzing and predicting cryptocurrency markets.
