@@ -19,6 +19,113 @@
 
 ## Recently Added
 
+### 2023-04-23 
+
+- [AI Toolbox For Innovators](https://ai.boardofinnovation.com/) - A platform offering a collection of AI tools and resources for innovators to explore and experiment with.
+- [Alt-gpt](https://alt-gpt.com/chat) - An alternative GPT chatbot service providing users with an interactive conversational experience.
+- [Apply GPT](https://www.applygpt.com/) - A website that helps users apply GPT technology to various use cases, such as content creation and analysis.
+- [AutoGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/autogpt/mamkpgmndpghcbjpklkbpiafhnonehle) - A Chrome extension for GPT-powered text generation and assistance in web browsing.
+- [AvvA | Your AI Assistant](https://avva.ai/) - An AI-powered personal assistant designed to help with various tasks, such as scheduling and reminders.
+- [BetterGPT](https://bettergpt.chat/) - A GPT-based chatbot service that aims to improve upon existing GPT models for more coherent and context-aware conversations.
+- [Boo.ai](https://boo.ai/) - An AI-driven platform that provides personalized learning experiences for students and educational institutions.
+- [Chat GPT Prompts](https://prompto.chat/) - A website that offers a curated collection of prompts to help users get the most out of their GPT chatbot interactions.
+- [ChatGPT | Ora.sh](https://ora.sh/openai/chatgpt) - A service that provides access to ChatGPT, allowing users to engage in a conversational AI experience.
+- [ChatGPT On Your Data](https://xata.io/chatgpt) - A platform that enables users to fine-tune ChatGPT models using their own data for more personalized and accurate results.
+- [ChatGPT Playground](https://aneejian.com/chatgpt-playground/) - An interactive playground for users to experiment with ChatGPT and explore its capabilities.
+- [ChatGPT Plugin Hub](https://www.hubgpt.top/#/) - A hub for ChatGPT plugins, which offers various tools and extensions to enhance the functionality of ChatGPT applications.
+- [Chatgpt Prompt Apps](https://chatgpt-prompt-apps.com/) - A website providing a collection of applications that utilize ChatGPT for various purposes, such as brainstorming and content generation.
+- [ChatGPT-web](https://niek.github.io/chatgpt-web/) - A web-based interface for interacting with ChatGPT, providing users with an easy-to-use platform for AI-driven conversations.
+- [Chatgpt.js](https://chatgpt.js.org/#/) - A JavaScript library for developers to easily integrate ChatGPT into their applications and websites.
+- [ChatWebpage](https://chatwebpage.com/) - A platform that allows users to create interactive, AI-driven chat experiences on their websites.
+- [ChatZen](https://chatzen.app/) - A user-friendly chatbot platform that leverages GPT technology to create conversational experiences for various applications.
+- [CODEGPT](https://www.codegpt.run/) - A service that uses GPT models to assist with code generation and software development tasks.
+- [Contextable](https://www.contextable.ai/) - A platform offering GPT-powered tools to analyze and generate context-aware content for businesses and individuals.
+- [Create Next App](https://metaprompt.vercel.app/?task=gpt) - An interactive web application that helps users generate new ideas and content using GPT models.
+- [Cuely](https://www.cuely.ai/chatgpt) - A chatbot service that utilizes ChatGPT for providing AI-driven conversational experiences in various domains.
+- [Descartes - AI Personal Assistant](https://descartes.io/) - An AI-powered personal assistant designed to help users manage their schedules, tasks, and other daily activities.
+- [ExplainDev](https://app.explain.dev/) - A platform that uses GPT models to help users understand and explain complex technical concepts and documentation.
+- [Fine-TunerAIl](https://fine-tuner.ai/finetune) - A service that enables users to fine-tune GPT models for specific tasks and use cases, improving their performance and accuracy.
+- [FinetuneGPT](https://finetune-gpt.com/) - A platform offering GPT fine-tuning services for users to adapt the models to their specific needs and applications.
+- [Gnothi](https://gnothiai.com/j) - A personal AI-driven journal that utilizes GPT models to help users reflect on their thoughts and experiences.
+- [GPT Detective](https://gpt.adsp.dev/) - A tool that uses GPT technology to detect AI-generated text and help users distinguish between human and machine-generated content.
+- [GPT Labs](https://gptlabs.us/) - A platform offering various GPT-based tools and services, including text generation, translation, and summarization.
+- [GPT My Life](https://gptmylife.com/) - A service that leverages GPT technology to create personalized content and experiences for users, such as journaling and goal-setting.
+- [GPT-3 Explorer](https://gpt-3-explorer.vercel.app/p/R5WLwJTNWcCP7b0xwvEM) - An interactive web application that allows users to explore the capabilities of GPT-3 through various tasks and prompts.
+- [GPT-3 Tokenizer](https://gpt3-tokenizer-ui.vercel.app/) - An online tool for tokenizing text input specifically for GPT-3, helping users understand how text is processed by the model.
+- [GPT-3 Writer](https://arkose.pages.dev/) - A platform that utilizes GPT-3 to generate content, assisting users in writing articles, blog posts, and other types of text.
+- [Gpt-List](https://www.gpt-list.com/) - A curated list of GPT-based tools, resources, and applications for users interested in exploring the capabilities of GPT models.
+- [GPT-me | Vana](https://gptme.vana.com/) - A service that employs GPT technology to create personalized content and experiences tailored to individual users.
+- [GPTPluginSearch](https://gptpluginsearch.com/) - A search engine for GPT-based plugins, helping users find relevant tools and extensions for their projects.
+- [HatGPT](https://easrng.github.io/hatgpt/) - A web-based interface for interacting with GPT models, providing users with an accessible platform for AI-driven conversations.
+- [HeyGPT](https://heygpt.chat/) - A chatbot service that uses GPT technology to engage users in interactive conversations and assist with various tasks.
+- [GPT-TEMPLATES](https://www.gpt-templates.com/) - A website offering a collection of templates to help users generate content and ideas using GPT models.
+- [GPTZero](https://gptzero.me/docs) - A documentation website for the GPTZero project, which aims to create an open-source implementation of GPT models.
+- [Imaginary Programming](https://imaginary.dev/) - A platform that uses GPT technology to assist with code generation, helping developers create software more efficiently.
+- [Kaspian](https://kaspian.ai/) - An AI-driven platform designed to help businesses automate and optimize various aspects of their operations using GPT models.
+- [Laika](https://prompt.getlaika.app/) - A service that employs GPT technology to create conversational experiences and assist users in generating content and ideas.
+- [LearnGPT](https://learngpt.art/) - A website dedicated to teaching users about GPT technology, its applications, and how to use it effectively.
+- [Light | AI Assistant For Boring Work](https://getlight.ai/) - An AI-powered assistant that automates tedious tasks, helping users save time and focus on more important work.
+- [Litcodes](https://chat.lit.codes/) - A chatbot service that leverages GPT models to engage users in interactive conversations and provide assistance with various tasks.
+- [LLM Prompt Engineering](https://www.languagemodelpromptengineering.com/4) - A resource that teaches users how to design effective prompts for language models, such as GPT, to achieve desired results.
+- [Text Generator](https://text-generator.io/) - A web-based tool that utilizes GPT technology to generate text content for various purposes, such as articles, blog posts, and social media updates.
+- [MarkdownGPT](https://markdowngpt.speechly.com/) - A GPT-powered tool that helps users generate content in Markdown format, making it easier to create structured documents and articles.
+- [MetaMorph](https://github.com/victorb/metamorph) - An open-source project on GitHub that aims to provide an interface for interacting with GPT models and generating content.
+- [MindMateGPT](https://mindmategpt.com/) - A platform that employs GPT technology to create personalized content, such as journal entries and thought reflections, for users.
+- [Mindsera](https://beta.mindsera.com/academy/getting-started) - A service that offers AI-driven learning experiences and resources, using GPT models to create personalized educational content.
+- [Monica - Your ChatGPT AI Assistant](https://monica.im/) - An AI-powered chatbot assistant based on ChatGPT, designed to help users with various tasks and provide conversational experiences.
+- [NetusAI Paraphrasing Tool](https://netus.ai/) - A GPT-based paraphrasing tool that helps users rewrite text content while maintaining its original meaning and context.
+- [NovelAI Prompt Generator](https://promptgen.online/) - A web-based tool that generates creative prompts for users to experiment with GPT models and produce unique content.
+- [Omniscience](https://omnilabs.ai/chat/) - A platform that provides users with access to GPT-powered chatbots for interactive conversations and assistance.
+- [PandoraAI](https://pandora-ai.netlify.app/) - A web-based interface for experimenting with GPT models and generating content through interactive conversations.
+- [Petals](https://petals.ml/) - A service that uses GPT technology to create poetic compositions, helping users express their thoughts and emotions through verse.
+- [Prompt Designer](https://www.promptdesigner.ai/) - A platform that guides users through the process of designing effective prompts for GPT models, improving the quality of generated content.
+- [PromptHub - Home](https://prompthub.space/base_prompts) - A repository of pre-designed prompts for GPT models, allowing users to explore various applications and use cases.
+- [Refract](https://www.refract.space/) - A platform that employs GPT technology to generate content, such as articles and blog posts, based on user-provided input and context.
+- [SaveGPT - Auto-save ChatGPT Conversations](https://savegpt.com/) - A tool that automatically saves ChatGPT conversations, ensuring users don't lose important information during AI-driven interactions.
+- [SearchGPT](https://searchgpt.perrysahnow.com/) - A search engine powered by GPT models, providing users with AI-generated content and relevant results for their queries.
+- [Slite – Your Modern Knowledge Base](https://slite.com/) - A collaborative knowledge base platform designed to help teams store, organize, and share information efficiently.
+- [Snack Prompt - Chrome Web Store](https://chrome.google.com/webstore/detail/snack-prompt/lgpdceoebipofiijjgpiedpfcdenkndi?hl=en-US) - A Chrome extension that generates creative writing prompts using GPT models, helping users overcome writer's block.
+- [PixieBrix](https://www.pixiebrix.com/marketplace/4b19dea5-e722-4011-b0ba-1f755e169c4b/summarize-selected-text-with-ai/) - Summarize Selected Text With AI - A browser extension that uses AI to automatically summarize selected text, improving productivity and information retention.
+- [SWAPP](https://www.swapp.ai/) - A platform that uses GPT technology to assist users in creating high-quality content for various purposes, such as social media posts and marketing materials.
+- [Text Generator Plugin](https://text-gen.com/) - A plugin that employs GPT models to generate text content, enabling users to quickly create articles, blog posts, and more.
+- [TextSynth](https://textsynth.com/) - A web-based tool that uses GPT technology to generate text, allowing users to experiment with AI-driven content creation.
+- [TrainMyAI](https://trainmy.ai/) - A platform that enables users to fine-tune GPT models for specific tasks and applications, improving performance and accuracy.
+- [TTS Tool](https://ttstool.com/) - A text-to-speech (TTS) tool that converts text input into natural-sounding audio, leveraging AI to improve the quality of the generated speech.
+- [UniJump](https://unijump.ai/) - A service that employs GPT technology to generate personalized content and learning experiences for users, helping them achieve their educational goals.
+- [Vana](https://www.vana.com/) - A platform that offers GPT-powered tools and services for content generation, personalization, and more.
+- [Promptaiedia!](https://promptaipedia.com/) - A repository of AI-generated prompts, providing users with creative ideas for writing, brainstorming, and experimentation.
+- [What Does This Code Do?](https://whatdoesthiscodedo.com/) - A web-based tool that uses GPT models to explain the functionality of code snippets, helping users understand complex programming concepts.
+- [YoungerSelf.AI](https://youngerself.ai/) - A service that uses GPT technology to generate personalized content, such as journal entries and reflections, based on the user's past experiences and memories.
+
+
+### **Table Of Contents**
+
+- [AI-Apps](#ai-apps)
+- [AI-Audio](#ai-audio)
+- [AI-Business](#ai-business)
+- [AI-Content](#ai-content)
+- [AI-Data](#ai-data)
+- [AI-Design](#ai-design)
+- [AI-Dev](#ai-dev)
+- [AI-Education/Learning](#ai-education/learning)
+- [AI-Experiments](#ai-experiments)
+- [AI-Health](#ai-health)
+- [AI-Image](#ai-image)
+- [AI-Other](#ai-other)
+- [AI-Productivity](#ai-productivity)
+- [AI-Resources](#ai-resources)
+- [AI-Social](#ai-social)
+- [AI-Text](#ai-text)
+- [AI-Tools](#ai-tools)
+- [AI-Video](#ai-video)
+- [AI-Writing](#ai-writing)
+
+---
+
+## April
+
+### 2023-04-22
+
 - [AIBrane](https://www.aibrane.com/) - An AI Platform That Enables Users To Build, Deploy, And Manage AI Applications.
 - [AI & GPT Tool Directory](http://chatgptdemo.com/) - A Comprehensive Directory Of AI And GPT Tools, Showcasing Various Applications And Services.
 - [AI Query](https://aiquery.co/) - A Search Engine That Helps Users Find AI Tools And Resources Based On Their Specific Needs.
@@ -68,27 +175,6 @@
 - [Prompt Reducer](https://www.promptreducer.com/) - A tool that helps users create concise and effective prompts for GPT models.
 - [Text Splitter](https://slicer.centminmod.com/) - A utility for splitting long text into smaller, more manageable pieces.
 - [Tokenizer](https://chatgpt-tokenizer.com/en/index.html#!/) - A tool for tokenizing text in preparation for use with ChatGPT.
-
-### GPT | Prompt Guides
-
-- [Awesome-chatgpt-suggestions](https://github.com/aminblm/awesome-chatgpt-suggestions) - A curated list of resources and suggestions for working with ChatGPT.
-- [ChatGPT Prompt Guide](https://chatgptguide.pro/chatgpt-prompt-guide/) - A comprehensive guide for creating effective prompts for ChatGPT.
-- [ChatGPT Prompt Resources And Prompt Making Guide](https://docs.google.com/spreadsheets/d/1xqm94LH9ydiilsWvylS3LdRZIRFnnEyft_X6HLnlex4/edit#gid=434902957) - A spreadsheet containing resources and tips for creating ChatGPT prompts.
-- [ChatGPT Prompts](https://docs.google.com/spreadsheets/d/1wLuXmaHLfXQq_VxJSVS5FpS73ftCqZm5oO682jdctQM/edit#gid=0) - A collection of ChatGPT prompts that users can browse and draw inspiration from.
-- [ChatGPT Tips](https://www.chatgpttips.com/) - A website offering tips and tricks for working with ChatGPT effectively.
-- [ChatGPT Writing Prompt](https://pastebin.com/ygK4sLjG) - A Pastebin post containing a list of ChatGPT writing prompts.
-- [Exploiting ChatGPT’s Potential](https://medium.com/@r.prilepskiy/exploiting-chatgpts-potential-33-tips-for-crafting-advanced-prompts-6d2cc22fcf53) - A Medium article discussing tips for crafting advanced prompts with ChatGPT.
-- [GPT Craft](http://gptcraft.tech/) - A website dedicated to helping users improve their GPT model interactions and prompt crafting skills.
-- [GPT-3 Creative Fiction](https://gwern.net/gpt-3) - A collection of creative fiction works generated by GPT-3.
-- [How To Make Complex ChatGPT Prompts](https://chatgptips.ai/learn-how-to-make-complex-chatgpt-prompts-with-the-chatgpt-method/) - A tutorial on creating complex prompts for ChatGPT using the ChatGPT Method.
-- [LIST OF 50+ CLEVER GPT-3 PROMPTS](https://docs.google.com/spreadsheets/u/0/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/htmlview) - A Google Sheets document containing over 50 clever prompts for GPT-3.
-- [Mastering ChatGPT](https://gptbot.io/master-chatgpt-prompting-techniques-guide/) - A guide that covers advanced ChatGPT prompting techniques.
-- [OpenAI GPT Prompt Generator](https://gptforwork.com/tools/prompt-generator) - A tool for generating prompts for use with OpenAI's GPT models.
-- [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101) - An introduction to prompt engineering techniques for AI models.
-- [Prompt Engineering Guide](https://www.promptingguide.ai/) - A comprehensive guide to prompt engineering with AI models.
-- [The ChatGPT Prompt Book](https://docs.google.com/presentation/d/17b_ocq-GL5lhV_bYSShzUgxL02mtWDoiw9xEroJ5m3Q/edit#slide=id.g1b8e0b333f6_0_238) - A Google Slides presentation containing a collection of ChatGPT prompts.
-- [The Fine Art Of Prompting](https://aiascendant.substack.com/p/the-fine-art-of-prompting?publication_id=1140621&post_id=93777426&isFreemail=true) - An article that discusses the importance of crafting effective prompts for AI models.
-
 
 ### 2023-04-19 
 
@@ -218,7 +304,7 @@
 - [Wonderchat](https://wonderchat.io/) - An AI-powered Chatbot Builder For Customer Engagement And Support Automation, Enabling Businesses To Create Personalized And Efficient Chatbot Experiences.
 - [XTuring](https://xturing.stochastic.ai/) - A Platform For Building, Training, And Deploying AI Models In A Distributed Environment.
 
-### 2013-04-17
+### 2023-04-17
 
 - [2AI](https://2ai.app/) - A Platform Offering AI-powered Solutions For Various Industries, Including Image Processing, Natural Language Processing, And Data Analytics.
 - [6000 Thoughts](https://6000thoughts.com/) - A Platform For Sharing Thoughts, Ideas, And Stories In A Blog Format.
@@ -249,30 +335,6 @@
 - [SPOTGPT](https://www.spotgpt.app/) - A Platform That Leverages GPT For Creating AI-powered Web Applications And Tools.
 - [STRING](https://www.askstring.com/) - A Platform Offering AI-driven Natural Language Processing And Understanding Services.
 - [WebscrapeAI](https://webscrapeai.com/) - A Web Scraping Platform That Allows Users To Extract Structured Data From Websites, Enabling Businesses To Gather Valuable Information And Insights For Various Applications.
-
----
-
-## Table Of Contents
-
-- [AI-Apps](#ai-apps)
-- [AI-Audio](#ai-audio)
-- [AI-Business](#ai-business)
-- [AI-Content](#ai-content)
-- [AI-Data](#ai-data)
-- [AI-Design](#ai-design)
-- [AI-Dev](#ai-dev)
-- [AI-Education/Learning](#ai-education/learning)
-- [AI-Experiments](#ai-experiments)
-- [AI-Health](#ai-health)
-- [AI-Image](#ai-image)
-- [AI-Other](#ai-other)
-- [AI-Productivity](#ai-productivity)
-- [AI-Resources](#ai-resources)
-- [AI-Social](#ai-social)
-- [AI-Text](#ai-text)
-- [AI-Tools](#ai-tools)
-- [AI-Video](#ai-video)
-- [AI-Writing](#ai-writing)
 
 ---
 
@@ -3283,6 +3345,27 @@ Natural
 ### AI-Prompt-GPT
 
 - [GPT Lab](https://gptlab.streamlit.app/) - An interactive platform that enables users to experiment with GPT models and generate text.
+
+### AI-Prompt-Prompt Guides
+
+- [Awesome-chatgpt-suggestions](https://github.com/aminblm/awesome-chatgpt-suggestions) - A curated list of resources and suggestions for working with ChatGPT.
+- [ChatGPT Prompt Guide](https://chatgptguide.pro/chatgpt-prompt-guide/) - A comprehensive guide for creating effective prompts for ChatGPT.
+- [ChatGPT Prompt Resources And Prompt Making Guide](https://docs.google.com/spreadsheets/d/1xqm94LH9ydiilsWvylS3LdRZIRFnnEyft_X6HLnlex4/edit#gid=434902957) - A spreadsheet containing resources and tips for creating ChatGPT prompts.
+- [ChatGPT Prompts](https://docs.google.com/spreadsheets/d/1wLuXmaHLfXQq_VxJSVS5FpS73ftCqZm5oO682jdctQM/edit#gid=0) - A collection of ChatGPT prompts that users can browse and draw inspiration from.
+- [ChatGPT Tips](https://www.chatgpttips.com/) - A website offering tips and tricks for working with ChatGPT effectively.
+- [ChatGPT Writing Prompt](https://pastebin.com/ygK4sLjG) - A Pastebin post containing a list of ChatGPT writing prompts.
+- [Exploiting ChatGPT’s Potential](https://medium.com/@r.prilepskiy/exploiting-chatgpts-potential-33-tips-for-crafting-advanced-prompts-6d2cc22fcf53) - A Medium article discussing tips for crafting advanced prompts with ChatGPT.
+- [GPT Craft](http://gptcraft.tech/) - A website dedicated to helping users improve their GPT model interactions and prompt crafting skills.
+- [GPT-3 Creative Fiction](https://gwern.net/gpt-3) - A collection of creative fiction works generated by GPT-3.
+- [How To Make Complex ChatGPT Prompts](https://chatgptips.ai/learn-how-to-make-complex-chatgpt-prompts-with-the-chatgpt-method/) - A tutorial on creating complex prompts for ChatGPT using the ChatGPT Method.
+- [LIST OF 50+ CLEVER GPT-3 PROMPTS](https://docs.google.com/spreadsheets/u/0/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/htmlview) - A Google Sheets document containing over 50 clever prompts for GPT-3.
+- [Mastering ChatGPT](https://gptbot.io/master-chatgpt-prompting-techniques-guide/) - A guide that covers advanced ChatGPT prompting techniques.
+- [OpenAI GPT Prompt Generator](https://gptforwork.com/tools/prompt-generator) - A tool for generating prompts for use with OpenAI's GPT models.
+- [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101) - An introduction to prompt engineering techniques for AI models.
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) - A comprehensive guide to prompt engineering with AI models.
+- [The ChatGPT Prompt Book](https://docs.google.com/presentation/d/17b_ocq-GL5lhV_bYSShzUgxL02mtWDoiw9xEroJ5m3Q/edit#slide=id.g1b8e0b333f6_0_238) - A Google Slides presentation containing a collection of ChatGPT prompts.
+- [The Fine Art Of Prompting](https://aiascendant.substack.com/p/the-fine-art-of-prompting?publication_id=1140621&post_id=93777426&isFreemail=true) - An article that discusses the importance of crafting effective prompts for AI models.
+
 
 ### AI-Prompt-Resources
 

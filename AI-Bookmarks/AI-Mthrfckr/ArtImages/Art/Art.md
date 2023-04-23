@@ -44,4 +44,4 @@
 - [StyleGAN](StyleGAN.md)
 - [Super-Resolution](Super-Resolution.md)
 - [Taming Transformers Landscape Generation, Faces](Taming%20Transformers%20Landscape%20Generation,%20Faces.md)
-- [Text Generation](Text%20Generation.md)
+- [Text Generation](AI-Bookmarks/AI-Mthrfckr/ArtImages/Art/Text%20Generation.md)

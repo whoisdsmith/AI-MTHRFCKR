@@ -5,7 +5,7 @@
 ![](https://public-files.gumroad.com/variants/m9z276m4a417nwz10gdq6uf4liox/e62e4bcd3d858e4839b5c2b465bae257f22dc2666e91f438860b8031380a9984)
 
 - [Preface](Preface.md)
-- [Introduction](Introduction.md)
+- [Introduction](AI-Prompts/Prompt%20Guides/The%20Art%20of%20ChatGPT%20Prompting/Introduction.md)
 - [What is ChatGPT and How Does it Work](What%20is%20ChatGPT%20and%20How%20Does%20it%20Work.md)
 - [The Role of Prompts in ChatGPT Conversations](The%20Role%20of%20Prompts%20in%20ChatGPT%20Conversations.md)
 - [Principles of Clear Communication](Principles%20of%20Clear%20Communication.md)
@@ -14,7 +14,7 @@
 - [Troubleshooting](Troubleshooting.md)
 - [Technical Issues](Technical%20Issues.md)
 - [Case Studies](Case%20Studies.md)
-- [Conclusion](Conclusion.md)
+- [Conclusion](AI-Prompts/Prompt%20Guides/The%20Art%20of%20ChatGPT%20Prompting/Conclusion.md)
 
 **About**
 
