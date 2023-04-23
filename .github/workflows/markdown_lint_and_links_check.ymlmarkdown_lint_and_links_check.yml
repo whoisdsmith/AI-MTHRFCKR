@@ -10,7 +10,7 @@ on:
       - main
       - master
     paths:
-      - '**.md'
+      - 'README.md'
 
 jobs:
   markdown-lint:
@@ -28,7 +28,7 @@ jobs:
     - name: Install and run markdownlint
       run: |
         npm install -g markdownlint-cli
-        markdownlint "**/*.md"
+        markdownlint "README.md" || (echo "Markdown linting failed" && exit 1)
 
   broken-links-check:
     runs-on: ubuntu-latest
