@@ -19,6 +19,124 @@
 
 ## Recently Added
 
+###  2023-04-28 
+
+- [Accessible AI](https://accessibleai.dev/chat/) - A Chatbot That Provides Information And Resources On How To Make AI Accessible For People With Disabilities.
+- [AI Chat Bestie](https://aichatbestie.com/) - A Chatbot Designed To Help People With Mental Health Issues By Providing Support And Resources.
+- [AI Chat Online](https://chatgpt.org/) - A Platform That Allows Users To Chat With An AI-powered Chatbot On A Variety Of Topics.
+- [AI MAFIA](https://aimafia.club/) - A Community For People Interested In AI And Machine Learning To Connect And Collaborate With Each Other.
+- [AI-Powered Coding Tutorials | Codeamigo](https://codeamigo.dev/v2) - A Platform That Provides Coding Tutorials Using An AI-powered Chatbot To Help Learners With Their Coding Challenges.
+- [AI Story Chat](https://www.aistorychat.com/) - A Chatbot That Generates Interactive Stories Using AI.
+- [AnarchyAI](https://anarchy.ai/) - A Platform That Allows Users To Train AI Models Using Their Own Data, Without Requiring Coding Or Technical Expertise.
+- [AnswerAI](https://answerai.tech/#/) - A Platform That Uses AI To Automate Customer Service And Support Functions For Businesses.
+- [AskCSV](https://askcsv.com/) - A Search Engine That Allows Users To Search Through CSV Files Using Natural Language Queries.
+- [Automize](https://automize.dev/) - A Platform That Helps Businesses Automate Their Workflows Using AI And Machine Learning.
+- [Beakr](https://www.beaker.ai/) - A Platform That Provides Tools For Data Scientists To Manage, Collaborate, And Share Their Data And Models.
+- [Bellow](https://bellow.ai/) - A Chatbot That Helps Businesses Automate Their Customer Support Functions.
+- [Blenderbot.ai](https://blenderbot.ai/) - A Chatbot That Uses Natural Language Processing And Machine Learning To Engage In Conversations With Users.
+- [Blinx AI](https://www.blinx.ai/home) - A Platform That Uses AI To Automate Social Media Marketing For Businesses.
+- [Botfriend.me](https://botfriend.me/) - A Platform That Allows Users To Create Their Own Chatbots Without Requiring Coding Or Technical Expertise.
+- [Build AI Avatar Apps | Free Course Using Nocode](https://www.aiavatar.how/) - A Free Course That Teaches Users How To Build AI Avatar Apps Without Coding.
+- [Call Annie](https://callannie.ai/) - A Platform That Uses AI To Screen And Filter Calls For Businesses And Individuals.
+- [Chai Research](https://www.chai-research.com/) - A Research And Development Company That Specializes In Natural Language Processing And AI.
+- [ChartGPT](https://www.chartgpt.dev/) - A Platform That Uses AI To Generate Charts And Graphs From Natural Language Descriptions.
+- [Chat2query Hackernews](https://hn.ossinsight.io/) - A Search Engine That Allows Users To Query The Content Of Hackernews Using Natural Language.
+- [Chat AI](https://chat.ai/) - A Chatbot Platform That Offers A Suite Of Tools To Build And Deploy Chatbots For Businesses And Individuals.
+- [Chatba.com](https://www.chatba.com/) - A Platform That Offers Pre-built Chatbots That Can Be Customized And Deployed On Websites And Messaging Apps.
+- [Chatbase | ChatGPT For Your Website](https://www.chatbase.co/my-chatbots) - A Platform That Allows Users To Create And Deploy Chatbots On Their Website Using ChatGPT Technology.
+- [Chatbot](https://ai-chatbot.sustainablelivinglab.org/) - A Chatbot That Provides Information And Resources On Sustainability And Sustainable Living.
+- [ChatBotKit](https://chatbotkit.com/) - A Platform That Offers Pre-built Chatbots For Businesses And Individuals, As Well As Tools To Build And Customize Chatbots.
+- [Chat.dev](https://chat.dev/about) - A Chatbot Platform That Provides Tools For Building And Deploying Chatbots On Websites And Messaging Apps.
+- [ChatGPT Assistant | Use ChatGPT Everywhere](https://msfrisbie.github.io/chat-gpt-assistant/) - A Browser Extension That Allows Users To Use ChatGPT Technology To Generate Text In Any Text Input Field.
+- [Chatgpt Parameter Generator](https://chatx.ai/chatgpt-parameter-generator/) - A Platform That Generates ChatGPT Parameters Based On User Input.
+- [Chatgpt Prompt Generator V12](https://huggingface.co/spaces/merve/chatgpt-prompt-generator-v12) - A Platform That Generates Prompts For ChatGPT Based On User Input.
+- [ChatGPT Token Counter - Chrome Web Store](https://chrome.google.com/webstore/detail/chatgpt-token-counter/fjmnelakmikojjladjfdhdlfpanhcban) - A Browser Extension That Counts The Number Of Tokens In ChatGPT-generated Text.
+- [ChatMe - Charlie - Discord Bot](https://chatme.gg/) - A Chatbot That Can Be Added To Discord Servers To Provide Support And Resources To Users.
+- [Chat Origin](https://www.chatorigin.com/) - A Chatbot Platform That Provides Tools For Building And Deploying Chatbots For Businesses And Individuals.
+- [Chatspot.ai](https://chatspot.ai/) - A Platform That Uses AI To Analyze Customer Feedback And Provide Insights To Businesses.
+- [Chatty Cat On The Mac App Store](https://apps.apple.com/us/app/chatty-cat/id6447483990?at=1000l6eA) - A Chatbot App That Allows Users To Chat With A Virtual Cat.
+- [Chief.AI](https://chief.ai/) - A Platform That Provides Resources And Tools For AI And Machine Learning Practitioners And Enthusiasts.
+- [Chiitchat](https://bot.dialogflow.com/7e867534-f4b3-49a7-806c-cf27860505fa) - A Chatbot That Engages In Conversation With Users On A Variety Of Topics.
+- [CodacyAI](https://ai.codacy.com/) - A Platform That Uses AI To Analyze Code Quality And Provide Feedback To Developers.
+- [CodeDesign.ai | AI Website Builder](https://www.codedesign.ai/) - A Platform That Uses AI To Build Websites And Landing Pages For Businesses.
+- [Consilience](https://about.omnilabs.ai/) - A Platform That Uses AI To Provide Insights And Predictions For Businesses.
+- [Convai.huggingface.co](https://convai.huggingface.co/) - A Platform That Allows Users To Create And Deploy Chatbots Using The Hugging Face Conversational AI Framework.
+- [Dear Aibby](http://dearaibby.herokuapp.com/) - A Chatbot That Provides Advice And Resources On Mental Health And Self-care.
+- [Descartes.io](https://descartes.io/) - A Platform That Uses AI To Analyze And Visualize Data For Businesses And Individuals.
+- [DeterminedAI](https://www.determined.ai/) - A Platform That Provides Tools For Building And Deploying Machine Learning Models At Scale.
+- [DevGPT](https://www.getdevkit.com/devgpt) - A Platform That Provides Resources And Tools For Developers To Explore And Experiment With ChatGPT Technology.
+- [DevKit | The Essential Developer Toolkit](https://www.getdevkit.com/?f=t) - A Suite Of Tools And Resources For Developers, Including ChatGPT Technology.
+- [DiscuroAI](https://www.discuro.com/) - A Platform That Uses AI To Analyze And Provide Insights On Customer Feedback For Businesses.
+- [DocuAsk](https://www.docu-ask.com/) - A Platform That Uses AI To Generate Documentation And Help Articles For Businesses.
+- [Dr. Gupta: AI Physician Chatbot](https://www.drgupta.ai/) - A Chatbot That Provides Medical Advice And Resources To Users.
+- [Eden AI](https://www.edenai.co/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models.
+- [Embra.app](https://embra.app/?referrer_id=88874785-756d-4c47-b491-c180e859bc35) - A Platform That Uses AI To Generate Social Media Posts And Captions For Businesses.
+- [Emergent Mind](https://www.emergentmind.com/posts/what-is-6-5) - A Platform That Provides Resources And Tools For Exploring And Experimenting With AI And Machine Learning.
+- [Exploreai.online](https://exploreai.online/) - A Platform That Provides Resources And Tools For Learning About AI And Machine Learning.
+- [FeelBetterBot](https://feelbetterbot.com/) - A Chatbot That Provides Mental Health Support And Resources To Users.
+- [Forefront](https://ai.forefront.market/) - A Platform That Provides Tools And Resources For Exploring And Investing In AI And Machine Learning Startups.
+- [Foundry](https://mlfoundry.com/) - A Platform That Provides Tools For Building And Deploying Machine Learning Models.
+- [FreeOpenAI Chat](https://chat.openaifree.com/chat) - A Chatbot That Engages In Conversation With Users On A Variety Of Topics Using OpenAI Technology.
+- [FutureDesk](https://www.futuredesk.io/welcome) - A Platform That Uses AI To Automate And Optimize Workflows For Businesses.
+- [Geminus AI](https://www.geminus.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models.
+- [Getit.ai Gpt Plugins And Agents](https://www.getit.ai/) - A Suite Of Plugins And Agents For ChatGPT Technology, Including A WordPress Plugin And A Slackbot.
+- [GretelAI](https://gretel.ai/) - A Platform That Provides Tools For Building And Deploying Machine Learning Models For Data Privacy And Security.
+- [GridAI](https://www.grid.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models At Scale.
+- [Home](https://www.usethisprompt.io/) - A Platform That Provides Resources And Tools For Generating Prompts For Writing, Including Prompts Generated By ChatGPT Technology.
+- [Hulse.app](https://hulse.app/) - A Platform That Provides Tools For Building And Deploying Machine Learning Models For Data Analysis And Visualization.
+- [Humanfirst.ai](https://www.humanfirst.ai/) - A Platform That Uses AI To Analyze And Provide Insights On Customer Feedback For Businesses.
+- [HyperFinity](https://hyperfinity.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Data Analysis And Visualization.
+- [Imagica](https://get.imagica.ai/) - A Platform That Provides Tools For Building And Deploying Computer Vision Models.
+- [Insight Journal](https://www.insightjournal.ai/intro) - A Publication That Provides Insights And Analysis On AI And Machine Learning.
+- [Insomnobot-3000](https://insomnobot3000.com/) - A Chatbot That Engages In Conversation With Users Who Are Having Trouble Sleeping.
+- [IrisAI](https://iris.ai/) - A Platform That Uses AI To Automate Literature Reviews And Research Analysis For Businesses And Individuals.
+- [K3ai](https://k3ai.github.io/) - A Platform That Provides Tools For Building And Deploying AI And Machine Learning Models On Kubernetes.
+- [Lettria](https://www.lettria.com/) - A Platform That Provides Tools For Building And Deploying Natural Language Processing Models.
+- [Lollib AI](https://lollib.com/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Natural Language Generation.
+- [Machine Learning Resources](https://docs.google.com/document/d/1qhjVLzwnUwrrsQLZOuVBBZ4bq_k0YkDUkFIS-YcaV4o/edit) - A Curated List Of Resources For Learning About And Working With Machine Learning.
+- [MagicChat](https://www.magicchat.ai/) - A Chatbot Platform That Provides Tools For Building And Deploying Chatbots For Businesses And Individuals.
+- [Masterful AI](https://www.masterfulai.com/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Natural Language Processing And Generation.
+- [Modular](https://www.modular.com/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Data Analysis And Visualization.
+- [MyGPT - Share ChatGPT Logs](https://mygpt.ai/) - A Platform That Allows Users To Share Their ChatGPT Logs And Receive Feedback From Other Users.
+- [Norn Global Advisory](https://norn.ai/) - A Platform That Provides Insights And Analysis On AI And Machine Learning For Businesses And Investors.
+- [Obelisk](https://obelisk.ooo/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Data Analysis And Visualization.
+- [Observation AI](https://www.observation.ai/) - A Platform That Uses AI To Analyze Customer Feedback And Provide Insights To Businesses.
+- [Obviously AI](https://www.obviously.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Data Analysis And Predictions.
+- [OctomlAI](https://octoml.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Data Analysis And Visualization.
+- [Olli](https://olli.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Natural Language Processing And Generation.
+- [Omdena](https://omdena.com/ai-program) - A Platform That Provides Resources And Tools For Participating In AI And Machine Learning Projects.
+- [OMNIBOT](https://omnibot.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Chatbots For Businesses And Individuals.
+- [Open GPT Plugin Store](https://www.getit.ai/gpt-plugins) - A Store For Plugins And Agents For ChatGPT Technology.
+- [OpenRead](https://www.openread.academy/home) - A Platform That Provides Resources And Tools For Learning About And Working With Natural Language Processing.
+- [Ought](https://ought.org/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Natural Language Generation.
+- [OwnChat](https://ownchat.me/) - A Platform That Provides Tools And Resources For Building And Deploying Chatbots For Businesses And Individuals.
+- [Pendium](https://pendium.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Natural Language Processing And Generation.
+- [Petals Chat](http://chat.petals.ml/) - A Platform That Provides Tools And Resources For Building And Deploying Chatbots For Businesses And Individuals.
+- [PlatformAI](https://www.platform.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Data Analysis And Visualization.
+- [PretrainedAI](https://pretrained.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Natural Language Processing And Generation.
+- [Productivity Vibes](https://productivityvibes.softr.app/) - A Platform That Provides Tools And Resources For Improving Productivity Using AI And Machine Learning.
+- [Prompt Genie | Best Prompt Generator For ChatGPT](https://www.prompt-genie.com/) - A Platform That Provides Tools And Resources For Generating Prompts For ChatGPT Technology.
+- [Prompt Hacker - PromptLabs](https://www.promptlabs.cc/?s=ph) - A Platform That Provides Tools And Resources For Generating Prompts For ChatGPT Technology.
+- [Questflow](https://www.questflow.xyz/) - A Platform That Provides Tools And Resources For Building And Deploying Chatbots For Businesses And Individuals.
+- [Reflectr](https://www.reflectr.ai/home) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Data Analysis And Visualization.
+- [SaaS Prompts - 500+ ChatGPT Prompts For SaaS](https://saasprompts.com/) - A Platform That Provides A Collection Of Prompts For ChatGPT Technology For SaaS Businesses.
+- [Several Minds](https://www.severalminds.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Natural Language Processing And Generation.
+- [Snorkel AI](https://snorkel.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Data Labeling And Analysis.
+- [STUDIO AI](https://studio.design/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Design And Creativity.
+- [Subito | Notebook](https://www.subito.so/f4ea9e418ad8ff20) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Data Analysis And Visualization.
+- [SuperwiseAI](https://superwise.ai/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Data Analysis And Visualization.
+- [The Best Quillbot Alternative](https://recapiogpt.com/) - A Platform That Provides An Alternative To Quillbot Using ChatGPT Technology.
+- [Trancy For Chrome | Master A New Language In An Enjoyable Way](https://www.trancy.org/aichat) - A Language Learning Platform That Uses AI To Provide Personalized Language Learning Experiences.
+- [Uncensored Chatbot](http://adultopenai.pythonanywhere.com/chat_ai) - A Chatbot That Engages In Uncensored Conversation With Users.
+- [UnlimitedGPT](https://unlimitedgpt.co/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Natural Language Processing And Generation.
+- [V7 Labs](https://www.v7labs.com/get-started) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Data Analysis And Visualization.
+- [Vicpra Chatbot](https://chatbot.vicpra.com/) - A Platform That Provides Tools And Resources For Building And Deploying Chatbots For Businesses And Individuals.
+- [W&B Prompts: Production-Ready LLM Operations](https://wandb.ai/site/prompts) - A Platform That Provides Tools And Resources For Generating Prompts For ChatGPT Technology.
+- [WebSearch](https://web-search.nl/) - A Search Engine That Uses AI And Natural Language Processing To Deliver Search Results.
+- [WelltestedAI](https://www.welltested.ai/) - A Platform That Provides Tools And Resources For Testing And Debugging Machine Learning Models.
+- [Wonderbricks-AI](https://ai.wonderbricks.com/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Data Analysis And Visualization.
+- [Your AI Knowledge Assistant](https://www.gems.so/) - A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Natural Language Processing And Generation, To Create AI-powered Knowledge Assistants.
+
 ### 2023-04-23 
 
 - [AI Toolbox For Innovators](https://ai.boardofinnovation.com/) - A platform offering a collection of AI tools and resources for innovators to explore and experiment with.
