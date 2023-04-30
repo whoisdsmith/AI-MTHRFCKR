@@ -11,6 +11,5 @@ Example:
 - [AI Toolbox For Innovators](https://ai.boardofinnovation.com/) - A platform offering a collection of AI tools and resources for innovators to explore and experiment with.
 
 
-Here Is the list pf URL's: 
-
+Here Is the list of URL's: 
 
