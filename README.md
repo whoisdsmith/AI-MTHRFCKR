@@ -19,6 +19,41 @@
 
 ## Recently Added
 
+### 2023-05-04
+
+- [AI Social Network](https://chirper.ai/) - A social network designed to connect AI enthusiasts, researchers, and developers from around the world.
+- [AI Voice Activated Personal Assistant [FREE] | SERP AI](https://serp.ai/tools/ai-voice-asistant/) - A free AI voice-activated personal assistant tool that helps users perform tasks by speaking to it.
+- [AI-RnD](https://www.ai-rnd.com/) - A company that offers various AI-powered solutions and services to businesses and organizations.
+- [CamelAGI](https://camelagi.thesamur.ai/) - An AI research company that develops innovative algorithms and models for natural language processing, image recognition, and more.
+- [ChatFast](https://www.chatfast.io/) - A conversational AI platform that enables businesses to create custom chatbots for their websites and social media pages.
+- [Columns](https://columns.ai/) - A web-based tool that helps users create professional-looking presentations and documents by generating layout suggestions and design ideas using AI.
+- [Cosmic Whisper AI](https://cosmicwhisperai.com/) - A startup that provides AI-powered natural language processing and generation services for businesses and individuals.
+- [Databass](https://www.databass.ai/) - A data labeling and annotation platform that uses AI to speed up the process and improve accuracy.
+- [ES.AI](https://esai.ai/) - A platform that offers various AI-powered solutions for businesses, including chatbots, voice assistants, and more.
+- [FlexGPT](https://flexgpt.io/app) - A platform that enables users to create and train custom language models using GPT technology.
+- [Free Grammar Checker](https://studycrumb.com/grammar-checker) - A free online tool that checks for grammatical errors and suggests corrections using AI.
+- [FreeUnlimitedChatBot](https://freeunlimitedchatbot.netlify.app/) - An open-source platform that enables users to create and deploy chatbots for their websites and social media pages.
+- [GPT Weekly](https://gptweekly.beehiiv.com/) - A weekly newsletter that provides updates and news about GPT technology and related fields.
+- [Helper-AI](https://sites.google.com/view/helperai2?ref=producthunt&pli=1) - An AI-powered personal assistant that helps users with various tasks, such as scheduling appointments, setting reminders, and more.
+- [HP-AI](https://hp-ai.in/) - A platform that provides various AI-powered solutions and services to businesses and individuals.
+- [Logicballs](https://logicballs.com/) - A puzzle game that uses AI and machine learning algorithms to generate and solve logic puzzles.
+- [Looseleaf](https://looseleaf.ai/) - A web-based platform that enables users to create, organize, and share digital notebooks and documents using AI-powered tools.
+- [Magic ToDo](https://goblin.tools/) - A free, AI-powered to-do list app that helps users prioritize tasks and manage their time more effectively.
+- [No Code Family](https://nocodefamily.com/) - A community and resource hub for individuals and businesses interested in building and deploying applications without writing code.
+- [PlayPrompt](https://playprompt.surge.sh/?ref=producthunt) - An AI-powered tool that generates writing prompts for users, helping them overcome writer's block and spark creativity.
+- [PluginLab](https://www.pluginlab.ai/) - A platform that offers various AI-powered plugins and tools for WordPress websites, including chatbots, recommendation engines, and more.
+- [PopcornAI](https://popcornai.xyz/) - A platform that provides various AI-powered tools and services for businesses, including chatbots, data analysis, and more.
+- [Prompt Paradise](https://promptparadiseshop.com/) - A shop that offers various writing prompt resources for writers and authors.
+- [PromptChainer](https://promptchainer.io/) - An AI-powered tool that generates story prompts and helps users chain together prompts into a cohesive narrative.
+- [Promptify](https://www.promptify.com/) - An AI-powered tool that generates writing prompts for users based on their preferred genres and themes.
+- [Quetab | Explore AI Bots & Apps](https://www.quetab.com/bots/list) - A directory of AI-powered chatbots and apps that users can explore and interact with.
+- [regEx Generator](https://regex.murfasa.com/) - A tool that generates regular expressions for users based on their desired patterns and parameters.
+- [songR](https://app.songr.ai/) - An AI-powered tool that generates original song lyrics for users based on their preferred genres and themes.
+- [StratupAI](https://stratup.ai/) - A platform that provides various AI-powered solutions and services for startups and businesses, including chatbots, data analysis, and more.
+- [Summary](https://summary.arguflow.gg/) - A tool that uses AI to summarize long texts and articles into shorter, more digestible summaries.
+- [Text to Slang Translator](https://www.slangthesaurus.com/translator) - A tool that translates text into slang language and provides definitions for various slang terms.
+- [These Lyrics Do Not Exist](https://theselyricsdonotexist.com/) - A website that uses AI to generate original song lyrics that do not exist, based on the user's preferred genres and themes.
+
 ###  2023-04-28 
 
 - [Accessible AI](https://accessibleai.dev/chat/) - A Chatbot That Provides Information And Resources On How To Make AI Accessible For People With Disabilities.
