@@ -19,6 +19,28 @@
 
 ## Recently Added
 
+### 2023-05-06
+
+- [AgentRunnerAI](https://www.agentrunner.ai/) - A platform for running and managing AI agents in virtual environments, with a focus on reinforcement learning and robotics.
+- [AIDomainIdeas](https://www.aidomainideas.com/) - An AI-powered domain name suggestion tool that generates creative and relevant domain names for businesses and personal projects.
+- [AItoolkit](https://www.aitoolkit.org/) - A comprehensive collection of AI tools, libraries, and resources for developers, researchers, and enthusiasts to build and deploy AI applications.
+- [Best AI Tools Directory](https://www.startupaitools.com/) - A curated directory of AI tools and services where you can search tools by purpose. Shout out to @iycsuresh on twitter for this!
+- [Developer Plugins](https://developer.thesamur.ai/) - A suite of AI-powered plugins for developers to improve code quality, productivity, and collaboration.
+- [Fable Fiesta](https://fablefiesta.com/) - A platform where users can read, write, and share interactive stories powered by AI, allowing for branching narratives and personalized experiences.
+- [Formulas HQ](https://formulashq.com/) - A collection of formulas, equations, and calculators for various fields including math, physics, chemistry, and engineering.
+- [Jam | AI Debugging Assistant](https://jam.dev/jamgpt) - An AI-powered debugging assistant that helps developers identify, understand, and resolve software issues faster and more efficiently.
+- [KalendarAI](https://kalendar.ai/) - A smart calendar assistant that uses AI to optimize and manage schedules, meetings, and events.
+- [Make](https://www.make.com/en) - A platform for designing, creating, and selling custom products, from apparel to home decor, using AI-driven design tools.
+- [My Expert GPT - Chrome Web Store](https://chrome.google.com/webstore/detail/my-expert-gpt/khkgicnebblmdlojkckonaaflndhfjan?ref=producthunt) - A Chrome extension that uses GPT to provide AI-generated answers and suggestions for various tasks while browsing the web.
+- [PicTales](https://pictales.online/) - A platform that generates AI-powered captions and stories based on user-uploaded images, creating engaging and shareable content.
+- [PromptPedia](https://promptpedia.co/) - A searchable database of AI writing prompts designed to inspire creativity and improve writing skills.
+- [Quench – Learning AI Assistant ✨](https://quench.ai/?cn-reloaded=1) - An AI-powered learning assistant that helps users discover and understand new topics through personalized content and interactive exercises.
+- [ResearchBuddy - Automatic Literature Reviews - Login](https://researchbuddy.app/) - A tool that automates the literature review process by summarizing and organizing relevant articles for researchers.
+- [Sloped](https://www.sloped.xyz/) - A platform for learning and practicing various skills through AI-generated, personalized lesson plans and progress tracking.
+- [TemplifyAI](https://templify.ai/) - A service that uses AI to generate high-quality, customizable templates for documents, presentations, and reports.
+- [Text to Music](https://www.texttomusic.app/) - An AI-powered application that converts text into music by generating melodies and harmonies based on the input text.
+- [There's a prompt for that](https://www.theresapromptforthat.xyz/) - A collection of AI-generated writing prompts and exercises designed to inspire creativity and improve writing skills.
+
 ### 2023-05-04
 
 - [AI Social Network](https://chirper.ai/) - A social network designed to connect AI enthusiasts, researchers, and developers from around the world.
@@ -53,6 +75,33 @@
 - [Summary](https://summary.arguflow.gg/) - A tool that uses AI to summarize long texts and articles into shorter, more digestible summaries.
 - [Text to Slang Translator](https://www.slangthesaurus.com/translator) - A tool that translates text into slang language and provides definitions for various slang terms.
 - [These Lyrics Do Not Exist](https://theselyricsdonotexist.com/) - A website that uses AI to generate original song lyrics that do not exist, based on the user's preferred genres and themes.
+
+
+### **Table Of Contents**
+
+- [AI-Apps](#ai-apps)
+- [AI-Audio](#ai-audio)
+- [AI-Business](#ai-business)
+- [AI-Content](#ai-content)
+- [AI-Data](#ai-data)
+- [AI-Design](#ai-design)
+- [AI-Dev](#ai-dev)
+- [AI-Education/Learning](#ai-education/learning)
+- [AI-Experiments](#ai-experiments)
+- [AI-Health](#ai-health)
+- [AI-Image](#ai-image)
+- [AI-Other](#ai-other)
+- [AI-Productivity](#ai-productivity)
+- [AI-Resources](#ai-resources)
+- [AI-Social](#ai-social)
+- [AI-Text](#ai-text)
+- [AI-Tools](#ai-tools)
+- [AI-Video](#ai-video)
+- [AI-Writing](#ai-writing)
+
+---
+
+## April
 
 ###  2023-04-28 
 
@@ -250,32 +299,6 @@
 - [What Does This Code Do?](https://whatdoesthiscodedo.com/) - A web-based tool that uses GPT models to explain the functionality of code snippets, helping users understand complex programming concepts.
 - [YoungerSelf.AI](https://youngerself.ai/) - A service that uses GPT technology to generate personalized content, such as journal entries and reflections, based on the user's past experiences and memories.
 
-
-### **Table Of Contents**
-
-- [AI-Apps](#ai-apps)
-- [AI-Audio](#ai-audio)
-- [AI-Business](#ai-business)
-- [AI-Content](#ai-content)
-- [AI-Data](#ai-data)
-- [AI-Design](#ai-design)
-- [AI-Dev](#ai-dev)
-- [AI-Education/Learning](#ai-education/learning)
-- [AI-Experiments](#ai-experiments)
-- [AI-Health](#ai-health)
-- [AI-Image](#ai-image)
-- [AI-Other](#ai-other)
-- [AI-Productivity](#ai-productivity)
-- [AI-Resources](#ai-resources)
-- [AI-Social](#ai-social)
-- [AI-Text](#ai-text)
-- [AI-Tools](#ai-tools)
-- [AI-Video](#ai-video)
-- [AI-Writing](#ai-writing)
-
----
-
-## April
 
 ### 2023-04-22
 
