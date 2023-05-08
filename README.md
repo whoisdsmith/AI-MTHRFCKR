@@ -19,6 +19,36 @@
 
 ## Recently Added
 
+### 2023-05-08
+
+- [AI Writer on the App Store](https://apps.apple.com/us/app/ai-writer/id1662248382) - An AI-powered writing assistant app that helps users create well-structured and coherent content.
+- [AIZZY](https://aizzy.ai/) - A platform that uses AI to simplify complex texts, making them easier to understand and read.
+- [Ayanza](https://ayanza.com/) - A platform that offers advanced analytics and AI-driven solutions to optimize business processes.
+- [Buzzy AI](https://www.buzzy.buzz/) - A tool that helps users create AI-generated content for social media, blogs, and websites.
+- [Bypass GPTZero - GPTinf](https://www.gptinf.com/) - A service that provides access to GPT-based AI models, enabling users to generate human-like text.
+- [Chatbot UI](https://www.chatbotui.com/) - A platform for designing, building, and deploying chatbots with a user-friendly interface.
+- [Chatness](https://chatness.app/) - An app that uses AI to help users improve their conversational skills through practice and feedback.
+- [Coda](https://coda.io/) - A collaborative document editor that combines the functionality of a spreadsheet, word processor, and database.
+- [Drumloop AI](https://drumloopai.com/) - An AI-powered drum loop generator that helps users create unique and dynamic drum patterns.
+- [imagetocaption.ai](https://www.imagetocaption.ai/) - A tool that uses AI to generate descriptive captions for images.
+- [JediGPT](https://jedigpt.ai/) - A platform that provides access to a powerful AI model for natural language processing and generation.
+- [Learnable latent embeddings for joint behavioural and neural analysis](https://cebra.ai/) - A research project focused on developing new techniques for analyzing behavioral and neural data.
+- [LearnSmarterAI](https://learnsmarter.ai/) - An AI-driven platform that helps users learn more effectively by personalizing their learning experience.
+- [Leelo](https://leelo-ai.com/home) - An AI-powered platform that helps businesses automate customer interactions and improve user experience.
+- [Longevity Compass](https://spellprints.com/@bonnie/longevity-compass-individual-biohacking-routine) - A tool that offers personalized biohacking routines for users looking to optimize their health and longevity.
+- [Orquesta](https://orquesta.cloud/platform/ai-llm-prompts) - A platform that uses AI to generate legal prompts, helping legal professionals save time and effort.
+- [Parsio](https://parsio.io/) - A tool that helps businesses extract, transform, and load data from various sources for further processing and analysis.
+- [Pineapple](https://www.pineapplebuilder.com/) - A website builder that enables users to create responsive and modern websites using a simple drag-and-drop interface.
+- [Save ChatGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/save-chatgpt/iccmddoieihalmghkeocgmlpilhgnnfn?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia) - A Chrome extension that allows users to save and organize their ChatGPT conversations.
+- [SEO APP](https://seo.app/) - A tool that helps businesses improve their search engine optimization (SEO) efforts by providing actionable insights and recommendations.
+- [smart dream interpreter](https://www.tabirim.co/) - An AI-powered tool that helps users interpret and understand the meaning behind their dreams.
+- [SparkengineAI](https://www.sparkengine.ai/) - A platform that generates AI-driven marketing copy, helping businesses improve their messaging and engagement.
+- [Study AI](https://www.studyai.info/) - An educational resource that offers AI courses, tutorials, and research papers for those interested in learning about artificial intelligence.
+- [System](https://pro.system.com/landing) - A comprehensive platform offering AI-driven solutions for businesses, including chatbots, process automation, and data analytics.
+- [Text to Music](https://www.texttomusic.app/) - A tool that uses AI to convert text input into music, allowing users to create unique soundtracks based on their written content.
+- [Twissy](https://twissy.io/) - A platform that helps users create conversational agents and chatbots with AI-driven natural language understanding capabilities.
+- [What-A-Prompt](https://freshly.ai/what-a-prompt/) - A tool that uses AI to generate creative writing prompts, helping writers overcome writer's block and find inspiration.
+
 ### 2023-05-06
 
 - [AgentRunnerAI](https://www.agentrunner.ai/) - A platform for running and managing AI agents in virtual environments, with a focus on reinforcement learning and robotics.
