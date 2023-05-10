@@ -19,6 +19,27 @@
 
 ## Recently Added
 
+### 2023-05-10
+
+- [AI Genius - Chrome Web Store](https://chrome.google.com/webstore/detail/ai-genius/ohepjelkmfachklkbaidkgeidegifmdj?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia) - An AI Chrome extension designed to provide smart suggestions and aid in productivity.
+- [AI Resource Finder Tool](https://www.interestedinai.com/ai-resource-finder-tool) - A comprehensive tool to help locate valuable AI resources based on specific interests and needs.
+- [AudioNotes](https://audionotes.app/) - An app that uses AI to transcribe audio files into text, simplifying note-taking and transcription tasks.
+- [BarkAI](https://serp.ai/tools/bark-text-to-speech-ai-voice-clone-app/) - An AI tool that offers text-to-speech services with voice cloning capabilities.
+- [ByeBlankPage.ai](https://www.byeblankpage.ai/) - An AI-powered writing assistant designed to assist in overcoming writer's block.
+- [Chat LLaMA](https://serp.ai/tools/chat-llama/) - A conversational AI platform that creates more interactive and engaging customer service experiences.
+- [chatwithpdf](https://chatwithpdf.sdan.io/) - A service that allows for interactive, conversational engagement with PDF files.
+- [Get ChatGPT API](https://getgptapi.com/) - An API service to integrate OpenAI's advanced language model, GPT, into applications.
+- [GitPoet](https://www.gitpoet.dev/) - An AI tool intended to assist in code generation and development tasks.
+- [GitWit](https://www.gitwit.dev/) - An intelligent coding assistant designed to improve coding efficiency.
+- [GrantWizard](https://collegegrantwizard.com/) - A tool leveraging AI to help students find suitable grants for college education.
+- [Insightful](https://insightful.page/) - An AI-powered tool that provides insights and analytics for webpages.
+- [nūton](https://www.nuton.ai/) - An AI platform offering solutions for various complex tasks including pattern recognition, anomaly detection, and automation.
+- [PDF.ai](https://pdf.ai/) - An AI tool designed for smarter interaction with PDFs, including extraction, analysis, and conversion of PDF data.
+- [Pi, your personal AI](https://heypi.com/talk) - An AI-powered personal assistant designed to help manage tasks, answer questions, and provide personalized recommendations.
+- [Prompt Journey](https://promptjourney.aiboat.io/) - An AI tool to generate creative prompts for writing, brainstorming, and ideation.
+- [Reemix.co](https://reemix.co/) - An AI-powered platform for remixing and creating new music tracks.
+- [Suggest AI](https://suggest-ai.vercel.app/) - An AI tool that provides writing suggestions to improve content quality and readability.
+
 ### 2023-05-08
 
 - [AI Writer on the App Store](https://apps.apple.com/us/app/ai-writer/id1662248382) - An AI-powered writing assistant app that helps users create well-structured and coherent content.
