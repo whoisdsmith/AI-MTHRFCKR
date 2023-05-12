@@ -19,6 +19,43 @@
 
 ## Recently Added
 
+### 2023-05-12 
+
+- [Albus](https://googledrive-albus.springworks.in/) - A Google Drive integrated platform developed by Springworks that allows enhanced document management and collaboration.
+ - [Audio Diary](https://audiodiary.ai/) - An AI-powered platform that transcribes and organizes your audio records into a searchable diary.
+ - [AutoGPT Plugins](https://autogpt-plugins.thesamur.ai/) - A suite of plugins for AutoGPT, enabling enhanced capabilities and customization options.
+ - [chat-gpt-plugins.](https://github.com/jopilot-net/jopilot-4-job-seekers/blob/main/chat-gpt-plugins.md?ref=producthunt) - A GitHub repository showcasing a collection of plugins designed for ChatGPT.
+ - [ChatCraft](https://chatcraft.org/) - A platform providing AI-powered conversational bots for various applications, with customization options.
+ - [ChatGPT Microphone - Chrome Web Store](https://chrome.google.com/webstore/detail/chatgpt-microphone/kpnejlajlhnpfphbhgfipmlogplmidin?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia) - A Chrome extension allowing voice interaction with ChatGPT.
+ - [Chatty | Chat-Bot](https://pdfanalyser.streamlit.app/) - An AI chatbot that provides PDF analysis and manipulation functionalities.
+ - [deepsheet](https://deepsheet.dylancastillo.co/) - A tool that integrates AI capabilities into spreadsheets for enhanced data manipulation.
+ - [DocGPT](https://docgpt.io/) - An AI-based service for generating human-like text for document drafting and editing.
+ - [DocGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/docgpt/dpgnglnlpddlohpfkolmfaiokogflmeo?ref=producthunt) - A Chrome extension for DocGPT, providing quick access and seamless integration with the browser.
+ - [DopeDoc](https://rangerdevv.gumroad.com/l/DopeDoc) - A tool that provides AI-powered document editing and proofreading services.
+ - [Fine-Tuner.ai](https://fine-tuner.ai/) - An AI platform that allows the fine-tuning of pre-trained machine learning models for custom use-cases.
+ - [Gmail GPT-4 Support Agent](https://tinymagic.app/gmail-gpt-support-agent) - An AI-powered tool integrated with Gmail to provide customer support services.
+ - [Golem](https://golem.chat/) - An AI chatbot solution providing conversational intelligence to businesses.
+ - [Google AI PaLM 2](https://ai.google/discover/palm2) - Google's latest AI model for language understanding and generation, succeeding PaLM.
+ - [GPTOCR](https://gptocr.com/) - A service that combines OCR and GPT technology to extract and understand text from images.
+ - [HelloAI](https://apps.apple.com/us/app/helloai-ai-chatbot-assistant/id6447705369?at=1000l6eA) - An AI-powered chatbot assistant available as an iOS app.
+ - [Henshu](https://www.henshu.ai/) - An AI-powered editing platform that enhances the quality of your written content.
+ - [KraterAI](https://www.krater.ai/code) - An AI service provider offering custom AI solutions and services.
+ - [LimeAI](https://www.datalimeai.com/) - A platform offering a suite of data science and AI tools for businesses.
+- [Meteron AI](https://meteron.ai/) - A cutting-edge AI platform focused on developing advanced decision-making tools.
+ - [Molin](https://molin.ai/) - An AI-powered tool that streamlines and automates your project management tasks.
+ - [Moodify](https://moodify.toasted.ai/) - An AI service that analyzes and provides insights about your mood based on your text inputs.
+ - [My Prompt Studio](https://www.mypromptstudio.com/) - A creative platform that leverages AI to provide unique writing prompts and ideas.
+ - [Prompta](https://www.prompta.dev/) - An AI tool that generates prompts to aid in creative writing or brainstorming sessions.
+ - [Promptitude.io](https://promptitude.io/) - A platform providing AI-driven writing assistance and idea generation.
+ - [RoleplayGPT](https://www.roleplaygpt.com/) - A web service that uses AI to generate interactive role-play scenarios and narratives.
+ - [SaaS By AI](https://saasbyai.com/) - A platform offering a suite of SaaS tools and solutions powered by AI.
+ - [Sendero](https://www.sendero.ai/) - An AI-powered tool that provides path planning and navigation solutions.
+ - [Songs Like X](https://songslikex.com/) - An AI service that suggests songs similar to the one you like.
+ - [Talk to multiple PDFs in every combination](https://kumar045-langchainsaitools-home-k2ebbm.streamlit.app/) - An AI tool that enables interaction and manipulation of multiple PDFs simultaneously.
+ - [TuboGPT](https://tubogpt.vercel.app/chat/1683919402751) - An AI chat service that provides personalized and engaging conversations.
+ - [Vizly](https://www.vizly.fyi/) - A tool offering AI-assisted data visualization and analytics.
+ - [WarpSound](https://www.warpsound.ai/api-waitlist) - An AI-powered service that creates unique soundscapes and music.
+
 ### 2023-05-10
 
 - [AI Genius - Chrome Web Store](https://chrome.google.com/webstore/detail/ai-genius/ohepjelkmfachklkbaidkgeidegifmdj?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia) - An AI Chrome extension designed to provide smart suggestions and aid in productivity.
