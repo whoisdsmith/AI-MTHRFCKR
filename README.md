@@ -19,6 +19,38 @@
 
 ## Recently Added
 
+### 2023-05-14
+
+- [Agnaistic](https://agnai.chat/) - A conversational AI platform designed to facilitate advanced and natural interactions.
+- [AI Chat](https://deepai.org/chat) - A platform by DeepAI that provides tools for building chatbots and other conversational AI applications.
+- [Formula ChatGPT](https://formulachatgpt.com/) - A specialized chatbot service that can interpret and respond to complex formula-based inquiries.
+- [AskCSV](https://askcsv.com/) - A service that allows users to query and analyze CSV files in a conversational manner.
+- [BacklinkGPT](https://www.backlinkgpt.com/) - A tool for generating high-quality backlinks for SEO purposes using GPT technology.
+- [BAI Chat](https://chatbot.theb.ai/#/chat/1002) - A chatbot service from The Business AI, aiming to facilitate business-related conversations.
+- [Bard API](https://www.bardapi.dev/) - An API service that enables developers to incorporate AI-driven text generation into their applications.
+- [chat jams](https://www.chatjams.ai/) - A platform for creating and deploying AI-powered chatbots for various purposes.
+- [Create AI Characters and Chat with AI](https://kajiwoto.com/) - A platform that allows users to create AI characters and engage in conversations with them.
+- [DocuAsk](https://www.docu-ask.com/) - A tool that allows users to ask questions about a document and get AI-powered answers.
+- [FastGPT](https://labs.kagi.com/fastgpt) - A service from Kagi Labs that provides fast and efficient AI text generation.
+- [Findly](https://www.findly.ai/) - An AI-powered search tool designed to help users find relevant information more effectively.
+- [Gnbly](https://gnbly.com/) - A tool for creating AI-driven newsletters based on user-defined topics.
+- [Ilib](https://www.ilib.com/) - An online library service with AI-powered features to enhance user experience.
+- [Insight Journal](https://www.insightjournal.ai/intro) - An AI-based platform that provides in-depth analysis and insight on various topics.
+- [LearnGPT](https://learngpt.art/new) - An interactive tool that helps users learn and experiment with GPT models.
+- [MathGPT](https://mathgpt.streamlit.app/) - A specialized AI model that is trained to understand and solve complex mathematical problems.
+- [Miku](https://docs.miku.gg/) - A documentation site for Miku, an AI-powered tool for content generation and chat.
+- [OpenAi-bot](https://www.openai-bot.com/interface) - A platform for deploying and interacting with AI chatbots developed with OpenAI's technology.
+- [Ora AI](https://ora.ai/) - An AI-powered tool for improving business operations and enhancing customer experiences.
+- [PageGPT](https://pagegpt.pro/) - A tool that uses AI to generate engaging and high-quality content for websites.
+- [PYGPT](https://pygpt.net/) - A Python library for working with GPT models in a more streamlined and efficient manner.
+- [Qdrant - Vector Database](https://qdrant.tech/#) - An advanced database system optimized for handling high-dimensional vector data.
+- [Rompt.ai](https://rompt.ai/) - An AI platform that facilitates the creation of engaging and interactive digital experiences.
+- [Rosebud](https://www.rosebudjournal.com/) - An AI-powered tool for creating personal journal entries based on user prompts
+- [Tunes For Tales](https://tunesfortales.fun/) - A platform that uses AI to create unique music based on user-defined narratives or stories.
+- [Unconventional Text Writer](https://unconventional-text-writer.netlify.app/) - A creative writing tool powered by AI to generate unconventional and unique pieces of text.
+- [VizGPT](https://www.vizgpt.ai/) - A tool that combines AI and data visualization to generate insightful and interactive visuals from textual data.
+- [Whybot](https://whybot-khaki.vercel.app/) - An AI chatbot designed to answer 'why' questions, helping to explain complex concepts and ideas.
+
 ### 2023-05-12 
 
 - [Albus](https://googledrive-albus.springworks.in/) - A Google Drive integrated platform developed by Springworks that allows enhanced document management and collaboration.
