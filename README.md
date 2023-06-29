@@ -1399,6 +1399,7 @@
 - [Dyno](https://embed.trydyno.com/) - Embed Prompt Box For Testing Like Code Sandbox
 - [Equally AI](http://equally.ai) - Web Accessibility Compliance For All. Achieve ADA & WCAG Compliance Easily.  
 - [HTTPie](https://httpie.io/app) - A User-friendly Command Line HTTP Client For Making HTTP Requests
+- [Keploy](https://keploy.io) - An open-source AI based test case and stubs/mocks generator for e2e testing.
 - [Synapses studio](https://synapses.studio/) - A platform for creating, training, and deploying custom AI models for various applications.
 - [Synth](http://app.synth.run) - An AI-powered Code Generation Platform.
 - [TimbrAI](https://timbr.ai/platform/) - An AI platform for data scientists and engineers to build, share, and collaborate on data products.
