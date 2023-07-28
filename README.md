@@ -19,6 +19,102 @@
 
 ## Recently Added
 
+### 2023-07-27
+
+---
+
+- [AI Code Converter](https://aicodeconvert.com/) - Potentially a tool for converting code between various programming languages, assisted by AI.
+- [aidezigner.com](https://aidezigner.com/) - Possibly an AI design tool, offering design solutions and assistance.
+- [aimagicx.com](https://aimagicx.com/) - Likely an AI-focused website, perhaps offering AI technologies or services.
+- [AI Powered Knowledge Base & Custom AI Chatbot - Powered by chatgpt](https://knibble.ai/) - An AI-powered platform that provides a knowledge base and custom chatbot services.
+- [air.ai](https://www.air.ai/) - Perhaps an AI service or tool related to data analysis, processing, or other AI applications.
+- [airgram.io](https://www.airgram.io/) - Likely a service involving messaging or communication, possibly with AI functionality.
+- [alliai.com](https://www.alliai.com/) - Potentially an AI company, maybe offering a range of AI solutions.
+- [apollo.io](https://www.apollo.io/) - Possible a platform for sales intelligence and prospect data.
+- [architectrender.com](https://www.architectrender.com/) - Probably a site offering architectural rendering services.
+- [AudioNotes.ai](https://audionotes.ai/en/) - Likely a tool for converting audio notes to text, using AI.
+- [automi.ai](https://www.automi.ai/) - May be a platform offering AI automation tools.
+- [B12 | Website Builder for Professional Services](https://www.b12.io/) - A website building platform offering AI design and development tools.
+- [blogseo.ai](https://www.blogseo.ai/) - Likely a tool for optimizing blogs for SEO, using AI.
+- [chatwithpdf.ai](https://chatwithpdf.ai/) - Probably a tool for interacting with PDF files using chat, possibly powered by AI.
+- [copilot2trip.com](https://copilot2trip.com/) - Likely a service or tool related to travel planning or management.
+- [coursebox.ai](https://www.coursebox.ai/) - Potentially an online learning platform using AI to personalize or enhance the learning experience.
+- [docus.ai](https://docus.ai/) - Likely a service related to document handling, possibly leveraging AI for advanced features.
+- [dstack.ai](https://dstack.ai/) - May be an AI platform, possibly focused on data science or machine learning applications.
+- [Earkick Ai-Powered Selfcare Companion - Anxiety Tracker, Mood Tracker, Habit tracker](https://earkick.com/) - An app that serves as a self-care companion, using AI to track and manage anxiety, mood, and habits.
+- [emailtree.ai](https://emailtree.ai/) - Likely an AI tool for managing and automating email-related tasks.
+- [eva.ai](https://eva.ai/) - May be an AI service, possibly related to business or data analytics.
+- [evoto.ai](https://www.evoto.ai/) - Likely an AI company or platform offering AI solutions.
+- [fabrie.com](https://www.fabrie.com/) - A website whose purpose is unclear due to a lack of substantial content or language barriers.
+- [Factiverse AI Editor](https://editor.factiverse.ai/) - An AI editor tool, designed to assist in content creation and editing, with a focus on fact-checking and truthfulness.
+- [fetchy.com](https://www.fetchy.com/) - Website not accessible or does not exist at the moment.
+- [Fine - Build Better Software, faster](https://www.fine.dev/) - An AI-powered tool aimed at streamlining the software development process.
+- [finito.ai](https://www.finito.ai/) - Website not accessible or does not exist at the moment.
+- [Fix My Code](https://userway.org/fixmycode) - A service provided by UserWay to help fix your website's accessibility issues.
+- [folk.app](https://www.folk.app/) - An online tool for managing and visualizing projects and workflows, focusing on collaboration.
+- [Forefront: Your New AI Assistant](https://www.forefront.ai/) - A platform providing AI assistants for personal and professional use.
+- [Formularizer - AI Assistant for Excel, Google Sheets, and more](https://formularizer.com/) - An AI tool designed to assist in generating and optimizing formulas in Excel, Google Sheets, etc.
+- [freshworks.com](https://www.freshworks.com/) - A comprehensive customer engagement software company offering various products including CRM, ITSM, and call center solutions.
+- [Frontdoor - Explore & Curate the Internet With AI](https://www.frontdoor.xyz/) - An AI-based internet curation tool that aims to filter and present relevant content to the user.
+- [getclockwise.com](https://www.getclockwise.com/) - An intelligent calendar assistant that helps manage and optimize your work schedule.
+- [GigaBrain - Search Reddit and Other Communities for Answers From Real People](https://thegigabrain.com/) - A platform that uses AI to curate and present information from Reddit and similar communities.
+- [gitsnag.com](https://gitsnag.com/) - Website not accessible or does not exist at the moment.
+- [goodspeed.studio/product-scope](https://goodspeed.studio/product-Scope) - Goodspeed Studio's "Scope" product; however, the specific product page is inaccessible.
+- [h2oGPT](https://gpt.h2o.ai/) - An AI language model platform by H 2 O. Ai that allows developers to build applications.
+- [hansei.app](https://hansei.app/) - An application for self-reflection and journaling, with a focus on mental wellbeing.
+- [hocoos.com](https://hocoos.com/) - Website not accessible or does not exist at the moment.
+- [HOME | Pika Labs](https://www.pika.art/) - The homepage for Pika Labs, a creative platform for interactive digital experiences.
+- [Home - Swimm](https://swimm.ai/) - Swimm offers tools for creating and managing documentation that syncs with your codebase.
+- [humbird.ai](https://www.humbird.ai/) - An AI platform that creates custom voice assistants for businesses.
+- [Julius](https://julius.ai/) - Julius is an AI-powered copywriting tool.
+- [lindoai.com](https://www.lindoai.com/) - An AI platform that helps automate your customer support with AI chatbots.
+- [Memefy-ai.com](https://Memefy-ai.com/) - An AI tool that allows users to create customized memes.
+- [MindStudio by YouAi: Launch Powerful AI Apps](https://youai.ai/mindstudio) - YouAI's MindStudio, a platform for launching and managing AI applications.
+- [monsterapi.ai](https://monsterapi.ai/) - A robust API solution for various tasks, like image recognition, text extraction, and others.
+- [morpher.com/ai](https://www.morpher.com/ai) - Morpher's AI page; however, the specific page is inaccessible.
+- [objectremover.com](https://objectremover.com/) - An online tool that uses AI to remove unwanted objects from images.
+- [ocoya.com](https://www.ocoya.com/) - A platform that allows businesses to automate their customer service with AI.
+- [ortusbuddy.ai](https://www.ortusbuddy.ai/) - Ortus Buddy is an AI-based assistant that helps manage tasks, schedules, and productivity.
+- [pdfpals.com](https://pdfpals.com/) - A tool for managing and manipulating PDF files.
+- [permar.xyz](https://www.permar.xyz/) - Website not accessible or does not exist at the moment.
+- [photoeditor.ai](https://photoeditor.ai/) - An AI-powered photo editing tool.
+- [promp.io](https://www.promp.io/) - A website whose purpose is unclear due to a lack of substantial content or language barriers.
+- [PromptDrive.ai](https://promptdrive.ai/) - An AI content generator that assists in creating marketing copy.
+- [Prompt Generator for AI Images and media](https://prompter.fofr.ai/) - A tool to assist in generating prompts for AI image creation and other media.
+- [Prompt Keeps – Interactive AI Agents With GPT-3.5, GPT-4, and DALL·E 2.]( https://www.promptkeeps.com/ ) - A platform for creating interactive AI agents using GPT-3.5, GPT-4, and DALL·E 2.
+- [qrblend.com](https://www.qrblend.com/) - A tool that helps generate QR codes for various needs.
+- [Questflow: Build AI Agents for Workflow Automation With No-code](https://www.questflow.ai/) - A platform for building AI agents to automate workflows without the need for coding.
+- [realfeedback.co](https://realfeedback.co/) - Website not accessible or does not exist at the moment.
+- [reclaim.ai](https://reclaim.ai/) - An AI tool to help manage your calendar and time, automating scheduling tasks and coordinating with other calendars.
+- [reflect.app](https://reflect.app/) - An AI-powered application that helps in personal growth and mindfulness, providing customized and guided meditations.
+- [Research Studio - Research Reinvented](https://researchstudio.ai/) - A platform that uses AI to streamline and innovate the research process.
+- [respell.ai](https://respell.ai/) - A tool that uses AI to assist in correcting spelling and grammar errors.
+- [rightblogger.com](https://rightblogger.com/) - Website not accessible or does not exist at the moment.
+- [rizzle.com](https://rizzle.com/) - A short video platform, akin to TikTok, allowing users to create and share content.
+- [roboresponse.ai](https://roboresponse.ai/) - An AI email autoresponder, designed to handle business emails.
+- [SitesGPT](https://app.sitesgpt.in/) - A service that uses AI to create and manage websites.
+- [slidesgo.com/ai-presentations](https://slidesgo.com/ai-Presentations) - A library of AI-related presentation templates provided by Slidesgo.
+- [snov.io/ai-Email-writer](https://snov.io/ai-Email-Writer) - An AI tool from Snov. Io that helps compose effective emails.
+- [supermanage.ai](https://supermanage.ai/) - A productivity and project management tool, with a focus on team collaboration.
+- [superwhisper.com](https://superwhisper.com/) - An AI platform that allows users to create, manage, and interact with AI chatbots.
+- [surfkey.io](https://www.surfkey.io/) - A search engine that curates and filters information based on the user's needs.
+- [Taleblocks](https://www.taleblocks.com/) - A platform for creating interactive stories and games.
+- [Texts From My ex](https://textsfrommyex.com/) - A website showcasing awkward and humorous text exchanges between ex-partners.
+- [Threadbois - AI Thread Maker](https://threadbois.io/) - An AI tool for generating and managing thread-based content, typically for social media.
+- [usemotion.com](https://www.usemotion.com/) - A platform that integrates motion capture technology for various applications, such as 3 D animation.
+- [userdesk.io](https://www.userdesk.io/) - A customer service platform with a focus on automation and AI integration.
+- [vmake.ai](https://vmake.ai/) - An AI-powered tool that aids in the creation of videos.
+- [Voice-swap.ai](https://www.voice-swap.ai/) - An AI tool that allows users to swap voices in videos.
+- [Waveformer](https://waveformer.replicate.dev/) - A platform that facilitates the development and deployment of AI models.
+- [wonderslide.com](https://wonderslide.com/) - An AI tool for creating visually engaging slideshows and presentations.
+- [wope.com](https://wope.com/) - Website not accessible or does not exist at the moment.
+- [Xo-analytics.com](https://Xo-analytics.com/) - An analytics platform that provides in-depth data visualization and reporting tools.
+- [yesplz.ai](https://yesplz.ai/) - A fashion tech startup leveraging AI to revolutionize online shopping experiences.
+- [yoit.style](https://www.yoit.style/) - An AI tool that helps users find their personal style by analyzing their wardrobe.
+- [zeliq.com](https://www.zeliq.com/) - An AI-powered skincare platform that provides personalized product recommendations.
+
+---
+
 ### 2023-05-14
 
 - [Agnaistic](https://agnai.chat/) - A conversational AI platform designed to facilitate advanced and natural interactions.
