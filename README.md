@@ -19,6 +19,29 @@
 
 ## Recently Added
 
+### 2023-09-19
+ 
+- [Agent.so](https://www.agent.so/) - Your Own Personal AI Is Here, Trainable in Seconds
+- [AskCyph](https://askcyph.cypherchat.app/) - AskCyph™ LITE is a lightweight AI chatbot that runs an AI Model natively on browser. In simple words you are able to run what other providers like ChatGPT, Bard, Bing on your own device privately. Once the Model is downloaded and loaded you are doing everything locally with no information about what questions you are asking is sent to the internet. Currently this is in the experimental stage and may occasionally generate incorrect response, we are working towards improving.
+- [ChartPixel](https://chartpixel.com/) - Go beyond visualization and gain valuable insights with ChartPixel's AI-assisted data analysis,  no matter your skill level
+- [CodeWiz](https://codewiz.app/) - Meet CodeWiz – your AI coding companion. Dive into real-time chats, unravel coding mysteries faster than you can type "StackOverflow", and code with confidence. Embrace the future of coding assistance today!
+- [Cosmos](https://golivecosmos.com/) - Save time organizing with Cosmos' intelligent video catalog 🍿. Try it today!
+- [FindWise](https://www.findwise.ai/) - Ask questions about anything on any website or document.
+- [GPTConsole](https://www.gptconsole.ai/) - GPTConsole helps developers generate web/mobile applications and perform web automation through prompts. It offers an NPM package that developers can install on their local machines.
+- [Graphy](https://graphy.app/) - AI generated charts and insights
+- [Illa.AI](https://illa.ai/) - Open-source AI Agents provided by experts in the field of machine learning, professional prompt engineers and enthusiasts, can be run with 1 click and modified based on these Agents.
+- [Instabot](https://www.instabot.us/sites/new) - We'll create an assistant bot that answers questions using the contents of your website.
+- [Klipme](https://klipmeapp.com/) - Powerful visual AI clip maker
+Automatically create clips for TikToks, Reels, Shorts and others. Upload footage of any video content category and get promo clips in minutes.
+- [Parea AI](https://www.parea.ai/) - Parea AI - Bring your AI vision to life with our state-of-the-art LLMOps platform
+- [Powerdrill](https://powerdrill.ai/) - Bridging Your Data and AI
+No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A and ecosystem interaction.
+- [Prompter](https://prompter.engineer/) - Craft and manage your prompts easily by making quick adjustments, iterating through different variations, intuitively comparing and labeling the results. Promptly debug prompts with Prompter.
+- [PromptFolder](https://promptfolder.com/) - The Ultimate AI Prompt Manager
+- [SuperAGI](https://app.superagi.com/) - Opensource AGI Infrastructure. Building infrastructure components, tools, frameworks and models to enable opensource AGI
+- [The Local AI Playground](https://www.localai.app/) - Experiment with AI models locally with zero technical setup, powered by a native app designed to simplify the whole process. No GPU required!
+- [WonsultingAI](https://www.wonsulting.ai/) - Your full suite of AI Job Search tools
+
 ### 2023-07-27
 
 ---
