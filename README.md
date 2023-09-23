@@ -19,6 +19,31 @@
 
 ## Recently Added
 
+### 2023-09-23
+
+- [Activeloop](https://www.activeloop.ai/) - Deep Lake. Vector Database for All AI Data. Deploy Anywhere. Fine-Tune Your Models with the #1 Data Loader for PyTorch. Trusted by Google, Intel, & Waymo
+- [AI Scout](https://aiscout.net/) - Search from our top AI tools directory and find thousands of AI tools like ChatGPT for almost any use or task. Updated daily.
+- [AI ToolMall](https://aitoolmall.com/) - AItoolmall is a new AI tools platform, More than 500 AI tools have been collected.We also provide best guides and coupons for you.
+- [Bito AI](https://bito.ai/) - Enhance your coding experience with Bito, the AI virtual assistant for developers. Generate amazing code effortlessly & boost your productivity. Try Bito today!
+- [California Markup](http://camarkup.com/) - California Markup gives you AI-generated HTML code that's easy to read and write.
+- [Collectiv](https://collectivai.com/) - Chat with code and docs of any repo you want!
+- [Create](https://www.create.xyz/) - The fastest way to launch your product. App development using AI code generation and on demand eng.
+- [Datamaker](https://www.datamaker.dev/) - Upgrade your Webflow projects with Datamaker. Harness the unmatched power of OpenAI's GPT4, the latest and most advanced language model, directly in your Webflow Designer. From automated content creation to intelligent design assistance, experience unlimited possibilities with Datamaker's GPT4 integration.
+- [ggml.ai](https://github.com/ggerganov/ggml) is a tensor library for machine learning that supports 16-bit float, integer quantization, automatic differentiation, and optimized performance for Apple Silicon and other architectures. [It also provides a web UI for running large language models like LLaMA, GPT-J, Pythia, OPT, and GALACTICA](https://gigazine.net/news/20230607-ggml/)[1](https://gigazine.net/news/20230607-ggml/).
+- [lightrail.ai](https://www.lightrail.ai/) is a software development tool that provides a universal AI command bar that can interact with various applications and data sources. [It allows users to access AI commands with a simple hotkey and customize them with Lightrail Tracks](https://lightsail.ai/)[2](https://lightsail.ai/).
+- [llmui.dev](https://www.llmui.dev/) is a desktop tool that provides easy access to LLM functions with a hotkey. [It can incorporate selected text and clipboard into queries, enhance the tool’s capabilities by adding private data sources, and generate answers faster and more productive](https://github.com/phasewalk1/llmui)[3](https://github.com/phasewalk1/llmui).
+- [Mentat](https://www.mentat.ai/) - Mentat is the open source coding assistant that leverages GPT-4 to write code for you. Tell Mentat what you need from the command line and watch as it creates code directly in existing or new source files.
+- [NextResume](https://nextresu.me/) - NextResume revolutionizes your mock interview preparation by tailoring every question to your unique resume and job requirements.
+- [Prem](https://www.premai.io/) - Accelerating the Advent of Privacy-centric Open-Source AI models.
+- [prst.ai](https://prst.ai/) - prst.ai is revolutionary, free, self-hosted multitool for prompt management for any AI tool
+- [SiteWithAI](https://sitewith.ai/) - Build your dream website effortlessly with SiteWith.ai, the revolutionary AI-powered website builder. Transform your vision into reality in just 3 simple steps. Say goodbye to hours of coding and waiting � experience lightning-fast website creation with elegant design elements. Start crafting your online presence today!
+- [sparkengine.ai](https://twitter.com/sparkengineai) is an AI code assistant that can read, write, build components, create animations, and construct websites. [It can also fix coding errors in 40+ languages and build entire platforms autonomously from simple text input](https://www.futurepedia.io/tool/spark-engine)[4](https://www.futurepedia.io/tool/spark-engine).
+- [Stackbear](https://stackbear.com/) - Stackbear lets you build, run, and share AI tools tailored to your needs, all without a single line of code.
+- [That AI Collection](https://www.thataicollection.com/en/) - A Collection of Awesome Generative AI Applications - Discover 1000+ of the best AI Applications with more than 50 categories that will boost your productivity, help you with writing, or just have fun
+- [Unstructured](https://unstructured.io/) - Unstructured effortlessly extracts and transforms complex, unstructured data for use with every major vector database and LLM framework.
+- [Vzy](https://vzy.co/) - Use Vzy AI to create beautiful websites with captivating content, images, and forms. Edit easily on any browser - no code or design skills required.
+- [Zeus Notebook](https://www.zeusnotebook.com/) is an online platform for Zeus, an AI code assistant that runs entirely on the browser. [It offers a python notebook that can execute code cells and interact with Zeus through natural language queries](https://www.zeusnotebook.com/)[5](https://www.zeusnotebook.com/).
+
 ### 2023-09-19
  
 - [Agent.so](https://www.agent.so/) - Your Own Personal AI Is Here, Trainable in Seconds
