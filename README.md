@@ -19,6 +19,28 @@
 
 ## Recently Added
 
+### 2023-09-25
+
+- [AskCodi](https://www.askcodi.com/) - An AI coding assistant. Pair programmer for developer needs.
+- [ChatNode](https://www.chatnode.ai/) - Build your own AI assistant for your website or create an internal research tool by training ChatGPT on any data you'd like.
+- [CloseVector](https://closevector.getmegaportal.com/) - A lightweight vector database.
+- [CodeRabbit](https://coderabbit.ai/) - Accelerate Code Reviews with AI
+- [Exocoding](https://exocoding.com/) - Code Generation as Developers Really Want It. Welcome to ExoCoding, where you are free from low-code limitations and vendor dependencies.
+- [FL0](https://www.fl0.com/) - Deploy backend applications and databases in minutes
+- [Glaive](https://glaive.ai/) - Language models specialised for your use-cases
+- [HelperAI](https://helperai.ai/) - Create AI Agents to automate any online work you spent countless human hours on!
+- [Hiphops](https://www.hiphops.io/) - Hiphops makes it easy to automate your team’s entire flow, Release management, deployments and tasks in one place.
+- [LLMStack](https://llmstack.ai/) - No-code platform to build generative AI apps, chatbots and agents with your data.
+- [MagicFormat](https://magicform.at/) - Your Productivity Secret Spell. Unlock the magic of AI-driven Workflows.
+- [OpenChakra](https://openchakra.app/) - React JSX visual editor for Chakra UI
+- [OpenCopilot](https://opencopilot.so/) - Build AI copilot for your own SaaS product. it can talk with your underlying APIs and execute complex tasks.
+- [Rapidpages](https://www.rapidpages.io/new) - A chatbot to build websites.
+- [Recombinant AI™](https://recombinant.ai/) - Your New Coding Assistant. Connects to Github &GitLab to turn ChatGPT into a Conversational IDE!
+- [Trelent](https://trelent.com/) - Documentation sucks. Let us take care of it.
+- [Unfold AI](https://unfoldai.io/) - UnfoldAI is the best generative AI tool and the only one to offer specialized real-time bug and error solutions for developers within their IDEs.
+- [v0.dev Vercel](https://v0.dev/) - Generate UI with simple text prompts. Copy, paste, ship.
+- [Vercel AI Playground](https://sdk.vercel.ai/) - Use the latest AI language models with the Vercel AI Playground.
+
 ### 2023-09-23
 
 - [Activeloop](https://www.activeloop.ai/) - Deep Lake. Vector Database for All AI Data. Deploy Anywhere. Fine-Tune Your Models with the #1 Data Loader for PyTorch. Trusted by Google, Intel, & Waymo
