@@ -17,78 +17,1675 @@
 
 ---
 
-## Recently Added
+## December
 
-### 2023-09-25
+---
 
-- [AskCodi](https://www.askcodi.com/) - An AI coding assistant. Pair programmer for developer needs.
-- [ChatNode](https://www.chatnode.ai/) - Build your own AI assistant for your website or create an internal research tool by training ChatGPT on any data you'd like.
-- [CloseVector](https://closevector.getmegaportal.com/) - A lightweight vector database.
-- [CodeRabbit](https://coderabbit.ai/) - Accelerate Code Reviews with AI
-- [Exocoding](https://exocoding.com/) - Code Generation as Developers Really Want It. Welcome to ExoCoding, where you are free from low-code limitations and vendor dependencies.
-- [FL0](https://www.fl0.com/) - Deploy backend applications and databases in minutes
-- [Glaive](https://glaive.ai/) - Language models specialised for your use-cases
-- [HelperAI](https://helperai.ai/) - Create AI Agents to automate any online work you spent countless human hours on!
-- [Hiphops](https://www.hiphops.io/) - Hiphops makes it easy to automate your team’s entire flow, Release management, deployments and tasks in one place.
-- [LLMStack](https://llmstack.ai/) - No-code platform to build generative AI apps, chatbots and agents with your data.
-- [MagicFormat](https://magicform.at/) - Your Productivity Secret Spell. Unlock the magic of AI-driven Workflows.
-- [OpenChakra](https://openchakra.app/) - React JSX visual editor for Chakra UI
-- [OpenCopilot](https://opencopilot.so/) - Build AI copilot for your own SaaS product. it can talk with your underlying APIs and execute complex tasks.
-- [Rapidpages](https://www.rapidpages.io/new) - A chatbot to build websites.
-- [Recombinant AI™](https://recombinant.ai/) - Your New Coding Assistant. Connects to Github &GitLab to turn ChatGPT into a Conversational IDE!
-- [Trelent](/) - Documentation sucks. Let us take care of it.
-- [Unfold AI](https://unfoldai.io/) - UnfoldAI is the best generative AI tool and the only one to offer specialized real-time bug and error solutions for developers within their IDEs.
-- [v0.dev Vercel](https://v0.dev/) - Generate UI with simple text prompts. Copy, paste, ship.
-- [Vercel AI Playground](https://sdk.vercel.ai/) - Use the latest AI language models with the Vercel AI Playground.
+**AiTerm**
 
-### 2023-09-23
+![](https://www.aiterm.net/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmainfeat.905b7ea2.gif&w=1200&q=75)
 
-- [Activeloop](https://www.activeloop.ai/) - Deep Lake. Vector Database for All AI Data. Deploy Anywhere. Fine-Tune Your Models with the #1 Data Loader for PyTorch. Trusted by Google, Intel, & Waymo
-- [AI Scout](/) - Search from our top AI tools directory and find thousands of AI tools like ChatGPT for almost any use or task. Updated daily.
-- [AI ToolMall](https://aitoolmall.com/) - AItoolmall is a new AI tools platform, More than 500 AI tools have been collected.We also provide best guides and coupons for you.
-- [Bito AI](https://bito.ai/) - Enhance your coding experience with Bito, the AI virtual assistant for developers. Generate amazing code effortlessly & boost your productivity. Try Bito today!
-- [California Markup](http://camarkup.com/) - California Markup gives you AI-generated HTML code that's easy to read and write.
-- [Collectiv](https://collectivai.com/) - Chat with code and docs of any repo you want!
-- [Create](https://www.create.xyz/) - The fastest way to launch your product. App development using AI code generation and on demand eng.
-- [Datamaker](https://www.datamaker.dev/) - Upgrade your Webflow projects with Datamaker. Harness the unmatched power of OpenAI's GPT4, the latest and most advanced language model, directly in your Webflow Designer. From automated content creation to intelligent design assistance, experience unlimited possibilities with Datamaker's GPT4 integration.
-- [ggml.ai](https://github.com/ggerganov/ggml) is a tensor library for machine learning that supports 16-bit float, integer quantization, automatic differentiation, and optimized performance for Apple Silicon and other architectures. [It also provides a web UI for running large language models like LLaMA, GPT-J, Pythia, OPT, and GALACTICA](/)[1](https://gigazine.net/news/20230607-ggml/).
-- [lightrail.ai](https://www.lightrail.ai/) is a software development tool that provides a universal AI command bar that can interact with various applications and data sources. [It allows users to access AI commands with a simple hotkey and customize them with Lightrail Tracks](/)[2](https://lightsail.ai/).
-- [llmui.dev](https://www.llmui.dev/) is a desktop tool that provides easy access to LLM functions with a hotkey. [It can incorporate selected text and clipboard into queries, enhance the tool’s capabilities by adding private data sources, and generate answers faster and more productive]()[3](https://github.com/phasewalk1/llmui).
-- [Mentat](https://www.mentat.ai/) - Mentat is the open source coding assistant that leverages GPT-4 to write code for you. Tell Mentat what you need from the command line and watch as it creates code directly in existing or new source files.
-- [NextResume](https://nextresu.me/) - NextResume revolutionizes your mock interview preparation by tailoring every question to your unique resume and job requirements.
-- [Prem](https://www.premai.io/) - Accelerating the Advent of Privacy-centric Open-Source AI models.
-- [prst.ai](https://prst.ai/) - prst.ai is revolutionary, free, self-hosted multitool for prompt management for any AI tool
-- [SiteWithAI](https://sitewith.ai/) - Build your dream website effortlessly with SiteWith.ai, the revolutionary AI-powered website builder. Transform your vision into reality in just 3 simple steps. Say goodbye to hours of coding and waiting � experience lightning-fast website creation with elegant design elements. Start crafting your online presence today!
-- [sparkengine.ai](https://twitter.com/sparkengineai) is an AI code assistant that can read, write, build components, create animations, and construct websites. [It can also fix coding errors in 40+ languages and build entire platforms autonomously from simple text input]()[4](/tool/spark-engine).
-- [Stackbear](https://stackbear.com/) - Stackbear lets you build, run, and share AI tools tailored to your needs, all without a single line of code.
-- [That AI Collection](https://www.thataicollection.com/en/) - A Collection of Awesome Generative AI Applications - Discover 1000+ of the best AI Applications with more than 50 categories that will boost your productivity, help you with writing, or just have fun
-- [Unstructured](https://unstructured.io/) - Unstructured effortlessly extracts and transforms complex, unstructured data for use with every major vector database and LLM framework.
-- [Vzy](https://vzy.co/) - Use Vzy AI to create beautiful websites with captivating content, images, and forms. Edit easily on any browser - no code or design skills required.
-- [Zeus Notebook](/) is an online platform for Zeus, an AI code assistant that runs entirely on the browser. [It offers a python notebook that can execute code cells and interact with Zeus through natural language queries](/)[5](https://www.zeusnotebook.com/).
+[AiTerm](https://www.aiterm.net/) - Your AI Terminal Assistant
 
-### 2023-09-19
- 
-- [Agent.so](https://www.agent.so/) - Your Own Personal AI Is Here, Trainable in Seconds
-- [AskCyph](https://askcyph.cypherchat.app/) - AskCyph™ LITE is a lightweight AI chatbot that runs an AI Model natively on browser. In simple words you are able to run what other providers like ChatGPT, Bard, Bing on your own device privately. Once the Model is downloaded and loaded you are doing everything locally with no information about what questions you are asking is sent to the internet. Currently this is in the experimental stage and may occasionally generate incorrect response, we are working towards improving.
-- [ChartPixel](https://chartpixel.com/) - Go beyond visualization and gain valuable insights with ChartPixel's AI-assisted data analysis,  no matter your skill level
-- [CodeWiz](https://codewiz.app/) - Meet CodeWiz – your AI coding companion. Dive into real-time chats, unravel coding mysteries faster than you can type "StackOverflow", and code with confidence. Embrace the future of coding assistance today!
-- [Cosmos](https://golivecosmos.com/) - Save time organizing with Cosmos' intelligent video catalog 🍿. Try it today!
-- [FindWise](https://www.findwise.ai/) - Ask questions about anything on any website or document.
-- [GPTConsole](https://www.gptconsole.ai/) - GPTConsole helps developers generate web/mobile applications and perform web automation through prompts. It offers an NPM package that developers can install on their local machines.
-- [Graphy](https://graphy.app/) - AI generated charts and insights
-- [Illa.AI](https://illa.ai/) - Open-source AI Agents provided by experts in the field of machine learning, professional prompt engineers and enthusiasts, can be run with 1 click and modified based on these Agents.
-- [Instabot](https://www.instabot.us/sites/new) - We'll create an assistant bot that answers questions using the contents of your website.
-- [Klipme](https://klipmeapp.com/) - Powerful visual AI clip maker
+**Date:** 2023-12-15T20:39:28.511Z
+**Tags:** #ai #terminal
+
+---
+
+**AudioShake**
+
+![](https://pbs.twimg.com/profile_banners/1179811628306456577/1696521565/1500x500)
+
+[AudioShake](https://www.audioshake.ai/) - AudioShake makes audio interactive, customizable, and accessible by using AI to separate sound recordings into their component parts and stems.
+
+**Date:** 2023-12-16T22:49:37.178Z
+**Tags:** #ai #proaudio
+
+---
+
+**Banner GPT**
+
+![](https://rdl.ink/render/https%3A%2F%2Fbannergpt.dabble.so%2Fgenerate)
+
+[Banner GPT](https://bannergpt.dabble.so/generate) - Generates Banners for anything!
+
+**Date:** 2023-12-20T13:52:47.786Z
+**Tags:** #ai
+
+---
+
+**BasedLabs**
+
+![](https://basedlabs.ai/images/og.png)
+
+[BasedLabs](https://www.basedlabs.ai/) - BasedLabs is your go to source for AI video and tools.
+
+**Date:** 2023-12-17T15:34:33.613Z
+**Tags:** #ai #video
+
+---
+
+**Beatopia**
+
+![](https://www.beatopia.com/themes/beatopia5/assets/svg/logo.svg)
+
+[Beatopia](https://www.beatopia.com/ai-lyrics-generator) - Introducing our AI lyrics generator for songwriters. From Rap & Metal to Love Songs - Write creative and original lyrics in no time. Try it for free today!
+
+**Date:** 2023-12-16T22:24:50.000Z
+**Tags:** #ai #proaudio
+
+---
+
+**Chromox**
+
+![](https://gsoss.alkaidvision.com/alkaid/seo/seo-share.png)
+
+[Chromox](https://chromox.alkaidvision.com/) - Chromox is a cutting-edge AI video generator that excels at transforming text and images into videos. It is designed to expand creative space, enhance creativity, and simplify the video creation process. With Chromox, you can effortlessly produce high-quality videos from various styles of text, whether depicting the real world or transcending imagination.
+
+**Date:** 2023-12-17T15:38:03.125Z
+**Tags:** #ai #video
+
+---
+
+**Claude**
+
+![](https://claude.ai/images/opengraph-image@2x.png)
+
+[Claude](https://claude.ai) - Talk to Claude, an AI assistant from Anthropic
+
+**Date:** 2023-12-18T21:34:42.000Z
+**Tags:** #ai
+
+---
+
+**Code Genius**
+
+![](https://open-ai-code-5c4yh3n5h-lgruss.vercel.app/opengraph-image.png?126c64b1296e2b91)
+
+[Code Genius](https://www.code-genius.dev/) - Code Genius helps developers and companies reach their goals faster.
+
+**Date:** 2023-12-15T20:35:10.115Z
+**Tags:** #ai #code
+
+---
+
+**CodeRabbit**
+
+![](https://coderabbit.ai/preview_meta.jpg)
+
+[CodeRabbit](https://coderabbit.ai/) - Accelerate Code Reviews with AI.
+
+**Date:** 2023-12-20T13:42:07.352Z
+**Tags:** #ai #code
+
+---
+
+**Cohere**
+
+![](https://dashboard.cohere.com/images/share.png)
+
+[Cohere](https://coral.cohere.com/?s=t) - Cohere provides access to advanced Large Language Models and NLP tools through one easy-to-use API. Get started for free.
+
+**Date:** 2023-12-18T21:34:58.000Z
+**Tags:** #ai
+
+---
+
+**DAWG**
+
+![](https://rdl.ink/render/https%3A%2F%2Fdawg.dev)
+
+[DAWG](https://dawg.dev) - A DAW built using the web 🤘
+
+**Date:** 2023-12-17T21:08:34.000Z
+**Tags:** #ai #proaudio
+
+---
+
+**Dante AI**
+
+![](https://chat.dante-ai.com/images/social-share.png)
+
+[Dante AI](https://chat.dante-ai.com) - Custom AI chatbots—zero code.
+
+**Date:** 2023-12-18T02:12:42.000Z
+**Tags:** #ai
+
+---
+
+**DocuChat**
+
+![](https://up.raindrop.io/raindrop/thumbs/698/542/851/1703081325688.jpeg)
+
+[DocuChat](https://docuchat.io/) - Get precise answers for you, your customers, and your team with branded chatbots trained on on your documents and websites.
+
+**Date:** 2023-12-20T14:08:45.148Z
+**Tags:** #ai #docs
+
+---
+
+**Fadr**
+
+![](https://fadr.com/assets/images/Splash.png)
+
+[Fadr](https://fadr.com/) - Fadr is a web platform for AI music tools. Use our AI-powered vocal remover, song splitter, key/tempo/chords detector, remix maker, mashup maker, DJ controller, and so much more. The best part - 95% of Fadr is free for unlimited use. Upload your favorite songs and turn them into something new today.
+
+**Date:** 2023-12-16T22:52:28.087Z
+**Tags:** #ai #proaudio
+
+---
+
+**Figaro**
+
+![](http://static1.squarespace.com/static/6537f9af8358b729fd831965/t/653b817bf0019e41d7961d4f/1698398587499/figaro_logo.png?format=1500w)
+
+[Figaro](https://www.figaro.ai) - Search, Tagging and Detection for the music industry.
+
+**Date:** 2023-12-17T21:19:10.000Z
+**Tags:** #ai #proaudio
+
+---
+
+**GPTStore.AI**
+
+![](https://rdl.ink/render/https%3A%2F%2Fgptstore.ai%2Fgpts%3Flang%3Den)
+
+[GPTStore.AI](https://gptstore.ai/gpts?lang=en) - Discover the best ChatGPT GPTs at GPTStore.AI
+
+**Date:** 2023-12-18T16:08:41.000Z
+**Tags:** #ai
+
+---
+
+**GuitarML**
+
+![](https://guitarml.com/images/proteus_pic.jpg)
+
+[GuitarML](https://guitarml.com/index.html) - MACHINE LEARNING FOR ROCK AND ROLL.
+
+**Date:** 2023-12-16T22:52:49.574Z
+**Tags:** #ai #proaudio
+
+---
+
+**LABS.GOOGLE**
+
+![](https://storage.googleapis.com/labs-web-prod/preview.webp)
+
+[LABS.GOOGLE](https://labs.google/) - Labs.Google is Google's home for the latest AI tools, technology and discourse.
+
+**Date:** 2023-12-14T03:13:50.781Z
+**Tags:** #ai #google
+
+---
+
+**Lalals**
+
+![](https://lalals.com/wp-content/uploads/2023/04/Lalals-Header.png)
+
+[Lalals](https://lalals.com/) - Make Your Voice Sound Like Drake, Ariana Grande, Travis Scott and more. 1000+ AI Voices. Fast Voice to Voice AI. #1 Leading AI Technology.
+
+**Date:** 2023-12-17T03:09:35.187Z
+**Tags:** #ai #proaudio
+
+---
+
+**Local Models Related Links**
+
+![](https://rentry.co/static/icons/512.png)
+
+[Local Models Related Links](https://rentry.org/LocalModelsLinks) - /lmg/
+Accelerate
+Guides
+Quick Start Guide
+Anon's tutorial for getting models running locally
+SillyTavern RP Guide
+Instructions for roleplaying via koboldcpp
+LM Tuning Guide
+Training, finetuning, and LoRa/QLoRa information
+LM Settings Guide
+Explanation of various settings and samplers with suggest...
+
+**Date:** 2023-12-16T10:44:06.128Z
+**Tags:** #ai #guide
+
+---
+
+**Lyrically**
+
+![](https://cdn.jsdelivr.net/gh/tanwarjigyasu/Lyrically/assets/icon_maskable.png)
+
+[Lyrically](https://tanwarjigyasu.github.io/Lyrically) - Lyrically provides you lyrics of any song you want as fast as it can. It fetch the lyrics from https://api.lyrics.ovh/v1/
+
+**Date:** 2023-12-17T23:51:45.000Z
+**Tags:** #ai #proaudio
+
+---
+
+**Lyricistant**
+
+![](https://lyricistant.app/social_banner.png)
+
+[Lyricistant](https://lyricistant.app/#about) - A helpful writing assistant for lyricists!
+
+**Date:** 2023-12-17T23:51:34.000Z
+**Tags:** #ai #proaudio
+
+---
+
+**Lyrics**
+
+![](https://rdl.ink/render/https%3A%2F%2Flyrics.vvhuang.com)
+
+[Lyrics](https://lyrics.vvhuang.com) - Explore lyrical similarity between different songs!
+
+**Date:** 2023-12-17T22:14:12.000Z
+**Tags:** #ai #audio
+
+---
+
+**MVSEP**
+
+![](https://rdl.ink/render/https%3A%2F%2Fmvsep.com%2Fen)
+
+[MVSEP](https://mvsep.com/en) - Music & Voice Separation
+
+**Date:** 2023-12-16T22:54:40.291Z
+**Tags:** #ai #proaudio
+
+---
+
+**Machine Learning Roadmap**
+
+![](https://rentry.co/static/icons/512.png)
+
+[Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) - So you want to learn Machine Learning? It will be a long journey - one that requires a solid grasp of the fundamentals. Try and not skip any of the stages, and move on to the next once you have a full understanding of the current one. Good luck!
+Mathematics and Calculus
+1. Linear Algebra
+2. Calc...
+
+**Date:** 2023-12-16T10:43:53.905Z
+**Tags:** #ai #guide #ml
+
+---
+
+**Metaphor Search**
+
+![](https://dj0bfh55l9s3x.cloudfront.net/wanderer.png)
+
+[Metaphor Search](https://search.metaphor.systems/) - Search the internet with large language models using Metaphor
+
+**Date:** 2023-12-15T20:08:15.925Z
+**Tags:** #ai #Search #Engine
+
+---
+
+**Mikrotakt**
+
+![](https://mikrotakt.app/static/dist/favicon.3284da826cc8.ico)
+
+[Mikrotakt](https://mikrotakt.app/) - Split vocal and instrumental tracks or split all stems online, fast & free & High quality from audio file or youtube search or link with Mikrotakt.app, Karaoke makers. acapella maker, free, fast and high quality stem
+
+**Date:** 2023-12-17T03:23:30.331Z
+**Tags:** #ai #proaudio
+
+---
+
+**Moseca**
+
+![](https://up.raindrop.io/raindrop/thumbs/696/074/610/1702783447550.jpeg)
+
+[Moseca](https://fabiogra-moseca.hf.space/Separate) - Music Separation and Karaoke - Free and Open Source alternative to lalal.ai, splitter.ai or media.io vocal remover.
+
+**Date:** 2023-12-17T03:24:06.439Z
+**Tags:** #ai #proaudio
+
+---
+
+**Music AI**
+
+![](https://rdl.ink/render/https%3A%2F%2Fmusic.ai)
+
+[Music AI](https://music.ai) - The single source for state-of-the-art Complementary AI™ models tailored to empower businesses and developers.
+
+**Date:** 2023-12-17T21:03:31.000Z
+**Tags:** #ai #proaudio
+
+---
+
+**Musicfy AI**
+
+![](https://framerusercontent.com/images/AylUhjwqYR22H7zWf24myqSfDE.jpg)
+
+[Musicfy AI](https://musicfy.lol/) - Create an AI clone of your voice. 
+
+Your voice, any song.
+
+**Date:** 2023-12-16T22:54:54.172Z
+**Tags:** #ai #proaudio
+
+---
+
+**Musixy AI**
+
+![](https://rdl.ink/render/https%3A%2F%2Fapp.musixy.ai%2F)
+
+[Musixy AI](https://app.musixy.ai/) - Listen to Music
+
+**Date:** 2023-12-17T03:13:10.949Z
+**Tags:** #ai #audio
+
+---
+
+**Neutone**
+
+![](https://neutone.space/images/og-image-3-1.png)
+
+[Neutone](https://neutone.space/) - Neutone makes AI technologies accessible for any audio creators to experiment with. Our transformative AI audio instruments will spark endless possibilities for creators/performers to discover and produce music of the future.
+
+**Date:** 2023-12-17T03:31:19.950Z
+**Tags:** #ai #proaudio
+
+---
+
+**NoteCrush**
+
+![](https://assets-global.website-files.com/6493953ae6ed72639ca7c013/65636bfa45db91a91bade8a9_test3.png)
+
+[NoteCrush](https://www.notecrush.ai/) - Use generative AI to create compelling original melodies, lyrics, and chords for your projects.
+
+**Date:** 2023-12-17T03:29:46.757Z
+**Tags:** #ai #proaudio
+
+---
+
+**OMNIZART**
+
+![](https://music-and-culture-technology-lab.github.io/omnizart-doc/_images/features2.png)
+
+[OMNIZART](https://music-and-culture-technology-lab.github.io/omnizart-doc/index.html) - MUSIC TRANSCRIPTION MADE EASY
+
+**Date:** 2023-12-17T03:28:35.318Z
+**Tags:** #ai #proaudio
+
+---
+
+**Okio**
+
+![](https://rdl.ink/render/https%3A%2F%2Fokio.ai)
+
+[Okio](https://okio.ai) - AI Audio. Simplified. Nendo is the AI audio tool suite, powering next-gen audio applications
+
+**Date:** 2023-12-17T21:05:49.000Z
+**Tags:** #ai #proaudio
+
+---
+
+**OnePlus AI**
+
+![](https://rdl.ink/render/https%3A%2F%2Faimusicstudio.oneplus.com)
+
+[OnePlus AI](https://aimusicstudio.oneplus.com) - Dive into the future of sound with OnePlus AI Music Studio. Enjoy innovative AI-driven music and discover the latest in tech
+
+**Date:** 2023-12-17T21:03:51.000Z
+**Tags:** #ai #proaudio
+
+---
+
+**Online Audio Mastering**
+
+![](https://www.bandlab.com/web-app/images/open-graph-mastering-5d917a6157.png)
+
+[Online Audio Mastering](https://www.bandlab.com/mastering) - Unlimited Free Algorithmic Mastering by BandLab
+
+**Date:** 2023-12-15T14:27:45.000Z
+**Tags:** #ai
+
+---
+
+**Open Lyrics Database**
+
+![](https://rdl.ink/render/https%3A%2F%2Flyrics.github.io)
+
+[Open Lyrics Database](https://lyrics.github.io) - Web interface for Open Lyrics Database
+
+**Date:** 2023-12-17T23:48:28.000Z
+**Tags:** #ai #proaudio
+
+---
+
+**Replay**
+
+![](https://tryreplay.io/api/og)
+
+[Replay](https://www.tryreplay.io/) - Remix your favorite music with AI, entirely on device, for free.
+
+**Date:** 2023-12-17T03:33:22.180Z
+**Tags:** #ai #proaudio
+
+---
+
+**RoEx**
+
+![](https://framerusercontent.com/images/a6nKvxBk9org1wPE43rLM0EKCpo.png)
+
+[RoEx](https://www.roexaudio.com) - Unleash professional sound with RoEx's Automix—fast and great sounding AI mixing for musicians, producers and content creators. Enhance your tracks with Mix Check Studio's expert feedback. Start making mixes for free now. Pay for what you download.
+
+**Date:** 2023-12-17T22:30:54.000Z
+**Tags:** #ai #proaudio
+
+---
+
+**ScrapetoAI**
+
+![](https://simplescraper.io/easy_scraper_social.png)
+
+[ScrapetoAI](https://simplescraper.io/scrapetoai?ref=futuretools.io) - Extract data from websites to use in your custom GPTs and AI Large Language Models. No code required.
+
+**Date:** 2023-12-20T13:52:47.785Z
+**Tags:** #ai
+
+---
+
+**Song Blog**
+
+![](https://songblog.io/fix-assets/songblog-graph-image.jpg)
+
+[Song Blog](https://songblog.io) - SongBlog provides reviews of artists, albums and songs across all genres. Find and share reviews of your favorite artists in english and spanish.
+
+**Date:** 2023-12-17T22:20:28.000Z
+**Tags:** #ai #audio
+
+---
+
+**SongData.io**
+
+![](https://rdl.ink/render/https%3A%2F%2Fsongdata.io)
+
+[SongData.io](https://songdata.io) - Find the BPM and music key of over 80+ million songs from around the world along with other song information!
+
+**Date:** 2023-12-17T22:11:40.000Z
+**Tags:** #ai #audio
+
+---
+
+**SongMaster**
+
+![](https://www.songmastr.com/static/songmastr_thumbnail.png)
+
+[SongMaster](https://www.songmastr.com/) - Master your song to a commercial reference track automatically using AI. FREE (7/week) & no registration.
+
+**Date:** 2023-12-16T22:56:23.822Z
+**Tags:** #ai #proaudio #audiomastering
+
+---
+
+**Sounds.Studio**
+
+![](https://sounds.studio/images/share.jpg)
+
+[Sounds.Studio](https://sounds.studio/) - Sounds.Studio is an online tool that uses assistive and generative A.I. to make music and sound design quick and easy.
+
+**Date:** 2023-12-16T22:56:39.878Z
+**Tags:** #ai #proaudio
+
+---
+
+**Soundset**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.getsoundset.co%2Fmembers%2Fmem_clp5u7pi601ee0sua96t254e4)
+
+[Soundset](https://www.getsoundset.co/members/mem_clp5u7pi601ee0sua96t254e4) - Empower your music career with Soundset's user-friendly dashboard. Manage releases, track performance, and unlock new opportunities. Elevate your music distribution journey with Soundset's powerful dashboard.
+
+**Date:** 2023-12-20T13:52:48.485Z
+**Tags:** #ai #audio
+
+---
+
+**StemRoller**
+
+![](https://www.stemroller.com/img/og-image.png)
+
+[StemRoller](https://www.stemroller.com/) - StemRoller isolates instruments and vocals from any song using advanced AI and machine learning techniques. Make karaoke (instrumental), vocal, drum, and bass tracks from any recording in one click!
+
+**Date:** 2023-12-16T22:58:14.305Z
+**Tags:** #ai #proaudio
+
+---
+
+**StructiFi**
+
+![](https://structifi.com/logo.svg)
+
+[StructiFi](https://structifi.com) - Turn any file into valuable structured data with StructiFi, an advanced online data extraction tool. StructiFi supports OCR, particularly in PDF and image content. Try StructiFi today.
+
+**Date:** 2023-12-17T20:53:53.000Z
+**Tags:** #ai
+
+---
+
+**Suno AI**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.suno.ai%2F)
+
+[Suno AI](https://www.suno.ai/) - Suno is a research-driven AI company. Our mission is to redefine how people interact with music by removing the barriers to creating beautiful songs, and to enable everyone to bring the captivating music from your imagination to life.
+
+**Date:** 2023-12-20T13:40:11.153Z
+**Tags:** #ai #audiogeneration
+
+---
+
+**The Novice's LLM Training Guide**
+
+![](https://s8d3.turboimg.net/sp/e6b7e8c2bb66fa33a62439ac77134740/lmg-train.png)
+
+[The Novice's LLM Training Guide](https://rentry.org/llm-training) - Written by Alpin
+Inspired by /hdg/'s LoRA train rentry
+This guide is being slowly updated. We've already moved to the axolotl trainer.
+The Basics
+The Transformer architecture
+Training Basics
+Pre-training
+Fine-tuning
+Low-Rank Adaptation (LoRA)
+Fine-tuning
+Training Compute
+Gathering a Dataset
+Data...
+
+**Date:** 2023-12-16T10:43:02.477Z
+**Tags:** #ai #guide
+
+---
+
+**ToneShift**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.toneshift.cc%2F)
+
+[ToneShift](https://www.toneshift.cc/) - Clone any voice, create music, and join a community of voices
+
+**Date:** 2023-12-17T03:06:34.761Z
+**Tags:** #ai #proaudio
+
+---
+
+**TuneBlades**
+
+![](https://static.wixstatic.com/media/3a26f0_b9d02cfa2f9146489ff1d3c83f3f96c8~mv2.jpg/v1/fill/w_1243,h_733,al_c/3a26f0_b9d02cfa2f9146489ff1d3c83f3f96c8~mv2.jpg)
+
+[TuneBlades](https://www.tuneblades.com/) - TuneBlades smart audio editing software. Resize, Remix & adjust your song automatically while preserving melody fundamentals and voices.
+
+**Date:** 2023-12-16T22:58:35.110Z
+**Tags:** #ai #proaudio
+
+---
+
+**Tuney**
+
+![](https://images.ctfassets.net/jj1ti3wzadkn/1igzTp9uWHpWaV0rYvCpAJ/8aa487d1d3e4d9cd423a62fcb1d11f83/Rectangle_17.jpg?w=1366&h=803&q=50&fm=webp)
+
+[Tuney](https://tuney.io/) - Ethical Music AI for Creative Media.
+Tools to edit existing music, produce remixes and generate new tracks with ease.
+
+**Date:** 2023-12-17T03:27:28.036Z
+**Tags:** #ai #proaudio
+
+---
+
+**Ultimate Vocal Remover**
+
+![](https://img1.wsimg.com/isteam/ip/27b42b0b-4e5c-4246-8229-db96bd3bf24e/UVR_v5.6.png)
+
+[Ultimate Vocal Remover](https://ultimatevocalremover.com/) - The best vocal remover application on the internet, and it's totally free and open source!
+
+Available on Windows, Mac, & Linux
+
+**Date:** 2023-12-17T03:21:59.286Z
+**Tags:** #ai #proaudio
+
+---
+
+**Undertones.AI**
+
+![](https://uploads-ssl.webflow.com/64c2abea17e9816804eefb42/64e6ccf7ce88f4f5121abbcf_Screenshot%202023-08-23%20at%2010.21.58%20PM-p-1600.png)
+
+[Undertones.AI](https://www.undertones.ai/) - Create demuxed tracks from mixed source audio files. Remix master tracks, create karaoke tracks, isolate vocals, etc with Undertones.ai. Making AI cool again.
+
+**Date:** 2023-12-17T03:32:02.120Z
+**Tags:** #ai #proaudio
+
+---
+
+**Vocal Remover and Isolation**
+
+![](https://vocalremover.org/img/remover/player_en_1100x576.png)
+
+[Vocal Remover and Isolation](https://vocalremover.org/) - Separate voice from music out of a song free with powerful AI algorithms
+
+**Date:** 2023-12-16T22:59:07.276Z
+**Tags:** #ai #proaudio
+
+---
+
+**Vocalise**
+
+![](https://rdl.ink/render/https%3A%2F%2Ffreeali.se%2Fvocalise)
+
+[Vocalise](https://freeali.se/vocalise) - Compose song lyrics, poetry or rap and improve your English - with an advanced rhyming dictionary based on CMUDict and speech formant synthesizer, lookup of word forms or common phrases by part of speech, sentence parser and text editor with spell and punctuation checking.
+
+**Date:** 2023-12-17T23:51:13.000Z
+**Tags:** #ai #proaudio
+
+---
+
+**Wavo**
+
+![](https://wavoai.com/staticfiles/home/images/banner.jpg)
+
+[Wavo](https://wavoai.com/) - WavoAI - advanced AI-powered transcriptss with interactive summarization and chat features. Transformg your audio into actionable insights.
+
+**Date:** 2023-12-15T20:30:53.974Z
+**Tags:** #ai #transcribe
+
+---
+
+**eMastered**
+
+![](https://emastered.com//static/images/eMasteredLogo.jpeg)
+
+[eMastered](https://emastered.com/) - Revolutionize your tracks with our AI-powered online audio mastering service, delivered by Grammy-winning engineers. Get instant, professional sound enhancement for your music. Sign up for a free account and hear the transformation in your music today
+
+**Date:** 2023-12-16T22:51:18.173Z
+**Tags:** #ai #proaudio #audiomastering
+
+---
+
+**free-music-demixer**
+
+![](https://freemusicdemixer.com/assets/images/music-demix.webp)
+
+[free-music-demixer](https://freemusicdemixer.com/) - Split songs, demix music, and separate stems with our AI-based tool: free, private, and unlimited use directly in your browser.
+
+**Date:** 2023-12-17T03:26:51.099Z
+**Tags:** #ai #proaudio
+
+---
+
+**lyrictor**
+
+![](https://rdl.ink/render/https%3A%2F%2Flyrictor.vercel.app)
+
+[lyrictor](https://lyrictor.vercel.app) - Web site created using create-react-app
+
+**Date:** 2023-12-17T21:17:55.000Z
+**Tags:** #ai #proaudio
+
+---
+
+## November
+
+---
+
+**AI Tools Journal**
+
+![](https://rdl.ink/render/https%3A%2F%2Faitoolsjournal.net%2F)
+
+[AI Tools Journal](https://aitoolsjournal.net/) - AI Tools Journal is your go-to hub for everything AI-related, curating top AI tools and delivering the latest in AI news and reviews.
+
+**Date:** 2023-11-18T00:07:39.998Z
+**Tags:** #ai #aggregator
+
+---
+
+**Audioatlas**
+
+![](https://www.audioatlas.com/assets/banner-en.png)
+
+[Audioatlas](https://www.audioatlas.com/) - Find & license the perfect music from a global database of 200 million songs, using an advanced Artificial Intelligence search engine.
+
+**Date:** 2023-11-12T02:12:25.313Z
+**Tags:** #ai #audio #seach
+
+---
+
+**ChatGitHub**
+
+![](https://chatgithub.vercel.app/opengraph-image.png?da4a02a9bf61fb5f)
+
+[ChatGitHub](https://chatgithub.vercel.app/) - Chat with GitHub using natural language built with OpenAI Functions and Vercel AI SDK.
+
+**Date:** 2023-11-12T02:05:56.693Z
+**Tags:** #ai #code
+
+---
+
+**Deepsheet**
+
+![](https://deepsheet.dylancastillo.co/static/meta-img.png)
+
+[Deepsheet](https://deepsheet.dylancastillo.co/#) - Ask your questions in plain English and unlock hidden insights from your data.
+
+**Date:** 2023-11-21T22:14:41.008Z
+**Tags:** #ai #spreadsheets
+
+---
+
+**GetLogit**
+
+![](https://framerusercontent.com/images/FggVJdErB0O3bbbIcf482a4f8.png)
+
+[GetLogit](https://getlogit.com/) - Use intelligent writing assistant, Make beautiful images and graphics, Chat with +12 dedicated bots, Transcribe your Speech into text, Use words and create a voiceover recording, Generate high quality programming code in a flash, and much more!
+
+**Date:** 2023-11-12T02:06:48.628Z
+**Tags:** #ai #apps
+
+---
+
+**Golem**
+
+![](https://golem.chat/og-image.png)
+
+[Golem](https://golem.chat/) - Golem is an open source ChatGPT UI alternative.
+
+**Date:** 2023-11-12T02:11:22.706Z
+**Tags:** #ai #code
+
+---
+
+**Maverick**
+
+![](https://www.withmaverick.com/static/media/install-app.e3631942.png)
+
+[Maverick](https://www.withmaverick.com/) - Learn and leave a path for others to follow.
+
+**Date:** 2023-11-12T02:12:03.562Z
+**Tags:** #ai #code
+
+---
+
+**OSS Chat**
+
+![](https://osschat.io/og-image.png)
+
+[OSS Chat](https://osschat.io/) - Enhanced ChatGPT with documentation, issues, blog posts, community Q&A as knowledge bases. Built for every community and developer.
+
+**Date:** 2023-11-21T22:13:21.142Z
+**Tags:** #ai #chat
+
+---
+
+**Pezzo**
+
+![](https://cdn.pezzo.ai/open-graph-image.png)
+
+[Pezzo](https://pezzo.ai/) - Ship AI features in minutes
+
+**Date:** 2023-11-12T02:11:07.228Z
+**Tags:** #ai #code
+
+---
+
+**Project Knowledge Exploration**
+
+![](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/1920x720-header-Knowledge-Exploration.jpg)
+
+[Project Knowledge Exploration](https://www.microsoft.com/en-us/research/project/knowledge-exploration/) - Use Knowledge Exploration API to enable interactive search experiences over structured data via natural language inputs
+
+**Date:** 2023-11-12T02:06:22.480Z
+**Tags:** #ai #machinelearning
+
+---
+
+**Screenshot2Code**
+
+![](https://i.imgur.com/dt7HcYW.png)
+
+[Screenshot2Code](https://screenshot2code.com/) - Generate Code from Screenshots using GPT-V
+
+**Date:** 2023-11-12T02:05:36.056Z
+**Tags:** #ai #code
+
+---
+
+**Songstr**
+
+![](http://www.songstr.com/image/songstr_256.png)
+
+[Songstr](http://www.songstr.com) - Music search engine
+
+**Date:** 2023-11-26T07:47:36.000Z
+**Tags:** #ai #audio
+
+---
+
+## October
+
+---
+
+**AI Studio**
+
+![](https://rdl.ink/render/https%3A%2F%2Faistud.io)
+
+[AI Studio](https://aistud.io) - AI Studio combines all the best AI tools so you can solve your most annoying problems.
+
+**Date:** 2023-10-21T05:00:07.300Z
+**Tags:** #ai #Code
+
+---
+
+**AI TOOL GURU**
+
+![](https://rdl.ink/render/https%3A%2F%2Faitoolguru.com)
+
+[AI TOOL GURU](https://aitoolguru.com) - AI TOOL GURU is the best and largest directory for AI tools. Here you can find everything related to the world of AI technology - Find fast & easy the AI tools you need, AI evends, AI news, Prompts and more.
+
+**Date:** 2023-10-21T05:12:02.254Z
+**Tags:** #ai #aggregator
+
+---
+
+**AI-Flow**
+
+![](https://ai-flow-public-assets.s3.eu-west-3.amazonaws.com/ai-flow-home.png)
+
+[AI-Flow](https://ai-flow.net/?ref=producthunt) - Connect multiple AI models easily. Open source, user-friendly UI application to create interactive networks with different AI models.
+
+**Date:** 2023-10-25T02:46:55.984Z
+**Tags:** #ai #machinelearning
+
+---
+
+**Adrenaline**
+
+![](https://rdl.ink/render/https%3A%2F%2Fuseadrenaline.com)
+
+[Adrenaline](https://useadrenaline.com) - The answer to any programming question
+
+**Date:** 2023-10-21T04:58:58.114Z
+**Tags:** #ai #Code
+
+---
+
+**AnalyzGPT**
+
+![](https://rdl.ink/render/https%3A%2F%2Fapp.sttabot.io%2Fbot%2Fanalyzgpt-demo)
+
+[AnalyzGPT](https://app.sttabot.io/bot/analyzgpt-demo) - Welcome to x-ray analyzer, a cutting-edge AI-backed tool that will give you a detailed report of your x-ray images. It can tell you about occurred fractures, accident scenarios, and more. Give it a try, it's free.
+
+**Date:** 2023-10-21T05:20:32.504Z
+**Tags:** #ai #health
+
+---
+
+**ArtRoom AI**
+
+![](https://rdl.ink/render/https%3A%2F%2Fartroom.ai)
+
+[ArtRoom AI](https://artroom.ai) - Immerse yourself in our cutting-edge AI Art generating platform, where you can unleash your creativity and bring your artistic visions to life like never before.
+
+**Date:** 2023-10-21T05:24:59.065Z
+**Tags:** #ai #imageart
+
+---
+
+**Artbreeder**
+
+![](https://www.artbreeder.com/image/grid_512.jpg)
+
+[Artbreeder](https://www.artbreeder.com) - A collaborative tool for creating images with AI.
+
+**Date:** 2023-10-21T05:25:40.487Z
+**Tags:** #ai #imageart
+
+---
+
+**AuthorGPT 📚**
+
+![](https://author-3gy9os11v-wordware.vercel.app/AuthorGPT.png)
+
+[AuthorGPT 📚](https://author.wordware.ai/?ref=producthunt) - Generate complete books with AI ✨📚
+
+**Date:** 2023-10-25T02:43:44.425Z
+**Tags:** #ai #writing #storytelling
+
+---
+
+**Blackbox AI Code Chat**
+
+![](http://localhost:3000/opengraph-image.png?49c2c3ea917a06c7)
+
+[Blackbox AI Code Chat](https://www.blackbox.chat) - Enhance your coding experience with our powerful AI assistant tool and AI Code Chat - the ultimate companion for programmers. With intelligent suggestions, code completion, and error detection, our tool accelerates software development. With Blackbox you get coding support, AI, intelligent automation, error detection, code completion, and programming efficiency to optimize productivity and streamline your coding workflow.
+
+**Date:** 2023-10-21T05:05:04.886Z
+**Tags:** #ai #Code
+
+---
+
+**Chat2Stats**
+
+![](https://rdl.ink/render/https%3A%2F%2F2stats.chat)
+
+[Chat2Stats](https://2stats.chat) - Simplify Your Data Analysis Experience with AI.
+1. Upload your dataset in CSV format.
+
+**Date:** 2023-10-21T05:15:03.540Z
+**Tags:** #ai #data
+
+---
+
+**Chatflux**
+
+![](https://rdl.ink/render/https%3A%2F%2Fchatflux.io)
+
+[Chatflux](https://chatflux.io) - Craft your own AI-powered chatbot swiftly and deploy it everywhere in a snap. Turn casual scrollers into loyal customers with Chatflux.io Try it and join the rethinking of business interactions.
+
+**Date:** 2023-10-21T04:46:58.771Z
+**Tags:** #ai #chat
+
+---
+
+**CodeCompanion.AI**
+
+![](https://framerusercontent.com/images/9XRpWiDBww07iBGjmTHjfTlyD9o.png)
+
+[CodeCompanion.AI](https://codecompanion.ai/) - Meet CodeCompanion.AI – your personal coding assistant, available anytime, right on your desktop.
+Prototype faster, code smarter, enhance learning and scale your productivity with the power of AI.
+
+**Date:** 2023-10-23T11:24:14.963Z
+**Tags:** #ai #code
+
+---
+
+**Contextable**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.contextable.ai)
+
+[Contextable](https://www.contextable.ai) - Add AI superpowers in the places you need it most
+
+**Date:** 2023-10-21T06:36:49.902Z
+**Tags:** #ai #llm
+
+---
+
+**Cosine**
+
+![](https://rdl.ink/render/https%3A%2F%2Fcosine.sh)
+
+[Cosine](https://cosine.sh) - Cosine is your developer companion. At your side when you need it most. Ready to help you find where the implementation for a particular feature is, write new code and find what you're looking for.
+
+**Date:** 2023-10-21T05:01:37.158Z
+**Tags:** #ai #Code
+
+---
+
+**DocsGPT 🦖 Live**
+
+![](https://rdl.ink/render/https%3A%2F%2Fdocsgpt.arc53.com)
+
+[DocsGPT 🦖 Live](https://docsgpt.arc53.com) - Welcome to DocsGPT live, powered by Arc53! An open-source assistant designed to provide instant answers about documents. Engineered for adaptability, DocsGPT seamlessly integrates with various data sources, chatbots, and internal tools, enhancing team productivity and customer engagement.
+
+**Date:** 2023-10-21T05:15:33.438Z
+**Tags:** #ai #docs
+
+---
+
+**DocsMove**
+
+![](https://docsmove.com/wp-content/uploads/elementor/thumbs/cropped-cropped-7-removebg-preview-pypm9nrr5upj02wig6jgxc38uthkw3z6bo1r73pcmk.png)
+
+[DocsMove](https://docsmove.com) - From simple to complex, DocsMove transforms agreement creation, E-Signing, and management. DocsMove streamlines your agreement process, freeing up your team.
+
+**Date:** 2023-10-21T05:16:13.050Z
+**Tags:** #ai #docs
+
+---
+
+**ElevenLabs**
+
+![](https://rdl.ink/render/https%3A%2F%2Felevenlabs.io%2Fspeech-synthesis)
+
+[ElevenLabs](https://elevenlabs.io/speech-synthesis) - Speech Synthesis: Natural AI Voiceover & TTS
+
+**Date:** 2023-10-21T06:03:37.654Z
+**Tags:** #ai #audio
+
+---
+
+**Explain by Whybug**
+
+![](https://rdl.ink/render/https%3A%2F%2Fexplain.whybug.com)
+
+[Explain by Whybug](https://explain.whybug.com) - Let AI explain to you why your code is buggy and how to fix it.
+
+**Date:** 2023-10-21T05:02:34.537Z
+**Tags:** #ai #Code
+
+---
+
+**GPTE**
+
+![](https://gpte.ai/content/images/2023/04/gptlogopsd-1.jpg)
+
+[GPTE](https://gpte.ai) - Search 4,000+ AI tools. Discover the latest AI news, prompts, tools, and trends.
+
+**Date:** 2023-10-21T05:13:05.192Z
+**Tags:** #ai #aggregator
+
+---
+
+**GeniePT**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.geniept.com%2F)
+
+[GeniePT](https://www.geniept.com/) - Perfecting Your GPT Prompts
+
+**Date:** 2023-10-24T18:01:22.741Z
+**Tags:** #ai #gpt #prompt
+
+---
+
+**GoalAI by Nando.AI**
+
+![](https://rdl.ink/render/https%3A%2F%2Fbeta.nando.ai%2Fgoalai.php)
+
+[GoalAI by Nando.AI](https://beta.nando.ai/goalai.php) - Achieve Your Goals with GoalAI: Automatically Create an Action Plan for Success!
+
+**Date:** 2023-10-21T04:41:42.120Z
+**Tags:** #ai #chat
+
+---
+
+**Goodhues.ai**
+
+![](https://goodhues.ai/apps/static/assets/img/photos/Preview.png)
+
+[Goodhues.ai](https://goodhues.ai) - AI generated interior design
+
+**Date:** 2023-10-21T04:54:27.982Z
+**Tags:** #ai #design
+
+---
+
+**Hairgen.ai**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.hairgen.ai)
+
+[Hairgen.ai](https://www.hairgen.ai) - Revolutionize your look with our AI-powered hair transplant preview service! Upload your photo & see your stunning transformation before committing to surgery. Try it now!
+
+**Date:** 2023-10-21T05:38:11.121Z
+**Tags:** #ai #avatar
+
+---
+
+**Llmui**
+
+![](https://rdl.ink/render/https%3A%2F%2Fllmui.dev)
+
+[Llmui](https://llmui.dev) - AI copilot for humans
+Better name coming soon. A hotkey based desktop tool that provides easy access to LLM functions
+
+**Date:** 2023-10-21T05:05:51.412Z
+**Tags:** #ai #Code
+
+---
+
+**Mistral AI**
+
+![](https://mistral.ai/images/mistral-social-banner.jpg)
+
+[Mistral AI](https://mistral.ai) - Frontier AI in your hands
+
+**Date:** 2023-10-21T15:35:29.366Z
+**Tags:** #ai #machinelearning
+
+---
+
+**MovieWiser**
+
+![](https://moviewiser.com/src/assets/images/logos/logo192.png)
+
+[MovieWiser](https://moviewiser.com) - Welcome to Moviewiser - an AI-based Movie and Series Aggregator and Recommender. Discover personalized recommendations for movies and series, organize your favorites, and find related content.
+
+**Date:** 2023-10-01T19:23:38.271Z
+**Tags:** #ai #movie
+
+---
+
+**NeuralStudio**
+
+![](https://rdl.ink/render/https%3A%2F%2Fneural.cam%2Fstudio)
+
+[NeuralStudio](https://neural.cam/studio) - Use simple text to generate avatars of yourself, art, logos and photorealistic images with the power of @stablediffusion
+
+**Date:** 2023-10-21T05:36:50.785Z
+**Tags:** #ai #avatar
+
+---
+
+**Ora.ai**
+
+![](https://ora.ai/api/og?title=ChatGPT)
+
+[Ora.ai](https://ora.ai/openai/chatgpt) - ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.
+
+**Date:** 2023-10-21T05:56:07.034Z
+**Tags:** #ai #mf
+
+---
+
+**Parti**
+
+![](https://rdl.ink/render/https%3A%2F%2Fsites.research.google%2Fparti)
+
+[Parti](https://sites.research.google/parti) - Pathways Autoregressive Text-to-Image Model
+
+**Date:** 2023-10-21T05:29:47.008Z
+**Tags:** #ai #imageart
+
+---
+
+**Respell**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.respell.ai)
+
+[Respell](https://www.respell.ai) - Build AI workflows without code to save time and get more done. Our drag-and-drop workflow builder can automate a tedious process in minutes. It's like magic.
+
+**Date:** 2023-10-21T05:09:34.718Z
+**Tags:** #ainocode
+
+---
+
+**Rythmex**
+
+![](https://rdl.ink/render/https%3A%2F%2Frythmex.com)
+
+[Rythmex](https://rythmex.com) - Rythmex is a modern audio to text converter. It can transcribe different formats of audio and video files online with fast extraction to text formats.
+
+**Date:** 2023-10-21T06:01:59.154Z
+**Tags:** #ai #audio
+
+---
+
+**Samaya AI**
+
+![](https://samaya.ai/images/ogimage.jpg)
+
+[Samaya AI](https://samaya.ai) - Samaya AI leverages cutting-edge developments in AI and Large Language Models to provide a new platform for search, summarization and knowledge discovery. We enable domain experts to answer complex questions and uncover hidden insights from large sets of knowledge-intensive documents - allowing exponentially faster and highly informed decision-making.
+
+**Date:** 2023-10-21T05:17:45.236Z
+**Tags:** #ai #knowledge
+
+---
+
+**Scribe**
+
+![](https://scribe-app.com/preview.png)
+
+[Scribe](https://scribe-app.com) - Laboratory of your writings. From ideation to writing and publishing, Scribe accompanies you throughout your creative process.
+
+**Date:** 2023-10-21T05:18:43.396Z
+**Tags:** #ai #docs
+
+---
+
+**Stable Diffusion Art**
+
+![](https://rdl.ink/render/https%3A%2F%2Fstable-diffusion-art.com)
+
+[Stable Diffusion Art](https://stable-diffusion-art.com) - Stable Diffusion is a free AI model that turns text into images. You will find easy-to-follow tutorials and workflows on this site to teach you everything you
+
+**Date:** 2023-10-21T05:33:11.683Z
+**Tags:** #ai #imageart
+
+---
+
+**TOGETHER**
+
+![](https://rdl.ink/render/https%3A%2F%2Fapi.together.xyz%2Fsignin%3FcallbackUrl%3Dhttps%253A%252F%252Fapi.together.xyz%252Fplayground)
+
+[TOGETHER](https://api.together.xyz/signin?callbackUrl=https%3A%2F%2Fapi.together.xyz%2Fplayground) - A full stack for AI developers.🤖 Inference on leading open-source models🔧 Fine-tune with your own private data🚀 Deploy scalable AI applications
+
+**Date:** 2023-10-21T15:40:00.516Z
+**Tags:** #ai #API
+
+---
+
+**The Forge**
+
+![](https://rdl.ink/render/https%3A%2F%2Ftheforgeai.com)
+
+[The Forge](https://theforgeai.com) - The Forge empowers you to effortlessly create and monetize AI-based applications without coding. Be it for personal use, sharing with friends or monetizing on our marketplace, turn your ideas into products in minutes. Join our growing community of creators today!
+
+**Date:** 2023-10-21T05:08:10.990Z
+**Tags:** #ainocode
+
+---
+
+**Variart**
+
+![](https://rdl.ink/render/https%3A%2F%2Fvariart.ai)
+
+[Variart](https://variart.ai) - Jailbreak Any Image
+Enter the image you'd like to use and we'll generate a similar image without any copyright restrictions.
+
+**Date:** 2023-10-21T05:43:37.466Z
+**Tags:** #ai #imagetools
+
+---
+
+**VizGPT**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.vizgpt.ai)
+
+[VizGPT](https://www.vizgpt.ai) - Make contextual data visualization with Chat Interface. keywords: chartGPT, vizGPT, text2viz, text2chart
+
+**Date:** 2023-10-21T04:52:50.281Z
+**Tags:** #ai #spreadsheets
+
+---
+
+**Waveformer**
+
+![](https://waveformer.replicate.dev/og.png)
+
+[Waveformer](https://waveformer.replicate.dev) - Text to music using MusicGen
+
+**Date:** 2023-10-21T15:41:46.001Z
+**Tags:** #ai #audio
+
+---
+
+**WebLLM**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwebllm.mlc.ai)
+
+[WebLLM](https://webllm.mlc.ai) - This project brings large-language model and LLM-based chatbot to web browsers. Everything runs inside the browser with no server support and accelerated with WebGPU.
+
+**Date:** 2023-10-21T06:38:39.864Z
+**Tags:** #ai #llm
+
+---
+
+**Wikigpt3**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.wikigpt3.com)
+
+[Wikigpt3](https://www.wikigpt3.com) - wikigpt3.com is your one-stop resource for everything related to OpenAI, GPT-3 and GPT-4. Explore our comprehensive collection of cutting-edge GPT-3 & GPT-4 apps and AI-Powered tools.
+
+**Date:** 2023-10-21T05:13:39.325Z
+**Tags:** #ai #aggregator
+
+---
+
+**Yippity**
+
+![](https://rdl.ink/render/https%3A%2F%2Fyippity.io)
+
+[Yippity](https://yippity.io) - Yippity: Your go-to platform for generating AI-driven questions. Convert any text into a quiz - from multiple choice to fill-in-the-blanks, effortlessly.
+
+**Date:** 2023-10-21T04:42:47.668Z
+**Tags:** #ai #chat
+
+---
+
+**Zappr.AI**
+
+![](https://rdl.ink/render/https%3A%2F%2Fzappr.ai)
+
+[Zappr.AI](https://zappr.ai) - Create an AI-powered chatbot that's trained using your data by simply uploading a PDF or providing a website link.
+
+**Date:** 2023-10-21T05:52:58.624Z
+**Tags:** #ai #pkm #chat
+
+---
+
+**iASK**
+
+![](https://iask.ai/icon-34e4598a3beaf4e47d640d0084436235.svg?vsn=d)
+
+[iASK](https://iask.ai) - Ask AI Questions · Free AI Search Engine - iAsk.Ai is a Free ChatGPT Like Answer Engine, Enabling Users to Ask ChatGPT AI Any Question (iAsk)
+
+**Date:** 2023-10-21T06:43:02.192Z
+**Tags:** #ai #Search
+
+---
+
+**seek.art**
+
+![](https://rdl.ink/render/https%3A%2F%2Fseek.art)
+
+[seek.art](https://seek.art) - Every piece is 100% unique, created just for you. Never a duplicate and never before seen by human eyes.
+
+**Date:** 2023-10-21T05:32:05.157Z
+**Tags:** #ai #imageart
+
+---
+
+## September
+
+---
+
+**AI Tool**
+
+![](https://aitoolmall.com/wp-content/uploads/2023/01/aitoolmall-logo-icon.png)
+
+[AI Tool](https://aitoolmall.com) - AItoolmall is a new AI tools platform, More than 500 AI tools have been collected.We also provide best guides and coupons for you.
+
+**Date:** 2023-09-24T17:16:28.748Z
+**Tags:** #ai #aggregator
+
+---
+
+**California Markup**
+
+![](https://rdl.ink/render/http%3A%2F%2Fcamarkup.com)
+
+[California Markup](http://camarkup.com) - California Markup gives you AI-generated HTML code that's easy to read and write.
+
+**Date:** 2023-09-24T17:17:47.582Z
+**Tags:** #ai #Code #web
+
+---
+
+**ChatNode**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.chatnode.ai)
+
+[ChatNode](https://www.chatnode.ai) - Build your own AI assistant for your website or create an internal research tool by training ChatGPT on any data you'd like.
+
+**Date:** 2023-09-25T20:52:37.947Z
+**Tags:** #ai #assistant
+
+---
+
+**CloseVector**
+
+![](https://rdl.ink/render/https%3A%2F%2Fclosevector.getmegaportal.com)
+
+[CloseVector](https://closevector.getmegaportal.com) - Lightweight vector database
+
+**Date:** 2023-09-25T20:53:17.357Z
+**Tags:** #ai #machinelearning
+
+---
+
+**Cosmos AI**
+
+![](https://golivecosmos.com/images/cosmos_main_text.png)
+
+[Cosmos AI](https://golivecosmos.com) - Save time organizing with Cosmos' intelligent video catalog . Try it today!
+
+**Date:** 2023-09-19T13:26:41.460Z
+**Tags:** #ai #video
+
+---
+
+**Datamaker**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.datamaker.dev)
+
+[Datamaker](https://www.datamaker.dev) - Upgrade your Webflow projects with Datamaker. Harness the unmatched power of OpenAI's GPT4, the latest and most advanced language model, directly in your Webflow Designer. From automated content creation to intelligent design assistance, experience unlimited possibilities with Datamaker's GPT4 integration.
+
+**Date:** 2023-09-24T17:18:55.750Z
+**Tags:** #ai #Code
+
+---
+
+**Glaive**
+
+![](https://framerusercontent.com/modules/mbquePMWvDgKKXqW2fyE/tmS0lAI2QRgIBXmoXhK8/assets/uUWBXQDYlOJVVyq8ng4Q8HouyHc.png)
+
+[Glaive](https://glaive.ai) - Language models specialised for your use-cases
+
+**Date:** 2023-09-25T21:48:34.473Z
+**Tags:** #ai #machinelearning
+
+---
+
+**HelperAI**
+
+![](https://rdl.ink/render/https%3A%2F%2Fhelperai.ai)
+
+[HelperAI](https://helperai.ai) - Create AI Agents to automate any online work you spent countless human hours on!
+
+**Date:** 2023-09-25T21:49:08.207Z
+**Tags:** #ai #chat
+
+---
+
+**Hiphops.io**
+
+![](https://assets-global.website-files.com/636ce0177a5de69d9c2b37e4/650872ac1b7622863e8c4cdf_Casey-OG-img.jpg)
+
+[Hiphops.io](https://www.hiphops.io) - An open-source CI/CD to craft uncompromised DevEx
+
+**Date:** 2023-09-25T21:51:06.741Z
+**Tags:** #ai #dev
+
+---
+
+**Home**
+
+![](https://rdl.ink/render/https%3A%2F%2Fchatwithdata.ai%2Fhome)
+
+[Home](https://chatwithdata.ai/home) - nan
+
+**Date:** 2023-09-30T18:23:21.060Z
+**Tags:** #ai #data
+
+---
+
+**Instabot**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.instabot.us%2Fsites%2Fnew)
+
+[Instabot](https://www.instabot.us/sites/new) - We'll create an assistant bot that answers questions using the contents of your website.
+
+**Date:** 2023-09-19T13:26:41.469Z
+**Tags:** #ai #chat
+
+---
+
+**Klipme**
+
+![](https://klipmeapp.com/ico/preview.png)
+
+[Klipme](https://klipmeapp.com) - Powerful visual AI clip maker
 Automatically create clips for TikToks, Reels, Shorts and others. Upload footage of any video content category and get promo clips in minutes.
-- [Parea AI](https://www.parea.ai/) - Parea AI - Bring your AI vision to life with our state-of-the-art LLMOps platform
-- [Powerdrill](https://powerdrill.ai/) - Bridging Your Data and AI
-No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A and ecosystem interaction.
-- [Prompter](https://prompter.engineer/) - Craft and manage your prompts easily by making quick adjustments, iterating through different variations, intuitively comparing and labeling the results. Promptly debug prompts with Prompter.
-- [PromptFolder](https://promptfolder.com/) - The Ultimate AI Prompt Manager
-- [SuperAGI](https://app.superagi.com/) - Opensource AGI Infrastructure. Building infrastructure components, tools, frameworks and models to enable opensource AGI
-- [The Local AI Playground](https://www.localai.app/) - Experiment with AI models locally with zero technical setup, powered by a native app designed to simplify the whole process. No GPU required!
-- [WonsultingAI](https://www.wonsulting.ai/) - Your full suite of AI Job Search tools
 
+**Date:** 2023-09-19T13:26:41.469Z
+**Tags:** #ai #video
+
+---
+
+**LLMStack**
+
+![](https://storage.googleapis.com/trypromptly-static/static/images/opengraph.jpg)
+
+[LLMStack](https://llmstack.ai) - No-code platform to build generative AI apps, chatbots and agents with your data.
+
+**Date:** 2023-09-25T21:52:05.581Z
+**Tags:** #ai #machinelearning
+
+---
+
+**Lightrail**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.lightrail.ai)
+
+[Lightrail](https://www.lightrail.ai) - AI command bar
+
+**Date:** 2023-09-24T17:20:36.247Z
+**Tags:** #ai #Code
+
+---
+
+**Movie Deep Search**
+
+![](https://deepsearch.mycelebs.com/assets/images/og_img_deepsearch_maimovie.jpg)
+
+[Movie Deep Search](https://deepsearch.mycelebs.com/movie) - In the mood for a particular movie? Describe the movies you would want to watch.
+
+**Date:** 2023-09-24T17:27:27.753Z
+**Tags:** #ai #movies
+
+---
+
+**Nextresu**
+
+![](https://rdl.ink/render/https%3A%2F%2Fnextresu.me)
+
+[Nextresu](https://nextresu.me) - nan
+
+**Date:** 2023-09-24T17:21:27.173Z
+**Tags:** #ai #business
+
+---
+
+**OpenTools**
+
+![](https://opentools.ai/OpenTools.jpg)
+
+[OpenTools](https://opentools.ai) - Discover the ultimate Top AI Tools Directory, featuring a curated list of the most innovative and powerful artificial intelligence solutions for businesses and individuals. Enhance productivity, streamline workflows, and stay ahead of the competition with our comprehensive guide to AI-driven technology.
+
+**Date:** 2023-09-30T19:34:27.347Z
+**Tags:** #ai #aggregator
+
+---
+
+**Parea AI**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.parea.ai)
+
+[Parea AI](https://www.parea.ai) - Parea AI - Bring your AI vision to life with our state-of-the-art LLMOps platform
+
+**Date:** 2023-09-19T13:26:41.472Z
+**Tags:** #ai #machinelearning
+
+---
+
+**Powerdrill**
+
+![](https://rdl.ink/render/https%3A%2F%2Fpowerdrill.ai)
+
+[Powerdrill](https://powerdrill.ai) - Bridging Your Data and AI
+No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A and ecosystem interaction.
+
+**Date:** 2023-09-19T13:26:41.473Z
+**Tags:** #ai #data #no-code
+
+---
+
+**PromptFolder**
+
+![](https://rdl.ink/render/https%3A%2F%2Fpromptfolder.com)
+
+[PromptFolder](https://promptfolder.com) - The Ultimate AI Prompt Manager
+
+**Date:** 2023-09-19T13:26:41.475Z
+**Tags:** #ai #prompts
+
+---
+
+**Prompter**
+
+![](https://framerusercontent.com/modules/sWWtj4v13K4sxrpZsguP/eUXj1LSghsDuNCh4L1x5/assets/VbQvdQQTqcgIRIaG38VTlnTqqo.jpg)
+
+[Prompter](https://prompter.engineer) - Craft and manage your prompts easily by making quick adjustments, iterating through different variations, intuitively comparing and labeling the results. Promptly debug prompts with Prompter.
+
+**Date:** 2023-09-19T13:26:41.474Z
+**Tags:** #ai #prompts
+
+---
+
+**Rapidpages**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.rapidpages.io%2Fnew)
+
+[Rapidpages](https://www.rapidpages.io/new) - Chat to site
+
+**Date:** 2023-09-25T21:54:22.432Z
+**Tags:** #ai #chatbot #website
+
+---
+
+**Stackbear**
+
+![](https://rdl.ink/render/https%3A%2F%2Fstackbear.com)
+
+[Stackbear](https://stackbear.com) - Stackbear lets you build, run, and share AI tools tailored to your needs, all without a single line of code.
+
+**Date:** 2023-09-24T17:25:05.463Z
+**Tags:** #ai #Code
+
+---
+
+**Supermark**
+
+![](https://api.typedream.com/v0/document/public/761a0246-9229-41b5-aa2f-717182918440/2SSHQeFtWKKKcyz5MMNrzx3QYA1_Screen_Shot_2023-07-11_at_8_36_17_PM.png)
+
+[Supermark](https://www.supermark.ai) - Curate and Chat with Your Digital Knowledge Base.
+
+**Date:** 2023-09-19T13:26:41.477Z
+**Tags:** #ai #chat #pkm
+
+---
+
+**THE GENERATIVE AI LANDSCAPE**
+
+![](https://cdn.ai-collection.org/thumbnail.jpeg)
+
+[THE GENERATIVE AI LANDSCAPE](https://www.thataicollection.com/en) - A Collection of Awesome Generative AI Applications - Discover 1000+ of the best AI Applications with more than 50 categories that will boost your productivity, help you with writing, or just have fun
+
+**Date:** 2023-09-24T17:25:25.563Z
+**Tags:** #ai #aggregator
+
+---
+
+**Trelent**
+
+![](https://rdl.ink/render/https%3A%2F%2Ftrelent.com)
+
+[Trelent](https://trelent.com) - Documentation sucks. Let us take care of it.
+
+**Date:** 2023-09-25T21:55:35.134Z
+**Tags:** #ai #documentation
+
+---
+
+**Universal Data Generator**
+
+![](https://rdl.ink/render/https%3A%2F%2Fgenerate.universaldata.io)
+
+[Universal Data Generator](https://generate.universaldata.io) - nan
+
+**Date:** 2023-09-30T18:24:14.219Z
+**Tags:** #ai #data
+
+---
+
+**Unstructured**
+
+![](https://framerusercontent.com/images/ATfzM2jYmZQFY9QKbn1sfeB16k.png)
+
+[Unstructured](https://unstructured.io) - Unstructured effortlessly extracts and transforms complex, unstructured data for use with every major vector database and LLM framework.
+
+**Date:** 2023-09-24T17:25:50.319Z
+**Tags:** #ai #machinelearning
+
+---
+
+**Zeusnotebook**
+
+![](https://rdl.ink/render/https%3A%2F%2Fwww.zeusnotebook.com)
+
+[Zeusnotebook](https://www.zeusnotebook.com) - Hi, I am Zeus, an AI code assistant. On your left, there is a python notebook that runs entirely on your browser.
+
+**Date:** 2023-09-24T17:26:54.047Z
+**Tags:** #ai #Code
+
+---
+## July
 ### 2023-07-27
 
 ---
@@ -185,6 +1782,7 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
+## May
 ### 2023-05-14
 
 - [Agnaistic](https://agnai.chat/) - A conversational AI platform designed to facilitate advanced and natural interactions.
@@ -361,31 +1959,6 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 - [Summary](https://summary.arguflow.gg/) - A tool that uses AI to summarize long texts and articles into shorter, more digestible summaries.
 - [Text to Slang Translator](https://www.slangthesaurus.com/translator) - A tool that translates text into slang language and provides definitions for various slang terms.
 - [These Lyrics Do Not Exist](https://theselyricsdonotexist.com/) - A website that uses AI to generate original song lyrics that do not exist, based on the user's preferred genres and themes.
-
-
-### **Table Of Contents**
-
-- [AI-Apps](#ai-apps)
-- [AI-Audio](#ai-audio)
-- [AI-Business](#ai-business)
-- [AI-Content](#ai-content)
-- [AI-Data](#ai-data)
-- [AI-Design](#ai-design)
-- [AI-Dev](#ai-dev)
-- [AI-Education/Learning](#ai-education/learning)
-- [AI-Experiments](#ai-experiments)
-- [AI-Health](#ai-health)
-- [AI-Image](#ai-image)
-- [AI-Other](#ai-other)
-- [AI-Productivity](#ai-productivity)
-- [AI-Resources](#ai-resources)
-- [AI-Social](#ai-social)
-- [AI-Text](#ai-text)
-- [AI-Tools](#ai-tools)
-- [AI-Video](#ai-video)
-- [AI-Writing](#ai-writing)
-
----
 
 ## April
 
@@ -584,7 +2157,6 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 - [Promptaiedia!](https://promptaipedia.com/) - A repository of AI-generated prompts, providing users with creative ideas for writing, brainstorming, and experimentation.
 - [What Does This Code Do?](https://whatdoesthiscodedo.com/) - A web-based tool that uses GPT models to explain the functionality of code snippets, helping users understand complex programming concepts.
 - [YoungerSelf.AI](https://youngerself.ai/) - A service that uses GPT technology to generate personalized content, such as journal entries and reflections, based on the user's past experiences and memories.
-
 
 ### 2023-04-22
 
@@ -857,7 +2429,6 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 - [VoiceAI](https://apps.apple.com/us/app/voice-ai-voice-changer/id6444030605) - Voice Changer.
 - [Wombo.Art](https://www.Wombo.Art/) - An AI-powered Platform For Creating And Animating Music Videos.
 
-
 ---
 
 ### MacOS
@@ -1068,8 +2639,6 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 
 ---
 
-
-
 ### Tools
 
 - [Audealize](https://audealize.appspot.com/) - An AI-powered Audio Processing Tool For Enhancing Audio Quality.
@@ -1171,7 +2740,6 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 - [Viable](/) - Viable Is A Customer Service Platform That Provides Businesses With A Suite Of Tools To Manage Customer Interactions, Improve Customer Experience, And Increase Efficiency.
 - [Xokind](/) - Xokind Is An AI-powered Customer Engagement Platform That Provides Businesses With Personalized And Automated Customer Support To Improve Customer Satisfaction.
 
-
 ---
 
 ### Finance
@@ -1238,7 +2806,6 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 - [Sona](http://www.readthistwice.com) - Read This Twice - Books Worth Reading Twice. We Spend Countless Hours Scouring The Internet For The Best Book Recommendations From People You Admire. Our Database Is Constantly Growing, And Every Single Recommendation Has Been Verified For Authenticity And Includes A Link To The Source. Enjoy!
 
 ---
-
 
 ### Startup
 
@@ -1827,7 +3394,6 @@ No-code and one-stop integration of datasets and OpenAI LLM for intelligent Q&A 
 - [TutorAI](https://www.tutorai.me/) - A Platform For Personalized Tutoring And Educational Content.
 - [Yip](https://yippity.io/) - A Platform For AI-powered Writing And Content Creation.
 
-
 ---
 
 ### Knowledge
@@ -2232,7 +3798,6 @@ Natural
 - [Vana Portrait](/) - AI-powered Portrait Creation
 - [Wombo](https://www.wombo.art/) - AI-powered Art And Design Platform.
 
-
 ---
 
 #### Age Transformation
@@ -2250,7 +3815,6 @@ Natural
 
 - [Talking–head–anime–demo (Tha_colab.ipynb)](https://colab.research.google.com/github/pkhungurn/talking–head–anime–demo/blob/master/tha_colab.ipynb) - A Google Colab Notebook For Animating Talking Heads In Anime Style.
 - [Talking–head–anime–2–demo (Colab.ipynb)](https://colab.research.google.com/github/pkhungurn/talking–head–anime–2–demo/blob/master/colab.ipynb) - Another Google Colab Notebook For Animating Talking Heads In Anime Style.
-
 
 ---
 
@@ -2406,7 +3970,6 @@ Natural
 - [StyleGAN-Humans + CLIP 🖼️](Https://colab.research.google.com/drive/1H-rGlKbILaZbDfTsrQqSxw2fH7y2elg6?usp=sharing) - A Google Colab Notebook For StyleGAN-Humans + CLIP.
 - [StyleGAN3]() - A Google Colab Notebook For StyleGAN3.
 - [SuperRes Diffusion: Batch Upscaling & Super Resolution With Latent-Diffusion]() - A Google Colab Notebook For SuperRes Diffusion, A Tool For Batc. Upscaling And Super Resolution With Latent-diffusion.
-
 
 ---
 
@@ -2630,7 +4193,6 @@ Natural
 - [Xno.ai](https://xno.ai) - Text-to-image AI
 - [Zazow](http://www.zazow.com) - Zazow:: Algorithmic Generative Art. Create Your Own Artwork By Using Computer Generated Algorithms. Learn About Generative Or Algorithmic Art
 - [Zoomscape](http://zoomscape.ai) - Zoomscape. AI. Create Stunning Zoom Backgrounds With AI
-
 
 ---
 
@@ -3098,7 +4660,6 @@ Natural
 - [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) - A Website For An AI-powered Photo Editing Tool That Offers Various Effects And Filters.
 - [Visio Studio](https://visio.studio/) - A Platform That Uses AI Technology To Automate Repetitive Tasks In The Real Estate Industry.
 
-
 ---
 
 #### Photo Restoration
@@ -3278,7 +4839,6 @@ Natural
 - [Userpersona](http://userpersona.dev) - AI-Generated User Personas
 
 ---
-
 
 - [MagicMate](http://www.getmagicmate.com) - A Platform That Provides AI-powered Personal Shopping And Styling Services.
 - [Riku.AI](https://riku.ai/) - AI Powered Fashion Personal Shopping Assistant
@@ -3552,7 +5112,6 @@ Natural
 - [Modly AI](https://www.modly.ai/) - Modly AI Is A Chatbot Platform That Helps Businesses Automate Their Customer Support And Engagement Using Natural Language Processing And Machine Learning.
 - [Voila AI](https://www.getvoila.ai) - An AI-powered Virtual Assistant For Personal And Business Tasks
 
-
 ### Docs
 
 - [A Guide To Writing Prompts For Text-to-image AI](https://docs.google.com/document/d/1XUT2G9LmkZataHFzmuOtRXnuWBfhvXDAo8DkS--8tec/edit) - This Is A Google Document That Provides A Guide On Writing Prompts For Text-to-image AI.
@@ -3651,7 +5210,6 @@ Natural
 - [Warmer.AI](http://warmer.ai) - Warmer.AI - AI Email Writer. Warmer Uses AI Email Personalization To Write Your Email Outreach.
 - [WordHero]() - WordHero - AI-powered Email Writing Assistance
 
-
 ---
 
 ### Sales & Marketing
@@ -3697,7 +5255,6 @@ Natural
 - [Warmer.ai](https://warmer.ai/) - AI Powered Conversation Intelligence And Analysis
 - [Waymark](/) - AI Powered Customer Insights And Marketing Optimization
 - [Xokind](https://www.xokind.com/) - AI Powered Content Creation And Personalization
-
 
 ---
 
@@ -3827,7 +5384,6 @@ Natural
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - A comprehensive guide to prompt engineering with AI models.
 - [The ChatGPT Prompt Book](https://docs.google.com/presentation/d/17b_ocq-GL5lhV_bYSShzUgxL02mtWDoiw9xEroJ5m3Q/edit#slide=id.g1b8e0b333f6_0_238) - A Google Slides presentation containing a collection of ChatGPT prompts.
 - [The Fine Art Of Prompting](https://aiascendant.substack.com/p/the-fine-art-of-prompting?publication_id=1140621&post_id=93777426&isFreemail=true) - An article that discusses the importance of crafting effective prompts for AI models.
-
 
 ### AI-Prompt-Resources
 
@@ -4023,7 +5579,6 @@ This Is AImed Towards The AI Curious Looking To Go Down The Rabbit Hole Not The 
 - [AlphaGo (2017)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.rottentomatoes.com/m/alphago%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170606060%26amp;usg%3DAOvVaw3J-FF5dbR6wJJ6usfsdH7M&sa=D&source=docs&ust=1675571170637497&usg=AOvVaw2rvZmkcc_5soqjCNTOGbxB)
 - [Her (2013)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.rottentomatoes.com/m/her%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170606474%26amp;usg%3DAOvVaw36biC9R-WlQ5TByN1fx-00&sa=D&source=docs&ust=1675571170637578&usg=AOvVaw0cCe4f7Vs5uSpp6zx89Z0c)
 - [2001: A Space Odyssey (1968)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.imdb.com/title/tt0062622/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170606837%26amp;usg%3DAOvVaw3SLKHoUibArisR48lIk2Ir&sa=D&source=docs&ust=1675571170637664&usg=AOvVaw0xzUDeqPpxZwcbzGJ9PwNo)
-
 
 ___
 
@@ -4313,7 +5868,6 @@ ___
 - [Voicetapp](http://voicetapp.com) - Voicetapp - Speech To Text Transcription. Get Accurate Transcriptions For Your AUDIO & VIDEO With The Latest Speech Rocognition Technology.
 - [Whisper Memos](https://whispermemos.com/) - A Voice Memos App Using AI To Transcribe Speech-to-text
 
-
 ---
 
 ## AI | Video
@@ -4485,7 +6039,6 @@ ___
 - [Windsor](https://windsor.io/) - An AI-powered Platform That Helps Businesses Automate Their Sales And Marketing Efforts.
 
 ---
-
 
 ## AI-Web
 
@@ -4761,8 +6314,6 @@ ___
 - [VEG3](https://veg3.ai/) - An AI-powered Content Generation Platform.
 - [WiziShop](https://wizishop.com/ai/) - An E-commerce Platform That Uses AI To Help Users Generate And Optimize Product Descriptions.
 - [Writesonic](https://writesonic.com) - An AI-powered Writing Assistant That Helps Users Generate And Optimize Content.
-
-
 
 ---
 
@@ -5129,5 +6680,4 @@ ___
 - [Writer's Brew](https://writersbrew.app/#) - A Writing Tool That Provides Prompts, Resources, And Inspiration For Writers.
 
 ---
-
 
