@@ -19,7 +19,115 @@
 
 ## 2024
 
+**AIApply**
 
+- [AIApply](https://aiapply.co/) - Revolutionize your job search with AIApply, an innovative tool that creates customized cover letters, rewrites your resume, and tailors your job applications. Start your intelligent job search now.
+
+**Tags:** #ai #resume
+
+---
+
+**ChatCraft**
+
+- [ChatCraft](https://chatcraft.org/c/-6ZrkJaOZZubBGUmCjOkh) - Web-based AI Assistant for Software Developers
+
+**Tags:** #ai #chat
+
+---
+
+**Hume AI**
+
+- [Hume AI](https://www.hume.ai/?launchWidget=true) - The AI toolkit to measure, understand, and improve how technology affects human emotion
+
+**Tags:** #ai #voice #conversation
+
+---
+
+**ilisten-ai**
+
+- [ilisten-ai](https://www.ilisten.ai/) - Turn articles into podcasts.
+
+**Tags:** #ai #articles #podcasts
+
+---
+
+**Koroverse**
+
+- [Koroverse](https://www.koroverse.app/) - Turn your camera roll into a fun, epic narrated story with Koroverse
+
+**Tags:** #ai #image #storytelling
+
+---
+
+**Map This | PDF To Mind Map**
+
+- [Map This | PDF To Mind Map](https://www.map-this.com/) - Turn your PDFs into Mind Maps       Simplify your learning and enhance information retention transforming dense PDF documents into visually engaging, easy-to-navigate mind maps. Built specifically for students, professionals, and anyone looking to organize their thoughts effectively.              Try it and see for yourself why it is going viral on social media ð¥
+
+**Tags:** #ai #pdf #mindmap
+
+---
+
+**Modelit**
+
+- [Modelit](https://www.modelit.ai/) - Co-write and chat with your PDFs, URLs, Google Drive, Notion, and more with a personal AI work assistant
+
+**Tags:** #ai #chat #knowledge
+
+---
+
+**MyMemo**
+
+- [MyMemo](https://www.mymemo.ai/) - Build your digital brain + chat with your personal knowledge use ChatGPT. Harness the Power of AI to Organize, Analyze, and Retrieve Your Digital Knowledge Seamlessly.
+
+**Tags:** #ai #knowledge
+
+---
+
+**OSO AI**
+
+- [OSO AI](https://www.oso.ai/) - Unleash the full power of AI with OSO. Find answers faster than any search engine, chat about any topic without restriction, and automate workflows with ease.
+
+**Tags:** #ai #Search
+
+---
+
+**Otio**
+
+- [Otio](https://otio.ai) - Otio is your AI research & writing partner - learn faster, work smarter
+
+**Tags:** #ai #research
+
+---
+
+**Otto Engineer**
+
+- [Otto Engineer](https://otto.engineer/) - Your autonomous AI sidekick
+
+**Tags:** #ai #code
+
+---
+
+**PDF.md**
+
+- [PDF.md](https://pdf.md/) - The ultimate Chat with PDF app that allows you to chat with any PDF: ask questions, get summaries, find anything you need!
+
+**Tags:** #ai #pdf #chat
+
+---
+
+**Saner.ai**
+
+- [Saner.ai](https://saner.ai/) - An AI Note taking app that helps you instantly find what you search for, bring back knowledge you forgot, and develop insights without context switching
+
+**Tags:** #ai #notetaking
+
+---
+
+**Voice-to-Voice Demo â¢ Hume AI**
+
+- [Voice-to-Voice Demo â¢ Hume AI](https://demo.hume.ai/) - Speak to the first empathic AI voice.
+
+**Tags:** #ai #voice #conversation
 
 ---
 
